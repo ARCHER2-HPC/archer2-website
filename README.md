@@ -1,1 +1,3 @@
-# archer2-website
+# ARCHER2 Website
+
+ARCHER2 website

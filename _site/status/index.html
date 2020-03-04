@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Cirrus Service Status</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+<!-- CSS -->
+<link rel="stylesheet" href="http://localhost:4000/css/owl.carousel.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/bootstrap.min.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/airspace.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/style.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/ionicons.min.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/animate.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/responsive.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/syntax.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/cirrus.css" />
+
+<!-- Js -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+<script src="http://localhost:4000/js/owl.carousel.min.js"></script>
+<script src="http://localhost:4000/js/plugins.js"></script>
+<script src="http://localhost:4000/js/min/waypoints.min.js"></script>
+<script src="http://localhost:4000/js/jquery.counterup.js"></script>
+
+
+<script src="http://localhost:4000/js/main.js"></script>
+
+<!--
+/*
+ * Airspace
+ * Ported to Jekyll by Andrew Lee
+ * https://github.com/luminousrubyist/airspace-jekyll
+ * Designed and Developed by ThemeFisher
+ * https://themefisher.com/
+ *
+ */
+-->
+
+
+  </head>
+  <body>
+
+
+    <!-- Header Start -->
+<header>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!-- header Nav Start -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://localhost:4000/">
+              <img src="http://localhost:4000/logos/cirrus_logo_alpha_50.png" alt="Logo">
+            </a>
+          </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+
+                <li><a href="http://localhost:4000/access">Access</a></li>
+                <li><a href="http://localhost:4000/docs">Documentation</a></li>
+                <li><a href="http://localhost:4000/status">Status</a></li>
+                <li><a href="http://localhost:4000/support">Support</a></li>
+                <li><a href="http://localhost:4000/about">About</a></li>
+                <li><a href="https://www.archer.ac.uk/tier2/">SAFE Login</a></li>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+      </div>
+    </div>
+  </div>
+</header><!-- header close -->
+
+
+
+    <section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>Cirrus Service Status</h1>
+                    <p>Up to date status of the Cirrus service</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="main-content">
+    <div class="container">
+<h2 id="known-issues">Known Issues</h2>
+
+<h3 id="current-issues">Current Issues</h3>
+
+<h4 id="tuesday-22nd-october">Tuesday 22nd October</h4>
+
+<p>As part of the emergency maintenance last week we resolved an issue with the incorrect version of the HPE MPT library being loaded on the compute nodes by default.</p>
+
+<p>The correct version of HPE MPT (2.18) is now being loaded by default on the compute nodes but this has consequences for the use of the <code class="highlighter-rouge">mpiexec_mpt</code> command in your job submission scripts if you are using the default version of HPE MPT:</p>
+
+<ol>
+  <li>
+    <p>You must use the <code class="highlighter-rouge">-ppn</code> option when using the <code class="highlighter-rouge">mpiexec_mpt</code> command otherwise you will see an error similar to: <em>mpiexec_mpt error: Need 36 processes but have only 1 left in PBS_NODEFILE</em></p>
+  </li>
+  <li>
+    <p>When using the <code class="highlighter-rouge">mpiexec_mpt</code> command, the <code class="highlighter-rouge">-ppn</code> option must come before the <code class="highlighter-rouge">-n</code> option otherwise you will see an error similar to: <em>MPT ERROR: Not enough slots from job scheduler for requested ranks</em></p>
+  </li>
+</ol>
+
+<p>You will need to pay attention to these points if your job submission script contains:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>module load mpt
+</code></pre></div></div>
+
+<p>or</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>module load mpt/2.18
+</code></pre></div></div>
+
+<p>or loads a package that loads the default version of HPE MPT.</p>
+
+<p>If you are using Intel MPI, then your job submission scripts should be unaffected.</p>
+
+<h3 id="recent-issues">Recent Issues</h3>
+
+<h4 id="urgent-maintenance-outage-1130---1800-171019">Urgent maintenance outage 11:30 - 18:00 17/10/19</h4>
+
+<p>The urgent maintenance session completed successfully, ahead of schedule, at 16:05.
+Queued jobs have begun running once more and Cirrus is available.
+Analysis of the queues indicates that most jobs had completed before the maintenance but if your jobs have been killed please get in touch for a refund.</p>
+
+<p>We apologise for the inconvenience caused.</p>
+
+<h2 id="service-calendar-and-maintenance">Service Calendar and Maintenance</h2>
+
+<p>We maintain a calendar for the Cirrus service that lists upcoming events (such
+as training courses and maintenance sessions):</p>
+
+<ul>
+  <li><a href="calendar.html">Cirrus Service Calendar</a></li>
+</ul>
+
+<p>We keep maintenance downtime to a minimum on the service but do occaisionally
+need to perform essential work on the system. Maintenance sessions are used to 
+ensure that:</p>
+
+<ul>
+  <li>software versions are kept up to date;</li>
+  <li>firmware levels on HPE and third-party peripheral equipment are kept up to date;
+essential security patches are applied;</li>
+  <li>failed/suspect hardware can be replaced;</li>
+  <li>new software can be installed;
+periodic essential maintenance on HPE electrical and mechanical support equipment (refrigeration systems, air blowers and power distribution units) can be undertaken safely.</li>
+</ul>
+
+<p>Additional maintenance sessions can be scheduled for major hardware or software updates; major upgrades to facility plant and infrastructure; acceptance testing following major service upgrades and statutory electrical testing.</p>
+
+<h3 id="upcoming-maintenance-sessions">Upcoming Maintenance Sessions</h3>
+
+<p>No maintenance planned</p>
+
+
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+    <!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            <li><a href="http://localhost:4000/about">About Us</a></li>
+            <li><a href="http://localhost:4000/support">Support</a></li>
+          </ul>
+        </div>
+        <p>Copyright &copy; Content by <a href="http://www.epcc.ed.ac.uk">EPCC</a>. All rights reserved.</p>
+
+        <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    </body>
+</html>

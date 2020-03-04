@@ -1,0 +1,29 @@
+/*
+ * Local styles for Cirrus website
+ */
+.bordertabstyle {
+   border-collapse: collapse;
+}
+.bordertabstyle th {
+   background: #eee;
+   font-style: bold;
+}
+.bordertabstyle table, th, td {
+   border: 1px solid black;
+   padding: 5px;
+}
+
+.vertical-box {
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    margin-top: 25px;
+}
+
+ul {
+   list-style-type: square;
+   list-style-position: inside;
+}
+

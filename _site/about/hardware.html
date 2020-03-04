@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Cirrus Hardware</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+<!-- CSS -->
+<link rel="stylesheet" href="http://localhost:4000/css/owl.carousel.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/bootstrap.min.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/airspace.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/style.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/ionicons.min.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/animate.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/responsive.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/syntax.css" />
+<link rel="stylesheet" href="http://localhost:4000/css/cirrus.css" />
+
+<!-- Js -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+<script src="http://localhost:4000/js/owl.carousel.min.js"></script>
+<script src="http://localhost:4000/js/plugins.js"></script>
+<script src="http://localhost:4000/js/min/waypoints.min.js"></script>
+<script src="http://localhost:4000/js/jquery.counterup.js"></script>
+
+
+<script src="http://localhost:4000/js/main.js"></script>
+
+<!--
+/*
+ * Airspace
+ * Ported to Jekyll by Andrew Lee
+ * https://github.com/luminousrubyist/airspace-jekyll
+ * Designed and Developed by ThemeFisher
+ * https://themefisher.com/
+ *
+ */
+-->
+
+
+  </head>
+  <body>
+
+
+    <!-- Header Start -->
+<header>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!-- header Nav Start -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://localhost:4000/">
+              <img src="http://localhost:4000/logos/cirrus_logo_alpha_50.png" alt="Logo">
+            </a>
+          </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+
+                <li><a href="http://localhost:4000/access">Access</a></li>
+                <li><a href="http://localhost:4000/docs">Documentation</a></li>
+                <li><a href="http://localhost:4000/status">Status</a></li>
+                <li><a href="http://localhost:4000/support">Support</a></li>
+                <li><a href="http://localhost:4000/about">About</a></li>
+                <li><a href="https://www.archer.ac.uk/tier2/">SAFE Login</a></li>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+      </div>
+    </div>
+  </div>
+</header><!-- header close -->
+
+
+
+    <section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>Cirrus Hardware</h1>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="main-content">
+    <div class="container">
+<h2 id="sgihpe-8600-cluster">SGI/HPE 8600 Cluster</h2>
+
+<p>The Cirrus compute provision consists of 282 compute nodes connected
+together by a single Infiniband fabric. 280 of these are standard 
+compute nodes and 2 of these contain 4 GPU accelerators.</p>
+
+<p>There are 3 login nodes that share a common software environment and
+file system with the compute nodes.</p>
+
+<h3 id="compute-nodes">Compute Nodes</h3>
+
+<h4 id="standard-compute-nodes">Standard compute nodes</h4>
+
+<p>Cirrus standard compute nodes each contain two 2.1 GHz, 18-core Intel Xeon
+E5-2695 (Broadwell) series processors. Each of the cores in these
+processors support 2 hardware threads (Hyperthreads), which are enabled
+by default.</p>
+
+<p>The standard compute nodes on Cirrus have 256 GB of memory shared between the two
+processors. The memory is arranged in a non-uniform access (NUMA) form:
+each 18-core processor is a single NUMA region with local memory of 128
+GB. Access to the local memory by cores within a NUMA region has a lower
+latency and higher bandwidth than accessing memory on the other NUMA region.</p>
+
+<p>There are three levels of cache, configured as follows:</p>
+
+<ul>
+  <li>L1 Cache 32 KiB Instr., 32 KiB Data (per core)</li>
+  <li>L2 Cache 256 KiB (per core)</li>
+  <li>L3 Cache 45 MiB (shared)</li>
+</ul>
+
+<p>There are 280 standard compute nodes on Cirrus giving a total of 10,080 cores.
+When employing hyperthreads, the core count doubles to 20,160.</p>
+
+<h4 id="gpu-compute-nodes">GPU compute nodes</h4>
+
+<p>The Cirrus GPU compute nodes each contain two 2.4 GHz, 20-core Intel Xeon Gold
+6148 (Skylake) series processers. Each of the cores in these
+processors support 2 hardware threads (Hyperthreads), which are enabled
+by default. The nodes also each contain four NVIDIA Tesla V100-PCIE-16GB
+(Volta) GPU accelerators connected to the host processors and each other
+via PCIe.</p>
+
+<p>The GPU compute nodes on Cirrus have 384 GB of main memory shared between
+the two processors. The memory is arranged in a non-uniform access (NUMA) form:
+each 20-core processor is a single NUMA region with local memory of 192
+GB. Access to the local memory by cores within a NUMA region has a lower
+latency and higher bandwidth than accessing memory on the other NUMA region.</p>
+
+<p>There are three levels of cache, configured as follows:</p>
+
+<ul>
+  <li>L1 Cache 32 KiB Instr., 32 KiB Data (per core)</li>
+  <li>L2 Cache 1 GiB (per core)</li>
+  <li>L3 Cache GiB MB (shared)</li>
+</ul>
+
+<p>Each GPU accelerator has 16 GiB of fast GPU memory.</p>
+
+<p>There are 2 GPU compute nodes on Cirrus giving a total of 80 CPU cores
+and 8 GPU accelerators.</p>
+
+<h2 id="infiniband-fabric">Infiniband fabric</h2>
+
+<p>The system has a single infiniband (IB) fabric and every compute node
+and login node has a single ib0 interface. The IB interface is FDR, with
+a bandwidth of 54.5 Gb/s. The Lustre servers have two connections to the
+IB fabric and all Lustre file system IO traverses the IB fabric.</p>
+
+<h2 id="file-systems-and-data-infrastructure">File systems and Data Infrastructure</h2>
+
+<p>There is currently a single file system available on Cirrus: /lustre is
+a Lustre parallel file system desgined to give high read/write bandwidth
+for parallel calculations running on Cirrus.</p>
+
+<p>The Lustre file system has  a total of 406 TiB available.
+The cluster login and compute nodes mount the storage as /lustre, and
+all home directories are available on all nodes.</p>
+
+<p>The compute nodes are diskless. Each node boots from a cluster
+management noded called the Rack Leader and NFS mounts the root file
+system from this management node.</p>
+
+<p><em>Note:</em> There are currently no backups of data on Cirrus as backing up
+the whole Lustre file system would adversely affect the performance of
+write access for simulations. The nature of the Lustre parallel file
+system means that there is data resiliance in the case of failures of
+individual hardware components. However, we strongly advise that you
+keep copies of any critical data on different systems.</p>
+
+<h2 id="parallel-io">Parallel I/O</h2>
+
+<p>For a description of the terms associated with Lustre file systems
+please see the description on Wikipedia:</p>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Lustre_(file_system)">Lustre File Systems
+Description</a></li>
+</ul>
+
+<p>The default striping on the Lustre filesystem is 1 stripe, and the
+default stripe size is 1 MiB.</p>
+
+
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+    <!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            <li><a href="http://localhost:4000/about">About Us</a></li>
+            <li><a href="http://localhost:4000/support">Support</a></li>
+          </ul>
+        </div>
+        <p>Copyright &copy; Content by <a href="http://www.epcc.ed.ac.uk">EPCC</a>. All rights reserved.</p>
+
+        <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    </body>
+</html>
