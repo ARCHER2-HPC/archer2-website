@@ -23,49 +23,49 @@ These pages provide information on the consortia funded on ARCHER2, including de
     </thead>
     <tbody>
       <tr>
-        <td>UK Turbulence Consortium (UKTC)</td>
+        <td><a href="https://www.ukturbulence.co.uk/">UK Turbulence Consortium (UKTC)</a></td>
         <td>Prof. Sylvain Lazait (Imperial College)</td>
         <td></td>
         <td>e01</td>
       </tr>
       <tr>
-        <td>Materials Chemistry Consortium (MCC)</td>
+        <td><a href="https://www.ucl.ac.uk/klmc/mcc/">Materials Chemistry Consortium (MCC)</a></td>
         <td>Prof. Scott Woodley (UCL)</td>
         <td></td>
         <td>e05</td>
       </tr>
       <tr>
-        <td>UK Car-Parrinello Consortium (UKCP)</td>
+        <td><a href="http://www.ukcp.ac.uk/">UK Car-Parrinello Consortium (UKCP)</a></td>
         <td>Prof. Matt Probert (University of York)</td>
         <td></td>
         <td>e89</td>
       </tr>
       <tr>
-        <td>HEC Biomolecular Simulation Consortium (HECBioSim) </td>
+        <td><a href="http://www.hecbiosim.ac.uk/">HEC Biomolecular Simulation Consortium (HECBioSim)</a></td>
         <td>Prof. Syma Khalid (University of Southampton)</td>
         <td></td>
         <td>e280</td>
       </tr>
       <tr>
-        <td>Plasma HEC Consortium</td>
+        <td><a href="https://plasma-ccp-hec.uk/">Plasma HEC Consortium</a></td>
         <td>Prof. Tony Arber (University of Warwick)</td>
         <td></td>
         <td>e281</td>
       </tr>
       <tr>
-        <td>UK Consortium on Mesoscale Engineering Science (UKCOMES)</td>
+        <td><a href="https://www.ucl.ac.uk/mesoscale-modelling-consortium/">UK Consortium on Mesoscale Engineering Science (UKCOMES)</a></td>
         <td>Prof. Kai Luo (UCL)</td>
         <td></td>
         <td>e283</td>
       </tr>
       <tr>
-        <td>UK Consortium on Turbulent Reacting Flows (UKCTRF)</td>
+        <td><a href="https://www.ukctrf.com/">UK Consortium on Turbulent Reacting Flows (UKCTRF)</a></td>
         <td>Prof. Nilanjan Chakrobarty (University of Newcastle)</td>
         <td></td>
         <td>e305</td>
       </tr>
       <tr>
-        <td>UK Atomic, Molecular and Optical physics R-matrix consortium (UK AMOR)</td>
+        <td><a href="https://www.ukamor.com/#/">UK Atomic, Molecular and Optical physics R-matrix consortium (UK AMOR)</a></td>
         <td>Prof. Jonathon Tennyson (UCL)</td>
         <td></td>
         <td>e585</td>
@@ -88,13 +88,13 @@ These pages provide information on the consortia funded on ARCHER2, including de
     </thead>
     <tbody>
       <tr>
-        <td>National Oceanography Centre (NOC)</td>
+        <td><a href="https://www.noc.ac.uk/">National Oceanography Centre (NOC)</a></td>
         <td>Dr. Andrew Coward (University of Southampton)</td>
         <td></td>
         <td>n01</td>
       </tr>
       <tr>
-        <td>National Centre for Atmospheric Science (NCAS)</td>
+        <td><a href="https://www.ncas.ac.uk/en/">National Centre for Atmospheric Science (NCAS)</a></td>
         <td>Dr. Grenville Lister (University of Reading)</td>
         <td></td>
         <td>n02</td>
