@@ -6,7 +6,7 @@ exclude:
   - "LICENSE.md"
   - "*.gemspec"
 
-  keep_files:
+keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
