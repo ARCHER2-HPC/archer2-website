@@ -1,65 +1,32 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# ARCHER2 Website
 
-This Jekyll theme is a port of [ThemeFisher's](https://themefisher.com) [Airspace template](https://themefisher.com/products/airspace-free-bootstrap-website-template/). It is released under ThemeFisher's [license](https://themefisher.com/license) , which requires attribution. Concern about the licnese please contact with [them](mailto:themefisher@gmail.com)
+ARCHER2 is the next generation UK supercomputing service, hosted at [EPCC](https://www.epcc.ed.ac.uk)
 
-## Usage
-To start your project, [fork this respository](https://github.com/ndrewtl/airspace-jekyll/fork), put in your content, and go!
+This repository contains the website for the service available at:
+<https://www.archer2.ac.uk>
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+## How to Contribute
 
-## Steps for Setup:
+To contribute to this website, first you have to fork it on GitHub and
+clone it to your machine, see [Fork a Repo](https://help.github.com/articles/fork-a-repo/) for the GitHub
+documentation on this process.
 
-### Make sure you have Ruby
+Once you have made your changes and updated your Fork on GitHub you will
+need to [Open a Pull Request](https://help.github.com/articles/using-pull-requests/).
 
-First, make sure you have [Ruby](https://www.ruby-lang.org/en/) installed. You can confirm this by running `ruby -v` on the command line:
+## Building the website locally
 
-```sh
-$ ruby -v
-ruby [version number] (date) [your platform]
+You do not need to be able to build the website locally to make changes but it can
+be useful to see what effect your changes have before opening a Pull Request.
+
+If you wish to build the website locally, then you should install Jekyll:
+
+- <https://jekyllrb.com/>
+
+Once Jekyll is installed, you can test the website with:
+
+```
+make serve
 ```
 
-If you get something like `"Error, command not found"` visit the link above and
-install Ruby for your platform.
-
-
-### Make sure you have Bundler
-
-Next, make sure you have [Bundler](https://bundler.io) installed. Just like
-above, run `bundle -v` on the command line:
-
-```sh
-$ bundle -v
-bundle [version number]
-```
-
-If you get `"Error, command not found"` run `gem install bundler` to install it
-using RubyGems.
-
-### Run this repository
-
-Clone the repository, and `cd` into it:
-```sh
-$ git clone https://github.com/ndrewtl/airspace-jekyll.git
-$ cd airspace-jekyll
-```
-
-Install dependencies locally:
-```sh
-$ bundle install --path vendor/bundle
-```
-
-This should install a local copy of jekyll.
-
-Now run the server:
-```sh
-$ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
-```
+This will run a temporary webserver from which you can view the updated website locally.
