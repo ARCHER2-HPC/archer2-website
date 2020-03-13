@@ -36,7 +36,7 @@ permalink: /
         <div class="service-item-tall">
           <h4><a href="about/news/">News &amp; Announcements</a></h4>
           <ul>
-            {% for post in site.categories.news %}
+            {% for post in site.categories.news limit:5 %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a><br/>{{ post.date | date_to_string }} {{ post.excerpt }} 
               </li>
