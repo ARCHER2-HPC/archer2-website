@@ -1,21 +1,81 @@
 ---
-layout: page
+layout: frontpage
 title: ARCHER2
 permalink: /
 ---
 
-<section id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 col-sm-12">
-          <div class="block" style="margin-left: auto; margin-right: auto">
-             <img style="margin-left: auto; margin-right: auto; display: block;  width: 70%" src="logos/archer2_logo.png" alt="ARCHER2 logo"/>
-             <p style="text-align:center; font-family: sans-serif;">ARCHER2 is the follow-on service to <a href="http://www.archer.ac.uk">ARCHER</a>,
-                the UK National Supercomputing Facility.</p>
-             <p style="text-align:center; margin-left: auto; margin-right: auto; display: block; font-family: sans-serif;">More information on the ARCHER2 service is coming soon.</p>
-          </div>
+<!-- Highlight Start -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <a href="news/2020/03/13/first-archer2-ecse-call.html"><img style="width: 100%" src="img/splash/ecse_launch.png" alt="a2 logo" /></a>
         </div>
       </div>
     </div>
-</section>
 
+    <div class="row">
+      <div class="col-md-12">
+        <div class="lines">
+        </div>
+      </div>
+    </div>
+
+<!-- Service Start -->
+<section id="service">
+  <div class="container">
+
+		
+    <div class="row ">
+      <div class="ar2-front-col hidden-xs hidden-sm col-md-3 col-lg-2">
+        <div class="service-item-twitter">
+          <a class="twitter-timeline" data-width="220" data-height="400" data-theme="light" href="https://twitter.com/ARCHER2_HPC?ref_src=twsrc%5Etfw">Tweets by ARCHER2_HPC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+      </div>
+			
+      <div class="ar2-front-col col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item-tall">
+          <h4><a href="about/news-events/">News &amp; Announcements</a></h4>
+          <ul>
+            {% for post in site.categories.news %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a><br/>{{ post.date | date_to_string }} {{ post.excerpt }} 
+              </li>
+            {% endfor %}
+          </ul>
+          <p class="more"><a href="about/news/">More News&hellip;</a></p>
+        </div>
+      </div>
+
+      <div class="ar2-front-col col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item-tall">
+          <h4><a href="training/">Upcoming Training</a></h4>
+          <ul>
+              <li>
+                <a href="training/courses/index.html#containers_for_research">Containers for Reproducible Research</a><br/>
+                Date: 13,14 July 2020<br/>
+                Location: TBC
+              </li>
+          </ul>
+          <p class="more"><a href="training/">More Training&hellip;</a></p>
+        </div>
+      </div>
+			
+      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-4">
+        <div class="service-item-borderless">
+          <h4>ARCHER2 is the UK National Supercomputing Service</h4>
+          <p>The ARCHER2 Service is a world class advanced 
+ 						computing resource for UK researchers. ARCHER2 is provided by <a href="https://www.ukri.org">UKRI</a>, 
+						<a href="https://www.epcc.ed.ac.uk">EPCC</a>, <a href="https://www.cray.com">Cray</a> (an HPE company)  and the 
+            <a href="https://www.ed.ac.uk">University of Edinburgh</a>.
+          </p>
+					<p>
+						ARCHER2 is due to commence operation in 2020, replacing the current service ARCHER. For more 
+						information on ARCHER, please visit the <a href="https://www.archer.ac.uk" target="_blank">ARCHER web site</a>.
+					</p>
+
+        </div>
+      </div>			
+      
+    </div>
+  </div>
+</section>

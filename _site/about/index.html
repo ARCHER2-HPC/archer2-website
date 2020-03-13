@@ -1,102 +1,532 @@
 <!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <html class="no-js">
   <head>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>About Cirrus</title>
+<title>About ARCHER2</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
 <!-- CSS -->
-<link rel="stylesheet" href="http://localhost:4000/css/owl.carousel.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/bootstrap.min.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/airspace.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/style.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/ionicons.min.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/animate.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/responsive.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/syntax.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/cirrus.css" />
+<link rel="stylesheet" href="/a2v14/css/owl.carousel.css" />
+<link rel="stylesheet" href="/a2v14/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/a2v14/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/a2v14/css/airspace.css" />
+<link rel="stylesheet" href="/a2v14/css/style.css" />
+<link rel="stylesheet" href="/a2v14/css/ionicons.min.css" />
+<link rel="stylesheet" href="/a2v14/css/animate.css" />
+<link rel="stylesheet" href="/a2v14/css/responsive.css" />
+<link rel="stylesheet" href="/a2v14/css/syntax.css" />
+<link rel="stylesheet" href="/a2v14/css/archer2.css" />
+<link rel="stylesheet" href="/a2v14/css/clair.css" />        <!-- just while I am playing -->
 
 <!-- Js -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://localhost:4000/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
-<script src="http://localhost:4000/js/owl.carousel.min.js"></script>
-<script src="http://localhost:4000/js/plugins.js"></script>
-<script src="http://localhost:4000/js/min/waypoints.min.js"></script>
-<script src="http://localhost:4000/js/jquery.counterup.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="/a2v14/js/bootstrap.min.js"></script>
+<script src="/a2v14/js/owl.carousel.min.js"></script>
+<script src="/a2v14/js/plugins.js"></script>
+<script src="/a2v14/js/min/waypoints.min.js"></script>
+<script src="/a2v14/js/jquery.counterup.js"></script>
 
 
-<script src="http://localhost:4000/js/main.js"></script>
+<script src="/a2v14/js/main.js"></script>
+
 
 <!--
 /*
  * Airspace
  * Ported to Jekyll by Andrew Lee
- * https://github.com/luminousrubyist/airspace-jekyll
+ * https://github.com/ndrewtl/airspace-jekyll
  * Designed and Developed by ThemeFisher
  * https://themefisher.com/
  *
  */
 -->
 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300|Source+Sans+Pro&display=swap" rel="stylesheet"> 
+
+<link rel="icon" 
+      type="image/png" 
+      href="/a2v10/favicon.png">
+
+
 
   </head>
   <body>
 
-
+    <header>
     <!-- Header Start -->
-<header>
+
 <div class="container">
   <div class="row">
-    <div class="col-md-12">
+    <div class="col-sm-offset-4 col-md-offset-6 col-sm-6 col-md-5">
+      <p class="tiny-status">
+        <strong>Service Status</strong>
+        <span class="service-down">Login: Unavailable</span>
+        |
+        <span class="service-down">Compute: Unavailable</span>
+      </p>
+    </div>
+    <div class="hidden-xs col-sm-2 col-md-1">
+      <p class="search">
+        <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch">
+          Search
+          <img width="20" src="http://0.0.0.0:4000/a2v14/img/archer2_search_icon.png" alt="Search"/>
+        </a>
+      </p>
+
+    </div>
+  </div>
+
+  <!-- Search Modal -->
+<div id="modalSearch" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+          <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Search ARCHER2 website</h4>
+          </div>
+          <div class="modal-body">
+            <div class="modal-body">
+              <script async src="https://cse.google.com/cse.js?cx=012644084156088560195:8abgyu0meb9"></script>
+              <gcse:search></gcse:search>
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+      </div>
+
+  </div>
+</div>
+</div>
+
+  <div class="row">
       <!-- header Nav Start -->
+      <div class="container-fluid">
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <!-- Brand and toggle get grouped for better mobile display -->
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#archer2-menu">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://localhost:4000/">
-              <img src="http://localhost:4000/logos/cirrus_logo_alpha_50.png" alt="Logo">
+            <a class="navbar-brand" href="http://0.0.0.0:4000/a2v14">
+              <img src="/a2v14/img/logos/archer2_logo_small.png" alt="ARCHER2 Logo">
             </a>
           </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-
-                <li><a href="http://localhost:4000/access">Access</a></li>
-                <li><a href="http://localhost:4000/docs">Documentation</a></li>
-                <li><a href="http://localhost:4000/status">Status</a></li>
-                <li><a href="http://localhost:4000/support">Support</a></li>
-                <li><a href="http://localhost:4000/about">About</a></li>
-                <li><a href="https://www.archer.ac.uk/tier2/">SAFE Login</a></li>
+          <div class="collapse navbar-collapse" id="archer2-menu">
+            <ul class="nav navbar-nav navbar-right">
+			    
+				
+					
+					
+					
+						<li class="dropdown active">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/">About ARCHER2</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/hardware.html">Hardware &amp; Software</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/partners.html">Partners</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/news/">News &amp; Announcements</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/calendar.html">Calendar</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/policies/">Service Policies</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/gallery/">Media Gallery</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/">Community</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/support-access/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support & Access <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/support-access/">User Support and Access</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/support-access/servicedesk.html">Service Desk</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/support-access/access.html">Get Access</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+            
+						  <li class="">
+							  <a href="http://0.0.0.0:4000/a2v14/documentation/">Documentation</a>
+						  </li>
+            
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/training/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Training <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/">Training</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/courses/">Course Descriptions</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/materials/">Training Materials Repository</a>
+                      </li>
+                    
+									
+								
+									
+                    
+                      <li>
+                        <a href="https://www.archer.ac.uk/training/feedback/" target="_blank">Feedback (external)</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/locations/">Training Locations</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/online/">Online Learning</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/driving-test.html">Driving Test</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/ecse/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">eCSE <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/ecse/">Embedded CSE (eCSE) support</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/ecse/calls">eCSE Calls</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/ecse/projects">Funded eCSE projects</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/community/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/">Community</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/outreach/">Outreach</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/hpc-rse-community/">HPC and RSE Community</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/wider-community/">Supporting the Wider Community</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/diversity-inclusion/">Diversity and Inclusion</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/industry/">Industry Engagement</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/sustainability/">Sustainability</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/research/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/">Research</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/case-studies">Case Studies</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/publications">Publications</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/consortia">Research Consortia</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
               </ul>
             </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
+          </div>
         </nav>
       </div>
     </div>
+
   </div>
-</header><!-- header close -->
 
 
 
-    <section id="global-header">
+
+
+
+
+
+
+    
+
+<div class="row">
+  <div class="col-md-12">
+	<div class="banner-image">
+	  
+		<img src="/a2v14/img/banners/web_banners_02.jpg" alt="Banner Image">
+	   
+	</div>	
+	
+
+		  
+</div>	
+</div>
+
+
+
+
+
+
+
+    </header>
+
+
+    <div class="row">
+    <div class="col-md-12">
+        <div class="lines">
+        </div>
+    </div>
+</div>
+
+<section id="global-header">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h1>About Cirrus</h1>
-                    <p>Information on the Cirrus facility</p>
+                    <h1>About ARCHER2</h1>
+                    <p>Information about the ARCHER2 service</p>
                 </div>
             </div>
         </div>
@@ -105,111 +535,92 @@
 
 <section id="main-content">
     <div class="container">
-<h2 id="acknowledging-cirrus">Acknowledging Cirrus</h2>
+<section id="service">
+  <div class="container">
+    <div class="row">
 
-<p>You should use the following phrase to acknowledge Cirrus in all research outputs that have used the facility:</p>
 
-<p><em>This work used the Cirrus UK National Tier-2 HPC Service at EPCC (http://www.cirrus.ac.uk) funded by the University of Edinburgh and EPSRC (EP/P020267/1)</em></p>
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="hardware.html">
+          <strong>Hardware &amp; Software</strong><br />
+          Details on the advanced computing hardware and software provided by the ARCHER2 service.
+        </a>
+      </div>
 
-<p>You should also tag outputs with the keyword Cirrus@EPCC.</p>
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="news/">
+          <strong>News &amp; Announcements</strong><br />
+          Up-to-date news and announcements from the ARCHER2 service.
+        </a>
+      </div>
 
-<h2 id="technology">Technology</h2>
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="partners.html">
+          <strong>Partners</strong><br />
+          More information on the partners providing the ARCHER2 service.
+        </a>
+      </div>
 
-<p>The facility is based around a 280 node HPE/SGI 8600 HPC system with a DDN Lustre
-file system. The HPC system runs the CentOS Linux distribution and has a 
-range of software, liraries and tools available. See the following pages
-for more information:</p>
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="calendar.html">
+          <strong>Service Calendar</strong><br />
+          The ARCHER2 Calendar lists events on the service: training, maintenance, <em>etc.</em>.
+        </a>
+      </div>
 
-<ul>
-  <li><a href="hardware.html">Cirrus Hardware</a></li>
-  <li><a href="software.html">Cirrus Software</a></li>
-</ul>
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="policies/">
+          <strong>Service Policies</strong><br />
+          Guidance on requirements, expectations and procedures on the ARCHER2 service.
+        </a>
+      </div>
 
-<h2 id="service-catalogue">Service Catalogue</h2>
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="gallery/">
+          <strong>Gallery</strong><br />
+          A gallery of images and videos from the ARCHER and ARCHER2 services.
+        </a>
+      </div>
 
-<p>Cirrus provides a range of services. The different services are listed in the 
-Cirrus Service Component Catalogue:</p>
-
-<ul>
-  <li><a href="Cirrus_Service_Component_Catalogue.pdf">Cirrus Service Component Catalogue (pdf)</a></li>
-</ul>
-
-<h2 id="policies">Policies</h2>
-
-<p>The Cirrus policies form an integrated whole, based on the Terms and
-Conditions of Access. They lay down both what we expect from Users, and
-how we will carry out the commitments we make to them in the Terms and
-Conditions.</p>
-
-<ul>
-  <li><a href="policies/tandc.html">Terms and Conditions of Access</a></li>
-  <li><a href="policies/privacy.html">Personal Data and Privacy Policy</a></li>
-  <li><a href="policies/project_account_closing.html">Policy on end of life procedures for Cirrus user accounts and
-projects</a></li>
-</ul>
-
-<p>In addition, Cirrus access also falls within the remit of the Computing
-Regulations and Security Policy of the University of Edinburgh and all
-users who sign up for a SAFE and/or Cirrus account agree to these
-conditions of access:</p>
-
-<ul>
-  <li><a href="http://www.ed.ac.uk/information-services/about/policies-and-regulations/computing-regulations">University of Edinburgh Computing
-Regulations</a></li>
-  <li><a href="http://www.ed.ac.uk/information-services/about/policies-and-regulations/security-policies/security-policy">University of Edinburgh Security
-Policy</a></li>
-</ul>
-
-<h2 id="people">People</h2>
-
-<p>Cirrus is run by <a href="http://www.epcc.ed.ac.uk">EPCC</a> and many people play a
-role in running and supporting the service. The key staff are:</p>
-
-<ul>
-  <li>Prof. Mark Parsons (Service Director)</li>
-  <li>Dr Alan Simpson (Deputy Service Director)</li>
-  <li>Ms Josephine Beech-Brandt (Service Owner)</li>
-  <li>Mr Thomas Blyth (Commercial Manager)</li>
-  <li>Mr Donald Scobbie (Systems Manager)</li>
-  <li>Ms Anne Whiting (User Support Manager)</li>
-  <li>Mr Kris Findlay (System Administrator)</li>
-  <li>Mr Craig Morris (System Administrator)</li>
-</ul>
-
-<h2 id="contact-us">Contact Us</h2>
-
-<p>If you have any questions about Cirrus then please do not hesitate to
-<a href="../support/">contact the support team</a>.</p>
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="../community/">
+          <strong>Community</strong><br />
+          How ARCHER2 contributes to the wider research community and society.
+        </a>
+      </div>
+     
+    </div>
+  </div>
+</section>
 
     </div>
 </section>
 
 
 
-
-
-
-
-
-
-
     <!-- footer Start -->
 <footer>
-  <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-6">
+        <div class="copyright">
+				<p>Website Copyright &copy; Design &amp; Developed by <a href="https://www.epcc.ed.ac.uk">EPCC</a>.<br/>
+				Website Design by <a href="http://helenmcfeely.blogspot.com/">Helen McFeely</a>.  <a href="/a2v14/about/credits.html">Image credits</a>.<br/>
+        Template Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>	
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="logos">
         <div class="footer-manu">
           <ul>
-            <li><a href="http://localhost:4000/about">About Us</a></li>
-            <li><a href="http://localhost:4000/support">Support</a></li>
-          </ul>
+            <li><img src="/a2v14/img/logos/epcc_logo_transp.png" alt="EPCC logo" height="40" /></li>
+            <li><img src="/a2v14/img/logos/UKRI-EPSRC-NERC-logo.png" alt="UKRI EPSRC NERC logo" height="40" /></li>
+            <li><img src="/a2v14/img/logos/CRAY-logo.png" alt="Cray HPE logo" height="40"  /></li>
+            <li><img src="/a2v14/img/logos/uoe_logo.png" alt="University of Edinburgh logo" height="40"  /></li>
+          </ul>   
+        </div>    
         </div>
-        <p>Copyright &copy; Content by <a href="http://www.epcc.ed.ac.uk">EPCC</a>. All rights reserved.</p>
-
-        <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
       </div>
     </div>
-  </div>
 </footer>
 
 

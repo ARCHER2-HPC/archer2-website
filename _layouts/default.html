@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <html class="no-js">
   <head>
 
@@ -7,9 +8,16 @@
   </head>
   <body>
 
+    <header>
+    {% include header.html %}
+    {% include banner.html %}
+    </header>
 
 
     {{ content }}
+
+
+    {% include footer.html %}
 
     </body>
 </html>

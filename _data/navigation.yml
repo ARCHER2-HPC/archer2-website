@@ -1,0 +1,103 @@
+- title: "About"
+  url: "/about/"
+  side: left
+  sublinks:
+  - title: "About ARCHER2"
+    url: "/about/"
+  - title: "Hardware &amp; Software"
+    url: "/about/hardware.html"    
+  - title: "Partners"
+    url: "/about/partners.html"   
+  - title: "News &amp; Announcements"
+    url: "/about/news/"
+  - title: "Calendar"
+    url: "/about/calendar.html"
+  - title: "Service Policies"
+    url: "/about/policies/"
+  - title: "Media Gallery"
+    url: "/about/gallery/"
+  - title: "Community"
+    url: "/community/"
+    
+
+
+- title: "Support & Access"
+  url: "/support-access/"
+  side: left
+  sublinks:
+  - title: "User Support and Access"
+    url: "/support-access/"
+  - title: "Service Desk"
+    url: "/support-access/servicedesk.html"
+  - title: "Get Access"
+    url: "/support-access/access.html"
+
+
+- title: Documentation
+  url: "/documentation/"
+  side: left
+  
+
+- title: Training
+  url: "/training/"
+  side: left
+  sublinks:
+  - title: "Training"
+    url: "/training/"
+  - title: "Course Descriptions"
+    url: "/training/courses/"    
+  - title: "Training Materials Repository"
+    url: "/training/materials/"  
+  - title: "Feedback"
+    external: "True" 
+    url: "https://www.archer.ac.uk/training/feedback/"
+  - title: "Training Locations"
+    url: "/training/locations/"   
+  - title: "Online Learning"
+    url: "/training/online/"
+  - title: "Driving Test"
+    url: "/training/driving-test.html"
+
+- title: "eCSE"
+  url: "/ecse/"
+  side: left
+  sublinks:
+  - title: "Embedded CSE (eCSE) support"
+    url: "/ecse/"
+  - title: "eCSE Calls"
+    url: "/ecse/calls"
+  - title: "Funded eCSE projects"
+    url: "/ecse/projects"
+    
+    
+- title: "Community"
+  url: "/community/"
+  side: left
+  sublinks:
+  - title: "Community"
+    url: "/community/"
+  - title: "Outreach"
+    url: "/community/outreach/"
+  - title: "HPC and RSE Community"
+    url: "/community/hpc-rse-community/"    
+  - title: "Supporting the Wider Community"
+    url: "/community/wider-community/"
+  - title: "Diversity and Inclusion"
+    url: "/community/diversity-inclusion/"
+  - title: "Industry Engagement"
+    url: "/community/industry/"
+  - title: "Sustainability"
+    url: "/community/sustainability/"
+
+- title: "Research"
+  url: "/research/"
+  side: left
+  sublinks:
+  - title: "Research"
+    url: "/research/"
+  - title: "Case Studies"
+    url: "/research/case-studies"   
+  - title: "Publications"
+    url: "/research/publications"    
+  - title: "Research Consortia"
+    url: "/research/consortia"   

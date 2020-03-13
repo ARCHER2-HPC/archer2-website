@@ -1,0 +1,72 @@
+/*
+ * This is the  css file while clair is trying things out so as not to break the main css!
+ */
+
+
+
+
+
+/*---------------------------------------------
+					Highlight Start  (front page news item)
+-----------------------------------------------*/
+
+
+
+#highlight {
+    text-align: center;
+    padding: 10px 0;
+}
+
+#highlight .highlight-item {
+ padding: 1px 10px 30px 10px;
+border:  6px double #51baa0;
+border-radius: 12px;
+margin: 10px auto 10px auto;
+height: 180px
+}
+
+
+#highlight .highlight-item-borderless {
+ padding: 10px 10px 30px 10px;
+border:  0px double #51baa0;
+}
+
+
+
+#highlight .highlight-item-borderless img {
+ width=100%;
+ border-radius: 15px; 
+}
+
+
+
+.gallerygrid {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.gallerygrid gallery-item {
+ padding: 1px 10px 30px 10px;
+border:  6px double #51baa0;
+border-radius: 12px;
+margin: 10px auto 10px auto;
+height: 180px
+}
+
+
+.gallerygrid gallery-item-borderless {
+ padding: 10px 10px 30px 10px;
+border:  0px double #51baa0;
+}
+
+
+
+.gallerygrid gallery-item-borderless img {
+ width=100%;
+ border-radius: 15px; 
+}
+
+.banner-image img {
+	width: 100%;
+	padding-top: 10px;
+}

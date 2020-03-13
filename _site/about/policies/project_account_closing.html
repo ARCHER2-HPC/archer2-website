@@ -1,102 +1,532 @@
 <!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <html class="no-js">
   <head>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Closing Accounts and Projects</title>
+<title>ARCHER2 end of life Policies</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
 <!-- CSS -->
-<link rel="stylesheet" href="http://localhost:4000/css/owl.carousel.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/bootstrap.min.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/airspace.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/style.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/ionicons.min.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/animate.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/responsive.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/syntax.css" />
-<link rel="stylesheet" href="http://localhost:4000/css/cirrus.css" />
+<link rel="stylesheet" href="/a2v14/css/owl.carousel.css" />
+<link rel="stylesheet" href="/a2v14/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/a2v14/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/a2v14/css/airspace.css" />
+<link rel="stylesheet" href="/a2v14/css/style.css" />
+<link rel="stylesheet" href="/a2v14/css/ionicons.min.css" />
+<link rel="stylesheet" href="/a2v14/css/animate.css" />
+<link rel="stylesheet" href="/a2v14/css/responsive.css" />
+<link rel="stylesheet" href="/a2v14/css/syntax.css" />
+<link rel="stylesheet" href="/a2v14/css/archer2.css" />
+<link rel="stylesheet" href="/a2v14/css/clair.css" />        <!-- just while I am playing -->
 
 <!-- Js -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://localhost:4000/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
-<script src="http://localhost:4000/js/owl.carousel.min.js"></script>
-<script src="http://localhost:4000/js/plugins.js"></script>
-<script src="http://localhost:4000/js/min/waypoints.min.js"></script>
-<script src="http://localhost:4000/js/jquery.counterup.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="/a2v14/js/bootstrap.min.js"></script>
+<script src="/a2v14/js/owl.carousel.min.js"></script>
+<script src="/a2v14/js/plugins.js"></script>
+<script src="/a2v14/js/min/waypoints.min.js"></script>
+<script src="/a2v14/js/jquery.counterup.js"></script>
 
 
-<script src="http://localhost:4000/js/main.js"></script>
+<script src="/a2v14/js/main.js"></script>
+
 
 <!--
 /*
  * Airspace
  * Ported to Jekyll by Andrew Lee
- * https://github.com/luminousrubyist/airspace-jekyll
+ * https://github.com/ndrewtl/airspace-jekyll
  * Designed and Developed by ThemeFisher
  * https://themefisher.com/
  *
  */
 -->
 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300|Source+Sans+Pro&display=swap" rel="stylesheet"> 
+
+<link rel="icon" 
+      type="image/png" 
+      href="/a2v10/favicon.png">
+
+
 
   </head>
   <body>
 
-
+    <header>
     <!-- Header Start -->
-<header>
+
 <div class="container">
   <div class="row">
-    <div class="col-md-12">
+    <div class="col-sm-offset-4 col-md-offset-6 col-sm-6 col-md-5">
+      <p class="tiny-status">
+        <strong>Service Status</strong>
+        <span class="service-down">Login: Unavailable</span>
+        |
+        <span class="service-down">Compute: Unavailable</span>
+      </p>
+    </div>
+    <div class="hidden-xs col-sm-2 col-md-1">
+      <p class="search">
+        <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch">
+          Search
+          <img width="20" src="http://0.0.0.0:4000/a2v14/img/archer2_search_icon.png" alt="Search"/>
+        </a>
+      </p>
+
+    </div>
+  </div>
+
+  <!-- Search Modal -->
+<div id="modalSearch" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+          <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Search ARCHER2 website</h4>
+          </div>
+          <div class="modal-body">
+            <div class="modal-body">
+              <script async src="https://cse.google.com/cse.js?cx=012644084156088560195:8abgyu0meb9"></script>
+              <gcse:search></gcse:search>
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+      </div>
+
+  </div>
+</div>
+</div>
+
+  <div class="row">
       <!-- header Nav Start -->
+      <div class="container-fluid">
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <!-- Brand and toggle get grouped for better mobile display -->
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#archer2-menu">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://localhost:4000/">
-              <img src="http://localhost:4000/logos/cirrus_logo_alpha_50.png" alt="Logo">
+            <a class="navbar-brand" href="http://0.0.0.0:4000/a2v14">
+              <img src="/a2v14/img/logos/archer2_logo_small.png" alt="ARCHER2 Logo">
             </a>
           </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-
-                <li><a href="http://localhost:4000/access">Access</a></li>
-                <li><a href="http://localhost:4000/docs">Documentation</a></li>
-                <li><a href="http://localhost:4000/status">Status</a></li>
-                <li><a href="http://localhost:4000/support">Support</a></li>
-                <li><a href="http://localhost:4000/about">About</a></li>
-                <li><a href="https://www.archer.ac.uk/tier2/">SAFE Login</a></li>
+          <div class="collapse navbar-collapse" id="archer2-menu">
+            <ul class="nav navbar-nav navbar-right">
+			    
+				
+					
+					
+					
+						<li class="dropdown active">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/">About ARCHER2</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/hardware.html">Hardware &amp; Software</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/partners.html">Partners</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/news/">News &amp; Announcements</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/calendar.html">Calendar</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/policies/">Service Policies</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/about/gallery/">Media Gallery</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/">Community</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/support-access/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support & Access <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/support-access/">User Support and Access</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/support-access/servicedesk.html">Service Desk</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/support-access/access.html">Get Access</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+            
+						  <li class="">
+							  <a href="http://0.0.0.0:4000/a2v14/documentation/">Documentation</a>
+						  </li>
+            
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/training/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Training <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/">Training</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/courses/">Course Descriptions</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/materials/">Training Materials Repository</a>
+                      </li>
+                    
+									
+								
+									
+                    
+                      <li>
+                        <a href="https://www.archer.ac.uk/training/feedback/" target="_blank">Feedback (external)</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/locations/">Training Locations</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/online/">Online Learning</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/training/driving-test.html">Driving Test</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/ecse/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">eCSE <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/ecse/">Embedded CSE (eCSE) support</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/ecse/calls">eCSE Calls</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/ecse/projects">Funded eCSE projects</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/community/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/">Community</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/outreach/">Outreach</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/hpc-rse-community/">HPC and RSE Community</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/wider-community/">Supporting the Wider Community</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/diversity-inclusion/">Diversity and Inclusion</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/industry/">Industry Engagement</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/community/sustainability/">Sustainability</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
+					
+					
+					
+						<li class="dropdown ">
+              
+							  <a href="http://0.0.0.0:4000/a2v14/research/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research <span class="caret"></span></a>
+              
+              <ul class="dropdown-menu">
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/">Research</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/case-studies">Case Studies</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/publications">Publications</a>
+                      </li>
+                    
+									
+								
+									
+                    
+										  <li>
+										  	<a href="http://0.0.0.0:4000/a2v14/research/consortia">Research Consortia</a>
+                      </li>
+                    
+									
+								
+							</ul>
+						</li>
+					
+        
               </ul>
             </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
+          </div>
         </nav>
       </div>
     </div>
+
   </div>
-</header><!-- header close -->
 
 
 
-    <section id="global-header">
+
+
+
+
+
+
+    
+
+<div class="row">
+  <div class="col-md-12">
+	<div class="banner-image">
+	  
+		<img src="/a2v14/img/banners/web_banners_01.jpg" alt="Default Banner Image">
+	   
+	</div>	
+	
+
+		  
+</div>	
+</div>
+
+
+
+
+
+
+
+    </header>
+
+
+    <div class="row">
+    <div class="col-md-12">
+        <div class="lines">
+        </div>
+    </div>
+</div>
+
+<section id="global-header">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h1>Closing Accounts and Projects</h1>
-                    <p>Policy on end of life procedures for Cirrus user accounts and projects</p>
+                    <h1>ARCHER2 end of life Policies</h1>
+                    <p>Policy on end of life procedures for ARCHER2 user accounts and projects</p>
                 </div>
             </div>
         </div>
@@ -105,71 +535,74 @@
 
 <section id="main-content">
     <div class="container">
-<p>This page describes what happens when an account or project is no longer
-required on Cirrus, or a user leaves a project. These situations are
-most likely to come about during one of the following three scenarios:</p>
+<h1 id="policy-on-end-of-life-procedures-for-archer-user-accounts-and-projects">Policy on end of life procedures for ARCHER user accounts and projects</h1>
+
+<p>This page describes what happens when an account or project is no longer required on ARCHER2, or a user leaves a project. These situations are most likely to come about during one of the following three scenarios:</p>
 
 <ol>
   <li>The retirement of project (usually three months after project end)</li>
-  <li>A Principle Investigator (PI) tidying up a project requesting the removal of user(s) no
-longer working on the project</li>
+  <li>A PI tidying up a project requesting the removal of user(s) no longer working on the project</li>
   <li>A user wishing his/her own account to be removed</li>
 </ol>
 
-<p>For each user account involved, assuming the relevant consent is given
-the next step can be summarised as one of the following actions</p>
+<p>For each user account involved, assuming the relevant consent is given the next step can be summarised as one of the following actions</p>
 
-<p>A.  Removal of Cirrus account and deletion of all data from the account
-B.  The re-owning of the Cirrus account within an Cirrus project
-    (typically to PI)</p>
+<ul>
+  <li>Removal of ARCHER2 account and deletion of all data from the account</li>
+  <li>The re-owning of the ARCHER2 account within an ARCHER2 project (typically to PI)</li>
+</ul>
 
-<p>A user’s right to use Cirrus is granted by a project. Our policy is to treat the account 
- and associated data as the property of the user and it is the user’s responsibility to 
- ensure that any data they store on Cirrus  is handled appropriately.</p>
+<p>A user’s right to use ARCHER2 is granted by a project. Our policy is to treat the account and associated data as the property of the user and it is the user’s responsibility to ensure that any data they store on ARCHER2 or the RDF is handled appropriately.</p>
 
 <p>A user may request their account be deleted or have its ownership transferred to the project.</p>
 
-<p>A project manager may request an account be deleted, revoking the user’s right to use the system. 
-Users will be notified and given a period of 2 weeks to remove data from their account before it is finally removed.</p>
+<p>A project manager may request an account be deleted, revoking the user’s right to use the system. Users will be notified and given a period of 2 weeks to remove data from their account before it is finally removed.</p>
 
-<p>A project manager may request ownership of an account be transferred to the project. 
-The user will be given a time limit of 2 weeks to object to this transfer. If no objection is 
-raised in this period the account ownership will then be transferred to the project. This 
-is intended to cover the situation where an account owner is no longer in contact with 
-the project and cannot request the transfer themselves.</p>
+<p>A project manager may request ownership of an account be transferred to the project. The user will be given a time limit of 2 weeks to object to this transfer. If no objection is raised in this period the account ownership will then be transferred to the project. This is intended to cover the situation where an account owner is no longer in contact with the project and cannot request the transfer themselves.</p>
 
-<p>When a project is due to end, the PI will receive notification of the closure of the project 
-and its accounts 3 months before the accounts are closed and cleaned.</p>
+<p>When a project is due to end, the PI will receive notification of the closure of the project and its accounts 3 months before the accounts are closed and cleaned.</p>
+
+<p>The above procedure deals primarily with ARCHER2 accounts. If a user also has data on the RDF then</p>
+
+<ul>
+  <li>if the ARCHER2 account is deleted, the user’s RDF data is left intact and the user still has access to the RDF via the DTN nodes, administered via the SAFE and still remain part of the original ARCHER2 project</li>
+  <li>if the ARCHER2 account is re-owned then so is the RDF account and all its data</li>
+</ul>
+
+<p>Update Logs</p>
+
+<ul>
+  <li>2020-03-13 Copied from ARCHER and Updated for ARCHER2</li>
+</ul>
 
     </div>
 </section>
 
 
 
-
-
-
-
-
-
-
     <!-- footer Start -->
 <footer>
-  <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-6">
+        <div class="copyright">
+				<p>Website Copyright &copy; Design &amp; Developed by <a href="https://www.epcc.ed.ac.uk">EPCC</a>.<br/>
+				Website Design by <a href="http://helenmcfeely.blogspot.com/">Helen McFeely</a>.  <a href="/a2v14/about/credits.html">Image credits</a>.<br/>
+        Template Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>	
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="logos">
         <div class="footer-manu">
           <ul>
-            <li><a href="http://localhost:4000/about">About Us</a></li>
-            <li><a href="http://localhost:4000/support">Support</a></li>
-          </ul>
+            <li><img src="/a2v14/img/logos/epcc_logo_transp.png" alt="EPCC logo" height="40" /></li>
+            <li><img src="/a2v14/img/logos/UKRI-EPSRC-NERC-logo.png" alt="UKRI EPSRC NERC logo" height="40" /></li>
+            <li><img src="/a2v14/img/logos/CRAY-logo.png" alt="Cray HPE logo" height="40"  /></li>
+            <li><img src="/a2v14/img/logos/uoe_logo.png" alt="University of Edinburgh logo" height="40"  /></li>
+          </ul>   
+        </div>    
         </div>
-        <p>Copyright &copy; Content by <a href="http://www.epcc.ed.ac.uk">EPCC</a>. All rights reserved.</p>
-
-        <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
       </div>
     </div>
-  </div>
 </footer>
 
 

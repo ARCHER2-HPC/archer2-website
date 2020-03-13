@@ -1,0 +1,16 @@
+- name: headline1
+  title: CEO-Themefisher
+  headline: "text1"
+  image: ../img/05_Entry_800.jpg
+- name: headline2
+  title: CEO-Themefisher
+  headline: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: ../img/10_Entry_800.jpg
+- name: headline3
+  title: CEO-Themefisher
+  headline: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: ../img/12_Entry_800.jpg
+- name: Rose Ray III
+  title: CEO-Themefisher
+  headline: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
+  image: ../img/17_Entry_800.jpg

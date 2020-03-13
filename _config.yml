@@ -14,10 +14,14 @@ keep_files:
 
 
 # Site settings
-title: Cirrus
-subtitle: "Cirrus@EPCC: Flexible HPC"
-url: "http://www.cirrus.ac.uk" # the base hostname & protocol for your site
-baseurl: ""
+title: ARCHER2
+subtitle: "The UK National Supercomputing Service, ARCHER2"
+url: "https://www.archer2.ac.uk" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: """
+
+
+
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -34,3 +38,7 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+    
+    
+
+

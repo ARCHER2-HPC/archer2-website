@@ -1,38 +1,126 @@
 <!-- Header Start -->
-<header>
+
 <div class="container">
   <div class="row">
-    <div class="col-md-12">
+    <div class="col-sm-offset-4 col-md-offset-6 col-sm-6 col-md-5">
+      <p class="tiny-status">
+        <strong>Service Status</strong>
+        <span class="service-down">Login: Unavailable</span>
+        |
+        <span class="service-down">Compute: Unavailable</span>
+      </p>
+    </div>
+    <div class="hidden-xs col-sm-2 col-md-1">
+      <p class="search">
+        <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch">
+          Search
+          <img width="20" src="{{ site.url }}{{ site.baseurl }}/img/archer2_search_icon.png" alt="Search"/>
+        </a>
+      </p>
+
+    </div>
+  </div>
+
+  <!-- Search Modal -->
+<div id="modalSearch" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+          <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Search ARCHER2 website</h4>
+          </div>
+          <div class="modal-body">
+            <div class="modal-body">
+              <script async src="https://cse.google.com/cse.js?cx=012644084156088560195:8abgyu0meb9"></script>
+              <gcse:search></gcse:search>
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+      </div>
+
+  </div>
+</div>
+</div>
+
+  <div class="row">
       <!-- header Nav Start -->
+      <div class="container-fluid">
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <!-- Brand and toggle get grouped for better mobile display -->
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#archer2-menu">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.url }}/">
-              <img src="{{ site.url }}/logos/cirrus_logo_alpha_50.png" alt="Logo">
+            <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}">
+              <img src="{{ site.baseurl }}/img/logos/archer2_logo_small.png" alt="ARCHER2 Logo">
             </a>
           </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-
-                <li><a href="{{ site.url }}/access">Access</a></li>
-                <li><a href="{{ site.url }}/docs">Documentation</a></li>
-                <li><a href="{{ site.url }}/status">Status</a></li>
-                <li><a href="{{ site.url }}/support">Support</a></li>
-                <li><a href="{{ site.url }}/about">About</a></li>
-                <li><a href="https://www.archer.ac.uk/tier2/">SAFE Login</a></li>
+          <div class="collapse navbar-collapse" id="archer2-menu">
+            <ul class="nav navbar-nav navbar-right">
+			    {% assign links = site.data.navigation %}
+				{% for link in links %}
+					{% assign class = nil %}
+					{% if page.url contains link.url %}
+						{% assign class = 'active' %}
+					{% endif %}
+					{% if link.sublinks %}
+						<li class="dropdown {{ class }}">
+              {% if link.external == 'True' %}
+                <a href="{{ link.url }}" target="_blank" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+              {% else %}
+							  <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+              {% endif %}
+              <ul class="dropdown-menu">
+								{% for sublink in link.sublinks %}
+									{% if sublink.title == 'separator' %}
+										<li role="separator" class="divider"></li>
+                  {% else %}
+                    {% if sublink.external == 'True' %}
+                      <li>
+                        <a href="{{ sublink.url }}" target="_blank">{{ sublink.title }} (external)</a>
+                      </li>
+                    {% else %}
+										  <li>
+										  	<a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                      </li>
+                    {% endif %}
+									{% endif %}
+								{% endfor %}
+							</ul>
+						</li>
+					{% else %}
+            {% if link.external == 'True' %}
+              <li class="{{ class }}">
+                <a href="{{ link.url }}" target="_blank">{{ link.title }} (external)</a>
+              </li>
+            {% else %}
+						  <li class="{{ class }}">
+							  <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+						  </li>
+            {% endif %}
+					{% endif %}
+        {% endfor %}
               </ul>
             </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
+          </div>
         </nav>
       </div>
     </div>
+
   </div>
-</header><!-- header close -->
+
+
+
+
+
+
+
+
