@@ -103,7 +103,9 @@ th, td {
   color: #666;
 }
 
-
+.container .row .block {
+  margin: 10px;
+}
 
 
 /*--
@@ -377,6 +379,10 @@ header {
   padding-bottom: 0;
 }
 
+header .navbar-brand {
+  padding-bottom: 80px;
+}
+
 header .navbar-default .navbar-nav {
   padding-top: 25px;
 }
@@ -485,6 +491,10 @@ footer {
 footer div.logos {
   display: block;
   float: left;
+}
+
+footer div.logos img {
+  margin: 5px;
 }
 
 footer div.copyright {
