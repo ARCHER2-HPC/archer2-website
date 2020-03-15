@@ -10,7 +10,7 @@ These Terms and Conditions of Access are presented to each user when they regist
 
 ---
 
-Please read these Terms and Conditions. By clicking the "I accept the Terms and Conditions of Access" button you will be entering into a contract with the provider of the ARCHER service. If you do not agree to these Terms and Conditions, we will not be able to register you or allow you to use the service.
+Please read these Terms and Conditions. By clicking the "I accept the Terms and Conditions of Access" button you will be entering into a contract with the provider of the ARCHER2 service. If you do not agree to these Terms and Conditions, we will not be able to register you or allow you to use the service.
 
 Before accepting the Terms and Conditions, please note: you can change any of the details you have input by clicking your browser's BACK button and then editing them. You can also change them later by returning to this website. No specific copy of these Terms and Conditions will be filed under your name, but you can look at them at any time by going to this webpage. These Terms and Conditions are offered only in English.
 
