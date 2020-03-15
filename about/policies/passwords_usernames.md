@@ -5,7 +5,7 @@ summary: Passwords and Usernames policy
 ---
 
 
-For security reason there are certain restrictions governing the choice of usernames and passwords on ARCHER.
+For security reason there are certain restrictions governing the choice of usernames and passwords on ARCHER2.
 
 ## Passwords
 
