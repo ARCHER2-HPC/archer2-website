@@ -5,7 +5,7 @@ summary:  Policy on end of life procedures for ARCHER2 user accounts and project
 ---
 
 
-# Policy on end of life procedures for ARCHER user accounts and projects
+# Policy on end of life procedures for ARCHER2 user accounts and projects
 
 This page describes what happens when an account or project is no longer required on ARCHER2, or a user leaves a project. These situations are most likely to come about during one of the following three scenarios:
 
