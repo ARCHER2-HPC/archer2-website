@@ -4,7 +4,7 @@ title: ARCHER2 Diversity and Inclusion Policy
 summary: ARCHER2 Diversity and Inclusion Policy 
 ---
 
-# ARCHER: Diversity and Inclusion Policy
+# ARCHER2: Diversity and Inclusion Policy
 
 ## Policy Statement
 
@@ -19,12 +19,12 @@ The purpose of the policy is to:
 *    Foster a positive culture which supports freedom of thought and expression within the law, and within a framework of respect for the rights of other people.
 *    Promote and enable an inclusive environment where all individuals are treated with dignity and respect, free from bullying, harassment and discrimination.
 
-The policy provides a set of guidelines for ARCHER staff to follow. These are published and made available to those utilising ARCHER2 services, to provide confidence that the service is working to provide an inclusive environment for all individuals.
+The policy provides a set of guidelines for ARCHER2 staff to follow. These are published and made available to those utilising ARCHER2 services, to provide confidence that the service is working to provide an inclusive environment for all individuals.
 
-Equality Impact Assessements (EqIAs) will be completed for all areas of the ARCHER Service. EqIAs will be carried out within existing systems and frameworks. It is a recognised way of improving policy development and service delivery. By assessing equality impact we proactively consider the needs of our users, staff, stakeholders and the wider community, identify potential steps to advance equality and foster good relations, and ensure that we do not discriminate unlawfully.
+Equality Impact Assessements (EqIAs) will be completed for all areas of the ARCHER2 Service. EqIAs will be carried out within existing systems and frameworks. It is a recognised way of improving policy development and service delivery. By assessing equality impact we proactively consider the needs of our users, staff, stakeholders and the wider community, identify potential steps to advance equality and foster good relations, and ensure that we do not discriminate unlawfully.
 ## Key Measures for Organising Events
 
-The ARCHER2 service runs a significant number of events, including training courses, workshops and conferences. This section contains some recommended practices for organising these events. Not all practices are appropriate for all events, but all ARCHER staff should at least consider all of the following areas when organising an event.
+The ARCHER2 service runs a significant number of events, including training courses, workshops and conferences. This section contains some recommended practices for organising these events. Not all practices are appropriate for all events, but all ARCHER2 staff should at least consider all of the following areas when organising an event.
 
 ### Organising Groups and Committees
 
@@ -130,7 +130,7 @@ A survey of participants after the event can help to establish whether your dive
     https://github.com/numfocus/DISCOVER-Cookbook/blob/master/index.md
 *    The University of Edinburgh's Dignity and Respect Policy
     https://www.ed.ac.uk/files/atoms/files/dignity_and_respect_policy.pdf
-*    [ARCHER Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)  
+*    [ARCHER2 Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)  
 *    ARCHER2 Best Practice Guide: Improving Accessibility to HPC Training
     http://www.hpc-diversity.ac.uk/best-practice-guide/best-practice-guide-training
 *    ARCHER2 Best Practice Guide: Improving diversity at HPC conferences and events
