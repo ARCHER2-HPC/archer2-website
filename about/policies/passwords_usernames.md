@@ -5,7 +5,7 @@ summary: Passwords and Usernames policy
 ---
 
 
-For security reason there are certain restrictions governing the choice of usernames and passwords on ARCHER.
+For security reason there are certain restrictions governing the choice of usernames and passwords on ARCHER2.
 
 ## Passwords
 
@@ -37,7 +37,7 @@ Usernames are standardised and the rules governing them are:
 * Only alpha-numeric charcters allowed (no special charcters eg $,@)
 * Lowercase only
 * Must start with a letter
-* Must not be the same as a groupname on ARCHER
+* Must not be the same as a groupname on ARCHER2
 
 
 If you have any questions about the choice of passwords OR usernames on ARCHER2, please contact The [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).

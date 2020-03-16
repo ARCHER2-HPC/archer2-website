@@ -21,7 +21,7 @@ The ARCHER2 team will make reasonable adjustments to ensure specific individual 
 
 For the purpose of this policy, the term "websites" includes:
 
-*    Websites (public and non authenticated) managed and under the control of the ARCHER2 team using the archer.ac.uk domain (www.archer2.ac.uk/something).
+*    Websites (public and non authenticated) managed and under the control of the ARCHER2 team using the archer2.ac.uk domain (www.archer2.ac.uk/something).
 *    Material managed and hosted by the ARCHER2 team on these pages such as documents, audio, video and any other additional files.
 
 ### Policy principles
