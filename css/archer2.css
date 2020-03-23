@@ -532,3 +532,34 @@ footer div.copyright {
 --*/
 
 
+
+/*
+ * Styles for case studies
+ */
+div.casestudy {
+  width: 100%;
+  border-bottom: 1px solid black;
+  min-height: 200px;
+  display: block;
+  clear: both;
+  float: left;
+}
+
+div.casestudy div.csimage {
+  display: block;
+  float: left;
+  padding: 0;
+  padding-top: 30px;
+  width: auto;
+}
+
+div.casestudy div.cstext {
+  width: 67%;
+  display: block;
+  float: left;
+  padding: 15px;
+}
+
+/*
+ * End of Styles for case studies
+ */
