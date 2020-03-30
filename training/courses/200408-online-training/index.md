@@ -12,14 +12,6 @@ In this interactive webinar we will discuss our experiences of delivering online
 
 With face-to-face delivery simply not an option at present, and with the training programme for the ARCHER2 service due to start soon, we thought it was an ideal opportunity to share and discuss best practices for online training with the UK HPC community.
 
-
-## Presenters and Topics:  ##
-- David Henty : High-level overview of Online Training
-- Adam Carter : coordination of entire programme (DSTI)
-- Mark Bull : online training (OpenMP online) + OpenMP as a full course
-- Weronika Filinger : MOOC
-
-
 This online session is open to all.  It will use the Blackboard Collaborate platform and you can [join the session by clicking here](https://eu.bbcollab.com/guest/8f46a249e4d249bc99dc040b58c8815b) 
 
 
