@@ -82,12 +82,21 @@ Individual links to course provide more details on the content and prerequisites
       </tr>
     </thead>
     <tbody>
+
+      <tr>
+        <td><a href="courses/200408-online-training/">Best Practices for Online Training</a></td>
+        <td>Online</td>
+        <td>8 April 2020 15:00 BST</td>
+        <td><a href="courses/200408-online-training/">Details and join link</a></td>
+      </tr>
+
       <tr>
         <td><a href="courses/index.html#containers_for_research">Containers for Reproducible Research</a></td>
         <td>TBC</td>
         <td>13-14 July 2020</td>
         <td></td>
       </tr>
+
     </tbody>
   </table>
 </div>
