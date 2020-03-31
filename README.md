@@ -29,4 +29,4 @@ Once Jekyll is installed, you can test the website with:
 make serve
 ```
 
-This will run a temporary webserver from which you can view the updated website locally.
+This will run a temporary webserver from which you can view the updated website locally in a web browser.
