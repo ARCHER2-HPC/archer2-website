@@ -12,7 +12,23 @@ In this interactive webinar we will discuss our experiences of delivering online
 
 With face-to-face delivery simply not an option at present, and with the training programme for the ARCHER2 service due to start soon, we thought it was an ideal opportunity to share and discuss best practices for online training with the UK HPC community.
 
-This online session is open to all.  It will use the Blackboard Collaborate platform and you can [join the session by clicking here](https://eu.bbcollab.com/guest/8f46a249e4d249bc99dc040b58c8815b) 
+This online session is open to all.  It will use the Blackboard Collaborate platform. 
+
+
+<section id="service">
+  <div class="container">
+    <div class="row ">	
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="https://eu.bbcollab.com/guest/8f46a249e4d249bc99dc040b58c8815b">
+          <strong>Join Session</strong><br/>
+          Join this online session in your browser.
+        </a>
+      </div>
+										
+    </div>
+  </div>
+</section>
 
 
 
