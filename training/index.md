@@ -91,6 +91,13 @@ Individual links to course provide more details on the content and prerequisites
       </tr>
 
       <tr>
+        <td><a href="courses/2005-cluster-structures/">The determination of clusters structures combining infrared spectroscopy and density functional theory calculations</a></td>
+        <td>Online</td>
+        <td>tcb May Wednesday 15:00 BST</td>
+        <td> </td>
+      </tr>
+
+      <tr>
         <td><a href="courses/index.html#containers_for_research">Containers for Reproducible Research</a></td>
         <td>TBC</td>
         <td>13-14 July 2020</td>
