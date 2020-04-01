@@ -16,3 +16,4 @@ These policies form an integrated whole, based on the Terms and Conditions of Ac
 * [Website accessibility](accessibility.html)
 * [Diversity and Inclusion](diversity-inclusion.html)
 * [ARCHER2 Training Code of Conduct](../../training/code-of-conduct/)
+* [ARCHER2 Training Privacy Statement](../../training/code-of-conduct/training-privacy.html)
