@@ -7,7 +7,7 @@ banner: web_banners_03.jpg
 
 The ARCHER2 Service Desk is the first point of contact for all questions relating to the ARCHER2 Service. Support is available Monday to Friday from 08:00 until 18:00 UK time, excluding UK public holidays. The ARCHER2 Service Desk can be reached by:
 
-- [Email helpdesk@archer2.ac.uk](mailto:helpdesk@archer2.ac.uk)
+- [Email support@archer2.ac.uk](mailto:support@archer2.ac.uk)
 - Via the SAFE web tool (available soon)
 - Telephone: +44 (0)131 650 5000 (if the above number is unavailable, please use +44 (0)131 618 8313)
 - By post, to:
@@ -20,7 +20,7 @@ Edinburgh EH8 9BT
 
 Please try and provide as much background information as possible as this will speed up the processing time considerably. Existing ARCHER2 users will be asked for their user ID, project code, and, where applicable, the commands they are using and the error message they get.
 
-For more complex queries a callback may be booked to dicuss your issue with an EPCC expert at a time of your convenience. This may be done via Zoom or telephone.
+For more complex queries a callback may be booked to discuss your issue with an EPCC expert at a time of your convenience. This may be done via Zoom or telephone.
 
 ## How the Service Desk ticket system works
 
