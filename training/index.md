@@ -100,7 +100,7 @@ Individual links to course provide more details on the content and prerequisites
       <tr>
         <td><a href="courses/200422-archer2-hardware/">ARCHER2 Hardware </a></td>
         <td>Online</td>
-        <td>Wednesday 22nd April 2020 15:00 BST</td>
+        <td>Wednesday 22nd April 2020 11:00 BST</td>
         <td><a href="courses/200422-archer2-hardware/">Details and join link</a></td>
       </tr>			
 			
@@ -108,7 +108,7 @@ Individual links to course provide more details on the content and prerequisites
 			<tr>
         <td><a href="courses/200429-oracle-cloud-benchmarking/">Oracle Cloud HPC benchmarking results </a></td>
         <td>Online</td>
-        <td>Wednesday 22nd April 2020 15:00 BST</td>
+        <td>Wednesday 29th April 2020 11:00 BST</td>
         <td><a href="courses/200429-oracle-cloud-benchmarking/">Details and join link</a></td>
       </tr>			
 				
