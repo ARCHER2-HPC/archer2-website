@@ -86,15 +86,39 @@ Individual links to course provide more details on the content and prerequisites
       <tr>
         <td><a href="courses/200408-online-training/">Best Practices for Online Training</a></td>
         <td>Online</td>
-        <td>8 April 2020 15:00 BST</td>
+        <td>Wednesday 8th April 2020 15:00 BST</td>
         <td><a href="courses/200408-online-training/">Details and join link</a></td>
       </tr>
+			
+      <tr>
+        <td><a href="courses/200415-archer2-overview/">ARCHER2 Overview of service </a></td>
+        <td>Online</td>
+        <td>Wednesday 15th April 2020 15:00 BST</td>
+        <td><a href="courses/200415-archer2-overview/">Details and join link</a></td>
+      </tr>			
+			
+      <tr>
+        <td><a href="courses/200422-archer2-hardware/">ARCHER2 Hardware </a></td>
+        <td>Online</td>
+        <td>Wednesday 22nd April 2020 15:00 BST</td>
+        <td><a href="courses/200422-archer2-hardware/">Details and join link</a></td>
+      </tr>			
+			
+						
+			<tr>
+        <td><a href="courses/200429-oracle-cloud-benchmarking/">Oracle Cloud HPC benchmarking results </a></td>
+        <td>Online</td>
+        <td>Wednesday 22nd April 2020 15:00 BST</td>
+        <td><a href="courses/200429-oracle-cloud-benchmarking/">Details and join link</a></td>
+      </tr>			
+				
+			
 
       <tr>
-        <td><a href="courses/2005-cluster-structures/">The determination of clusters structures combining infrared spectroscopy and density functional theory calculations</a></td>
+        <td><a href="courses/200520-cluster-structures/">The determination of clusters structures combining infrared spectroscopy and density functional theory calculations</a></td>
         <td>Online</td>
-        <td>tcb May Wednesday 15:00 BST</td>
-        <td> </td>
+        <td>Wednesday 20th May 2020 15:00 BST</td>
+        <td><a href="courses/200520-cluster-structures/">Details and join link</a></td>
       </tr>
 
       <tr>
