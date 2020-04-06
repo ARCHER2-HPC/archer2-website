@@ -1,7 +1,7 @@
 ---
 layout: section
 title: The determination of clusters structures combining infrared spectroscopy and density functional theory calculations
-summary: tbc May 2020  Wednesday  15:00 BST
+summary: 20th May 2020  Wednesday  15:00 BST
 banner: web_banners_05.jpg
 ---
 
@@ -14,4 +14,19 @@ Therefore, determining the precise geometry of a cluster is a fundamental step t
 
 This online session is open to all.  It will use the Blackboard Collaborate platform. 
 
-Join link to follow once date is confirmed.
+
+
+<section id="service">
+  <div class="container">
+    <div class="row ">	
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="https://eu.bbcollab.com/guest/d394caa3c2c3482ea8df237f49691517">
+          <strong>Join Session</strong><br/>
+          Join this online session in your browser.
+        </a>
+      </div>
+										
+    </div>
+  </div>
+</section>
