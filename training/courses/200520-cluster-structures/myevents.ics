@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200407T111840Z
+UID:20200407T111840Z-1276468472@marudot.com
+DTSTART;TZID=Europe/London:20200520T150000
+DTEND;TZID=Europe/London:20200520T160000
+SUMMARY:The determination of clusters structures combining infrared spectroscopy and density functional theory calculations
+DESCRIPTION:Join: https://eu.bbcollab.com/guest/d394caa3c2c3482ea8df237f49691517\n\nPiero Ferrari will be presenting his work completed under the HPC-Europa3 Transnational Access programme\n\nIn clusters\, particles composed of just a countable number of atoms\, all physical and chemical properties depend strongly on size. In many cases\, adding a single atom can drastically modify properties such as stability\, chemical reactivity or magnetism\, which is a consequence of a fine interplay between geometry and electronic structure.\n\nTherefore\, determining the precise geometry of a cluster is a fundamental step towards an understanding of the size-dependent properties of these particles\, and possibly\, for their use in applications. In this talk\, a method able to determine the geometries of clusters will be discussed\, which combines infrared spectroscopy experiments performed at free electron facilities\, with density functional theory calculations. As a model system to illustrate this method\, the structures of gold and palladium doped gold clusters will be presented.\n\nThis online session is open to all. It will use the Blackboard Collaborate platform.
+LOCATION:https://eu.bbcollab.com/guest/d394caa3c2c3482ea8df237f49691517
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The determination of clusters structures combining infrared spectroscopy and density functional theory calculations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
