@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200407T171225Z
+UID:20200407T171225Z-1924314410@marudot.com
+DTSTART;TZID=Europe/London:20200429T110000
+DTEND;TZID=Europe/London:20200429T120000
+SUMMARY:Porting and performance of DiRAC HPC benchmarks on Oracle bare metal cloud
+DESCRIPTION:Join: https://eu.bbcollab.com/guest/4a74b75c76f84e4da50db0bddd240b6d\n\nAndy Turner\, EPCC/ARCHER2\n \nThe DiRAC facility provides access to HPC resources for researchers in the particle physics\, cosmology and astrophysics and nuclear physics community. At the moment all of these resources are provided through a variety of on-premises systems that are designed to meet different technical requirements of different research communities. As part of our forward technology watch\, the DiRAC RSE team are currently working with Oracle to evaluate the performance of their bare-metal HPC instances with RDMA-enabled interconnects on the recently developed DiRAC application benchmarking suite. In this presentation we will give details of progress with this project\, including:\n\n* assessing usability of the cloud resources for typical DiRAC users\;\n* reporting on application porting experience\; and\n* analysis of performance of the application benchmarks.\n\nWe will finish with a summary of readiness of the Oracle bare metal cloud service for use for researchers currently using DiRAC facilities\; provide an overview of how the user experience could be improved for researchers\; and note the next steps for our work in evaluating use of cloud to provide HPC resources to support academic researchers.\n\n\nThis online session is open to all. It will use the Blackboard Collaborate platform.
+LOCATION:https://eu.bbcollab.com/guest/4a74b75c76f84e4da50db0bddd240b6d
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Porting and performance of DiRAC HPC benchmarks on Oracle bare metal cloud
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

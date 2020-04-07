@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200407T170656Z
+UID:20200407T170656Z-1794339236@marudot.com
+DTSTART;TZID=Europe/London:20200422T110000
+DTEND;TZID=Europe/London:20200422T120000
+SUMMARY:Introduction to the ARCHER2 hardware and software
+DESCRIPTION:Join: https://eu.bbcollab.com/guest/d631f89f93ed40b08c9e6042d7c75495\n\nAndy Turner\, EPCC/ARCHER2\n\nIn this webinar we will give an overview of the technology that will make up the ARCHER2 national supercomputing service: based on the new Cray Shasta technology\, with AMD EPYC processors and the Cray Slingshot interconnect. This will cover the main Cray Shasta system itself as well as other associated parts of the service. We will also provide information on the software environment that will be available on the system\, including the Cray software environment and the initial plans for software provided by the ARCHER2 CSE service at EPCC. There will be plenty of opportunity for questions although we will not necessarily be able to answer all of them\, as we do not have access to the system yet.\n\n\nThis online session is open to all. It will use the Blackboard Collaborate platform.
+LOCATION:https://eu.bbcollab.com/guest/d631f89f93ed40b08c9e6042d7c75495
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Introduction to the ARCHER2 hardware and software
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
