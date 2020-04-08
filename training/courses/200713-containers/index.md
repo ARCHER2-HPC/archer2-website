@@ -17,7 +17,7 @@ This course aims to introduce the use of containers with the goal of using them 
 
 Trainers: Andy Turner (EPCC) and [Jeremy Cohen]( https://www.imperial.ac.uk/people/jeremy.cohen) (Imperial College)
 
-This course is part-funded by the ![PRACE](/img/prace_25.jfif) PRACE project and is free to all.
+This course is part-funded by the <img src="../../img/prace_25.jpg" alt="PRACE" /> PRACE project and is free to all.
 
 
 <section id="service">
