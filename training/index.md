@@ -98,7 +98,7 @@ Individual links to course provide more details on the content and prerequisites
       </tr>			
 			
       <tr>
-        <td><a href="courses/200422-archer2-hardware/">ARCHER2 Hardware </a></td>
+        <td><a href="courses/200422-archer2-hardware/">Introduction to the ARCHER2 hardware and software </a></td>
         <td>Online</td>
         <td>Wednesday 22nd April 2020 11:00 BST</td>
         <td><a href="courses/200422-archer2-hardware/">Details and join link</a></td>
@@ -106,7 +106,7 @@ Individual links to course provide more details on the content and prerequisites
 			
 						
 			<tr>
-        <td><a href="courses/200429-oracle-cloud-benchmarking/">Oracle Cloud HPC benchmarking results </a></td>
+        <td><a href="courses/200429-oracle-cloud-benchmarking/">Porting and performance of DiRAC HPC benchmarks on Oracle bare metal cloud </a></td>
         <td>Online</td>
         <td>Wednesday 29th April 2020 11:00 BST</td>
         <td><a href="courses/200429-oracle-cloud-benchmarking/">Details and join link</a></td>
@@ -122,10 +122,10 @@ Individual links to course provide more details on the content and prerequisites
       </tr>
 
       <tr>
-        <td><a href="courses/index.html#containers_for_research">Containers for Reproducible Research</a></td>
-        <td>TBC</td>
+        <td><a href="courses/200713-containers/">Reproducible computational environments using containers</a></td>
+        <td>Online</td>
         <td>13-14 July 2020</td>
-        <td></td>
+        <td><a href="https://events.prace-ri.eu/event/962/">Register</a></td>
       </tr>
 
     </tbody>
