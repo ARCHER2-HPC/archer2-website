@@ -125,7 +125,7 @@ Individual links to course provide more details on the content and prerequisites
         <td><a href="courses/200713-containers/">Reproducible computational environments using containers</a></td>
         <td>Online</td>
         <td>13-14 July 2020</td>
-        <td><a href="http://www.archer.ac.uk/training/registration/">Register</a></td>
+        <td><a href="https://events.prace-ri.eu/event/962/">Register</a></td>
       </tr>
 
     </tbody>

@@ -22,7 +22,7 @@ Trainers: Andy Turner (EPCC) and [Jeremy Cohen]( https://www.imperial.ac.uk/peop
     <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="http://www.archer.ac.uk/training/registration/">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="https://events.prace-ri.eu/event/962/">
           <strong>Register</strong><br/>
           Please complete the registration form to reserve your place.
         </a>
