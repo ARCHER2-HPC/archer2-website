@@ -31,7 +31,7 @@ This online session is open to all.  It will use the Blackboard Collaborate plat
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
            href="myevents.ics">
           <strong>Add to Calendar</strong><br/>
-          Download ICS file to add this event to you calendar complete with join link.
+          Download ICS file to add this event to your calendar complete with join link.
         </a>
       </div>
 										
