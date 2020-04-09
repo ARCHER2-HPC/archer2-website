@@ -22,7 +22,7 @@ banner: web_banners_05.jpg
     <tbody>
 
       <tr>
-        <td><a href="courses/200408-online-training/">Best Practices for Online Training</a></td>
+        <td><a href="../courses/200408-online-training/">Best Practices for Online Training</a></td>
         <td>Online</td>
         <td>Wednesday 8th April 2020 </td>
         <td><a href="https://youtu.be/7n6zxnJ1Bco">Video</a></td>
