@@ -11,7 +11,7 @@ banner: web_banners_05.jpg
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="#upcoming-training">
           <strong>Upcoming Training</strong><br/>
-          Details of face-to-face and online training opportunties delivered by the ARCHER2 service.
+          Details of face-to-face and online training opportunities delivered by the ARCHER2 service.
         </a>
       </div>
 	
