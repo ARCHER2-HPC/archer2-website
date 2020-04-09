@@ -11,7 +11,7 @@ banner: web_banners_05.jpg
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="#upcoming-training">
           <strong>Upcoming Training</strong><br/>
-          Details on the advanced computing hardware and technology provided by the ARCHER2 service.
+          Details of face-to-face and online training opportunties delivered by the ARCHER2 service.
         </a>
       </div>
 	
@@ -25,7 +25,7 @@ banner: web_banners_05.jpg
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="materials/">
           <strong>Course Repositories</strong><br/>
-          Repositories of materials from past ARCHER2 courses.
+          Repositories of materials from past ARCHER2 courses including videos from past online courses.
         </a>
       </div>	
 
@@ -83,12 +83,6 @@ Individual links to course provide more details on the content and prerequisites
     </thead>
     <tbody>
 
-      <tr>
-        <td><a href="courses/200408-online-training/">Best Practices for Online Training</a></td>
-        <td>Online</td>
-        <td>Wednesday 8th April 2020 15:00 BST</td>
-        <td><a href="courses/200408-online-training/">Details and join link</a></td>
-      </tr>
 			
       <tr>
         <td><a href="courses/200415-archer2-overview/">ARCHER2 Overview of service </a></td>
@@ -132,6 +126,9 @@ Individual links to course provide more details on the content and prerequisites
     </tbody>
   </table>
 </div>
+
+
+Recent courses will be moved to the [Materials repository](materials/) shortly after they have ended.
 
 ### ARCHER2 year one planned courses
 
