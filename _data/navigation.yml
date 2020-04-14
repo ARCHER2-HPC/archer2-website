@@ -44,6 +44,8 @@
   sublinks:
   - title: "Training"
     url: "/training/"
+  - title: "Upcoming Training"
+    url: "/training/#upcoming-training"
   - title: "Course Descriptions"
     url: "/training/courses/"    
   - title: "Training Materials Repository"
