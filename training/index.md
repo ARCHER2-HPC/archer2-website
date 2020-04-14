@@ -87,14 +87,14 @@ Individual links to course provide more details on the content and prerequisites
       <tr>
         <td><a href="courses/200415-archer2-overview/">ARCHER2 Overview: A Service for Users</a></td>
         <td>Online</td>
-        <td>Wednesday 15th April 2020 15:00 BST</td>
+        <td>Wednesday 15th April 2020 15:00-16:00 BST</td>
         <td><a href="courses/200415-archer2-overview/">Details and join link</a></td>
       </tr>			
 			
       <tr>
         <td><a href="courses/200422-archer2-hardware/">Introduction to the ARCHER2 hardware and software </a></td>
         <td>Online</td>
-        <td>Wednesday 22nd April 2020 11:00 BST</td>
+        <td>Wednesday 22nd April 2020 11:00-12:00 BST</td>
         <td><a href="courses/200422-archer2-hardware/">Details and join link</a></td>
       </tr>			
 			
@@ -102,7 +102,7 @@ Individual links to course provide more details on the content and prerequisites
 			<tr>
         <td><a href="courses/200429-oracle-cloud-benchmarking/">Porting and performance of DiRAC HPC benchmarks on Oracle bare metal cloud </a></td>
         <td>Online</td>
-        <td>Wednesday 29th April 2020 11:00 BST</td>
+        <td>Wednesday 29th April 2020 11:00-12:00 BST</td>
         <td><a href="courses/200429-oracle-cloud-benchmarking/">Details and join link</a></td>
       </tr>			
 				
@@ -111,7 +111,7 @@ Individual links to course provide more details on the content and prerequisites
       <tr>
         <td><a href="courses/200520-cluster-structures/">The determination of clusters structures combining infrared spectroscopy and density functional theory calculations</a></td>
         <td>Online</td>
-        <td>Wednesday 20th May 2020 15:00 BST</td>
+        <td>Wednesday 20th May 2020 15:00-16:00 BST</td>
         <td><a href="courses/200520-cluster-structures/">Details and join link</a></td>
       </tr>
 

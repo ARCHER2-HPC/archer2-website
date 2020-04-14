@@ -1,7 +1,7 @@
 ---
 layout: section
 title: The determination of clusters structures combining infrared spectroscopy and density functional theory calculations
-summary: 20th May 2020  Wednesday  15:00 BST
+summary: 20th May 2020  Wednesday  15:00-16:00 BST
 banner: web_banners_05.jpg
 ---
 

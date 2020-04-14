@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Introduction to the ARCHER2 hardware and software
-summary: Wednesday 22nd April 2020  11:00 BST
+summary: Wednesday 22nd April 2020  11:00-12:00 BST
 banner: web_banners_05.jpg
 ---
 
