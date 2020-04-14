@@ -85,7 +85,7 @@ Individual links to course provide more details on the content and prerequisites
 
 			
       <tr>
-        <td><a href="courses/200415-archer2-overview/">ARCHER2 Overview of service </a></td>
+        <td><a href="courses/200415-archer2-overview/">ARCHER2 Overview: A Service for Users</a></td>
         <td>Online</td>
         <td>Wednesday 15th April 2020 15:00 BST</td>
         <td><a href="courses/200415-archer2-overview/">Details and join link</a></td>
