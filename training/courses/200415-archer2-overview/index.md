@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 Overview of service
+title: ARCHER2 Overview - A Service for Users
 summary: Wednesday 15th April 2020  15:00 BST
 banner: web_banners_05.jpg
 ---
