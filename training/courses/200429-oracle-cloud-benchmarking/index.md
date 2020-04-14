@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Porting and performance of DiRAC HPC benchmarks on Oracle bare metal cloud
-summary: Wednesday 29th April 2020  11:00 BST
+summary: Wednesday 29th April 2020  11:00-12:00 BST
 banner: web_banners_05.jpg
 ---
 
