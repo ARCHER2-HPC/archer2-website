@@ -1,13 +1,13 @@
 ---
 layout: section
-title: ARCHER2 Training Materials
+title: ARCHER2 Training Materials and Past Courses
 summary: Training 
 banner: web_banners_05.jpg
 ---
 
-
-
-## 2020
+This page provides links to the past courses from ARCHER2. Each page also provides links to the 
+materials associated with the courses potentially including: slides, video recordings, practical
+exercises and solutions.
 
 <div class="table-responsive">
   <table class="table table-striped">
@@ -16,26 +16,23 @@ banner: web_banners_05.jpg
         <th>Course</th>
         <th>Venue</th>
         <th>Dates</th>
-        <th>Materials</th>
       </tr>
     </thead>
     <tbody>
-
+      {% assign filtered_courses = site.courses | where_exp: "course", "course.date < site.time" %}
+      {% for course in filtered_courses %}
       <tr>
-        <td><a href="../courses/200408-online-training/">Best Practices for Online Training</a></td>
-        <td>Online</td>
-        <td>Wednesday 8th April 2020 </td>
-        <td><a href="https://youtu.be/7n6zxnJ1Bco">Video</a><br /><br />
-							 <a href="../courses/200408-online-training/ARCHER2-VT-online.pdf">Overview slides</a><br />
-							 Synchronous vs Asynchronouse Delivers slides - to follow<br />
-							 <a href="../courses/200408-online-training/SC-Wkshp-MOOC-ARCHER2-VT.pdf">Supercomputing MOOCs slides</a><br />
-							 Online MSc Programmes slides - to follow
-
-							 		
-				
-				</td>
-      </tr>
-
+      <td>
+        <a href="{{ course.url }}">{{ course.title }}</a>
+      </td>
+      <td>
+        {{ course.location }}
+      </td>
+      <td>
+        {{ course.human_dates }}
+      </td>
+     </tr>
+      {% endfor %}
     </tbody>
   </table>
 </div>

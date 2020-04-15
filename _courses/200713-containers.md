@@ -1,8 +1,16 @@
 ---
-layout: section
+layout: course
 title: Reproducible computational environments using containers
-summary: 13 - 14 July 2020  
-banner: web_banners_05.jpg
+banner: web_banners_05.jpg 
+human_dates: 13 - 14 July 2020
+date: 2020-07-13 10:00:00
+trainers: Andy Turner (EPCC), Jeremy Cohen (Imperial College)
+course_type: course
+registration_status: open
+registration_url: https://events.prace-ri.eu/event/962/
+location: Online
+location_url:
+prace_course: true
 ---
 
 
@@ -18,26 +26,4 @@ This course aims to introduce the use of containers with the goal of using them 
 Trainers: Andy Turner (EPCC) and [Jeremy Cohen]( https://www.imperial.ac.uk/people/jeremy.cohen) (Imperial College)
 
 Location: This course will be run primarily as a remote attendance course but depending on how the current situation evolves over the coming weeks, there may also be an opportunity to attend the training in person at Imperial College London's South Kensington Campus. We will advise whether in-person attendance is possible in mid June.
-
-This course is part-funded by the <img src="../../img/prace_25.jpg" alt="PRACE" /> PRACE project and is free to all.
-
-
-<section id="service">
-  <div class="container">
-    <div class="row ">	
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="https://events.prace-ri.eu/event/962/">
-          <strong>Register</strong><br/>
-          Please complete the registration form to reserve your place.
-        </a>
-      </div>
-
-
-										
-    </div>
-  </div>
-</section>
-
-
 

@@ -1,8 +1,16 @@
 ---
-layout: section
+layout: course
 title: The determination of clusters structures combining infrared spectroscopy and density functional theory calculations
-summary: 20th May 2020  Wednesday  15:00-16:00 BST
 banner: web_banners_05.jpg
+human_dates: 20th May 2020  Wednesday 15:00 BST
+date: 2020-05-20 15:00:00
+trainers: Piero Ferrari (KU Leuven)
+course_type: vt
+registration_status:
+registration_url:
+location: Online
+location_url:
+prace_course: false
 ---
 
 Piero Ferrari will be presenting his work completed under the HPC-Europa3 Transnational Access programme
@@ -11,10 +19,7 @@ In clusters, particles composed of just a countable number of atoms, all physica
 
 Therefore, determining the precise geometry of a cluster is a fundamental step towards an understanding of the size-dependent properties of these particles, and possibly, for their use in applications. In this talk, a method able to determine the geometries of clusters will be discussed, which combines infrared spectroscopy experiments performed at free electron facilities, with density functional theory calculations. As a model system to illustrate this method, the structures of gold and palladium doped gold clusters will be presented.
 
-
 This online session is open to all.  It will use the Blackboard Collaborate platform. 
-
-
 
 <section id="service">
   <div class="container">
