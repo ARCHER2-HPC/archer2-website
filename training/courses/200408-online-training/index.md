@@ -28,7 +28,7 @@ With face-to-face delivery simply not an option at present, and with the trainin
   <li>Discussion and questions :  58:17</li>  
 </ul>
 
-### Sides
+### Slides
 
 <ul>
   <li>	 <a href="ARCHER2-VT-online.pdf">Overview slides</a></li>
