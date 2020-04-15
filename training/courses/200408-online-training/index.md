@@ -19,5 +19,20 @@ With face-to-face delivery simply not an option at present, and with the trainin
 
 </div>
 
+<ul>
+  <li>Introduction - David Henty : 0:00</li>
+  <li>Overview - David Henty : 2:26 </li> 
+  <li>Synchronous vs Asynchronous Delivery - Mark Bull :  16:35 </li>
+  <li>Supercomputing MOOCs  David Henty :  34:02</li>  
+  <li>Online MSc Programmes - Adam Carter :  43:53</li>  
+  <li>Discussion and questions :  58:17</li>  
+</ul>
 
+### Slides
 
+<ul>
+  <li>	 <a href="ARCHER2-VT-online.pdf">Overview slides</a></li>
+  <li>	 Synchronous vs Asynchronouse Delivers slides - to follow</li>
+  <li>	 <a href="SC-Wkshp-MOOC-ARCHER2-VT.pdf">Supercomputing MOOCs slides</a></li>
+  <li>	 Online MSc Programmes slides - to follow</li>
+</ul>
