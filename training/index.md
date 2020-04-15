@@ -82,47 +82,43 @@ Individual links to course provide more details on the content and prerequisites
       </tr>
     </thead>
     <tbody>
-
-			
+      {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date >= site.time" %}
+      {% for course in filtered_courses %}
       <tr>
-        <td><a href="courses/200415-archer2-overview/">ARCHER2 Overview: A Service for Users</a></td>
-        <td>Online</td>
-        <td>Wednesday 15th April 2020 15:00-16:00 BST</td>
-        <td><a href="courses/200415-archer2-overview/">Details and join link</a></td>
-      </tr>			
-			
-      <tr>
-        <td><a href="courses/200422-archer2-hardware/">Introduction to the ARCHER2 hardware and software </a></td>
-        <td>Online</td>
-        <td>Wednesday 22nd April 2020 11:00-12:00 BST</td>
-        <td><a href="courses/200422-archer2-hardware/">Details and join link</a></td>
-      </tr>			
-			
-						
-			<tr>
-        <td><a href="courses/200429-oracle-cloud-benchmarking/">Porting and performance of DiRAC HPC benchmarks on Oracle bare metal cloud </a></td>
-        <td>Online</td>
-        <td>Wednesday 29th April 2020 11:00-12:00 BST</td>
-        <td><a href="courses/200429-oracle-cloud-benchmarking/">Details and join link</a></td>
-      </tr>			
-				
-			
-
-      <tr>
-        <td><a href="courses/200520-cluster-structures/">The determination of clusters structures combining infrared spectroscopy and density functional theory calculations</a></td>
-        <td>Online</td>
-        <td>Wednesday 20th May 2020 15:00-16:00 BST</td>
-        <td><a href="courses/200520-cluster-structures/">Details and join link</a></td>
-      </tr>
-
-      <tr>
-        <td><a href="courses/200713-containers/">Reproducible computational environments using containers</a></td>
-        <td>Online</td>
-        <td>13-14 July 2020</td>
-        <td><img src="img/prace_25.jpg" alt="PRACE">
-		<a href="https://events.prace-ri.eu/event/962/">Register</a></td>
-      </tr>
-
+      <td>
+        <a href="{{ course.url }}">{{ course.title }}</a>
+      </td>
+      <td>
+        {{ course.location }}
+      </td>
+      <td>
+        {{ course.human_dates }}
+      </td>
+      <td>
+        {% if course.course_type == "vt" %}
+          <a href="{{ course.url }}">More details and join link</a>
+        {% else %}
+          {% if course.registration_url %}
+            {% if course.registration_status == "open" %}
+              {% if course.prace_course %}
+            <a href="{{ course.registration_url }}"><img src="img/prace_25.jpg" alt="PRACE"/> Register</a>
+              {% else %}
+            <a href="{{ course.registration_url }}">Register</a>
+              {% endif %}
+            {% elsif course.registration_status == "full" %}
+              {% if course.prace_course %}
+            <a href="{{ course.registration_url }}"><img src="img/prace_25.jpg" alt="PRACE"/> Join waiting list</a>
+              {% else %}
+            <a href="{{ course.registration_url }}">Join waiting list</a>
+              {% endif %}
+            {% else %}
+            &nbsp;
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      </td>
+     </tr>
+      {% endfor %}
     </tbody>
   </table>
 </div>

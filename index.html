@@ -50,11 +50,12 @@ permalink: /
         <div class="service-item-tall">
           <h4><a href="training/">Upcoming Training</a></h4>
           <ul>
-              <li>
-                <a href="training/courses/index.html#containers_for_research">Containers for Reproducible Research</a><br/>
-                Date: 13 &amp; 14 July 2020<br/>
-                Location: TBC
-              </li>
+            {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date >= site.time" %}
+            {% for course in filtered_courses limit:5 %}
+            <li>
+              <a href="{{ course.url }}">{{ course.title }}</a><br/>Date: {{ course.human_dates }}<br/>Location: {{ course.location }} 
+            </li>
+            {% endfor %}
           </ul>
           <p class="more"><a href="training/">More Training&hellip;</a></p>
         </div>

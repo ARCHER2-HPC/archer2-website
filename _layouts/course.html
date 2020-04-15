@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="lines">
+        </div>
+    </div>
+</div>
+
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>{{ page.title }}</h1>
+                    <p>{{ page.trainers }}</p>
+                    <p>{{ page.human_dates }}</p>
+                    {% if page.location %}
+                    <p>{{ page.location }}</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="main-content">
+    <div class="container">
+{{ content }}
+
+{% if page.prace_course %}
+<p>This course is part-funded by the <img src="../../img/prace_25.jpg" alt="PRACE" /> PRACE project and is free to all.</p>
+{% endif %}
+
+    </div>
+</section>
+
+{% if page.registration_url %}
+<section id="service">
+    <div class="container">
+        <div class="row ">	
+    {% if page.registration_status == "open" %}
+            <div class="col-xs-6 col-sm-4">
+                <a class="ar2_linkbox ar2_linkbox-teal" href="{{ page.registration_url }}">
+                <strong>Register</strong><br/>
+                Please complete the registration form to reserve your place.
+                </a>
+            </div>	
+    {% elsif page.registration_status == "full" %}
+            <div class="col-xs-6 col-sm-4">
+                <a class="ar2_linkbox ar2_linkbox-teal" href="{{ page.registration_url }}">
+                <strong>Join Waiting List</strong><br/>
+                This course is currently full. Please complete the registration form to join the waiting list.
+                </a> 
+            </div>	
+    {% else %}
+            <p>Registration is not currently available for this course.</p>
+    {% endif %}
+					
+        </div>
+    </div>
+</section>
+{% endif %}
