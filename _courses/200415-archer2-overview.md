@@ -4,7 +4,7 @@ title: ARCHER2 Overview - A Service for Users
 banner: web_banners_05.jpg
 human_dates: Wednesday 15th April 2020  15:00 BST
 start_date: 2020-04-15 15:00:00
-end_date: 2020-04-15 15:00:00
+end_date: 2020-04-15 16:00:00
 trainers: Lorna Smith (EPCC), Alan Simpson (EPCC)
 course_type: vt
 registration_status:
