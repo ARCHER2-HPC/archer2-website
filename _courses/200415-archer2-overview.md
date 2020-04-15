@@ -24,30 +24,13 @@ The first of a series of tutorials, this tutorial will provide a high-level over
 
 The tutorial will not cover the hardware of the ARCHER2 service, this will be covered by a tutorial on the [22nd April](../200422-archer2-hardware/).
 
-This online session is open to all.  It will use the Blackboard Collaborate platform. 
-
-<section id="service">
-  <div class="container">
-    <div class="row ">	
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="https://eu.bbcollab.com/guest/59dfbc0fca424fc4a3ee51c243425cb9">
-          <strong>Join Session</strong><br/>
-          Join this online session in your browser.
-        </a>
-      </div>
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="myevents.ics">
-          <strong>Add to Calendar</strong><br/>
-          Download ICS file to add this event to your calendar complete with join link.
-        </a>
-      </div>
-										
-    </div>
-  </div>
-</section>
 
 
-<p><a href="ARCHER2_Overview_v1.0.pdf"><img src="ARCHER2_Overview_v1.0.png" alt="Slides" width="40%"/></a></p>
+<div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfDrbfoBLUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
+<p><a href="ARCHER2_Overview_v1.0.pdf"><img src="ARCHER2_Overview_v1.0.png" alt="Slides" title="Slides as pdf" width="30%"/></a></p>
