@@ -3,7 +3,8 @@ layout: course
 title: The determination of clusters structures combining infrared spectroscopy and density functional theory calculations
 banner: web_banners_05.jpg
 human_dates: 20th May 2020  Wednesday 15:00 BST
-date: 2020-05-20 15:00:00
+start_date: 2020-05-20 15:00:00
+end_date: 2020-05-20 16:00:00
 trainers: Piero Ferrari (KU Leuven)
 course_type: vt
 registration_status:

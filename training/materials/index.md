@@ -19,7 +19,7 @@ exercises and solutions.
       </tr>
     </thead>
     <tbody>
-      {% assign filtered_courses = site.courses | where_exp: "course", "course.date < site.time" %}
+      {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
       {% for course in filtered_courses %}
       <tr>
       <td>

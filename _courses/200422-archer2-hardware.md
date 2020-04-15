@@ -3,7 +3,8 @@ layout: course
 title: Introduction to the ARCHER2 hardware and software
 banner: web_banners_05.jpg
 human_dates: Wednesday 22nd April 2020 11:00 BST
-date: 2020-04-22 11:00:00
+start_date: 2020-04-22 11:00:00
+end_date: 2020-04-22 12:00:00
 trainers: Andy Turner (EPCC)
 course_type: vt
 registration_status:

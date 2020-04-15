@@ -3,7 +3,8 @@ layout: course
 banner: web_banners_05.jpg
 title: Best Practices for Online Training
 human_dates: Wednesday 8th April 2020, 15:00 BST
-date: 2020-04-08 15:00:00
+start_date: 2020-04-08 15:00:00
+end_date: 2020-04-08 16:00:00
 trainers: David Henty (EPCC)
 course_type: vt
 registration_status: closed

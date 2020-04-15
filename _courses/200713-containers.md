@@ -3,7 +3,8 @@ layout: course
 title: Reproducible computational environments using containers
 banner: web_banners_05.jpg 
 human_dates: 13 - 14 July 2020
-date: 2020-07-13 10:00:00
+start_date: 2020-07-13 10:00:00
+start_date: 2020-07-14 16:00:00
 trainers: Andy Turner (EPCC), Jeremy Cohen (Imperial College)
 course_type: course
 registration_status: open
