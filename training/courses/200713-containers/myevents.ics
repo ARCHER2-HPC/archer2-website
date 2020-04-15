@@ -24,8 +24,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20200414T142105Z
 UID:20200414T142105Z-861639248@marudot.com
-DTSTART;VALUE=DATE:20200713
-DTEND;VALUE=DATE:20200715
+DTSTART;TZID=Europe/London:20200713T100000
+DTEND;TZID=Europe/London:20200714T160000
 SUMMARY:Reproducible computational environments using containers
 DESCRIPTION:\nReproducible computational environments using containers\n\n13 - 14 July 2020\n\nThis course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will mostly be based around the use of Docker containers but the material will be of use for whatever container technology you plan to\, or end up\, using. We will also briefly introduce the Singularity container environment which is compatible with Docker and designed for use on multi-user systems (such as HPC resources). On completion of this course attendees should:\n\n    Understand what containers are and what they are used for\n    Understand how to manage and create Docker containers\n    Appreciate decisions that need to be made around containerising research workflows\n    Understand the differences between Docker and Singularity containers and why Singularity is more suitable for multi-user systems (e.g. HPC)\n    Understand how to manage and create Singularity containers\n    Appreciate how containers can be used to enable and improve reproducibility in research\n\nTrainers: Andy Turner (EPCC) and Jeremy Cohen (Imperial College)\n\nLocation: This course will be run primarily as a remote attendance course but depending on how the current situation evolves over the coming weeks\, there may also be an opportunity to attend the training in person at Imperial College London’s South Kensington Campus. We will advise whether in-person attendance is possible in mid June.\n\nThis course is part-funded by the PRACE PRACE project and is free to all.
 TRANSP:OPAQUE
