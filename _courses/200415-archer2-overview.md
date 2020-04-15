@@ -48,3 +48,6 @@ This online session is open to all.  It will use the Blackboard Collaborate plat
     </div>
   </div>
 </section>
+
+
+<p><a href="ARCHER2_Overview_v1.0.pdf"><img src="ARCHER2_Overview_v1.0.png" alt="Slides" width="40%"/></a></p>
