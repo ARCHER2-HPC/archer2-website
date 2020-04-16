@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200416T144042Z
+UID:20200416T144042Z-1151065505@marudot.com
+DTSTART;TZID=Europe/London:20200504T140000
+RRULE:FREQ=DAILY;INTERVAL=7;UNTIL=20200518T130000Z
+DTEND;TZID=Europe/London:20200504T163000
+SUMMARY:LAMMPs Online
+DESCRIPTION:LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely-used classical \nmolecular dynamics (MD) code. This C++ code is easy to use\, incredibly versatile\, and parallelised \nto run efficiently on both small-scale personal computers and CPU/GPU/CPU&GPU HPC clusters. As of 2018\, \nLAMMPS has been used\, to some degree\, in over 14\,000 publications in fields as varied as chemistry\, \nphysics\, material science\, granular and lubricated-granular flow\, etc.\n\nThe course will be run over three 2.5 hour-long sessions. \n\nThe first session will be \nan introduction to setting up and running an MD simulation using LAMMPS. We will begin \nby running a simulation of a Lennard-Jones fluid before delving deeper into how simulations \ncan be set up and run in LAMMPS. \n\nIn the second session\, we will discuss how to download and \ninstall LAMMPS\, with a more in-depth discussion of the various packages LAMMPS offers and how \nto use them efficiently.\n\nThe third session will be a follow-up session for exercises\, discussion and questions.
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LAMMPs Online
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
