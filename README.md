@@ -26,7 +26,7 @@ If you wish to build the website locally, then you should install Jekyll:
 Once Jekyll is installed, you can test the website with:
 
 ```
-make serve
+bundle exec jekyll serve
 ```
 
 This will run a temporary webserver from which you can view the updated website locally in a web browser.
@@ -45,7 +45,7 @@ The course file should look something like:
 ---
 layout: course
 title: A great HPC course
-banner: web_banners_05.jpg 
+banner: web_banners_05.jpg
 human_dates: 14 July 2020
 start_date: 2020-07-14 10:00:00
 end_date: 2020-07-14 17:00:00
@@ -76,5 +76,3 @@ A brief description of the frontmatter settings and what they do:
    - `location: Online` Location of the course to be displayed on the webpages
    - `location_url:` URL link to the location to make location text a link
    - `prace_course: false` Set if this course is supported by PRACE, if so adds the PRACE logo and additional text about free access
-
-
