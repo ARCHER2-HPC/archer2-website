@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2 Spectrum of Support
 banner: web_banners_05.jpg
-human_dates: Wednesday 13th May 2020  15:00 BST
+human_dates: Wednesday 13th May 2020  15:00 - 16:00 BST
 start_date: 2020-05-13 15:00:00
 end_date: 2020-05-13 16:00:00
 trainers: George Beckett (EPCC), Josephine Beech-Brand (EPCC) and Xu Guo (EPCC)

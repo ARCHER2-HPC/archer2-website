@@ -2,7 +2,7 @@
 layout: course
 title: Porting and performance of DiRAC HPC benchmarks on Oracle bare metal cloud
 banner: web_banners_05.jpg
-human_dates: Wednesday 29th April 2020  11:00 BST
+human_dates: Wednesday 29th April 2020  11:00 - 12:00 BST
 start_date: 2020-04-29 11:00:00
 end_date: 2020-04-29 12:00:00
 trainers: Andy Turner (EPCC/DiRAC)
