@@ -2,7 +2,7 @@
 layout: course
 title: Introduction to the ARCHER2 hardware and software
 banner: web_banners_05.jpg
-human_dates: Wednesday 22nd April 2020 11:00 BST
+human_dates: Wednesday 22nd April 2020 11:00 - 12:00 BST
 start_date: 2020-04-22 11:00:00
 end_date: 2020-04-22 12:00:00
 trainers: Andy Turner (EPCC)
@@ -40,6 +40,8 @@ This online session is open to all.  It will use the Blackboard Collaborate plat
     </div>
   </div>
 </section>
+
+<p><a href="2020-04-22_ARCHER2_HardwareSoftware.pdf"><img src="2020-04-22_ARCHER2_HardwareSoftware.png" alt="Slides" title="Slides as PDF" width="30%"/></a></p>
 
 
 

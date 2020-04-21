@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200421T092117Z
+UID:20200421T092117Z-658826452@marudot.com
+DTSTART;TZID=Europe/London:20200513T150000
+DTEND;TZID=Europe/London:20200513T160000
+SUMMARY:ARCHER2 Spectrum of Support
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2F665f95227c6049b99a223e2daf972006
+DESCRIPTION:ARCHER2 CSE's mission is to help people take full advantage of the opportunities provided by a world-class HPC systems\, such as ARCHER2. EPCC has a strong track recording in helping researchers to exploit the complexities of a supercomputer\, through our work on ARCHER\, DiRAC\, and Cirrus\, to name just a few. Building on that experience\, and responding to feedback from the HPC community\, we have assembled a package of support for ARCHER2 which we call the Spectrum of Support. The package will benefit all\, from first-time users who wish to upscale their research-computing capabilities through to long-standing experts who want to exploit every aspect of the service to maximise their science.\n\nFor existing ARCHER users\, the Spectrum of Support will have much that is familiar but also some new functions\, intended to bridge the gap between queries to address specific problems through to large-scale eCSE funding awards\, including technical mini-project and lightweight eCSE options. We have also expanded the ways in which people can engage with us and embraced new technology to enable users to share their experience and expertise to the benefit of the whole community.\n\nJoin Link : https://eu.bbcollab.com/guest/665f95227c6049b99a223e2daf972006
+LOCATION:https://eu.bbcollab.com/guest/665f95227c6049b99a223e2daf972006
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Spectrum of Support
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
