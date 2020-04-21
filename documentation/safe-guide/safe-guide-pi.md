@@ -111,7 +111,7 @@ banner: web_banners_09.jpg
 <p>Here are some of the things you should consider doing; not all of
 	them will be needed for every project.</p>
 <ol>
-	<li><a href="safe-guide-users.php#chpass">Change your own SAFE password</a></li>
+	<li><a href="safe-guide-users#chpass">Change your own SAFE password</a></li>
 	<li><a href="#selfac">Set up an account on the service machine for
 			yourself</a></li>
 	<li><a href="#regusers">Make sure other project users get registered</a></li>
@@ -130,7 +130,7 @@ banner: web_banners_09.jpg
 	<a href="http://youtu.be/p1A-ZZfhQjk"><img
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a>.</li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a>.</li>
 	<li>Go to the Menu <em>Login accounts</em> and select <em>Request login
 			account</em> button.
 	</li>
@@ -149,7 +149,7 @@ banner: web_banners_09.jpg
 
 <h4 id="projalert">How can I check project alerts?</h4>
 <p>
-	<a href="safe-guide-users.php#login">Login to SAFE</a>. Then:
+	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
 <ol>
 	<a href="http://youtu.be/najseGcj3VQ"><img
@@ -187,7 +187,7 @@ banner: web_banners_09.jpg
 	expire.</p>
 <p>You can view and manage your period allocation via SAFE.</p>
 <p>
-	<a href="safe-guide-users.php#login">Login to SAFE</a>. Then:
+	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
 <ol>
 	<a href="http://youtu.be/aJfj9V9xbC8"><img
@@ -236,7 +236,7 @@ banner: web_banners_09.jpg
 	<a href="http://youtu.be/YwYpN61wygE"><img
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a>.</li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a>.</li>
 	<li>Go to the Menu <em>Projects managed</em> and select the <em>project</em>
 		you wish to create the group
 	</li>
@@ -343,7 +343,7 @@ banner: web_banners_09.jpg
 <h4 id="mvtime">How can I move time between budgets?</h4>
 
 <p>
-	<a href="safe-guide-users.php#login">Login to SAFE</a>, and then:
+	<a href="safe-guide-users#login">Login to SAFE</a>, and then:
 </p>
 
 <ol>
@@ -500,7 +500,7 @@ system's technology can do.</p>
 </p>
 
 <ol>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a></li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a></li>
 	<li>Go to the Menu <em>Projects manaaged</em> and select the <em>project</em>
 		you wish to work on. This will display a panel with the project
 		information.
@@ -547,7 +547,7 @@ the distribution of data and quota across the OSTs.</p>
 	total space. To set a quota for a user or users:</p>
 
 <ol>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a></li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a></li>
 	<li>Go to the Menu <em>Projects managed</em> and select the <em>project</em>
 		you wish to work on. This will display a panel with the project
 		information.
@@ -576,8 +576,8 @@ the distribution of data and quota across the OSTs.</p>
 	You must not apply for machine accounts on behalf of other users, or
 	let others use accounts that belong to you. Account sharing is strictly
 	forbidden on ARCHER2. Every user must <a
-		href="safe-guide-users.php#register">register on SAFE</a> and then <a
-		href="safe-guide-users.php#getac">apply for their own machine account</a>
+		href="safe-guide-users#register">register on SAFE</a> and then <a
+		href="safe-guide-users#getac">apply for their own machine account</a>
 </p>
 <p>
 	In order to get an account, a potential user just needs to know the project machine and code.
@@ -587,14 +587,14 @@ the distribution of data and quota across the OSTs.</p>
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
 	<li>Give the users the project code and any advice on what username they should request in your project if you wish.</li>
-	<li>Every user must <a href="safe-guide-users.php#register">register on
-			SAFE</a> and then <a href="safe-guide-users.php#getac">apply for
+	<li>Every user must <a href="safe-guide-users#register">register on
+			SAFE</a> and then <a href="safe-guide-users#getac">apply for
 			their own machine account</a>
 	</li>
 	<li>If you notice that the Menu <em>Projects managed</em> is
 		highlighted orange, then this indicates that there is a request for
 		project membership. Now you have to accept (or reject) each user's
-		request. <a href="safe-guide-users.php#login">Login to SAFE</a>.
+		request. <a href="safe-guide-users#login">Login to SAFE</a>.
 	</li>
 	<li>Go to the Menu <em>Projects managed</em> and select <em>project
 			requests</em> and you will see the details of the user who has
@@ -616,7 +616,7 @@ the distribution of data and quota across the OSTs.</p>
 	When you accept a user, the systems team is automatically requested to
 	create the account on the service machine. When this has been done, the
 	user is emailed; allow a working day for this. The user can then login
-	to SAFE and <a href="safe-guide-users.php#getpass">pick up their
+	to SAFE and <a href="safe-guide-users#getpass">pick up their
 		password on the service machine</a>.
 </p>
 
@@ -625,7 +625,7 @@ the distribution of data and quota across the OSTs.</p>
 
 <h4 id="signup">How to track user sign up requests</h4>
 <p>
-	<a href="safe-guide-users.php#login">Login to SAFE</a>. Then:
+	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
 <ol>
 	<a href="http://youtu.be/u7Pa5tLqyfA"><img
@@ -655,7 +655,7 @@ the distribution of data and quota across the OSTs.</p>
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
 	<li>Make sure the user has an account in your project.</li>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a>.</li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a>.</li>
 	<li>Go to the Menu <em>Projects managed</em> and select the <em>project</em>
 		you wish to appoint a project manager for. This will display a screen
 		with a variety of options for managing the project.
@@ -684,7 +684,7 @@ the distribution of data and quota across the OSTs.</p>
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
 	<li>Make sure the user has an account in your project.</li>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a>.</li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a>.</li>
 	<li>Go to the Menu <em>Projects managed</em> and select the <em>project</em>
 		you wish to appoint a project sub-group manager for.
 	</li>
@@ -707,7 +707,7 @@ the distribution of data and quota across the OSTs.</p>
 <h4 id="addu">How can I add users to an existing project group?</h4>
 
 <p>
-	<a href="safe-guide-users.php#login">Login to SAFE</a>. Then:
+	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
 <ol>
 	<a href="http://youtu.be/-vbPS9l1RJI"><img
@@ -743,7 +743,7 @@ the distribution of data and quota across the OSTs.</p>
 <h4 id="remu">How can I remove a user from a project group?</h4>
 
 <p>
-	<a href="safe-guide-users.php#login">Login to SAFE</a>. Then:
+	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
 
 <ol>
@@ -788,7 +788,7 @@ the distribution of data and quota across the OSTs.</p>
 	<a href="http://youtu.be/x7yH0eA60Rg"><img
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a></li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a></li>
 	<li>Go to the Menu <em>Projects managed</em> and select the <em>project</em>
 		you are working on.
 	</li>
@@ -811,7 +811,7 @@ the distribution of data and quota across the OSTs.</p>
 	want? If so:</p>
 
 <ul>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a></li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a></li>
 	<li>Go to the Menu <em>Projects managed</em> and select the <em>project</em>
 		you wish to work on. This will display a screen with a variety of
 		options for managing the project.
@@ -831,7 +831,7 @@ the distribution of data and quota across the OSTs.</p>
 	machine will be closed.</p>
  -->
  
- <p>Please check the <a href="https://www.archer2.ac.uk/about/policies/project_account_closing.html"> ARCHER2 policy</a> on on end 
+ <p>Please check the <a href="https://www.archer2.ac.uk/about/policies/project_account_closing"> ARCHER2 policy</a> on on end 
  of life procedures for ARCHER2 user accounts.<br />
 <br />
 If you wish to remove a user from your project, please email <a href="mailto:support@archer2.ac.uk">support@archer2.ac.uk</a> giving the username
@@ -847,7 +847,7 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 	<a href="http://youtu.be/mvHZl5MQN0c"><img
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a></li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a></li>
 	<li>Go to the Menu <em>Projects Managed</em> and select the <em>project</em>
 		you wish to work on. This will display a screen with a variety of
 		options for managing the project.
@@ -876,7 +876,7 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 	space</h4>
 
 <p>
-	<a href="safe-guide-users.php#login">Login to SAFE</a>. Then:
+	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
 
 <ol>
@@ -905,7 +905,7 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 <p>This can be done using the Report Generator</p>
 
 <ol>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a>.</li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a>.</li>
 	<li>Go to the Menu <em>Service information</em> and select <em>Report
 			generator</em>
 	</li>
@@ -927,7 +927,7 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 	<a href="http://youtu.be/eBRjOQLpyL8"><img
 		src="../../img/video_play_icon.jpg" alt="Play video"
 		title="Play video" style="float: right; border: 0"></a>
-	<li><a href="safe-guide-users.php#login">Login to SAFE</a>.</li>
+	<li><a href="safe-guide-users#login">Login to SAFE</a>.</li>
 	<li>Go to the Menu <em>Projects Managed</em> and select the <em>project</em>
 		you wish to work on. This will display a screen with a variety of
 		options for managing the project.

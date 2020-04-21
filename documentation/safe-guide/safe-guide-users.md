@@ -253,7 +253,7 @@ passwd
 </pre>
 
 <p>You will then be prompted to enter your current password, and then your new password twice.
-Your password must comply with the <a href="https://www.archer.ac.uk/about-archer/policies/passwords_usernames.php">password policy</a>.</p>
+Your password must comply with the <a href="https://www.archer2.ac.uk/about/policies/passwords_usernames">password policy</a>.</p>
 
 <p>If you have forgotten your current password, or it has expired, then you can ask for it to be reset:</p>
 
@@ -287,7 +287,7 @@ Your password must comply with the <a href="https://www.archer.ac.uk/about-arche
 	
 	<p>After you login, you will be prompted to change it. You should paste in the password retreived from SAFE again, and then 
   you will be prompted to type in your new, easy-to-remember password, twice. Your password must 
-	comply with the <a href="https://www.archer.ac.uk/about-archer/policies/passwords_usernames.php">password policy</a>.</p>
+	comply with the <a href="https://www.archer2.ac.uk/about/policies/passwords_usernames">password policy</a>.</p>
 	
 	<p>Note that when you change your password on the service
    machine  in this way, this is not reflected on the SAFE.</p>
@@ -541,7 +541,7 @@ publications). We plan to add further export formats in the future.</p>
 	
 <h4 id="delacc">How to delete your user account</h4>
 
- <p>Please check the <a href="https://www.archer2.ac.uk/about/policies/project_account_closing.html"> ARCHER2 policy</a> on on end 
+ <p>Please check the <a href="https://www.archer2.ac.uk/about/policies/project_account_closing"> ARCHER2 policy</a> on on end 
  of life procedures for ARCHER2 user accounts.<br />
 <br />
 If you wish your user account on ARCHER2 to be deleted, please email <a href="mailto:support@archer2.ac.uk">support@archer2.ac.uk</a> giving the username to be deleted.<br />
