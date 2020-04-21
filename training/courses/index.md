@@ -30,8 +30,8 @@ banner: web_banners_05.jpg
 
 * [Understanding Package Performance](#understanding_package_performance)
 * [Data Analysis using Python](#data_analysis_using_python)
-* [Containers for HPC](#containers_for_hpc)
 * [Data Analytics with HPC](#data_analytics_with_hpc)
+* [Containers for HPC](#containers_for_hpc)
 * [Message Passing Programming with MPI](#mpp_with_mpi)
 * [Shared Memory Programming with OpenMP](#openmp)
 
@@ -49,11 +49,15 @@ banner: web_banners_05.jpg
 <p><a name="data_carpentry">&nbsp;</a></p>
 #### Data Carpentry
 
+*Course length: 2 days. Course level: introductory.*
+
 In many domains of research, the rapid generation of large amounts of data is fundamentally changing how research is done. The deluge of data presents great opportunities, but also many challenges in managing, analysing and sharing data. Data Carpentry aims to teach the skills that will enable researchers to be more effective and productive. The course is designed for learners with little to no prior knowledge of programming, shell scripting, or command line tools. 
 
 
 <p><a name="hpc_carpentry">&nbsp;</a></p>
 #### HPC Carpentry
+
+*Course length: 2 days. Course level: introductory.*
 
 This course provides an introduction to High Performance Computing (HPC). After completing this course, participants will:
 
@@ -68,27 +72,30 @@ This course provides an introduction to High Performance Computing (HPC). After 
 <p><a name="software_carpentry">&nbsp;</a></p>
 #### Software Carpentry
 
+*Course length: 2 days. Course level: introductory.*
+
 Software Carpentry's goal is to help scientists and engineers become more productive by teaching them basic computing skills like program design, version control, testing, and task automation. In this two-day workshop, short tutorials will alternate with hands-on practical exercises. Participants will be encouraged both to help one another, and to apply what they have learned to their own research problems during and between sessions. 
 
 <p><a name="package_use">&nbsp;</a></p>
 #### Package Use on ARCHER2
+
+*Course length: 1 day. Course level: introductory.*
 
 This course will cover efficient use of pre-installed research software packages on ARCHER2. This will include the essentials of the ARCHER2 service and explain how pre-installed software packages can be used. We will run this both online and face-to-face and both of these will have practical exercises to complete.
 
 <p><a name="data_science">&nbsp;</a></p>
 #### Data Science on ARCHER2
 
+*Course length: 1 day. Course level: introductory.*
+
 This course will cover the essentials of ARCHER2, the basic use of core data science packages (e.g. R, Pandas), and data handling best practice.
 
 <p><a name="development">&nbsp;</a></p>
 #### Development on ARCHER2
 
+*Course length: 2 days. Course level: introductory.*
+
 This course will cover the ARCHER2 application development environment, core parallel and scientific software libraries, available debugging and profiling tools. This will be available both online and face-to-face course to suit the needs of attendees.
-
-<p><a name="containers_for_research">&nbsp;</a></p>
-#### Containers for HPC
-
-This course aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will also briefly introduce the Singularity container environment which is compatible with Docker and designed for use on multi-user systems (such as HPC resources).
 
 <p><a name="intermediate">&nbsp;</a></p>
 ### Intermediate (level 2) courses
@@ -96,20 +103,35 @@ This course aims to introduce the use of Docker containers with the goal of usin
 <p><a name="understanding_package_performance">&nbsp;</a></p>
 #### Understanding Package Performance
 
+*Course length: 1 day. Course level: intermediate.*
+
 As parallel packages for computational science become more sophisticated, it becomes more difficult for a researcher to understand the most important factors that determine end-to-end productivity from initial input data to final result. Aspects such as file IO and data transfer can be just as important in practice as the performance and parallel scalability of the application itself. This course will take a holistic approach and cover tools and techniques to help researchers to improve their overall scientific productivity on large-scale HPC systems.
 
 <p><a name="data_analysis_using_python">&nbsp;</a></p>
 #### Data Analysis using Python
+
+*Course length: 1 day. Course level: intermediate.*
 
 Data Analytics, Data Science and Big Data are a just a few of the many terms used in business and academic research, all referring to the manipulation, processing and analysis of data. Fundamentally, these are all concerned with the extraction of knowledge from data that can be used for competitive advantage or to provide scientific insight. In recent years, this area has undergone a revolution in which HPC has been a key driver. This course provides an overview of data science and the analytical techniques that form its basis as well as exploring how HPC provides the power that has driven their adoption. The course will cover: key data analytical techniques such as, classification, optimisation, and unsupervised learning; key parallel patterns, such as Map Reduce, for implementing analytical techniques; relevant HPC and data infrastructures; case studies from academia and business.
 
 <p><a name="data_analytics_with_hpc">&nbsp;</a></p>
 #### Data Analytics with HPC
 
+*Course length: 2 days. Course level: intermediate.*
+
 Data Analytics, Data Science and Big Data are a just a few of the many terms used in business and academic research, all referring to the manipulation, processing and analysis of data. Fundamentally, these are all concerned with the extraction of knowledge from data that can be used for competitive advantage or to provide scientific insight. In recent years, this area has undergone a revolution in which HPC has been a key driver. This course provides an overview of data science and the analytical techniques that form its basis as well as exploring how HPC provides the power that has driven their adoption. The course will cover: key data analytical techniques such as, classification, optimisation, and unsupervised learning; key parallel patterns, such as Map Reduce, for implementing analytical techniques; relevant HPC and data infrastructures; case studies from academia and business.
+
+<p><a name="containers_for_research">&nbsp;</a></p>
+#### Containers for HPC
+
+*Course length: 2 days. Course level: intermediate.*
+
+This course aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will also briefly introduce the Singularity container environment which is compatible with Docker and designed for use on multi-user systems (such as HPC resources).
 
 <p><a name="mpp_with_mpi">&nbsp;</a></p>
 #### Message Passing Programming with MPI
+
+*Course length: 2 days. Course level: intermediate.*
 
 The world's largest supercomputers are used almost exclusively to run applications which are parallelised using Message Passing. This course covers all the basic knowledge required to write parallel programs using this programming model, and is directly applicable to almost every parallel computer architecture.
 
@@ -119,6 +141,8 @@ The course is taught using a variety of methods including formal lectures, pract
 
 <p><a name="openmp">&nbsp;</a></p>
 #### Shared Memory Programming with OpenMP
+
+*Course length: 2 days. Course level: intermediate.*
 
 Almost all modern computers now have a shared-memory architecture with multiple CPUs connected to the same physical memory, for example multicore laptops or large multi-processor compute servers. This course covers OpenMP, the industry standard for shared-memory programming, which enables serial programs to be parallelised easily using compiler directives. Users of desktop machines can use OpenMP on its own to improve program performance by running on multiple cores; users of parallel supercomputers can use OpenMP in conjunction with MPI to better exploit the shared-memory capabilities of the compute nodes.
 
@@ -131,6 +155,8 @@ This course will cover an introduction to the fundamental concepts of the shared
 <p><a name="efficient_parallel_io">&nbsp;</a></p>
 #### Efficient Parallel IO
 
+*Course length: 2 days. Course level: advanced.*
+
 One of the greatest challenges to running parallel applications on large numbers of processors is how to handle file IO: standard IO routines are not designed with parallelism in mind. Parallel file systems such as Lustre are optimised for large data transfers, and performance can be far from optimal if many files are opened at once.
 
 The IO part of the MPI standard gives programmers access to efficient parallel IO in a portable fashion. However, there are a large number of different routines available and some can be difficult to use in practice. Despite its apparent complexity, MPI-IO adopts a very straightforward high-level model. If used correctly, almost all the complexities of aggregating data from multiple processes can be dealt with automatically by the library.
@@ -142,10 +168,14 @@ Although the course mainly uses the MPI-IO library and the Lustre parallel files
 <p><a name="performance_optimisation_on_amd_epyc">&nbsp;</a></p>
 #### Performance Optimisation on AMD EPYC
 
+*Course length: 2 days. Course level: advanced.*
+
 This course covers the system-specific features of the ARCHER2 processing units over two days. It includes a detailed overview of the AMD EPYC processors and Cray-provided systems software and performance tools. It is ideal for users both familiar with existing Cray supercomputers or those porting from alternative platforms.
 
 <p><a name="performance_analysis_workshop">&nbsp;</a></p>
 #### Performance Analysis Workshop
+
+*Course length: 3 days. Course level: advanced.*
 
 Current and future supercomputing architectures face a dramatic growth of parallelism and heterogeneity on multiple levels. As a result, it is almost impossible for code developers to predict which parts of their code will perform well, which development decisions impact scalability, which choice of data structures are reasonable for a specific architecture, etc. Most decisions are based upon experience, intuition and a limited understanding of the code's performance.
 
