@@ -14,6 +14,13 @@ location_url:
 prace_course: false
 ---
  
+This work was done in collaboration with DiRAC
+
+<p>
+<div><img src="../../../img/dirac.png" alt="DiRAC logo" width="20%" />
+</div>
+</p>
+
 The [DiRAC facility](http://www.dirac.ac.uk) provides access to HPC resources for researchers in the particle physics, cosmology and astrophysics and nuclear physics community. At the moment all of these resources are provided through a variety of on-premises systems that are designed to meet different technical requirements of different research communities. As part of our forward technology watch, the DiRAC RSE team are currently working with Oracle to evaluate the performance of their bare-metal HPC instances with RDMA-enabled interconnects on the recently developed DiRAC application benchmarking suite. In this presentation we will give details of progress with this project, including:
 
 * assessing usability of the cloud resources for typical DiRAC users;
