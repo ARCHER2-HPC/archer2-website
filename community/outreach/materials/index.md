@@ -5,6 +5,5 @@ summary: Materials used at science festivals and other outreach events to demons
 banner: web_banners_07.jpg
 ---
 
-# Outreach Materials
 * Parallel sorting
 * Wee Archie suitcase-sized supercomputer
