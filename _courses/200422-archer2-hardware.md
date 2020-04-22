@@ -41,7 +41,8 @@ This online session is open to all.  It will use the Blackboard Collaborate plat
   </div>
 </section>
 
+<!--
 <p><a href="2020-04-22_ARCHER2_HardwareSoftware.pdf"><img src="2020-04-22_ARCHER2_HardwareSoftware.png" alt="Slides" title="Slides as PDF" width="30%"/></a></p>
-
+-->
 
 
