@@ -18,28 +18,11 @@ In this webinar we will give an overview of the technology that will make up the
 
 This online session is open to all.  It will use the Blackboard Collaborate platform. 
 
-<section id="service">
-  <div class="container">
-    <div class="row ">	
+<div>
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="https://eu.bbcollab.com/guest/d631f89f93ed40b08c9e6042d7c75495">
-          <strong>Join Session</strong><br/>
-          Join this online session in your browser.
-        </a>
-      </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-F9j0_mr-MU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="myevents.ics">
-          <strong>Add to Calendar</strong><br/>
-          Download ICS file to add this event to your calendar complete with join link.
-        </a>
-      </div>
-										
-    </div>
-  </div>
-</section>
+</div>
 
 <!--
 <p><a href="2020-04-22_ARCHER2_HardwareSoftware.pdf"><img src="2020-04-22_ARCHER2_HardwareSoftware.png" alt="Slides" title="Slides as PDF" width="30%"/></a></p>
