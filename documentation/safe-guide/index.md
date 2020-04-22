@@ -107,7 +107,6 @@ banner: web_banners_09.jpg
   <li><a href="safe-guide-pi#projman">How to designate a user as a project manager</a></li>
   <li><a href="safe-guide-pi#addu">How to add a user to a project group</a></li>
   <li><a href="safe-guide-pi#remu">How to remove a user from a project group</a></li>
-<!--   <li><a href="safe-guide-pi#deact">How to (temporarily) stop a user from using time in your project</a></li> -->
   <li><a href="safe-guide-pi#remuser">How to remove a user (or users) from your project</a></li>
   <li><a href="safe-guide-pi#projmailing">How to send a mailing to all users in your project</a></li>
 </ul>

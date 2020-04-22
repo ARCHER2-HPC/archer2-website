@@ -90,7 +90,7 @@ banner: web_banners_09.jpg
 <h4 id="activate">How to activate your new allocation</h4>
 <p>
 	After your application for access to ARCHER2 has been approved by the
-	relevant funding body through one of the <a href="/access">available
+	relevant funding body through one of the <a href="../../support-access/access">available
 		routes</a>, your new allocation will need to be activated. This can be
 	done by sending an email to <a href="mailto:support@archer2.ac.uk">ARCHER2
 		helpdesk</a>. Please quote your grant reference number, the start and
