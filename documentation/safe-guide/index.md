@@ -111,12 +111,9 @@ banner: web_banners_09.jpg
   <li><a href="safe-guide-pi#projmailing">How to send a mailing to all users in your project</a></li></ul>
 
 <h4><a href="safe-guide-pi#track-usage">Tracking your project usage</a></h4>
-<ul>
-  <li><a href="safe-guide-pi#snap">How to check the current state of your project's time and space</a></li>
-  <li><a href="safe-guide-pi#phist">How to track what the project's users and project groups are doing</a></li>
-  <li><a href="safe-guide-pi#udisk">How to check how much space the  project's users are occupying</a></li>
-  <li><a href="safe-guide-pi#more">How to request more resources (AUs and disk space)</a></li>
-</ul>
 
-
+   - [How to check the current state of your project's time and space](safe-guide-pi#snap)
+   - [How to track what the project's users and project groups are doing](safe-guide-pi#phist)
+   - [How to check how much space the  project's users are occupying](safe-guide-pi#udisk)
+   - [How to request more resources (AUs and disk space)](safe-guide-pi#more)
 
