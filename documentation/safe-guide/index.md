@@ -101,14 +101,14 @@ banner: web_banners_09.jpg
 </ul>
 
 <h4><a href="safe-guide-pi#managing-users">Managing project users</a></h4>
-<ul>
-  <li><a href="safe-guide-pi#regusers">How can project  users get registered.</a></li>
-  <li><a href="safe-guide-pi#signup">How to track user sign up requests</a>
-  <li><a href="safe-guide-pi#projman">How to designate a user as a project manager</a></li>
-  <li><a href="safe-guide-pi#addu">How to add a user to a project group</a></li>
-  <li><a href="safe-guide-pi#remu">How to remove a user from a project group</a></li>
-  <li><a href="safe-guide-pi#remuser">How to remove a user (or users) from your project</a></li>
-  <li><a href="safe-guide-pi#projmailing">How to send a mailing to all users in your project</a></li></ul>
+
+  - [How can project users get registered?](safe-guide-pi#regusers)
+  - [How to track user sign up requests](safe-guide-pi#signup)
+  - [How to designate a user as a project manager](safe-guide-pi#projman)
+  - [How to designate a user as a project manager](safe-guide-pi#addu)
+  - [How to remove a user from a project group](safe-guide-pi#remu)
+  - [How to remove a user (or users) from your project](safe-guide-pi#remuser)
+  - [How to send a mailing to all users in your project](safe-guide-pi#projmailing)
 
 <h4><a href="safe-guide-pi#track-usage">Tracking your project usage</a></h4>
 
