@@ -108,8 +108,7 @@ banner: web_banners_09.jpg
   <li><a href="safe-guide-pi#addu">How to add a user to a project group</a></li>
   <li><a href="safe-guide-pi#remu">How to remove a user from a project group</a></li>
   <li><a href="safe-guide-pi#remuser">How to remove a user (or users) from your project</a></li>
-  <li><a href="safe-guide-pi#projmailing">How to send a mailing to all users in your project</a></li>
-</ul>
+  <li><a href="safe-guide-pi#projmailing">How to send a mailing to all users in your project</a></li></ul>
 
 <h4><a href="safe-guide-pi#track-usage">Tracking your project usage</a></h4>
 <ul>
