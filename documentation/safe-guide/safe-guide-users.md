@@ -15,7 +15,7 @@ banner: web_banners_09.jpg
 <p>A YouTube video walk-through is available wherever you see the Play Video 
 symbol <img src="../../img/video_play_icon.jpg" alt="Play video"> by clicking on the symbol.</p>
 
-<h4><a href="#reg-log-pass">Registering, logging in, passwords</a></h4>
+<h3><a href="#reg-log-pass">Registering, logging in, passwords</a></h3>
 <ul>
   <li><a href="#register"> How to register on SAFE </a> </li>
   <li><a href="#login">How to login to SAFE </a></li>
@@ -32,28 +32,28 @@ symbol <img src="../../img/video_play_icon.jpg" alt="Play video"> by clicking on
 </ul>
 
 
-<h4><a href="#user-mailing">User Mailing Options</a></h4>
+<h3><a href="#user-mailing">User Mailing Options</a></h3>
 <ul>
   <li><a href="#mailings">How to view user mailings</a></li>
   <li><a href="#mlist">How to get added to, or removed from the email mailing list?</a></li>
 </ul>
 
 
-<h4><a href="#tracking">Tracking and managing available resources</a></h4>
+<h3><a href="#tracking">Tracking and managing available resources</a></h3>
 <ul>
   <li><a href="#ures">How to check how much time and space are available</a></li>
   <li><a href="#resources">How to request more AUs/disk space</a></li>
   <li><a href="#uhist">How to review your usage of the service, or the activity of the service as a whole</a></li>
 </ul>
 
-<h4><a href="#pubs">Tracking Publications</a></h4>
+<h3><a href="#pubs">Tracking Publications</a></h3>
 <ul>
   <li><a href="#regdoi">How to register a publication on SAFE</a></li>
   <li><a href="#listdoi">How to list your publications in SAFE</a></li>
   <li><a href="#exportdoi">How to export your publications from SAFE</a></li>
 </ul>
 
-<h4><a href="#miscellaneous">Miscellaneous</a></h4>
+<h3><a href="#miscellaneous">Miscellaneous</a></h3>
 <ul>
   <li><a href="#checkq">How to check the queries you have submitted to the helpdesk</a></li>
   <li><a href="#token">How to register your approval &mdash; or your annoyance</a></li>
@@ -66,9 +66,9 @@ symbol <img src="../../img/video_play_icon.jpg" alt="Play video"> by clicking on
 
 
 
-<h3 id="reg-log-pass">Registering, logging in, passwords</h3>
+<h2 id="reg-log-pass">Registering, logging in, passwords</h2>
 
-<h4 id="register">How to register on SAFE</h4>
+<h3 id="register">How to register on SAFE</h3>
 <ol>
   <a href="http://youtu.be/Kuk5bES22LQ"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a>
   <li>Go to the SAFE <a href="https://www.archer.ac.uk/safe/signup.jsp">New User Signup Form</a></li>
@@ -94,7 +94,7 @@ symbol <img src="../../img/video_play_icon.jpg" alt="Play video"> by clicking on
   <li>Enter the correct project password for the project you have selected.</li>
 </ol>
 
-<h4 id="login">How to login to SAFE and Overview of Main Page</h4>
+<h3 id="login">How to login to SAFE and Overview of Main Page</h3>
 <ol>
   <a href="http://youtu.be/8KRL8wL-5rs"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video"  style="float:right; border:0"></a>
   <li>Go to the SAFE <a href="https://www.archer.ac.uk/safe/">https://www.archer.ac.uk/safe/</a></li>
@@ -105,7 +105,7 @@ symbol <img src="../../img/video_play_icon.jpg" alt="Play video"> by clicking on
 </ol>
 
 
-<h4 id="2fac">How to turn on 2-factor authentication to SAFE</h4>
+<h3 id="2fac">How to turn on 2-factor authentication to SAFE</h3>
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
 <!--   <a href="http://youtu.be/B-t1Hs2LQvA"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a> -->
@@ -123,7 +123,7 @@ on your phone or mobile device.</li>
 Each time you log in to the SAFE, in additon to requesting your SAFE password or Institutional login, 
 you will also be asked for the current 6-digit authentication code from the app.
 </p>
-<h4>How to turn off 2-Factor Authentication on SAFE</h4>
+<h3>How to turn off 2-Factor Authentication on SAFE</h3>
 
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
@@ -132,7 +132,7 @@ you will also be asked for the current 6-digit authentication code from the app.
 
 
 
-<h4 id="details">How to change your personal details on SAFE</h4>
+<h3 id="details">How to change your personal details on SAFE</h3>
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol> 
   <a href="http://youtu.be/6sTdANKT9Ag"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a>
@@ -149,7 +149,7 @@ you will also be asked for the current 6-digit authentication code from the app.
 </p>
 
 
-<h4 id="chemail">How to change your email address on SAFE</h4>
+<h3 id="chemail">How to change your email address on SAFE</h3>
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
   <a href="http://youtu.be/B-t1Hs2LQvA"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a>
@@ -164,7 +164,7 @@ you will also be asked for the current 6-digit authentication code from the app.
 </p>
 
 
-<h4 id="chpass">How to change your SAFE password</h4>
+<h3 id="chpass">How to change your SAFE password</h3>
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
   <a href="http://youtu.be/I47wu32SzfE"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video"  style="float:right; border:0"></a>
@@ -173,7 +173,7 @@ you will also be asked for the current 6-digit authentication code from the app.
 </ol>
 
 
-<h4 id="reset">How to reset your SAFE password</h4>
+<h3 id="reset">How to reset your SAFE password</h3>
 <p>Go to <a href="https://www.archer.ac.uk/safe/">https://www.archer.ac.uk/safe/</a>.  Then:</p>
 <ol>
   <a href="http://youtu.be/VCIBJIpyroM"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video"  style="float:right; border:0"></a>
@@ -194,7 +194,7 @@ you will also be asked for the current 6-digit authentication code from the app.
 </p>
 
 
-<h4 id="getac">How to request a machine account</h4>
+<h3 id="getac">How to request a machine account</h3>
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
   <a href="http://youtu.be/Gjgdc3SGuCE"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a>
@@ -224,7 +224,7 @@ you will also be asked for the current 6-digit authentication code from the app.
 
 
 
-<h4 id="accguest">How to request access to a guest budget</h4>
+<h3 id="accguest">How to request access to a guest budget</h3>
 
 <p>A guest budget is a budget in one project which has been set up to permit access requests from users in a different project.</p>
 
@@ -245,7 +245,7 @@ you will also be asked for the current 6-digit authentication code from the app.
 
 
 
-<h4 id="reset_machine">How to reset a password on your machine account</h4>
+<h3 id="reset_machine">How to reset a password on your machine account</h3>
 <p>If you still remember your current machine account password, you can simply log in to ARCHER2 as normal and then use the passwd command</p>
 
 <pre>
@@ -271,7 +271,7 @@ Your password must comply with the <a href="https://www.archer2.ac.uk/about/poli
 </p>
 
 
-<h4 id="getpass">How can I pick up my password for the service machine?</h4>
+<h3 id="getpass">How can I pick up my password for the service machine?</h3>
 <p>Wait till you receive the email with your details.  Then:</p>
 <ol>
   <a href="http://youtu.be/OSHVivtanuA"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a>
@@ -294,7 +294,7 @@ Your password must comply with the <a href="https://www.archer2.ac.uk/about/poli
 
 
 	 
-<h3 id="package-group">How to request access to a Package Group</h3>
+<h2 id="package-group">How to request access to a Package Group</h2>
 
 <p>
 Some software which is installed on ARCHER2 can only be accessed once the user's
@@ -331,9 +331,9 @@ still working to add the available packages. </p>
 
 
 
-<h3 id="user-mailing">User Mailing Options</h3>
+<h2 id="user-mailing">User Mailing Options</h2>
 
-<h4 id="mailings">How to view user mailings</h4>
+<h3 id="mailings">How to view user mailings</h3>
 <ul>
   <a href="http://youtu.be/W23Gd3JjiMU"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a>
 </ul>
@@ -344,7 +344,7 @@ still working to add the available packages. </p>
 </p>
 
 
-<h4 id="mlist">How to get added to, or removed from the email mailing list?</h4>
+<h3 id="mlist">How to get added to, or removed from the email mailing list?</h3>
 <p>There are three mailing list options available.</p>
 <ul>
   <li>
@@ -393,9 +393,9 @@ address we recommend you check you have not been unsubscribed if your previous e
 
 
 
-<h3 id="tracking">Tracking and Managing Available Resources</h3>
+<h2 id="tracking">Tracking and Managing Available Resources</h2>
 
-<h4 id="ures">How to check how much time and space are available to you</h4>
+<h3 id="ures">How to check how much time and space are available to you</h3>
 <ul>
   <a href="http://youtu.be/9MOdQJBRgwg"><img src="../../img/video_play_icon.jpg" alt="Play video" title="Play video" style="float:right; border:0"></a>
 
@@ -416,7 +416,7 @@ see details for.
 </p>
 
 
-<h4 id="resources">How to request more kAUs/disk space</h4>
+<h3 id="resources">How to request more kAUs/disk space</h3>
 <p>
   In the first instance, please contact the principal investigator, or the project manager of your project. The PI will 
   then take the necessary steps to either allocate you more resources out of the project reserve, or to request an increase
@@ -428,7 +428,7 @@ see details for.
 </p>
 
 
-<h4 id="uhist">How to review the use you have made of the service, or the activity of the service as a whole</h4>
+<h3 id="uhist">How to review the use you have made of the service, or the activity of the service as a whole</h3>
 
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol> 
@@ -449,7 +449,7 @@ to generate information on whole projects or groups as well as your own usage
 and the usage of the service as a whole.</p>
 
 
-<h3 id="pubs">Tracking Publications (DOI)</h3> 
+<h2 id="pubs">Tracking Publications (DOI)</h2> 
 
 <p>The SAFE includes functionality for tracking pulications associated with
 projects by registering DOI (Digital Object Identifiers) and automatically
@@ -461,7 +461,7 @@ uploading to ResearchFish.</p>
 <p>This functionality can be particularly useful for large projects where 
 there is a requirement to capture outputs from a large number of users.</p>
 
-<h4 id="regdoi">How to register a publication in SAFE</h4>
+<h3 id="regdoi">How to register a publication in SAFE</h3>
 
 <p>You will need a DOI for the publication you wish to register. A DOI 
 has the form of an set of ID strings separated by slashes. For example,
@@ -478,7 +478,7 @@ provides a link to the DOI.</p>
   <li>Enter the DOI in the text field provided and click <em>Add</em>
 </ol>
 
-<h4 id="listdoi">How to list your publications in SAFE</h4>
+<h3 id="listdoi">How to list your publications in SAFE</h3>
 
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
@@ -488,7 +488,7 @@ provides a link to the DOI.</p>
   <li>The next page will list your currently registered publications.</li>
 </ol> 
 
-<h4 id="exportdoi">How to export your publications from SAFE</h4>
+<h3 id="exportdoi">How to export your publications from SAFE</h3>
 
 <p>At the moment we support export lists of DOIs to comma-separated values (CSV)
 files. This does not export all the metadata, just the DOIs themselves with
@@ -507,9 +507,9 @@ publications). We plan to add further export formats in the future.</p>
   <li>If required, you can save this file using the Save command your web browser.</li>
 </ol>
 
-<h3 id="miscellaneous">Miscellaneous</h3>
+<h2 id="miscellaneous">Miscellaneous</h2>
 
-<h4 id="checkq">How to check the queries you have submitted to the helpdesk</h4>
+<h3 id="checkq">How to check the queries you have submitted to the helpdesk</h3>
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
   <li>Go to the Menu <em>Help and Support </em> and select <em>Your support requests</em> </li>
@@ -522,7 +522,7 @@ publications). We plan to add further export formats in the future.</p>
 </p>
 
 
-<h4 id="token">How to register your approval &mdash; or your annoyance</h4>
+<h3 id="token">How to register your approval &mdash; or your annoyance</h3>
 <p><a href="#login">Login to SAFE</a>. Then:</p>
 <ol>
   <li>Go to the Menu <em>Help and Support</em> and select <em>Service feedback</em> </li>
@@ -539,7 +539,7 @@ publications). We plan to add further export formats in the future.</p>
 
 
 	
-<h4 id="delacc">How to delete your user account</h4>
+<h3 id="delacc">How to delete your user account</h3>
 
  <p>Please check the <a href="https://www.archer2.ac.uk/about/policies/project_account_closing"> ARCHER2 policy</a> on on end 
  of life procedures for ARCHER2 user accounts.<br />

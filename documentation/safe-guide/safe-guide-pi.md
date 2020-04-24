@@ -15,9 +15,9 @@ banner: web_banners_09.jpg
 		alt="Play video"> by clicking on the symbol.
 </p>
 
-<h4>
+<h3>
 	<a href="#getting-started">Getting started</a>
-</h4>
+</h3>
 <ul>
 	<li><a href="#activate">How to activate your new allocation</a></li>
 	<li><a href="#andnext">Your allocation has been set up as a project on
@@ -28,9 +28,9 @@ banner: web_banners_09.jpg
 </ul>
 
 
-<h4>
+<h3>
 	<a href="#managing-resources">Managing your allocated resources</a>
-</h4>
+</h3>
 <ul>
 	<li><a href="#period">What is "period allocation"?</a></li>
 	<li><a href="#projgrp">How to set up project groups within the project</a></li>
@@ -46,9 +46,9 @@ banner: web_banners_09.jpg
 </ul>
 
 
-<h4>
+<h3>
 	<a href="#managing-users">Managing project users</a>
-</h4>
+</h3>
 <ul>
 	<li><a href="#regusers">How can project users get registered</a></li>
 	<li><a href="#signup">How to track user sign up requests</a></li>
@@ -65,9 +65,9 @@ banner: web_banners_09.jpg
 </ul>
 
 
-<h4>
+<h3>
 	<a href="#track-usage">Tracking your project usage</a>
-</h4>
+</h3>
 <ul>
 	<li><a href="#snap">How to check the current state of your project's
 			time and space</a></li>
@@ -85,12 +85,12 @@ banner: web_banners_09.jpg
 
 
 
-<h3 id="getting-started">Getting Started</h3>
+<h2 id="getting-started">Getting Started</h2>
 
-<h4 id="activate">How to activate your new allocation</h4>
+<h3 id="activate">How to activate your new allocation</h3>
 <p>
 	After your application for access to ARCHER2 has been approved by the
-	relevant funding body through one of the <a href="/access">available
+	relevant funding body through one of the <a href="../../support-access/access">available
 		routes</a>, your new allocation will need to be activated. This can be
 	done by sending an email to <a href="mailto:support@archer2.ac.uk">ARCHER2
 		helpdesk</a>. Please quote your grant reference number, the start and
@@ -106,8 +106,8 @@ banner: web_banners_09.jpg
 </p>
 
 
-<h4 id="andnext">Your allocation has been set up as a project on the
-	service. Your first steps.</h4>
+<h3 id="andnext">Your allocation has been set up as a project on the
+	service. Your first steps.</h3>
 <p>Here are some of the things you should consider doing; not all of
 	them will be needed for every project.</p>
 <ol>
@@ -122,7 +122,7 @@ banner: web_banners_09.jpg
 </ol>
 
 
-<h4 id="selfac">How to get your own account on the service machine</h4>
+<h3 id="selfac">How to get your own account on the service machine</h3>
 <p>If you are not going to work on the machine yourself, you do not need
 	to do this. You can administer your project through SAFE alone. But if
 	you want a service machine account:</p>
@@ -147,7 +147,7 @@ banner: web_banners_09.jpg
 
 
 
-<h4 id="projalert">How can I check project alerts?</h4>
+<h3 id="projalert">How can I check project alerts?</h3>
 <p>
 	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
@@ -175,9 +175,9 @@ banner: web_banners_09.jpg
 <br />
 
 
-<h3 id="managing-resources">Managing your allocated resources</h3>
+<h2 id="managing-resources">Managing your allocated resources</h2>
 
-<h4 id="period">What is "period allocation"?</h4>
+<h3 id="period">What is "period allocation"?</h3>
 <p>A period allocation contains AUs which have been allocated for a
 	project to use within the specified time period. Period allocations are
 	valid for a specific resource pool (machine) and have definitive start
@@ -228,7 +228,7 @@ banner: web_banners_09.jpg
 </p>
 
 
-<h4 id="projgrp">How can I set up project groups within my project?</h4>
+<h3 id="projgrp">How can I set up project groups within my project?</h3>
 
 <p>Project groups can be used to administer time and other resources
 	within your project.</p>
@@ -266,7 +266,7 @@ banner: web_banners_09.jpg
 <p>Single user accounts can only belong to one project group.</p>
 
 
-<h4 id="delgrp">How can I delete a project group?</h4>
+<h3 id="delgrp">How can I delete a project group?</h3>
 
 
 <p>
@@ -295,7 +295,7 @@ banner: web_banners_09.jpg
 	has to do this, so there will be a short delay.</p>
 
 
-<h4 id="time">How can I administer time within my project?</h4>
+<h3 id="time">How can I administer time within my project?</h3>
 
 <p>
 	Time is measured in <a
@@ -340,7 +340,7 @@ banner: web_banners_09.jpg
 	other project groups.</p>
 
 
-<h4 id="mvtime">How can I move time between budgets?</h4>
+<h3 id="mvtime">How can I move time between budgets?</h3>
 
 <p>
 	<a href="safe-guide-users#login">Login to SAFE</a>, and then:
@@ -367,9 +367,9 @@ banner: web_banners_09.jpg
 <p>Do not forget the last step, or nothing will happen.</p>
 
 
-<h4 id="oneuser">
+<h3 id="oneuser">
 	<a></a> How can I allocate time to a single user?
-</h4>
+</h3>
 
 <p>As all the time in a project group is shared by all its members, the
 	only way to reserve some time for a single user is to create a project
@@ -389,7 +389,7 @@ banner: web_banners_09.jpg
 	from there.</p>
 
 
-<h4 id="space">How can I administer disk space?</h4>
+<h3 id="space">How can I administer disk space?</h3>
 
 <p>
 	Start by reading the discussion of the <a href="#time">administration
@@ -491,8 +491,8 @@ system's technology can do.</p>
 	which is concerned about running out of space.]</p>
 
 
-<h4 id="mvspace">How can I create a quota for a project group, or move
-	space between quotas?</h4>
+<h3 id="mvspace">How can I create a quota for a project group, or move
+	space between quotas?</h3>
 
 <p>
 	First, read the <a href="#space">discussion of space administration</a>.
@@ -538,7 +538,7 @@ the distribution of data and quota across the OSTs.</p>
  -->
 
 
-<h4 id="persquota">How can I set a quota for an individual user?</h4>
+<h3 id="persquota">How can I set a quota for an individual user?</h3>
 
 <p>User disk quotas are completely separate from project group quotas. A
 	user quota simply places a limit on the amount of space which a
@@ -569,9 +569,9 @@ the distribution of data and quota across the OSTs.</p>
 
 <br />
 
-<h3 id="managing-users">Managing Project Users</h3>
+<h2 id="managing-users">Managing Project Users</h2>
 
-<h4 id="regusers">How can project users get registered?</h4>
+<h3 id="regusers">How can project users get registered?</h3>
 <p>
 	You must not apply for machine accounts on behalf of other users, or
 	let others use accounts that belong to you. Account sharing is strictly
@@ -623,7 +623,7 @@ the distribution of data and quota across the OSTs.</p>
 
 
 
-<h4 id="signup">How to track user sign up requests</h4>
+<h3 id="signup">How to track user sign up requests</h3>
 <p>
 	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
 </p>
@@ -646,7 +646,7 @@ the distribution of data and quota across the OSTs.</p>
 <p>Do not forget the last step, or nothing will happen.</p>
 
 
-<h4 id="projman">How can I designate a user as a project manager?</h4>
+<h3 id="projman">How can I designate a user as a project manager?</h3>
 <p>A project manager can do everything in a project that a PI can do,
 	except designate another project manager. You can designate as many
 	project managers as you wish.</p>
@@ -672,8 +672,8 @@ the distribution of data and quota across the OSTs.</p>
 </p>
 
 
-<h4 id="groupman">How can I designate a user as a project sub-group
-	manager?</h4>
+<h3 id="groupman">How can I designate a user as a project sub-group
+	manager?</h3>
 <p>A project sub-group manager can only move time and disk quota between
 	the groups they manage. They can also create new sub-groups underneath
 	these groups. (If you manage a parent group you automatically manage
@@ -704,7 +704,7 @@ the distribution of data and quota across the OSTs.</p>
 	can belong to more than one project group.</p>
 
 
-<h4 id="addu">How can I add users to an existing project group?</h4>
+<h3 id="addu">How can I add users to an existing project group?</h3>
 
 <p>
 	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
@@ -740,7 +740,7 @@ the distribution of data and quota across the OSTs.</p>
 <p>A user can belong to more than one project group.</p>
 
 
-<h4 id="remu">How can I remove a user from a project group?</h4>
+<h3 id="remu">How can I remove a user from a project group?</h3>
 
 <p>
 	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
@@ -774,8 +774,8 @@ the distribution of data and quota across the OSTs.</p>
 </p>
 
 <!-- 
-<h4 id="deact">Can I temporarily stop a user from using any time in my
-	project?</h4>
+<h3 id="deact">Can I temporarily stop a user from using any time in my
+	project?</h3>
 
 <p>
 	Yes. This is called <em>deactivating</em> a user. A user who has been
@@ -803,7 +803,7 @@ the distribution of data and quota across the OSTs.</p>
 </p>
  -->
 
-<h4 id="remuser">How can I remove a user (or users) from my project?</h4>
+<h3 id="remuser">How can I remove a user (or users) from my project?</h3>
 
 <!-- 
 <p>Before doing this, bear in mind that it will result in all their
@@ -839,9 +839,9 @@ of the user to be deleted.<br />
 Helpdesk staff will arrange for the account to be deleted, in line with the policy.  
  </p>
 
-<h4 id="projmailing">
+<h3 id="projmailing">
 	<a></a> How can I send a mailing to all users in my project
-</h4>
+</h3>
 
 <ul>
 	<a href="http://youtu.be/mvHZl5MQN0c"><img
@@ -870,10 +870,10 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 <br />
 
 
-<h3 id="track-usage">Tracking your Project Usage</h3>
+<h2 id="track-usage">Tracking your Project Usage</h2>
 
-<h4 id="snap">How to check the current state of your project's time and
-	space</h4>
+<h3 id="snap">How to check the current state of your project's time and
+	space</h3>
 
 <p>
 	<a href="safe-guide-users#login">Login to SAFE</a>. Then:
@@ -899,8 +899,8 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 	different from the current ones.</p>
 
 
-<h4 id="phist">How to track what my project's users and project groups
-	are doing?</h4>
+<h3 id="phist">How to track what my project's users and project groups
+	are doing?</h3>
 
 <p>This can be done using the Report Generator</p>
 
@@ -922,7 +922,7 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 	you can now click the format you wish and the same report parameters will be used to generate the report.</li>
 </ol>
 
-<h4 id="autorep">How to request automatic project reports</h4>
+<h3 id="autorep">How to request automatic project reports</h3>
 <ol>
 	<a href="http://youtu.be/eBRjOQLpyL8"><img
 		src="../../img/video_play_icon.jpg" alt="Play video"
@@ -943,8 +943,8 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 	</li>
 </ol>
 
-<h4 id="udisk">How to check how much space my project's users are
-	occupying</h4>
+<h3 id="udisk">How to check how much space my project's users are
+	occupying</h3>
 
 <p>
 	Use the Report Generator (see the <a href="#phist">previous question</a>),
@@ -962,7 +962,7 @@ Helpdesk staff will arrange for the account to be deleted, in line with the poli
 	projects combined.</p>
 
 
-<h4 id="more">How to request more resources (AUs and disk space)</h4>
+<h3 id="more">How to request more resources (AUs and disk space)</h3>
 
 <p>
 	If you need more home or work space, contact the <a
