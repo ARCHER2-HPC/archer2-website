@@ -23,20 +23,20 @@ The parallel sorting game is a simple, group activity to show why parallel compu
 * If sorting something smaller like sweets or envelopes, then play sitting round a table, and make sure the sorting containers are placed in the centre where all players can reach them. The set-up may need to be modified so all players have their own set of unsorted objects, but they should still be able to share the containers they are sorting into.
 
 ## The Rules
-* For the first round, one player sorts as many objects as they can on their own before the timer runs out. Count them up at the end and mark their score on the scoreboard
+* For the first round, one player sorts as many objects as they can on their own before the timer runs out. Count them up at the end and mark their score on the scoreboard.
 * Other players can help out by being timekeeper, and by helping count objects sorted. If there is time, all players can have a shot at sorting solo, it's more fun the more involved they are, and will give more data-points for discussion at the end!
-* Don't count objects sorted into the incorrect container
-* If playing the variant where players are throwing balls or beanbags, only throw one handed, and only one object at a time
-* The activity can be done either by seeing how many objects can be sorted in a fixed time, as described above, or timing how long it takes to sort the full set of objects. Which is used depends on personal preference, and possibly number of objects to sort available. If the number is small, a stopwatch might be better, if large, then a countdown timer will stop each round taking too long
-* Once the score for one player is known, reset the game by mixing up all the sorted objects again and restarting the timer. Play again with two, three, and, finally four players, and make a note of the scores plus number of players at the end of each round
-* At the end, when all players have played, you should have a graph or table, comparing number of objects sorted for different sizes of teams
+* Don't count objects sorted into the incorrect container.
+* If playing the variant where players are throwing balls or beanbags, only throw one handed, and only one object at a time.
+* The activity can be done either by seeing how many objects can be sorted in a fixed time, as described above, or timing how long it takes to sort the full set of objects and using time taken as the score. Which is used depends on personal preference, and possibly number of sorting objects available. If the number is small, a stopwatch might be better, if large, then a countdown timer will stop each round from taking too long.
+* Once the score for one player is known, reset the game by mixing up all the sorted objects again and restarting the timer. Play again with two, three, and, finally four players, and make a note of the scores plus number of players at the end of each round.
+* At the end, when all players have played, you should have a graph or table, comparing number of objects sorted for different sizes of teams.
 
 ## Discussion
 * How does the number of objects sorted/time taken change when more people play? Why do you think that is?
 * Are two players twice as good as one person on their own? If you have more players, are three people three times better/four people four times better? Why do you think that was?
-* Imagine you had a very big team of ten or more people playing. How do you think they would manage? How could you change the rules to make it easier for a larger group to play?
+* Imagine you had a very big team of ten or more people playing. How do you think they would manage? Why do you think this is? How could you change the rules to make it easier for a larger group to play?
 
 ## What does this have to do with supercomputers?
 Supercomputers are used to do calculations that would take a normal computer a very long time to run. For example, supercomputers are used to create weather forecasts, which need to be calculated fast in order to get the results well in the advance of the dates being forecast. Supercomputers are faster because they are much bigger than regular computers - a laptop will have a single processor, a computer like ARCHER2 can have thousands. The work required to solve calculations can then be shared between each processor, and greatly reducing the time taken to get the answer. The processors are able to work together on a problem by communicating over a network - which requires lots of cables! This is known as parallel computing.
 
-Hopefully when playing the parallel sorting game, participants find that that larger teams are able to sort faster than smaller teams and individuals. The sorting can be thought of as the calculation - sorting methods, or algorithms, are common in computing - and each player as a computer processor. By working together on the sort, they are working like a supercomputer, togethther on the same problem.
+Hopefully when playing the parallel sorting game, participants find that that larger teams are able to sort faster than smaller teams and individuals. The sorting can be thought of as the calculation - sorting methods, or algorithms, are common in computing - and each player as a computer processor. By working together on the sort, they are working like a supercomputer, together on the same problem.
