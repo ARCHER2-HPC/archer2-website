@@ -11,8 +11,9 @@
 body {
     font-family: 'Open Sans', 'Source Sans Pro', 'Open Sans Condensed', sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: #787778;
+  color: #756e74;
 }
+
 h1,
 h2,
 h3,
@@ -184,7 +185,7 @@ header .navbar-default .navbar-nav li a {
 
 #service .service-item {
  padding: 1px 10px 30px 10px;
-border:  1px solid #51baa0;
+border:  1px solid #33806E;
 border-radius: 4px;
 margin: 10px auto 10px auto;
 height: 90px
@@ -192,7 +193,7 @@ height: 90px
 
 #service .service-item-tall {
  padding: 0;
- border:  1px solid #51baa0;
+ border:  1px solid #33806E;
  border-radius: 4px;
  margin: 10px auto 10px auto;
  height: auto;
@@ -202,14 +203,14 @@ height: 90px
   padding: 5px;
   margin: 0;
   color: #ffffff;
-  background-color: #51baa0;
+  background-color: #33806E;
   font-size: 10pt;
   text-align: center;
 }
 
 #service .service-item-tall > h4 > a {
   color: #ffffff;
-  background-color: #51baa0;
+  background-color: #33806E;
   font-size: 10pt;
 }
  
@@ -229,7 +230,7 @@ height: 90px
 }
 
 #service .service-item-tall > ul > li {
-  border-bottom: 1px solid #51baa0;
+  border-bottom: 1px solid #33806E;
   font-size: 9pt;
   padding: 5px;
   line-height: 18px;
@@ -242,7 +243,7 @@ height: 90px
 
 #service .service-item-twitter {
    padding: 0;
-   border:  1px solid #51baa0;
+   border:  1px solid #33806E;
    border-radius: 4px;
    margin: 10px auto 10px auto;
    height: 440px;
@@ -250,7 +251,7 @@ height: 90px
 
 #service .service-item-borderless {
  padding: 10px 10px 30px 10px;
-border:  0px double #51baa0;
+border:  0px double #33806E;
 }
 
 #service .ar2-front-col {
@@ -262,7 +263,7 @@ border:  0px double #51baa0;
 .lines {
   min-height: 10px;
   border-bottom: 3px solid #57BAA0;
-  border-top: 3px solid #6BB651;
+  border-top: 3px solid #498136;
   margin-top: 5px;
 }
 
@@ -286,12 +287,12 @@ a.ar2_linkbox strong {
 
 a.ar2_linkbox-teal {
   color: #ffffff;
-  background-color: #51baa0;  
+  background-color: #33806E;  
 }
 
 a.ar2_linkbox-green {
   color: #ffffff;
-  background-color: #6BB651;  
+  background-color: #498136;  
 }
 
 
@@ -425,15 +426,15 @@ header p.tiny-status {
   float: right;
   font-size: 8pt;
   text-transform: uppercase;
-  color: #57BAA0;
+  color: #33806E;
 }
 
 header p.tiny-status .service-down {
-  color: #B35D24;
+  color: #88471B;
 }
 
 header p.tiny-status .service-up {
-  color: #6BB651;
+  color: #498136;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -479,6 +480,7 @@ header p.tiny-status .service-up {
 /*--
 	Footer Css
 --*/
+
 footer {
   background-color: #ffffff;
   border-top: 3px solid #bbb;
@@ -486,6 +488,13 @@ footer {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-top: 30px;
+  font-family: 'Open Sans', 'Source Sans Pro', 'Open Sans Condensed', sans-serif;
+-webkit-font-smoothing: antialiased;
+  color: #756e74;
+}
+
+footer p {
+  color: #756e74;
 }
 
 footer div.logos {
@@ -519,7 +528,7 @@ footer div.copyright {
 	Community Css
 --*/
 .portfolio-contant ul li a h2 {
-  color: #51baa0;
+  color: #33806E;
 }
 #portfolio-work {
   padding: 0;
