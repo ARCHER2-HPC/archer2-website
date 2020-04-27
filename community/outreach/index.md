@@ -13,5 +13,5 @@ The aim of the ARCHER 2 public engagement is to demonstrate to people across the
 
 All ARCHER2’s outreach activities will be carried by experienced staff who work in HPC and data science technical, managerial, and training roles. Staff are from a range of different scientific disciplines, and work on a wide range of projects, so can offer a range of perspectives on STEM careers.
 
-
-
+## Resources
+View existing outreach material [here](materials)
