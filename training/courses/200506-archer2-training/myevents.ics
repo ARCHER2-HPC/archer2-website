@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200428T164216Z
+UID:20200428T164216Z-1136692842@marudot.com
+DTSTART;TZID=Europe/London:20200506T150000
+DTEND;TZID=Europe/London:20200506T160000
+SUMMARY:ARCHER2 Training
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Fb3563cf363ff49fda5e8215f6f92a3d3
+DESCRIPTION:EPCC\, as part of the ARCHER2 service\, will deliver a training programme that covers a wide range of scientific disciplines and technology platforms. We are fully committed to providing a rich and diverse scheme of training taking into account the needs of different types of users. Due to the current pandemic\, our initial courses will be online. However\, we will look forward to teaching at sites around the UK once this is again practicable.\n\nIn this webinar\, we will explain:\n* The different paths that a user can take based on their varied needs and levels of experience.\n* An overview of the training schedule for the upcoming year.\n* The delivery mechanisms introduced in this innovative programme.\n\nAccessibility\, diversity\, and user needs will also be addressed in this talk.\n\n\nThis online session is open to all. It will use the Blackboard Collaborate platform.\n\nJoin Link : https://eu.bbcollab.com/guest/b3563cf363ff49fda5e8215f6f92a3d3
+LOCATION:https://eu.bbcollab.com/guest/b3563cf363ff49fda5e8215f6f92a3d3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Training
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
