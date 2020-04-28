@@ -1,0 +1,144 @@
+Synchronous vs Asynchronous Delivery - Mark Bull - Transcript
+
+As David said, I'm going to talk about two courses which are based on
+the same material: one covers a little bit more than the other but
+there's a lot of common material.  One of those is the online OpenMP
+course in the ARCHER training program, and the other one is the
+Threaded Programming course currently in the DSTI MSC but which will
+be part of the High Performance Computing MSc going forward in the
+future.  So the fact that it's OpenMP doesn't really matter that much
+for this purposes of this discussion, except that is to say that it's
+a practical programming course, so it contains quite a lot of typical
+programming exercises and material. For each of those I'm going to
+send a little bit about the format that we we ran them in, the
+technology that we used, and some lessons learned.
+
+To start off with, the ARCHER course: like David's MPI course this was
+done as four live sessions at one week intervals. Each live session
+consisted of two one-hour lectures with questions and answer sessions
+and a half hour break in between. We gave attendees access to HPC
+resources during and after the course, and we left the accounts open
+for, I think, about a month or so after after the course finished, so
+people could work on the practical exercises afterwards if they wanted
+to.  We just supplied written instructions for practical exercises in
+the same way as we do for the face-to-face courses and we provided
+support for the practical exercises via a chat page (so not
+interactively) but just a just a place where people could post
+questions and we would monitor it and and post replies.
+
+In terms of the technology, we did live lectures like this one using
+Blackboard Collaborate, posted the slides just as plain PDFs on the
+course web page, so the URL is here: the material is still all up if
+you want to go and have a look at see what we made available online.
+The lectures were recorded in Collaborate, and Claire did her usual
+editing job, but fairly minimally.  Then we uploaded them to our
+YouTube channel and have also posted them on the course webpage.  For
+the chats page for the practical support we just had a basic chat page
+on Dropbox.
+
+Some some lessons from this one: we found that Collaborate generally
+works very well: it's easy to use for attendees (I hope you're having
+the same experience today!) and for question-and-answer sessions what
+we normally do is get attendees to to type the question into the chat
+box and then we read them out before answering them. That does tend to
+be easier than them trying to cope with the audio and people trying to
+mute and unmute themselves and having bandwidth difficulties, or
+whatever. We did find that the uptake on the HPC system for the
+practical work was fairly poor: not many people seemed to log on and
+and do the practical exercises. We're not really sure why, because
+that's a popular and important part of the face-to-face delivery, and
+students tend to enjoy them, so perhaps the lack of the interactive
+element (i.e. the fact that you are just doing them on your own and
+you don't have an instructor there in the room that you can ask
+questions to and get feedback and advice).  I think, as David said, we
+do need to think about whether we need to do something in terms more
+live and interactive support sessions for the practical exercises. And
+again with the chat page it kind of reflects the previous point
+really: the chat page wasn't used very much, and as a platform it's
+just completely unstructured - it's just continuous scrolling text, if
+you like, and what you type in there just goes on the bottom and it's
+not a particularly sophisticated platform for doing this kind of
+thing.
+
+So I want to move on and talk about the the MSc course. In terms of
+the format, instead of delivering live lectures, these were
+pre-recorded lectures.  There's a total of 12 lectures - what I did
+was, rather than release them all at once, I released them in blocks
+of four at around three week intervals. The idea there is is to try
+not to overwhelm students with too much material, but at the same time
+give them sufficient opportunity to pace themselves through the course
+so that they they're not waiting for one lecture a week and but
+they're not just dumped with the entire material in one go.  Practical
+programming exercises were essentially the same as the first - just
+provide them with the material and let the students be self-paced. We
+used a chat board for questions and answers, and for support with the
+programming exercises. In addition to that I've been doing weekly
+interactive tutorials. Assessment is via coursework so students have
+to write some code and a report, but that's essentially identical to
+the on-campus version.
+
+In terms of the technology, I just basically sat here at home and
+recorded lectures on my laptop.  I just did a screen capture of the
+slides: I didn't try to do talking head video as well. I use an
+external mic to try and improve the audio quality on the
+recordings. Something I found useful (and I know David has as well) is
+to split the lectures up: rather than having a 45-minute or an
+hour-long lecture, split those up into sections of around 10 to 15
+minutes, and it certainly helps to make doing a single tkpe without
+making mistakes etc. more feasible, You have a fair chance of getting
+through ten minutes without stumbling over yourself too badly or
+progressing slides when you didn't intent to or that kind of thing. So
+that reduces the amount of you editing you have to do. The videos are
+hosted on university's media service but I've also uploaded them to
+YouTube. The main point of that is to be able to auto generate
+subtitles, and what I do with the subtitles is download the file (you
+can get them from YouTube). You can download the subtitle files and
+you can easily convert them to plain text: there's a website which you
+can just upload it to and you can get it back as plain text so it's
+basically just stripping all the timing information out.  You can edit
+those to produce a transcript: I think that's helpful, particularly
+for students for who maybe English isn't their first language.  If
+they are listening to audio they might struggle to to pick up
+everything, and you've got a transcript as well to make available for
+them to read as as a backup. The lecture videos are just embedded in a
+course webpage on Learn along with the PDF of the slides and also this
+text transcript. I've just been doing the live online tutorial
+sessions using Collaborate and I've used a course chat board on on
+Piazza: this is a commercial platform, which the University has a
+subscription to, that you can use.  It's really designed for online
+learning support so it's quite structured. It's quite heavily featured
+- I haven't really explored a lot of the possible features that you
+can do on there, but the basic idea is that it's more like a bulletin
+board type structure, so students can post questions and then the
+instructor (or the students) can post answers. It keeps stuff nicely
+in threads and so on, and also a feature I find quite useful is that
+you can get it to give you an email notification when a student has
+posted a question, so you don't have to remember to go and keep
+looking at a chat page - you get a notification when posts have
+happened. In terms of the assessment that was absolutely identical to
+the on-campus motion - we didn't do anything different.
+
+In terms of lessons learned, the huge caveat here is that we had a
+very small number of students on the first run, and had no real
+problems so far, but some of those problems may not come out until we
+get larger numbers of students. I know that that Weronika has had to
+deal with larger numbers of students on her course, and I know that
+one of the things that she's had to do is to run two versions a week
+of online tutorial sessions in order to cope with students being in
+different time zones.  Of course the first time you do this, I found
+that the the the whole process of doing lecture recording, editing,
+doing format conversions, uploading stuff to YouTube and the
+University media platform, and publishing - filling in all the forms
+that you need to do to be able to publish stuff - and doing transcript
+editing: that process is actually quite reasonably time consuming. Of
+course the good thing is that you get to reuse that all for subsequent
+runs of the course, but there's quite a quite a big overhead for the
+the first time around.  Students seem to appreciate the online
+tutorials and they appreciate the fact that you give prompt responses
+on the chat platform. For coding problems online screen sharing is a
+reasonable solution, but sometimes it's just easier to get students to
+email you the code and then you can run it (or try and run it) and
+give them some feedback. Sometimes that just turns out to be easier
+than trying to do it live online.
+
+
