@@ -41,7 +41,7 @@ With face-to-face delivery simply not an option at present, and with the trainin
 
 <ul>
   <li>	 <a href="ARCHER2-VT-online.pdf">Overview slides</a></li>
-  <li>   <a href="OpenMPTrainingOnline.pdf">Synchronous vs Asynchronous Delivery slides</a></li>
+  <li>   <a href="OpenMPTrainingOnline.pdf">Synchronous vs Asynchronous Delivery slides</a> and <a href="markb-transcript.txt">transcript</a></li>
   <li>	 <a href="SC-Wkshp-MOOC-ARCHER2-VT.pdf">Supercomputing MOOCs slides</a></li>
   <li>	 Online MSc Programmes slides - to follow</li>
 </ul>
