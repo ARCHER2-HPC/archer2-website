@@ -10,4 +10,8 @@ The ARCHER2 documentation is currently under development and available on the
 and Best Practice Guide and information on Essential Skills for users. Once complete, there will
 also be documentation covering research software, software libraries, data analysis and tools.
 
-* Go to [the ARCHER2 Documentation Site](https://docs.archer2.ac.uk)
+* Go to the [ARCHER2 Documentation Site](https://docs.archer2.ac.uk)
+
+There is also a [SAFE User Guide](safe-guide/), with help for using the online ARCHER2 service management system, for both individual users and for PIs and Project Managers.
+
+* Go to the [SAFE User Guide](safe-guide/)
