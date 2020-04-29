@@ -13,4 +13,4 @@ This information will be updated once the ARCHER2-specific forms are available.
 
 ### Onboarding Data Migration
 
-* We have prepared a guide to [Onboarding Data Migration](Onboarding_Data_Migration.pdf) for users whose work is being moved from ARCHER to ARCHER2.
+* We have prepared a guide to [Onboarding Data Migration ](onboarding-data-migration)for users whose work is being moved from ARCHER to ARCHER2.

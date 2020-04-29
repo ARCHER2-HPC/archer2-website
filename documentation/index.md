@@ -18,4 +18,4 @@ There is also a [SAFE User Guide](safe-guide/), with help for using the online A
 
 Onboarding Data Migration
 
-* We have prepared a guide to [Onboarding Data Migration](../support-access/Onboarding_Data_Migration.pdf) for users whose work is being moved from ARCHER to ARCHER2.
+* We have prepared a guide to [Onboarding Data Migration](../support-access/onboarding-data-migration) for users whose work is being moved from ARCHER to ARCHER2.
