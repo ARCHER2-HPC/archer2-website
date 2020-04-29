@@ -33,4 +33,3 @@ The expert may contact you to discuss your problem or to get extra information. 
 Closed queries are kept in the SAFE database, so that we can refer back to them when solving future problems, and when writing documentation, etc. The SAFE database is protected by [ARCHER2 Personal Data and Privacy Policy](../about/policies/privacy.html). 
 
 
-We have also prepared a guide to [Onboarding Data Migration](Onboarding_Data_Migration.pdf) for users whose work is being moved from ARCHER to ARCHER2.

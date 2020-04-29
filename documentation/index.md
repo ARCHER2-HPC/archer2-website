@@ -15,3 +15,7 @@ also be documentation covering research software, software libraries, data analy
 There is also a [SAFE User Guide](safe-guide/), with help for using the online ARCHER2 service management system, for both individual users and for PIs and Project Managers.
 
 * Go to the [SAFE User Guide](safe-guide/)
+
+Onboarding Data Migration
+
+* We have prepared a guide to [Onboarding Data Migration](../support-access/Onboarding_Data_Migration.pdf) for users whose work is being moved from ARCHER to ARCHER2.

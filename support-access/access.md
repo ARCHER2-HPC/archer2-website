@@ -10,3 +10,7 @@ banner: web_banners_04.jpg
 If you wish to apply for time on the ARCHER2 system, you should currently use the forms and supporting information on the [ARCHER web site](http://www.archer.ac.uk/access/).
 
 This information will be updated once the ARCHER2-specific forms are available.
+
+### Onboarding Data Migration
+
+* We have prepared a guide to [Onboarding Data Migration](Onboarding_Data_Migration.pdf) for users whose work is being moved from ARCHER to ARCHER2.
