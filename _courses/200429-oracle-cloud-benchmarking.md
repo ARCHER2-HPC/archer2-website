@@ -29,30 +29,11 @@ The [DiRAC facility](http://www.dirac.ac.uk) provides access to HPC resources fo
 
 We will finish with a summary of readiness of the Oracle bare metal cloud service for use for researchers currently using DiRAC facilities; provide an overview of how the user experience could be improved for researchers; and note the next steps for our work in evaluating use of cloud to provide HPC resources to support academic researchers.
 
-This online session is open to all.  It will use the Blackboard Collaborate platform. 
+<div>
 
-<section id="service">
-  <div class="container">
-    <div class="row ">	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wl7hrfpheq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="https://eu.bbcollab.com/guest/4a74b75c76f84e4da50db0bddd240b6d">
-          <strong>Join Session</strong><br/>
-          Join this online session in your browser.
-        </a>
-      </div>
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="myevents.ics">
-          <strong>Add to Calendar</strong><br/>
-          Download ICS file to add this event to your calendar complete with join link.
-        </a>
-      </div>
-										
-    </div>
-  </div>
-</section>
+</div>
 
 
 
