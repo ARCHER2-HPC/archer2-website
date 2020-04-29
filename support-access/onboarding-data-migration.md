@@ -82,7 +82,7 @@ EPCC delivered a webinar on Transferring Data from ARCHER at End of Service
 
 
 
-Please contact the [ARCHER2 Service Desk](support@archer2.ac.uk ) if you have any questions or concerns
+Please contact the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk ) if you have any questions or concerns
 
 
 
