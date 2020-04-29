@@ -6,3 +6,4 @@ banner: web_banners_07.jpg
 ---
 
 * [Parallel sorting](parallel_sort)
+* [Wee Archie, the suitcase sized supercomputer](wee_archie)
