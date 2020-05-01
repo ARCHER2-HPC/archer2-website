@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200430T134505Z
+UID:20200430T134505Z-305783362@marudot.com
+DTSTART;TZID=Europe/London:20200609T130000
+DTEND;TZID=Europe/London:20200609T160000
+SUMMARY:Preparing to run biomolecular QM/MM simulations with CP2K using AmberTools
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Fab0fb96c14d94d878c2e6350d722bbf0
+DESCRIPTION:Preparing your systems for running QM/MM simulations in CP2K with AmberTools\n\nwww.archer2.ac.uk/training/courses/200609-amber/\n\nDates: 9 June 2020 \n\n\nJoin link:\nhttps://eu.bbcollab.com/guest/ab0fb96c14d94d878c2e6350d722bbf0
+LOCATION:https://eu.bbcollab.com/guest/ab0fb96c14d94d878c2e6350d722bbf0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Preparing to run biomolecular QM/MM simulations with CP2K using AmberTools
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
