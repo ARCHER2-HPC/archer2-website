@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Reproducible computational environments using containers
+title: Reproducible computational environments using containers  (fully booked)
 banner: web_banners_05.jpg 
 human_dates: 13 - 14 July 2020
 start_date: 2020-07-13 10:00:00
@@ -27,4 +27,3 @@ This course aims to introduce the use of containers with the goal of using them 
 Trainers: Andy Turner (EPCC) and [Jeremy Cohen]( https://www.imperial.ac.uk/people/jeremy.cohen) (Imperial College)
 
 Location: This course will be run primarily as a remote attendance course but depending on how the current situation evolves over the coming weeks, there may also be an opportunity to attend the training in person at Imperial College London's South Kensington Campus. We will advise whether in-person attendance is possible in mid June.
-
