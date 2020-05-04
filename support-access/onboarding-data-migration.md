@@ -32,7 +32,7 @@ banner: web_banners_03.jpg
 ### New ARCHER2 Users:  
 * New ARCHER2 Users will apply for ARCHER2 accounts via the SAFE. 
 
-## Further Resources:
+### Further Resources:
 EPCC has produced [ARCHER2 documentation for the SAFE](../documentation/safe-guide/)
 
 
