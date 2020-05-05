@@ -18,6 +18,19 @@ There are also apps available for BlackBoard Collaborate but these have reduced 
 
 Online training is usually recorded and the video made available after the event on the [ARCHER2 YouTube Channel](https://www.youtube.com/channel/UCZi-oBdxoDV5CPEQnhmrCAg/videos)
 
+Complete material from several courses delivered for the ARCHER service, including lectures slides, video recordings and practical exercises, is available for self-study:
+
+* [Hands-on Introduction to HPC: YouTube playlist](https://www.youtube.com/playlist?list=PL1b57Q937PotC8ppSpC9wxm05ASRSV7YT) 
+and [associated material](
+http://www.archer.ac.uk/training/course-material/2016/07/intro_epcc/index.php#slides)
+
+* [Shared-Memory Programming with OpenMP]( 
+https://www.archer.ac.uk/training/courses/2019/11/openmp_online/)
+
+* [Message-Passing Programming with MPI](
+https://www.archer.ac.uk/training/courses/2019/02/online-mpi/index.php)
+
+
 
 
 ## Course Materials Repository
