@@ -271,7 +271,7 @@ When registering for one of our courses you agree to abide by our [Training Code
 
 ## Eligibility for training
 
-ARCHER2 courses are free to all academics.
+ARCHER2 training courses are provided free of charge to all academics, but attendance by non-academics would normally require a registration fee. However, we are not charging for attendance while we deliver all courses online due to government advice on social distancing.
 
 Courses marked ![PRACE](img/prace_25.jpg) are also funded by 
   [PRACE](http://www.prace-ri.eu/patcs-ptcs) and are free to everyone including commercial attendees.
