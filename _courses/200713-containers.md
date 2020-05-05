@@ -27,3 +27,58 @@ This course aims to introduce the use of containers with the goal of using them 
 Trainers: Andy Turner (EPCC) and [Jeremy Cohen]( https://www.imperial.ac.uk/people/jeremy.cohen) (Imperial College)
 
 Location: This course will be run primarily as a remote attendance course but depending on how the current situation evolves over the coming weeks, there may also be an opportunity to attend the training in person at Imperial College London's South Kensington Campus. We will advise whether in-person attendance is possible in mid June.
+
+
+## Course materials
+
+<section id="service">
+    <div class="row ">	
+
+<!--
+		
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="   ">
+          <strong>Course materials</strong>         
+        </a>
+      </div>
+-->
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+          href="https://pad.archer2.ac.uk/p/200713_Containers_online">
+          <strong>Course Chat</strong>       
+        </a>
+      </div>
+		
+		</div>
+		
+		
+					
+
+<h2>Join sessions		</h2>		
+
+
+<section id="service">
+    <div class="row ">	
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+          href="https://eu.bbcollab.com/guest/4290d4b715d14502a96c7a0666c8b9ba ">
+          <strong>Join Session 1 : 13th July</strong><br/>
+          Join this online session in your browser.
+        </a>
+      </div>
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="https://eu.bbcollab.com/guest/502ce97262ac42c3920c5370714ee6d6 ">
+          <strong>Join Session 2 : 14th July</strong><br/>
+          Join this online session in your browser.
+        </a>
+      </div>
+
+											
+    </div>
