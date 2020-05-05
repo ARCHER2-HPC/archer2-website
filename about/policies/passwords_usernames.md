@@ -1,11 +1,11 @@
 ---
 layout: section
-title: Passwords and Usernames policy
-summary: Passwords and Usernames policy 
+title: Passwords and Usernames Policy
+summary: 
 ---
 
 
-For security reason there are certain restrictions governing the choice of usernames and passwords on ARCHER2.
+For security reasons there are certain restrictions governing the choice of usernames and passwords on ARCHER2.
 
 ## Passwords
 
@@ -23,7 +23,6 @@ For ARCHER2:
 This will in effect create a minimum password length which will vary between 10-16 characters depending on number of types of character used.
 
 Additionally:
-
 * A minimum of 5 characters from a new password must not be present in the old password.
 * There will be no requirement to use multiple character types.
 * A maximum of 2 consecutive identical characters will be permitted.
@@ -44,5 +43,5 @@ If you have any questions about the choice of passwords OR usernames on ARCHER2,
 
 
 Update Logs
-
+* 2020-05-05 Minor Updates
 * 2020-03-13 Copied from ARCHER and Updated for ARCHER2
