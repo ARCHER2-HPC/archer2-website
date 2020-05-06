@@ -1,13 +1,12 @@
 ---
 layout: section
-title: ARCHER2 Training Code of Conduct
-summary: ARCHER2 Training Code of Conduct
+title: Training Code of Conduct
+summary: 
 banner: web_banners_05.jpg
 ---
 
 
 
-# ARCHER2 Training Code of Conduct
 ## Code of Conduct (Summary View)
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in ARCHER2 Training activities, participants accept to abide by ARCHER2 Training's Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all activities and events:
@@ -86,7 +85,7 @@ If you would prefer other ways to contact us, an email to [training@epcc.ed.ac.u
 * Programme Manager : [Lorna Smith](mailto:l.smith@epcc.ed.ac.uk)
 
 ### Update Logs
-
+* 2020-05-06 Minor Updates
 * 2020-03-01 Copied from ARCHER and Updated for ARCHER2
 * 2019-06-20 Updated to clarify reporting contact points. Update link to reporting form.
 * 2019-04-05 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), which was itself based on [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/).
