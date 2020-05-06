@@ -1,10 +1,8 @@
 ---
 layout: section
-title: ARCHER2 Diversity and Inclusion Policy
-summary: ARCHER2 Diversity and Inclusion Policy 
+title: Diversity and Inclusion Policy
+summary: 
 ---
-
-# ARCHER2: Diversity and Inclusion Policy
 
 ## Policy Statement
 
@@ -24,7 +22,7 @@ The policy provides a set of guidelines for ARCHER2 staff to follow. These are p
 Equality Impact Assessements (EqIAs) will be completed for all areas of the ARCHER2 Service. EqIAs will be carried out within existing systems and frameworks. It is a recognised way of improving policy development and service delivery. By assessing equality impact we proactively consider the needs of our users, staff, stakeholders and the wider community, identify potential steps to advance equality and foster good relations, and ensure that we do not discriminate unlawfully.
 ## Key Measures for Organising Events
 
-The ARCHER2 service runs a significant number of events, including training courses, workshops and conferences. This section contains some recommended practices for organising these events. Not all practices are appropriate for all events, but all ARCHER2 staff should at least consider all of the following areas when organising an event.
+The ARCHER2 Service runs a significant number of events, including training courses, workshops and conferences. This section contains some recommended practices for organising these events. Not all practices are appropriate for all events, but all ARCHER2 staff should at least consider all of the following areas when organising an event.
 
 ### Organising Groups and Committees
 
@@ -138,5 +136,5 @@ A survey of participants after the event can help to establish whether your dive
 
 
 Update Logs
-
+* 2020-05-05 Minor Updates
 * 2020-03-13 Copied from ARCHER and Updated for ARCHER2

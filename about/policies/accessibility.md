@@ -1,15 +1,8 @@
 ---
 layout: section
-title: ARCHER2 Website Accessibility Policy
-summary: ARCHER2 Website Accessibility Policy 
+title: Website Accessibility Policy
+summary: Committed to ensuring our websites are accessible to the widest possible audience, including disabled users.  
 ---
-
-# Website Accessibility policy
-
-The ARCHER2 team is committed to ensuring that its websites are accessible to the widest possible audience, including disabled users.
-
-## The ARCHER2 website accessibility policy
-### Policy intention
 
 The long-term goal and intention of this policy is to state clear accessibility principles that ARCHER2 websites should follow.
 
@@ -17,7 +10,7 @@ The ARCHER2 team develops its website in line with the W3C recommended version o
 
 The ARCHER2 team will make reasonable adjustments to ensure specific individual needs that cannot be addressed by mainstreamed adjustments are met.
 
-### Policy dimensions
+### Policy Dimensions
 
 For the purpose of this policy, the term "websites" includes:
 
@@ -27,7 +20,6 @@ For the purpose of this policy, the term "websites" includes:
 ### Policy principles
 
 The ARCHER2 team will adhere to the following principles in relation to its websites:
-
 *    The websites shall provide appropriate channels of communication for feedback about accessibility.
 *    The websites shall meet the ARCHER2 team's responsibilities under the Equality Act (2010) and The Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012.
 
@@ -37,18 +29,11 @@ The University of Edinburgh supports staff building and maintaining University w
 
 The ARCHER2 team have endeavoured to follow the[ Guidance for building and maintaining accessible University websites](https://www.wiki.ed.ac.uk/display/WAG/Web+Accessibility+Guidance+Home) in the writing and maintenance of the ARCHER2 websites.
 
-### Changes to this policy
+### Policy Updates
 
-This policy will be reviewed annually to ensure that it continues to meet the needs of our user community.
+This policy will be reviewed annually to ensure that it continues to meet the needs of our user community. It was first published in February 2020. 
 
-### Policy updates
-
-This policy was first published in February 2020.
-
-No updates to date.
-
-### If you require this policy document in an alternative format
-If you require this policy document in an alternative format please contact
+### If you require this policy document in an alternative format please contact
 
 The [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk)
 
@@ -59,5 +44,5 @@ If you have any issues accessing this website, please contact the [ ARCHER2 Serv
 
 
 Update Logs
-
+* 2020-05-05 Updated Policy
 * 2020-03-13 Copied from ARCHER and Updated for ARCHER2

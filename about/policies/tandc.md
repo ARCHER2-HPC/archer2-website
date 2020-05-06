@@ -1,10 +1,8 @@
 ---
 layout: section
-title: Term and Conditions
-summary: Terms and Conditions of access
+title: Term and Conditions of Access
+summary: 
 ---
-
-# Terms and Conditions 
 
 These Terms and Conditions of Access are presented to each user when they register. We anticipate that they will change rarely, if at all. Note that the Terms and Conditions include an undertaking to observe the Code of Conduct. It also includes an agreement to the Service processing the user's personal data; in return, the Service undertakes to follow the Personal Data and Privacy Policy.
 
@@ -54,5 +52,5 @@ If you have any questions about these Terms and Conditions, please mail to the [
 
 
 Update Logs
-
+* 2020-05-05 Minor Updates
 * 2020-03-13 Copied from ARCHER and Updated for ARCHER2
