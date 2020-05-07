@@ -274,7 +274,7 @@ When registering for one of our courses you agree to abide by our [Training Code
 ARCHER2 training courses are provided free of charge to all academics, but attendance by non-academics would normally require a registration fee. However, we are not charging for attendance while we deliver all courses online due to government advice on social distancing.
 
 Courses marked ![PRACE](img/prace_25.jpg) are also funded by 
-  [PRACE](http://www.prace-ri.eu/patcs-ptcs) and are free to everyone including commercial attendees.
+  [PRACE](https://prace-ri.eu/) and are free to everyone including commercial attendees.
 
 We normally charge a fee for non-academics. If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
 
