@@ -24,10 +24,19 @@ This course aims to introduce the use of containers with the goal of using them 
 * Understand how to manage and create Singularity containers
 * Appreciate how containers can be used to enable and improve reproducibility in research
 
-Trainers: Andy Turner (EPCC) and [Jeremy Cohen]( https://www.imperial.ac.uk/people/jeremy.cohen) (Imperial College)
+**Trainers:** Andy Turner (EPCC) and [Jeremy Cohen]( https://www.imperial.ac.uk/people/jeremy.cohen) (Imperial College)
 
-Location: This course will be run primarily as a remote attendance course but depending on how the current situation evolves over the coming weeks, there may also be an opportunity to attend the training in person at Imperial College London's South Kensington Campus. We will advise whether in-person attendance is possible in mid June.
+**Location:** This course will be run primarily as a remote attendance course but depending on how the current situation evolves over the coming weeks, there may also be an opportunity to attend the training in person at Imperial College London's South Kensington Campus. We will advise whether in-person attendance is possible in mid June.
 
+**Target Audience:** This course is aimed at researchers who have no (or very little) previous experience of using containers. 
+
+**Prerequisites:**
+
+- You should have basic familiarity with using a command shell, and the lesson text will at times request that you "open a shell window”, with an assumption that you know what this means. 
+    + Under Linux or macOS it is assumed that you will access a bash shell (usually the default), using your *Terminal* application.
+    + Under Windows, *Powershell* and *Git Bash* should allow you to use the Unix instructions. We will also try to give command variants for Windows `cmd.exe`
+
+**Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
 
 ## Course materials
 

@@ -23,6 +23,7 @@ banner: web_banners_05.jpg
 * [Package Use on ARCHER2](#package_use)
 * [Data Science on ARCHER2](#data_science)
 * [Development on ARCHER2](#development)
+* [Reproducible computational environments using containers](#containers)
 
 
 <a href="#intermediate">&nbsp;</a>
@@ -31,7 +32,6 @@ banner: web_banners_05.jpg
 * [Understanding Package Performance](#understanding_package_performance)
 * [Data Analysis using Python](#data_analysis_using_python)
 * [Data Analytics with HPC](#data_analytics_with_hpc)
-* [Containers for HPC](#containers_for_hpc)
 * [Message Passing Programming with MPI](#mpp_with_mpi)
 * [Shared Memory Programming with OpenMP](#openmp)
 
@@ -97,6 +97,27 @@ This course will cover the essentials of ARCHER2, the basic use of core data sci
 
 This course will cover the ARCHER2 application development environment, core parallel and scientific software libraries, available debugging and profiling tools. This will be available both online and face-to-face course to suit the needs of attendees.
 
+<p><a name="containers">&nbsp;</a></p>
+#### Reproducible computational environments using containers
+
+*Course length: 2 days. Course level: introductory.*
+
+This course aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will also briefly introduce the Singularity container environment which is compatible with Docker and designed for use on multi-user systems (such as HPC resources).
+
+*Target Audience:*
+
+- This course is aimed at researchers who have no (or very little) previous experience of using containers. 
+
+*Prerequisites:*
+
+- You should have basic familiarity with using a command shell, and the lesson text will at times request that you "open a shell window”, with an assumption that you know what this means. 
+    + Under Linux or macOS it is assumed that you will access a bash shell (usually the default), using your *Terminal* application.
+    + Under Windows, *Powershell* and *Git Bash* should allow you to use the Unix instructions. We will also try to give command variants for Windows `cmd.exe`
+
+*Requirements:*
+
+- Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+
 <p><a name="intermediate">&nbsp;</a></p>
 ### Intermediate (level 2) courses
 
@@ -121,12 +142,7 @@ Data Analytics, Data Science and Big Data are a just a few of the many terms use
 
 Data Analytics, Data Science and Big Data are a just a few of the many terms used in business and academic research, all referring to the manipulation, processing and analysis of data. Fundamentally, these are all concerned with the extraction of knowledge from data that can be used for competitive advantage or to provide scientific insight. In recent years, this area has undergone a revolution in which HPC has been a key driver. This course provides an overview of data science and the analytical techniques that form its basis as well as exploring how HPC provides the power that has driven their adoption. The course will cover: key data analytical techniques such as, classification, optimisation, and unsupervised learning; key parallel patterns, such as Map Reduce, for implementing analytical techniques; relevant HPC and data infrastructures; case studies from academia and business.
 
-<p><a name="containers_for_research">&nbsp;</a></p>
-#### Containers for HPC
 
-*Course length: 2 days. Course level: intermediate.*
-
-This course aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will also briefly introduce the Singularity container environment which is compatible with Docker and designed for use on multi-user systems (such as HPC resources).
 
 <p><a name="mpp_with_mpi">&nbsp;</a></p>
 #### Message Passing Programming with MPI
