@@ -102,21 +102,7 @@ This course will cover the ARCHER2 application development environment, core par
 
 *Course length: 2 days. Course level: introductory.*
 
-This course aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will also briefly introduce the Singularity container environment which is compatible with Docker and designed for use on multi-user systems (such as HPC resources).
-
-*Target Audience:*
-
-- This course is aimed at researchers who have no (or very little) previous experience of using containers. 
-
-*Prerequisites:*
-
-- You should have basic familiarity with using a command shell, and the lesson text will at times request that you "open a shell window”, with an assumption that you know what this means. 
-    + Under Linux or macOS it is assumed that you will access a bash shell (usually the default), using your *Terminal* application.
-    + Under Windows, *Powershell* and *Git Bash* should allow you to use the Unix instructions. We will also try to give command variants for Windows `cmd.exe`
-
-*Requirements:*
-
-- Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will primarily use Docker to illustrate the use of containers but will also briefly introduce Singularity which is designed for use on multi-user systems (such as HPC resources). This course is aimed at researchers who have no (or very little) previous experience of using containers. Attendees are expected to have basic familiarity with using a command line interface such as bash or Powershell.
 
 <p><a name="intermediate">&nbsp;</a></p>
 ### Intermediate (level 2) courses
