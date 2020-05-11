@@ -7,7 +7,7 @@ start_date: 2020-07-13 10:00:00
 end_date: 2020-07-14 16:00:00
 trainers: Andy Turner (EPCC), Jeremy Cohen (Imperial College)
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://events.prace-ri.eu/event/962/
 location: Online
 location_url:
