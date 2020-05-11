@@ -20,7 +20,7 @@ exercises and solutions.
     </thead>
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
-      {% for course in filtered_courses %}
+      {% for course in filtered_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
