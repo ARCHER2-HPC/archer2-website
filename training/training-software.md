@@ -28,7 +28,7 @@ and
     - on Mac/Linux then Terminal is fine,
     - on Windows we recommend [MobaXterm](https://mobaxterm.mobatek.net/) which provides an SSH client, inbuilt text file editor and X11 graphpics viewer plus a bash shell envioronment. Although this is a bigger install, it is recommended (instead of putty and xming) if you will be accessing HPC machines regularly. There is a 'portable' version of MobaXterm which does not need admin install privilages.
     - on Windows, if you are not using MobaXterm, you can use putty from https://www.putty.org/
-* xming X11 graphics viewer,
+* X11 graphics viewer (to display Unix graphics on a non-Linux system)
     - for Mac https://www.xquartz.org/,
     - for Windows (if you are not using MobaXterm) http://sourceforge.net/projects/xming/files/Xming/6.9.0.31/Xming-6-9-0-31-setup.exe/download
 
