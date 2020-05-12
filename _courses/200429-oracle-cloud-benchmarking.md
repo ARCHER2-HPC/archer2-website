@@ -29,11 +29,15 @@ The [DiRAC facility](http://www.dirac.ac.uk) provides access to HPC resources fo
 
 We will finish with a summary of readiness of the Oracle bare metal cloud service for use for researchers currently using DiRAC facilities; provide an overview of how the user experience could be improved for researchers; and note the next steps for our work in evaluating use of cloud to provide HPC resources to support academic researchers.
 
+**Note:** Since the webinar was presented the poor performance of the Grid benchmark has been understood to have been 
+caused by issues with MPI process pinning on the system. The PDF version of the slides has been updated with the new
+results but the YouTube video still includes the old version.
+
 <div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wl7hrfpheq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
-
+<p><a href="Turner_DiRAC_Oracle_ARCHER2-webinar_2020-04-29_web.pdf"><img src="Turner_DiRAC_Oracle_ARCHER2-webinar_2020-04-29.png" alt="Slides" title="Slides as PDF" width="50%"/></a></p>
 
