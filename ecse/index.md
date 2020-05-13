@@ -42,7 +42,7 @@ The RSE may be based at the institution of the PI, at a third party institution,
 
 Together with UKRI we have agreed to delay the first eCSE call to match better with the updated ARCHER2 hardware timetable.
 
-We are pleased to announce that the first ARCHER2 eCSE call will open on **19th May 2020** The deadline for submitting documents for technical evaluations is **16th June 2020**, with the final deadline for proposal submission being **7th July 2020**. 
+We are pleased to announce that the first ARCHER2 eCSE call will open on **19th May 2020**. The deadline for submitting documents for technical evaluations is **16th June 2020**, with the final deadline for proposal submission being **7th July 2020**. 
 
 Further details on the [eCSE Calls page](calls/).
 
