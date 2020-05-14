@@ -111,6 +111,12 @@ Individual links to course provide more details on the content and prerequisites
               {% else %}
             <a href="{{ course.registration_url }}">Join waiting list</a>
               {% endif %}
+            {% elsif course.registration_status == "closed" %}
+              {% if course.prace_course %}
+            <a href="{{ course.registration_url }}"><img src="img/prace_25.jpg" alt="PRACE"/> Registration closed</a>
+              {% else %}
+            <a href="{{ course.registration_url }}">Registration closed</a>
+              {% endif %}
             {% else %}
             &nbsp;
             {% endif %}
