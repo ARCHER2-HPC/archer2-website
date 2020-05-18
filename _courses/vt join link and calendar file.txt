@@ -1,0 +1,21 @@
+<section id="service">
+    <div class="row ">	
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+          href="https://eu.bbcollab.com/guest/0dc7a50c12314245894519e43fe206b1">
+          <strong>Join Session</strong><br/>
+          Join this online session in your browser
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="myevent.ics">
+          <strong>Add to Calendar</strong><br/>
+          Download ICS file to add this event to your calendar complete with join link
+        </a>
+      </div>
+
+											
+    </div>

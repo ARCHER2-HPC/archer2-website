@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200518T102439Z
+UID:20200518T102439Z-1798366111@marudot.com
+DTSTART;TZID=Europe/London:20200603T150000
+DTEND;TZID=Europe/London:20200603T160000
+SUMMARY:ARCHER2 Outreach
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2F0dc7a50c12314245894519e43fe206b1
+DESCRIPTION:In the webinar\, we will give an overview of some of the activities planned as part of ARCHER2 outreach\, and introduce some of our existing outreach materials that are used currently in trips to schools and science festivals.\n\nThis online session is open to all. It will use the Blackboard Collaborate platform.\n\nJoin Link : https://eu.bbcollab.com/guest/0dc7a50c12314245894519e43fe206b1
+LOCATION:https://eu.bbcollab.com/guest/0dc7a50c12314245894519e43fe206b1
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Outreach
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
