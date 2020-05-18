@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200518T134204Z
+UID:20200518T134204Z-1181489018@marudot.com
+DTSTART;TZID=Europe/London:20200617T150000
+DTEND;TZID=Europe/London:20200617T160000
+SUMMARY:Software Packages in HPC with Spack and EasyBuild
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Fa2ec96dc8005485a9864d214a01d889e
+DESCRIPTION:Software packages on HPC systems have traditionally been built\, installed and managed manually. In preparation for the launch of ARCHER2 we have investigated the Spack and EasyBuild package installation frameworks\, tools which automate the potentially time-consuming process of correctly building and installing scientific software. Both perform the same high-level steps of obtaining source code\, setting necessary build options and installing dependencies\, but the difference in philosophy between the two approaches is otherwise quite substantial. In this presentation I will discuss the capabilities and basic usage of Spack and EasyBuild and where they are similar and where they differ in their approaches to managing software on HPC systems.\n\nJoin link: https://eu.bbcollab.com/guest/a2ec96dc8005485a9864d214a01d889e
+LOCATION:https://eu.bbcollab.com/guest/a2ec96dc8005485a9864d214a01d889e
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Software Packages in HPC with Spack and EasyBuild
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
