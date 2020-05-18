@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2 Outreach
 banner: web_banners_05.jpg
-human_dates: Wednesday 3rd June 2020  15:00 BST
+human_dates: Wednesday 3rd June 2020  15:00 - 16:00 BST
 start_date: 2020-06-03 15:00:00
 end_date: 2020-06-03 16:00:00
 trainers: Jane Kennedy (EPCC)
