@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200519T155629Z
+UID:20200519T155629Z-1963879547@marudot.com
+DTSTART;TZID=Europe/London:20200527T150000
+DTEND;TZID=Europe/London:20200527T160000
+SUMMARY:ARCHER2 eCSE Webinar
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Fae7310ae2549489b93d0009a6aec8eb8
+DESCRIPTION:Through a series of regular calls\, Embedded CSE (eCSE) support provides funding to the ARCHER2 user community to develop software in a sustainable manner to improve research on the ARCHER2 service. The funding allows the employment of a Research Software Engineer (RSE) to carry out software development of ARCHER2 software. Calls are issued 3 times per year and the first call close on 7 July 2020. This Webinar will provide an overview of the eCSE programme and describe the submission process.\n\nThis online session is open to all. It will use the Blackboard Collaborate platform.\n\nJoin Link : https://eu.bbcollab.com/guest/ae7310ae2549489b93d0009a6aec8eb8
+LOCATION:https://eu.bbcollab.com/guest/ae7310ae2549489b93d0009a6aec8eb8
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 eCSE Webinar
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
