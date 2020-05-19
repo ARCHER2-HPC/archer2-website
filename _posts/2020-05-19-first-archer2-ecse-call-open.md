@@ -7,6 +7,7 @@ author: EPCC
 categories: [news]
 ---
 
+We are very pleased to announce that the 1st ARCHER2 eCSE call (ARCHER2 eCSE01) is now open for proposals.
 
 The deadline for submitting documents for technical evaluations is 16 June 2020, with the final deadline for proposal submission being 7 July 2020.
 
