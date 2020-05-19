@@ -15,7 +15,7 @@ Embedded CSE (eCSE) support provides funding to the ARCHER2 user community to de
 
 More details of how to apply are available by following the link to the eCSE calls page from here
 
-https://www.archer2.ac.uk/ecse/
+[https://www.archer2.ac.uk/ecse/](https://www.archer2.ac.uk/ecse/)
 
 together with details of the application and review process, assessment criteria eligibility, etc. Please note that the process for applying for an eCSE project under ARCHER2 has been updated since ARCHER eCSE programme. More details available via the above link.
 
