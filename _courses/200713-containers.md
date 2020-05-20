@@ -88,3 +88,65 @@ This course aims to introduce the use of containers with the goal of using them 
 
 											
     </div>
+
+
+
+
+<!-- 		
+<h2><a name="video">Video</a></h2>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ -->
+
+
+<!-- 
+<h2><a name="slides">Slides</a></h2>
+
+
+<section id="service">
+    <div class="row ">	
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="transcript.pdf">
+          <strong>Transcript</strong><br/>
+          Download a transcript of the video audio
+        </a>
+      </div>
+
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="slides.pdf">
+          <strong>Slides</strong><br/>
+          Download pdf of the presentation.
+        </a>
+      </div>
+										
+    </div>
+
+ -->
+
+
+<!-- 
+<h2><a name="feedback">Feedback</a></h2>
+
+<section id="service">
+    <div class="row ">	
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+
+		   href="https://events.prace-ri.eu/event/962/surveys/652"
+		>
+          <strong>Feedback</strong><br/>
+          Please let us know what was great about this course and anything we can improve
+        </a>
+      </div>
+    </div>
+		
+ -->
