@@ -58,8 +58,8 @@ could be
 * Code development to take a code from a Tier-2 (Regional) or local
   university cluster to ARCHER 2
 
-Note that projects to develop software GPU hardware component are not
-within the remit of this call.
+Note that projects to develop software on the GPU hardware component
+of ARCHER2 are not within the remit of this call.
 
 ### Funding and eligibility
 
