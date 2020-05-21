@@ -43,7 +43,7 @@ This online session is open to all.  It will use the Blackboard Collaborate plat
       </div>
 
 -->
-<!--
+
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
            href="slides.pdf">
@@ -51,7 +51,7 @@ This online session is open to all.  It will use the Blackboard Collaborate plat
           Download pdf of the presentation.
         </a>
       </div>
--->										
+										
     </div>
   </div>
 </section>
