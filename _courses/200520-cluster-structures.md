@@ -22,25 +22,36 @@ Therefore, determining the precise geometry of a cluster is a fundamental step t
 
 This online session is open to all.  It will use the Blackboard Collaborate platform. 
 
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/suoQ21v1Los" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 <section id="service">
   <div class="container">
     <div class="row ">	
 
+<!--
+
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="https://eu.bbcollab.com/guest/d394caa3c2c3482ea8df237f49691517">
-          <strong>Join Session</strong><br/>
-          Join this online session in your browser.
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="transcript.pdf">
+          <strong>Transcript</strong><br/>
+          Download a transcript of the video audio
         </a>
       </div>
 
+-->
+<!--
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="myevents.ics">
-          <strong>Add to Calendar</strong><br/>
-          Download ICS file to add this event to your calendar complete with join link.
+           href="slides.pdf">
+          <strong>Slides</strong><br/>
+          Download pdf of the presentation.
         </a>
       </div>
-										
+-->										
     </div>
   </div>
 </section>
