@@ -23,41 +23,45 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 <section id="service">
-  <div class="row ">	
+    <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://eu.bbcollab.com/guest/ae7310ae2549489b93d0009a6aec8eb8">
-          <strong>Join Session</strong><br/>
-          Join this online session in your browser
+          href="https://www.archer2.ac.uk/ecse/">
+          <strong>eCSE Programme</strong><br/>
+          Go to the eCSE Programme page on this website
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="myevents.ics">
-          <strong>Add to Calendar</strong><br/>
-          Download ICS file to add this event to your calendar complete with join link
+           href="https://www.archer2.ac.uk/ecse/calls/">
+          <strong>eCSE Call page</strong><br/>
+          Go to the 1st ARCHER2 eCSE call page on this webiste
+        </a>
+      </div>
+			
+			      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+          href="https://www.archer.ac.uk/safe/funding/fundingentry.jsp">
+          <strong>eCSE SAFE page</strong><br/>
+          Go to the eCSE section in SAFE - requires SAFE login
         </a>
       </div>
 
 											
     </div>
 
-
-
-
-
-
-
-<!--
+<p>&nbsp;</p>
+		
+		
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AUh2h4jO6VI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xRNNPYy6wjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 <!--
 
