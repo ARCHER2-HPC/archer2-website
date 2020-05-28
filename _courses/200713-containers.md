@@ -60,7 +60,7 @@ This course aims to introduce the use of containers with the goal of using them 
 		</div>
 		
 		
-					
+<!--					
 
 <h2>Join sessions		</h2>		
 
@@ -89,7 +89,7 @@ This course aims to introduce the use of containers with the goal of using them 
 											
     </div>
 
-
+-->
 
 
 <!-- 		
