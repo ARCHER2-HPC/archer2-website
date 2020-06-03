@@ -55,7 +55,15 @@ banner: web_banners_05.jpg
           <strong>ARCHER2 Driving Test</strong><br/>
           The ARCHER2 Driving Test allows you to learn more about using ARCHER2 and get a small amount of ARCHER2 resource for your research.
         </a>
-      </div>							
+      </div>	
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="https://www.youtube.com/channel/UCZi-oBdxoDV5CPEQnhmrCAg/videos">
+          <strong>ARCHER2 YouTube channel</strong><br/>
+          Includes videos of past Webinars and online training.
+        </a>
+      </div>						
 			
     </div>
   </div>
