@@ -292,15 +292,15 @@ Mailings will be sent approximately 1-2 times per month, your details will not b
 
 ## Online Training
 
-Much of the ARCHER2 training material is available online. In particular, this includes material relevant to the [ARCHER2 Driving Test](driving-test.html)
+Much of the ARCHER2 training material is available online. In particular, this includes material relevant to the [ARCHER2 Driving Test](driving-test.html).
 
 On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you will be invited to apply for an account on ARCHER2 with 1200 kAUs (80,000 core-hours) to use over 12 months, enabling you to put your skills into practice.
 
 ## Other Training
 
-*    [EPCC MSc in High Performance Computing](http://www.epcc.ed.ac.uk/msc)
+*   [EPCC MSc in High Performance Computing](http://www.epcc.ed.ac.uk/msc)
 *   [ Software Sustainability Institute - Guides](http://www.software.ac.uk/resources/guides-everything)
-*    [Software Sustainability Institute - Top Tips](http://www.software.ac.uk/resources/top-tips)
+*   [Software Sustainability Institute - Top Tips](http://www.software.ac.uk/resources/top-tips)
 
 ## Support for training on ARCHER2
 
