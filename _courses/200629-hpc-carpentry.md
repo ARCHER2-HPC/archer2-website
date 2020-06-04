@@ -85,7 +85,7 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
 -->
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="myevent.ics">
+           href="myevents.ics">
           <strong>Add to Calendar</strong><br/>
           Download ICS file to add this event to your calendar complete with join link
         </a>
