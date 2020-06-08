@@ -2,7 +2,7 @@
 layout: course
 title: HPC Carpentry
 banner: web_banners_05.jpg 
-human_dates: 29 - 30 June 2020
+human_dates: 29 - 30 June 2020  10:00 - 16:00 BST
 start_date: 2020-06-29 10:00:00
 end_date: 2020-06-30 16:00:00
 trainers: David Henty (EPCC), Juan Herrera (EPCC)
