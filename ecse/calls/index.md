@@ -149,12 +149,12 @@ The ARCHER2 CSE team can be contacted via the ARCHER2 service desk.
 
 ### Links and documents
 
-* <a href="ARCHER2_eCSE01_ApplicationGuidance.pdf">ApplicationGuidance</a>
+* <a href="ARCHER2_eCSE01_ApplicationGuidance.pdf">Application Guidance</a>
 
 * <a href="ARCHER2_eCSE01_TechnicalEvaluation.docx">Technical
 evaluation form</a>
 
-* <a href="ARCHER2_eCSE01_ProposalTemplate.docx">Project Proposl
+* <a href="ARCHER2_eCSE01_ProposalTemplate.docx">Project Proposal
 template</a>
 
 * [eCSE projects funded under the ARCHER service](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php)
