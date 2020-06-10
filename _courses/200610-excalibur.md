@@ -79,13 +79,13 @@ In this seminar, Richard Gunn (Head of E-Infrastructure, EPSRC-UKRI) and Jeremy 
 
 
 
-<!--
+
 
 <section id="service">
   <div class="container">
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -95,16 +95,16 @@ In this seminar, Richard Gunn (Head of E-Infrastructure, EPSRC-UKRI) and Jeremy 
       </div>
 
 
-
+-->
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="ExCALIBUR Seminar 100620.pdf">
           <strong>Slides</strong><br/>
-          Download pdf of the presentation.
+          Download pdf of Richard's presentation.
         </a>
       </div>
 										
     </div>
   </div>
 </section>
--->
+
