@@ -98,9 +98,9 @@ In this seminar, Richard Gunn (Head of E-Infrastructure, EPSRC-UKRI) and Jeremy 
 -->
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
-           href="ExCALIBUR Seminar 100620.pdf">
+           href="ExCALIBUR Seminar.pdf">
           <strong>Slides</strong><br/>
-          Download pdf of Richard's presentation.
+          Download pdf of the presentations.
         </a>
       </div>
 										
