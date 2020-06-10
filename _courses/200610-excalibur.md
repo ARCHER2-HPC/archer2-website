@@ -37,12 +37,12 @@ In this seminar, Richard Gunn (Head of E-Infrastructure, EPSRC-UKRI) and Jeremy 
 
 
 
-This online session is open to all. It will use the Blackboard Collaborate platform.
-
 
 
 
 <section id="service">
+
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -64,20 +64,20 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
+<h2><a name="video">Video</a></h2>
 
 
-
-<!--
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AUh2h4jO6VI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h0DtVqGzOaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 <!--
 
