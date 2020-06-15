@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200615T144438Z
+UID:20200615T144438Z-668716118@marudot.com
+DTSTART;TZID=Europe/London:20200624T150000
+DTEND;TZID=Europe/London:20200624T160000
+SUMMARY:OpenFOAM IO Webinar
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2F42cc4a3bb70548e9bde9458c539ea1dc
+DESCRIPTION:Join Link : https://eu.bbcollab.com/guest/42cc4a3bb70548e9bde9458c539ea1dc\n\nOpenFOAM is a widely-used program for performing computational fluid dynamics simulations\, and is regularly among the top 20 most-used applications on ARCHER. One historical quirk of OpenFOAM is its need to write a file per variable per MPI-process when running in parallel on multiple processors -- this quickly becomes an issue when running simulations on ARCHER or other HPC facilities where the number of processors used is high and the number of files produced can quickly run into the 10\,000s-100\,000s (and clog up a user's file number quota). With the release of v1706\, the OpenFOAM developers have addressed this by adding an option to have all writing done to a single master file per variable (greatly reducing the total number of files generated). In this talk\, I will be comparing the I/O performance of this new\, collated writing method with the performance of the file-per-process method. Hopefully\, this will help inform OpenFOAM users on ARCHER and elsewhere of the best method to use for their systems.\n\nThis online session is open to all. It will use the Blackboard Collaborate platform.\n\nJoin Link : https://eu.bbcollab.com/guest/42cc4a3bb70548e9bde9458c539ea1dc
+LOCATION:https://eu.bbcollab.com/guest/42cc4a3bb70548e9bde9458c539ea1dc
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OpenFOAM IO Webinar
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
