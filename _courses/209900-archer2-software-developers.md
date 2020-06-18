@@ -43,7 +43,7 @@ You should have used remote HPC facilities before. In particular, you should be 
 
 #### Requirements:
 
-Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). They are also required to abide by the ARCHER Training Code of Conduct. 
+Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed [here](https://epcced.github.io/archer2-intro-develop/#setup)). They are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
 
 <section id="service">
