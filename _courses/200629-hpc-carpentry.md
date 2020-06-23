@@ -40,14 +40,14 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://epcced.github.io/archer2-hpc-2020-06-29/">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
+
 
 
       <div class="col-xs-6 col-sm-4">
