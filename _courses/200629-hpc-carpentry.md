@@ -7,7 +7,7 @@ start_date: 2020-06-29 10:00:00
 end_date: 2020-06-30 16:00:00
 trainers: David Henty (EPCC), Juan Herrera (EPCC)
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: http://www.archer.ac.uk/training/registration/
 location: Online
 location_url:
