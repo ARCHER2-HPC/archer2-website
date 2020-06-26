@@ -60,8 +60,6 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
  	</div>
 		
 		
-<!--					
-
 <h2><a name="join">Join sessions	</a>	</h2>		
 
 
@@ -93,7 +91,6 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
 
 											
     </div>
--->
 
    
 
