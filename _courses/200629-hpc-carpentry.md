@@ -138,7 +138,7 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -157,7 +157,7 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
