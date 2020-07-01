@@ -15,7 +15,7 @@ You may also request assistance in completing an application via this same route
 
 ### Open ARCHER2 Calls
 
-A list of any currently open calls through which you can apply for access to ARCHER2.
+A list of any currently open calls through which you can apply for access to ARCHER2. Details of the specific requirements for these calls (for example, what is a TA) are provided below.
 
 
 <table>
@@ -50,7 +50,8 @@ A list of any currently open calls through which you can apply for access to ARC
 </table>
 
 
-### Other routes to accessing HPC
+### Getting Access, more details
+
 There are a variety of specialised routes through which researchers can access EPSRC HPC services. EPSRC recommend applicants familiarise themselves with these routes to ensure they apply to the most appropriate one for their project. If you have any questions on the below you can direct them to [researchinfrastructure@epsrc.ukri.org](mailto:researchinfrastructure@epsrc.ukri.org).
 
 
