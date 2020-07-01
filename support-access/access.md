@@ -54,17 +54,12 @@ A list of any currently open calls through which you can apply for access to ARC
 
 There are a variety of specialised routes through which researchers can access EPSRC HPC services. EPSRC recommend applicants familiarise themselves with these routes to ensure they apply to the most appropriate one for their project. If you have any questions on the below you can direct them to [researchinfrastructure@epsrc.ukri.org](mailto:researchinfrastructure@epsrc.ukri.org).
 
-
-#### Grants 
-Researchers can request computational time to support their work as part of their full grant applications. 
-
-#### High End Computing (HEC) Consortia
-If a researcher's work is within remit of one of the HEC Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. 
-
-[https://epsrc.ukri.org/research/facilities/hpc/access/highendcomputingconsortia/](https://epsrc.ukri.org/research/facilities/hpc/access/highendcomputingconsortia/)
+#### Pump-priming
+EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER instant access.
 
 #### Pioneer Projects
-Researchers can apply for large amounts of ARCHER2 compute for ambitious, computationally intensive simulations and calculations in support of an individual project through EPSRC's ARCHER2 Pioneer Projects call.  Projects can be up to 2 years in length.  This is the successor scheme to the ARCHER Leadership Calls.
+EPSRC remit researchers can apply for large amounts of ARCHER2 compute for ambitious, computationally intensive simulations and calculations in support of an individual project through EPSRC's ARCHER2 Pioneer Projects call.  Projects can be up to 2 years in length.  This is the successor scheme to the ARCHER Leadership Calls.
+
 
 #### Access to HPC
 
@@ -73,14 +68,15 @@ You can access to EPSRC's HPC systems (both ARCHER2 and most of the Tier-2 servi
 Projects can be up to 1 year in length.
 This new call combines what was previously the ARCHER RAP (Resource Allocation Panel) and the Tier-2 Open Access call.
 
-#### Pump-priming
-Researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER instant access.
+### Other routes to access HPC
 
+#### Grants 
+Researchers in all Council remits can request computational time to support their work as part of their full grant applications. 
 
-#### Driving test
-A small allocation for new ARCHER2 users to get them started using the Tier-1 service.  This scheme will be launched after the service has commenced operation.
+#### High End Computing (HEC) Consortia
+If a researcher's work is within remit of one of the HEC Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. 
 
-
+[https://epsrc.ukri.org/research/facilities/hpc/access/highendcomputingconsortia/](https://epsrc.ukri.org/research/facilities/hpc/access/highendcomputingconsortia/)
 
 
 ### Access for NERC Remit
@@ -89,6 +85,8 @@ Details for access routes for NERC Remit researchers will be available soon.
 
 
 
+#### Driving test
+A small allocation for new ARCHER2 users to get them started using the Tier-1 service.  This scheme will be launched after the service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
 
 
 
