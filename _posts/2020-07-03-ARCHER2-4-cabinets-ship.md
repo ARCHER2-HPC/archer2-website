@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 – 4 cabinets ship from the US
-date: 2020-07-02 12:00:00
+date: 2020-07-03 12:00:00
 author: Lorna Smith
 categories: [news]
 ---
@@ -13,7 +13,7 @@ Covid-19 has created significant challenges for the delivery of the new ARCHER2 
 
 ARCHER2 will replace the current ARCHER system, a Cray XC30, as the UK’s National HPC system. Once fully configured, this should provide an average of over 11 times the science throughput of ARCHER.   
 
-The full ARCHER2 system will consist of 23 Shasta Mountain cabinets giving a total of 748,544 cores with 1.57 PBytes of total system memory and an estimated peak performance of 28 PFLOP/s. As one of the first sites in Europe to receive such a system, we are looking forward to investigating the system and its performance, then getting our users on the system. 
+The full ARCHER2 system will consist of 23 Shasta Mountain cabinets giving a total of 748,544 cores with 1.57 PBytes of total system memory and an estimated peak performance of 28 PFLOP/s. As one of the first sites in Europe to receive Shasta Mountain cabinets, we are looking forward to investigating these and their performance, then getting our users on the system. 
 
 ARCHER2 will replace ARCHER in two stages. The first stage will be for four cabinets to be built and brought in to operation, at which point ARCHER will be decommissioned and the remaining 19 cabinets delivered and built. 
 
