@@ -6,7 +6,7 @@ author: Lorna Smith
 categories: [news]
 ---
 
-Covid-19 has created significant challenges for the delivery of the new ARCHER2 system. It is therefore really exciting to see the first 4 cabinets of ARCHER2 pass factory acceptance and leave Cray/HPE’s factory in Chippewa Falls, Wisconsin to begin their journey to Edinburgh.
+Covid-19 has created significant challenges for the delivery of the new ARCHER2 system. It is therefore really exciting to see the first 4 cabinets of ARCHER2 leave Cray/HPE’s factory in Chippewa Falls, Wisconsin to begin their journey to Edinburgh.
 
 <img src="{{ site.baseurl }}/img/news/2020-07-02-ARCHER2-transit-padded.png" alt="ARCHER2 on board lorry" />
 
