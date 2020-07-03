@@ -40,19 +40,16 @@ This course aims to introduce the use of containers with the goal of using them 
 <section id="service">
     <div class="row ">	
 
-<!--
-		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://imperialcollegelondon.github.io/2020-07-13-Containers-Online/">
           <strong>Course materials</strong>         
         </a>
       </div>
--->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/200713_Containers_online">
+          href="https://pad.archer2.ac.uk/p/2020-07-13-Containers-Online">
           <strong>Course Chat</strong>       
         </a>
       </div>
