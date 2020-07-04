@@ -19,6 +19,6 @@ ARCHER2 will replace ARCHER in two stages. The first stage will be for four cabi
 
 <img src="{{ site.baseurl }}/img/news/2020-07-02-4-cabinet-journey.png" alt="ARCHER2 journey"/>
 
-Having left Chippewa Falls on the 1st July, the cabinets have been transported by road to Chigaco O’Hare airport, Illinois. They leave Chicago today, 3rd July, to fly to Luxumbourg, before being transported by road to London Heathrow to clear customs. They will then continue to Prestwick Airport for final clearance before arriving in Edinburgh on the 13th July. We will be posting blogs and pictures of the 4 cabinets as they arrive in Edinburgh, so keep an eye on the blog and twitter account for further updates. 
+Having left Chippewa Falls on the 1st July, the cabinets have been transported by road to Chicago O’Hare airport, Illinois. They leave Chicago today, 3rd July, to fly to Luxembourg, before being transported by road to London Heathrow to clear customs. They will then continue to Prestwick Airport for final clearance before arriving in Edinburgh on the 13th July. We will be posting blogs and pictures of the 4 cabinets as they arrive in Edinburgh, so keep an eye on the blog and twitter account for further updates. 
 
 
