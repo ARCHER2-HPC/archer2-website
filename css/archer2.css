@@ -109,6 +109,12 @@ th, td {
 }
 
 
+
+#intro .block p {
+  color: #757575;
+  padding-top: 20px;
+}
+
 /*--
 	features Start
 --*/
