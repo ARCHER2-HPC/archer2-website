@@ -95,13 +95,37 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
    
 
 
-<!-- 		
-<h2><a name="video">Video</a></h2>
+ 		
+<h2><a name="video">Videos</a></h2>
+
+<h3><a name="video">Day 1 part 1</a></h3>
 
 <div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/JBLkoPRSqEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+
+<h3><a name="video">Day 1 part 2</a></h3>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/dPHyNqVQMjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3><a name="video">Day 2 part 1</a></h3>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/CHLfyFhWuN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3><a name="video">Day 2 part 2</a></h3>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/6nKdrgP1H4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 
 
 <!-- 
