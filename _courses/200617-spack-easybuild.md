@@ -53,7 +53,7 @@ Software packages on HPC systems have traditionally been built, installed and ma
 
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uaw5-L7BMtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  title="Video" width="560" height="315" src="https://www.youtube.com/embed/Uaw5-L7BMtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

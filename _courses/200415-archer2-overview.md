@@ -28,7 +28,7 @@ The tutorial will not cover the hardware of the ARCHER2 service, this will be co
 
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tfDrbfoBLUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/tfDrbfoBLUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
