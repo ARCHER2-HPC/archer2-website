@@ -44,7 +44,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
 		<td>4 September 2020 (4pm)</td>
 		<td>7 August 2020 (4pm)</td>
-		<td>EPSRC remit only. ARCHER2 or Tier-2 computing resource for a maximum duration of one year.</td>
+		<td><a href="https://epsrc.ukri.org/funding/calls/access-to-high-performance-computing/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 or Tier-2 computing resource for a maximum duration of one year.</td>
 		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
 </table>
