@@ -1,4 +1,3 @@
-
 ---
 layout: section
 title: Website Accessibility Policy
