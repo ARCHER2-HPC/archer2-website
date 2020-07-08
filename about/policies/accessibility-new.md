@@ -9,6 +9,7 @@ summary: Committed to ensuring our websites are accessible to the widest possibl
 
 This accessibility statement applies to [www.archer2.ac.uk](www.archer2.ac.uk) and [https://docs.archer2.ac.uk/
 ](https://docs.archer2.ac.uk/)
+
 This website is run by EPCC on behalf of the ARCHER2 service partners. We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
 - change colours, fonts and font sizes
@@ -50,10 +51,6 @@ The Equality and Human Rights Commission (EHRC) is responsible for enforcing the
 
 ## Contacting us by email or phone 
 
-We provide a text relay service for people who are D/deaf, hearing impaired or have a speech impediment.
-
-Our offices have audio induction loops, or if you contact us before your visit we can arrange a British Sign Language (BSL) interpreter.
-
 You can contact us contact us by email or phone via the [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).
 
 ## Technical information about this website’s accessibility
@@ -72,23 +69,12 @@ The content listed below is non-accessible for the following reasons.
 
 ### Non-compliance with the accessibility regulations
 
-[Note: In this subsection, list:
-
-- accessibility problems
-- which of the WCAG 2.1 AA success criteria the problem fails on
-- when you plan to fix the problem
-
-Do not include any problems where you’re claiming disproportionate burden, or where the problem is outside the scope of the accessibility regulations (those should go in the subsections below).]
-
-Some images do not have a text alternative, so people using a screen reader cannot access the information. This fails WCAG 2.1 success criterion 1.1.1 (non-text content).
-
-We plan to add text alternatives for all images by September 2020. When we publish new content we’ll make sure our use of images meets accessibility standards.
 
 Linked YouTube videos do not all have full manual transcripts and captions.  If you require a transcript of captions for a video please contact the  [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).  We will consider your request and if possible, provide this for you.
 
 ### Disproportionate burden
 
-Providing full manual transcript and captions for all videos would be excessively time consuming.  We are happy to try to provide these for individual videos on request.
+Providing full manual transcript and captions for all videos would be excessively time consuming.  We will try to provide these for individual videos on request to [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html)..
 
 #### Navigation and accessing information
 
