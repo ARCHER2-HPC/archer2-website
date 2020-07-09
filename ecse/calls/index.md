@@ -1,14 +1,16 @@
 ---
 layout: section
 title: ARCHER2 Embedded CSE (eCSE) support Call
-summary: Details of upcoming and open calls
+summary: Details of open calls
 banner: web_banners_06.jpg
 ---
+
+A timetable of upcoming calls can be found [here](timetable.html)
 
 ## The 1st ARCHER2 eCSE call
 
 The 1st ARCHER2 eCSE call (ARCHER2 eCSE01) opened on the 19 May 2020. The
-deadline for submitting documents for technical evaluations is **16:00 on 16 June
+deadline for submitting documents for technical evaluations was **16:00 on 16 June
 2020**, with the final deadline for proposal submission being **16:00 on 7 July
 2020**.
 
