@@ -5,7 +5,7 @@ summary: Details of open calls
 banner: web_banners_06.jpg
 ---
 
-A timetable of upcoming calls can be found [here](timetable.html)
+A timetable of upcoming calls can be found [here](timetable.html).
 
 ## The 1st ARCHER2 eCSE call
 
