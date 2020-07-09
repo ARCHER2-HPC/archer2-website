@@ -20,9 +20,9 @@ This website is run by EPCC on behalf of the ARCHER2 service partners. We want a
 
 We’ve also made the website text as simple as possible to understand.
 
-AbilityNet has advice on making your device easier to use if you have a disability.
+[AbilityNet](https://mcmw.abilitynet.org.uk/) has advice on making your device easier to use if you have a disability.
 
-###How accessible this website is
+### How accessible this website is
 
 We know some parts of this website are not fully accessible:
 
@@ -34,8 +34,7 @@ We know some parts of this website are not fully accessible:
 
 If you need information on this website in a different format like accessible PDF or large print:
 
-- email the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk) 
-- call 0131 650 5000
+Email or phone the [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).
 
 We’ll consider your request and get back to you in 10 working days.
 
@@ -74,11 +73,11 @@ Linked YouTube videos do not all have full manual transcripts and captions.  If 
 
 ### Disproportionate burden
 
-Providing full manual transcript and captions for all videos would be excessively time consuming.  We will try to provide these for individual videos on request to [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html)..
+Providing full manual transcript and captions for all videos would be excessively time consuming.  We will try to provide these for individual videos on request to [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).
 
 #### Navigation and accessing information
 
-We believe our site navigation is compliant
+We believe our site navigation is compliant.
 
 #### Interactive tools and transactions
 
@@ -90,7 +89,7 @@ We do not believe any content is not within scope.
 
 #### PDFs and other documents
 
-PDFs and other documents can be provided in alternative formats on request to the  [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html)
+PDFs and other documents can be provided in alternative formats on request to the  [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).
 
 #### Live video
 
@@ -99,7 +98,7 @@ We do not plan to add captions to live video streams because live video is exemp
 
 ## What we’re doing to improve accessibility
 
-This site was developed with accessibility in mind and we will continue to review the accessibility of the site as it develops.  We welcome any feedback and comments on the site via  [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html)
+This site was developed with accessibility in mind and we will continue to review the accessibility of the site as it develops.  We welcome any feedback and comments on the site via  [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).
 
 
 ## Preparation of this accessibility statement
