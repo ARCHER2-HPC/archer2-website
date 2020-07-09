@@ -1,9 +1,11 @@
 ---
 layout: section
 title: ARCHER2 Embedded CSE (eCSE) support Call
-summary: Details of upcoming and open calls
+summary: Details of open calls
 banner: web_banners_06.jpg
 ---
+
+A timetable of upcoming calls can be found [here](timetable.html)
 
 ## The 1st ARCHER2 eCSE call
 
