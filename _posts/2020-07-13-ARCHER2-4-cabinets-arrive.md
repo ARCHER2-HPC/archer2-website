@@ -10,7 +10,7 @@ categories: [news]
 
  
 
-The 4 cabinet system, the first phase of the 23 cabinet system, has completed its journey from Chippewa Falls in Wisconsin, making its way from Prestwick airport to Edinburgh this morning.  
+The 4 cabinet Shasta Mountain system, the first phase of the 23 cabinet system, has completed its journey from Chippewa Falls in Wisconsin, making its way from Prestwick airport to Edinburgh this morning.  
 
 <img src="{{ site.baseurl }}/img/news/2020-07-13-pic1.png" alt="Packed lorry, arial view and team briefing" />
 
