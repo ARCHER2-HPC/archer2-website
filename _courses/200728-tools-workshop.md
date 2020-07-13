@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 28 - 30 July 2020
 start_date: 2020-07-28 09:00:00
 end_date: 2020-07-30 17:00:00
-trainers: Bryan Wylie
+trainers: Cédric Valensi
 course_type: course
 registration_status: open
 registration_url: https://events.prace-ri.eu/event/1020/
@@ -20,7 +20,7 @@ This course will run online.
 
 #### Goals
 
-This workshop is organised by VI-HPS for the UK PRACE Advanced Training Centre to:
+This workshop is organised by VI-HPS for the ARCHER2 service and the UK PRACE Advanced Training Centre to:
 
 - give an overview of the VI-HPS programming tools suite
 - explain the functionality of individual tools, and how to use them effectively
@@ -41,8 +41,8 @@ A brief overview of the capabilities of these and associated tools is provided i
 
 The workshop will be held in English and run from 09:00 to not later than 17:00 each day, with breaks for lunch and refreshments. There is no fee for participation.
 
-Course capacity is limited, therefore priority will be given to applicants with MPI, OpenMP and hybrid OpenMP+MPI parallel codes already running on the workshop computer systems, and those bringing codes from similar systems to work on. Attendees will need to bring their own notebook computers (with SSH and X11 configured) and use (eduroam) wifi to connect to the workshop computer systems.
-Outline
+
+#### Outline
 
 The workshop introduces tools that provide a practical basis for portable performance analysis of parallel application execution, covering both profiling and tracing. It will be delivered as a series of presentations with associated hands-on practical exercises using the ARM-based Isambard Cray XC50 computer.
 
