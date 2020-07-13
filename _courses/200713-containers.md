@@ -129,7 +129,7 @@ This course aims to introduce the use of containers with the goal of using them 
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 <section id="service">
@@ -146,4 +146,4 @@ This course aims to introduce the use of containers with the goal of using them 
       </div>
     </div>
 		
- -->
+
