@@ -27,7 +27,9 @@ This workshop is organised by VI-HPS for the ARCHER2 service and the UK PRACE Ad
 - offer hands-on experience and expert assistance using the tools
 
 On completion participants should be familiar with common performance analysis and diagnosis techniques and how they can be employed in practice (on a range of HPC systems). Those who prepared their own application test cases will have been coached in the tuning of their measurement and analysis, and provided optimization suggestions.
-Programme Overview
+
+
+#### Programme Overview
 
 Presentations and hands-on sessions are on the following topics:
 
@@ -39,7 +41,7 @@ Presentations and hands-on sessions are on the following topics:
 
 A brief overview of the capabilities of these and associated tools is provided in the VI-HPS Tools Guide.
 
-The workshop will be held in English and run from 09:00 to not later than 17:00 each day, with breaks for lunch and refreshments. There is no fee for participation.
+The workshop will be held in English and run from 09:00 to not later than 17:00 each day, with breaks for lunch. There is no fee for participation.
 
 
 #### Outline
