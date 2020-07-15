@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Reproducible computational environments using containers  (fully booked)
+title: Reproducible computational environments using containers  
 banner: web_banners_05.jpg 
 human_dates: 13 - 14 July 2020
 start_date: 2020-07-13 10:00:00
