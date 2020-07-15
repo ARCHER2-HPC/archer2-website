@@ -39,6 +39,8 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 <section id="service">
 
+<!--
+
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -60,19 +62,19 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6UdxNobV_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 
 
