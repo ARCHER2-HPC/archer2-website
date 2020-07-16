@@ -59,14 +59,15 @@ While analysis of provided example codes will be used to guide the class through
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
-          <strong>Course materials</strong>         
+          href="https://www.vi-hps.org/training/tws/tw34.html">
+          <strong>Event Page</strong>         
         </a>
+		Includes timetable and materials
       </div>
- -->
+
 
   
       <div class="col-xs-6 col-sm-4">
@@ -158,9 +159,8 @@ While analysis of provided example codes will be used to guide the class through
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="http://www.archer.ac.uk/training/feedback/?course=XXXX (4 - 25 May 2020) Online"  
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+
+		   href="https://events.prace-ri.eu/event/1020/surveys/679"
 
 		>
           <strong>Feedback</strong><br/>
