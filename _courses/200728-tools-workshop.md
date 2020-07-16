@@ -1,6 +1,6 @@
 ---
 layout: course
-title: 33rd VI-HPS Tuning Workshop
+title: 34th VI-HPS Tuning Workshop
 banner: web_banners_05.jpg 
 human_dates: 28 - 30 July 2020
 start_date: 2020-07-28 09:00:00
