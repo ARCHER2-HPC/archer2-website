@@ -46,7 +46,7 @@ The workshop will be held in English and run from 09:00 to not later than 17:00 
 
 #### Outline
 
-The workshop introduces tools that provide a practical basis for portable performance analysis of parallel application execution, covering both profiling and tracing. It will be delivered as a series of presentations with associated hands-on practical exercises using the ARM-based Isambard Cray XC50 computer.
+The workshop introduces tools that provide a practical basis for portable performance analysis of parallel application execution, covering both profiling and tracing. It will be delivered as a series of presentations with associated hands-on practical exercises using the Intel-based ARCHER Cray XC30 computer.
 
 While analysis of provided example codes will be used to guide the class through the relevant steps and familiarise with usage of the tools, coaching will also be available to assist participants to analyse their own parallel application codes and may suggest opportunities for improving their execution performance and scalability.
 
