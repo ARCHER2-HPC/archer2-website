@@ -39,7 +39,7 @@ Presentations and hands-on sessions are on the following topics:
 - MAQAO (UVSQ)
 - ARM Forge (ARM)
 
-A brief overview of the capabilities of these and associated tools is provided in the <a href=https://www.vi-hps.org/cms/upload/material/general/ToolsGuide.pdf>VI-HPS Tools Guide</a>
+A brief overview of the capabilities of these and associated tools is provided in the <a href="https://www.vi-hps.org/cms/upload/material/general/ToolsGuide.pdf">VI-HPS Tools Guide</a>
 
 The workshop will be held in English and run from 09:00 to not later than 17:00 each day, with breaks for lunch. There is no fee for participation.
 
