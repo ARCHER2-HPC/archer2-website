@@ -17,3 +17,13 @@ The Raspberry Pis are able to communicate with each other with a series of Ether
 Wee Archie requires more power than a usual PC or laptop does to work. Each individual node and each switch needs its own power supply, there are a multisocket adaptors plus a transformer so Wee Archie can get the power it needs from one power socket.
 
 All these parts are housed in a clear perspex case so people can see all of the component parts.
+
+## Apps
+There are currently two games available for Wee Archie for users to play. They are inspired by real life simulation experiments that were run on the previous ARCHER system, and show users the kind of real-world problems scientists use Supercomputers to solve. They are also good examples of how simulation is used to make design and testing quicker, safer, and cheaper than doing the same experiment in real life.
+### 1. Design an Aerofoil
+An aerofoil is the cross-section of an aeroplane wing. The user uses three sliders to experiment with different angles, curvatures, and thicknesses and their impact on take-off and fuel consumption. As well as calculating the lift and drag properties of each design, the game makes a small animation, demonstrating whether an aeroplane with this design can take off (or not!) and how far it can fly on a full tank of petrol. Many designs are only good for one of the two!
+
+### 2. Coastal Defenses
+The user is given a budget, and a coastal town prone to tidal waves, and is asked to place defences in the sea to reduce the size much as possible. The smaller the waves, the smaller the cost of repairs to damaged buildings after the emergency. The further from the coast and the deeper the ocean, the more expensive each defence becomes, so it's important to weigh up the cost versus effectiveness of each placement.
+
+Once the user has placed their defences, Wee Archie simulates a wave approaching, and how the height is affected by the user's design. It also calculates the cost of damage vs no defences, and savings made after five disasters.
