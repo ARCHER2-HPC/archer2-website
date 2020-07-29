@@ -150,7 +150,7 @@ While analysis of provided example codes will be used to guide the class through
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -169,7 +169,7 @@ While analysis of provided example codes will be used to guide the class through
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
