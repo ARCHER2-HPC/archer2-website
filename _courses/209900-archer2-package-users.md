@@ -3,8 +3,8 @@ layout: course
 title: ARCHER2 for software package users
 banner: web_banners_05.jpg 
 human_dates: Date to be confirmed
-start_date: 2020-07-29 10:00:00
-end_date: 2020-07-30 16:00:00
+start_date: 2020-12-29 10:00:00
+end_date: 2020-12-30 16:00:00
 trainers: EPCC Trainers - to be decided
 course_type: course
 registration_status: 

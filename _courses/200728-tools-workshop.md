@@ -7,7 +7,7 @@ start_date: 2020-07-28 09:00:00
 end_date: 2020-07-30 17:00:00
 trainers: Cédric Valensi
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1020/
 location: Online
 location_url:
