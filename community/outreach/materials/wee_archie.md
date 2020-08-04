@@ -10,6 +10,12 @@ ARCHER2 is made of 23 cabinets containing 5,848 nodes. It requires specialist st
 ## Hardware
 Wee Archie is made-up of 18 Raspberry Pi computers, which behave like supercomputer nodes. Each one is a tiny, single-board computer, size 85mm x 56mm x 17mm. Each has a central processing unit (CPU) to execute computer code, with 4 cores, meaning a node can run 4 different processes in parallel. ARCHER2 nodes are much larger than this - they have 2 CPUs with 128 cores total - more than the whole of Wee Archie. 16 of the nodes in Wee Archie are compute nodes, the other two are controller nodes.
 
+<p align="center">
+  <img src="images/181107_ARCHER_30.jpg" width="1000" title="Wee Archie Blue, connected to a laptop running the aerofoil simulation">
+  <figcaption>(Image by Roberto Ricciuti).</figcaption>
+</p>
+
+
 Each node also has a board of coloured LED lights that have been programmed to show the status of each node. There are 4 bars to indicate usage for each CPU core, plus others for memory, temperature, and reading and writing data to storage.
 
 The Raspberry Pis are able to communicate with each other with a series of Ethernet cables and 3 switches. Each node has 1GB on-board memory that is not accessible to the other 17 nodes. In order to share data with other nodes, they must send messages to one another across the Ethernet network. Programs on ARCHER2 are run in the same way, but the network (known as the interconnect) is much faster.
