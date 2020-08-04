@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200804T090240Z
+UID:20200804T090240Z-1952587453@marudot.com
+DTSTART;TZID=Europe/London:20200826T150000
+DTEND;TZID=Europe/London:20200826T160000
+SUMMARY:The state of containers ARCHER2 Webinar
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2F4d996f140db44a27a7c71101acb0d04e
+DESCRIPTION:Join link : https://eu.bbcollab.com/guest/4d996f140db44a27a7c71101acb0d04e\n\nIt is anticipated that there will be an uptake in the use of containers for running research codes.\nIt is hoped that containers will facilitate reproducibility and portability.\n\nYou may see a paper that presents some intriguing results produced by a numerical simulation.\nThe paper references a definition file\, allowing you to build the container (within which the research code runs) and deploy to a HPC platform of your choice. You find that you can reproduce the results.\nYou then tweak the input settings to explore a number of what-if scenarios and in effect stand on the shoulders of the author(s).\n\nIs this expectation realistic? I will present my attempts to run various research codes within containers on two HPC platforms\, Cirrus and CSD3. Where possible\, I investigate whether or not there is a performance penalty incurred by running containerised software. \n
+LOCATION:https://eu.bbcollab.com/guest/4d996f140db44a27a7c71101acb0d04e
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The state of containers ARCHER2 Webinar
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
