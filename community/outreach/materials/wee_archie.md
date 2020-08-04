@@ -5,10 +5,10 @@ summary: A Suitcase-Sized Supercomputer
 banner: web_banners_07.jpg
 ---
 
-ARCHER2 is made of 23 cabinets and 5,848 nodes. It requires specialist staff and facilities to run, plus a massive power supply - it's not possible to transport parts of it to science festivals and other events! For that reason, we have created Wee Archie to help teach people of all ages about Supercomputers.
+ARCHER2 is made of 23 cabinets containing 5,848 nodes. It requires specialist staff and facilities to run, plus a massive power supply - it's not possible to transport parts of it to science festivals and other events! For that reason, we have created Wee Archie to help teach people of all ages about Supercomputers.
 
 ## Hardware
-Wee Archie is made-up of 18 Raspberry Pi computers, or nodes. Each one is a tiny, single-board computer, size 85mm x 56mm x 17mm. Each has a central processing unit (CPU) to execute computer code, with 4 cores, meaning a node can run 4 different processes in parallel. ARCHER2 nodes are much larger than this - they have 2 CPUs with 128 cores total - more than the whole of Wee Archie. 16 of the nodes in Wee Archie are compute nodes, the other two are controller nodes.
+Wee Archie is made-up of 18 Raspberry Pi computers, which behave like supercomputer nodes. Each one is a tiny, single-board computer, size 85mm x 56mm x 17mm. Each has a central processing unit (CPU) to execute computer code, with 4 cores, meaning a node can run 4 different processes in parallel. ARCHER2 nodes are much larger than this - they have 2 CPUs with 128 cores total - more than the whole of Wee Archie. 16 of the nodes in Wee Archie are compute nodes, the other two are controller nodes.
 
 Each node also has a board of coloured LED lights that have been programmed to show the status of each node. There are 4 bars to indicate usage for each CPU core, plus others for memory, temperature, and reading and writing data to storage.
 
@@ -19,7 +19,7 @@ Wee Archie requires more power than a usual PC or laptop does to work. Each indi
 All these parts are housed in a clear perspex case so people can see all of the component parts.
 
 ## Apps
-There are currently two games available for Wee Archie for users to play. They are inspired by real life simulation experiments that were run on the previous ARCHER system, and show users the kind of real-world problems scientists use Supercomputers to solve. They are also good examples of how simulation is used to make design and testing quicker, safer, and cheaper than doing the same experiment in real life.
+There are currently two games available for Wee Archie for users to play. They are inspired by real life simulation experiments that were run on the previous ARCHER system, and designed to show users the kind of real-world problems scientists use supercomputers to solve. They are also good examples of how computer simulations make design and testing quicker, safer, and cheaper than doing the same experiments in real life.
 ### 1. Design an Aerofoil
 An aerofoil is the cross-section of an aeroplane wing. The user uses three sliders to experiment with different angles, curvatures, and thicknesses and their impact on take-off and fuel consumption. As well as calculating the lift and drag properties of each design, the game makes a small animation, demonstrating whether an aeroplane with this design can take off (or not!) and how far it can fly on a full tank of petrol. Many designs are only good for one of the two!
 
