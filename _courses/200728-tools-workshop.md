@@ -110,13 +110,57 @@ While analysis of provided example codes will be used to guide the class through
     </div>
  -->
 
-<!-- 		
+ 		
 <h2><a name="video">Video</a></h2>
 
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row ">	
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/V9RokbTrX5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/jZ5dm0C2mMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 </div>
- -->
+
+
+<div class="row ">	
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/dy_xwvYJIqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ZwQ77vQ6Eg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+
+
+
+<div class="row ">	
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/apoyomV1tq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/0zD64fJUNKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+
+
+
+
 
 
 <!-- 
