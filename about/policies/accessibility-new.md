@@ -26,8 +26,7 @@ We’ve also made the website text as simple as possible to understand.
 
 We know some parts of this website are not fully accessible:
 
-- some older PDF documents are not fully accessible to screen reader software
-- links to videos on YouTube mostly use only automated captions
+- links to videos on YouTube mostly use automated captions
 - you cannot skip to the main content when using a screen reader
 
 ### Feedback and contact information
@@ -69,11 +68,8 @@ The content listed below is non-accessible for the following reasons.
 ### Non-compliance with the accessibility regulations
 
 
-Linked YouTube videos do not all have full manual transcripts and captions.  If you require a transcript of captions for a video please contact the  [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).  We will consider your request and if possible, provide this for you.
+Linked YouTube videos do not all have full manual transcripts and captions.  If you require a transcript or captions for a video please contact the  [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).  We will consider your request and if possible, provide this for you.
 
-### Disproportionate burden
-
-Providing full manual transcript and captions for all videos would be excessively time consuming.  We will try to provide these for individual videos on request to [ARCHER2 Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html).
 
 #### Navigation and accessing information
 
