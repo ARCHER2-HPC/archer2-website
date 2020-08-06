@@ -12,7 +12,7 @@ ARCHER2 will be a Cray Shasta system with an estimated peak performance of 28 PF
 ARCHER2 should be capable on average of over eleven times the science throughput of ARCHER, based on benchmarks which use five of the most heavily used codes on the current service. As with all new systems, the relative speedups over ARCHER vary by benchmark. The ARCHER2 science throughput codes used for the benchmarking evaluation are estimated to reach 8.7x for CP2K, 9.5x for OpenSBLI, 11.3x for CASTEP, 12.9x for GROMACS, and 18.0x for HadGEM3.
 
 ## Key hardware specs
-*	5,848 compute nodes, each with dual AMD Rome 64 core CPUs at 2.2GHz, giving 748,544 cores in total and 1.57 PBytes of total system memory
+*	5,848 compute nodes, each with dual AMD Rome 64 core CPUs at 2.2GHz and 256 or 512 GB DDR 3200, giving 748,544 cores in total and 1.57 PBytes of total system memory
 *	23x Shasta Mountain direct liquid cooled cabinets
 *	14.5 PBytes of Lustre work storage in 4 file systems
 *	1.1 PByte all-flash Lustre BurstBuffer file system
