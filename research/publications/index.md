@@ -6,8 +6,8 @@ banner: web_banners_08.jpg
 ---
 
 <script>
-const safe_publications = "http://localhost:8080/deploy-spb/servlet/PublicationsServlet?machine=archer2";
-// const safe_publications = "http://safe.epcc.ed.ac.uk/servlet/PublicationsServlet?machine=archer2";
+const safe_publications = "http://localhost:8080/deploy-spb/servlet/PublicationsServlet?machine=archer&machine=archer2";
+// const safe_publications = "http://safe.epcc.ed.ac.uk/servlet/PublicationsServlet?machine=archer&machine=archer2";
 function compare( a, b ) {
     var ia = parseInt(a['year']);
     var ib = parseInt(b['year']);
@@ -69,7 +69,8 @@ function toHTML(publication) {
     });
 })();
 </script>
-The ARCHER2 service will provide a list of research publications that have been enabled by the ARCHER2 system.
 
-<div id="publications"></div>
+<div id="publications">
+The ARCHER2 service will provide a list of research publications that have been enabled by the ARCHER2 system.
+</div>
 
