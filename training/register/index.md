@@ -33,6 +33,7 @@ appropriate registration link in the table on the
 
 <input type="hidden" id="subject" name="subject" value="Course registration.">
 <input type="hidden" id="type" name="type" value="course_registration">
+<input type="hidden" id="query_service" name="query_service" value="ARCHER2">
 
 
 <h3><label for="course">Please select one of the following courses </label></h3>
@@ -149,7 +150,7 @@ appropriate registration link in the table on the
 <p><label for="country"><strong>Nationality *</strong></label><br />
 <select required name="country" id="country">
     <option value="" label="Select a country ... " selected="selected">Select a country ... </option>
-    <option value="GB" label="United Kingdom">United Kingdom</option>
+    <option value="UK" label="United Kingdom">United Kingdom</option>
     <option value="AF" label="Afghanistan">Afghanistan</option>
     <option value="AL" label="Albania">Albania</option>
     <option value="DZ" label="Algeria">Algeria</option>
@@ -398,7 +399,7 @@ appropriate registration link in the table on the
     <option value="UA" label="Ukraine">Ukraine</option>
     <option value="SU" label="Union of Soviet Socialist Republics">Union of Soviet Socialist Republics</option>
     <option value="AE" label="United Arab Emirates">United Arab Emirates</option>
-    <option value="GB" label="United Kingdom">United Kingdom</option>
+    <option value="UK" label="United Kingdom">United Kingdom</option>
     <option value="US" label="United States">United States</option>
     <option value="ZZ" label="Unknown or Invalid Region">Unknown or Invalid Region</option>
     <option value="UY" label="Uruguay">Uruguay</option>
