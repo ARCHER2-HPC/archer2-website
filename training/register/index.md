@@ -1,0 +1,454 @@
+---
+layout: section
+title: ARCHER2 Training - Registration NOT YET IN USE
+summary: Please complete the registration form
+banner: web_banners_05.jpg
+---
+
+<H2> Please do not use this form yet - not yet ready for use</h2>
+
+<h3>Please use the registration form at <a href="http://www.archer.ac.uk/training/registration/">http://www.archer.ac.uk/training/registration/</a> for course registration </h3>
+
+<p> If you have
+any questions about the training on ARCHER contact
+<a href="http://www.archer.ac.uk/support/helpdesk/">the ARCHER Helpdesk</a>.</p>
+
+
+<h3><label for="course"><strong>Please select one of the following courses *</strong></label></h3>
+
+<!--
+
+
+<input type="radio" name="course" value="Amber, 9 June 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200609-amber/">Preparing to run biomolecular QM/MM simulations with CP2K using AmberTools</a>, 9 June 2020, Online  <br />
+
+<input type="radio" name="course" value="HPC Carpentry, 29-30 June 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">HPC Carpentry</a>, 29-30 June 2020, Online  <br />
+  
+	
+	
+	--> 
+
+
+
+<input type="radio" name="course" value="OpenMP, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">OpenMP</a>, tbc October 2020, Online  <br />
+
+<input type="radio" name="course" value="Data Carpentry, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">Data Carpentry</a>, tbc October 2020, Online  <br />
+	
+<p>&nbsp;</p>	
+<p>Courses marked with <b>&dagger;</b> are fully booked but please complete the registration form to be added to the waiting list.</p>
+	
+	
+<!--
+<p><b>No courses available at present.</b></p>
+	--> 
+	
+	
+
+<p>
+<br />
+	We hope to be able to offer more online courses soon - please consider signing
+	up to our ARCHER-Training mailing list to be kept informed of our training opportunities
+ 	<a href="http://bit.ly/ARCHER-Training-List">http://bit.ly/ARCHER-Training-List</a> <br />
+	Mailings about our upcoming training opportunities will be sent approximately 1-2 times per month, your details will not be shared and you can unsubscribe at any time.
+
+</p>
+
+
+
+
+
+
+<p><strong>Note:</strong> If your course does not appear in the list it may be offered in 
+collaboration with EPCC's PRACE Advanced Training Centre. Please follow the
+appropriate registration link in the table on the
+<a href="/training#upcoming-training">main training page</a>.</p>
+<hr />
+
+<h3>Please complete your details</h3>
+
+<p>
+* indicates a required field. 
+</p>
+<!--
+<p><strong>No courses currently open for registration through this form. Please
+see the <a href="../">Training Page</a> for open courses and links to their 
+registration forms.</strong></p>
+-->
+
+<hr />
+<form name="RegForm" action="http://localhost:8080/deploy-spb/QueryForm"    method="post" accept-charset="UTF-8">
+<fieldset>
+
+<input type="hidden" id="subject" name="subject" value="Course registration.">
+<input type="hidden" id="type" name="type" value="course_registration">
+
+<p><label for="name"><strong>Forename *</strong></label><br />
+
+<input required type="text" id="name" name="name" value="" maxlength="80" size="40" /> </p>
+
+
+<p><label for="surname"><strong>Family Name *</strong></label><br />
+
+<input required type="text" id="surname" name="surname" value="" maxlength="80" size="40" /> </p>
+
+<p><label for="email"><strong>Your email address *</strong> - this <strong>must</strong> be your institution email address</label><br />
+ 
+<input required type="email" id="email" name="email" value="" maxlength="80" size="40"/></p>
+
+<p><br />
+<label for="organisation"><strong>Institution</strong> <i>Name of institution/organisation where you are studying/working</i></label><br />
+<input type="text" id="organisation" name="organisation" value="" maxlength="80" size="40" />
+</p>
+
+<p><label for="sector"><strong>Please select your Institution sector:</strong></label><br />
+<select id="sector" name="sector">
+  <option value="Not selected">Please select:</option>
+  <option value="Academic">Academic</option>
+	<option value="Commercial">Commercial</option>
+	<option value="Supercomputing">Supercomputing Centre</option>	
+	<option value="Gov non profit">Government/non-profit</option>		
+  <option value="Other">Other (please specify below)</option>
+</select>
+</p>
+
+<p><label for="status"><strong>Please select one of the following descriptions of your HPC use:</strong></label><br />
+<select id="status" name="status">
+  <option required value="Not selected">Please select:</option>
+  <option value="ARCHER user">ARCHER User</option>
+	<option value="DIRAC user">DIRAC User</option>
+	<option value="Regional UK HPC">Regional UK HPC User</option>	
+  <option value="Other">Other (please specify below)</option>
+	<option value="No HPC use">No HPC use</option>	
+</select>
+</p>
+
+<p><label for="stage"><strong>Please select your career stage:</strong></label><br />
+<select id="stage" name="stage">
+  <option value="Not selected">Please select:</option>
+  <option value="Undergrad">Undergraduate student</option>
+	<option value="MSc Student">MSc Student</option>
+  <option value="Postgrad">Postgraduate Researcher: PhD or other PG research degree</option>
+	<option value="PostDoc">Postdoctorate</option>
+	<option value="Research Fellow">Research Fellow: Researcher with personal fellowship</option>
+	<option value="Permanent Academic">Permanent Academic: Academic researcher with full time contract</option>
+	<option value="Research Support">Research Support: Technician, Software engineer, etc.</option>
+	<option value="Industrial/Commercial">Industrial/Commercial</option>
+	<option value="Admin">Administrative Staff</option>
+	<option value="ARCHER Service">ARCHER Service staff</option>
+	<option value="Other">Other (please specify below)</option>
+</select>
+</p>
+
+<hr />
+
+
+<p>
+<label for="access"><strong>Please provide any particular accessibility requirements</strong><br />
+<i> (e.g. wheelchair access, large print slides, hearing loop etc.) </i> :</label><br />
+<textarea id="access" name="access" rows="4" cols="72"></textarea>
+</p>
+<p>
+<label for="message"><strong>Any other information</strong> <i>(e.g. bursary requests (where advertised only))</i>:
+<!-- <br /><i><b>Lunches and refreshments are NOT provided</b> (unless explicitly advertised in the course details), but all training locations will have nearby catering outlets where these may be purchased.</i>
+ -->
+</label><br />
+<textarea id="message" name="message" rows="4" cols="72"></textarea>
+</p>
+
+<p>
+<label for="reason"><strong>Reason for participation</strong> <i>Please let us know why you wish to attend this course</i> :</label><br />
+<textarea id="reason" name="reason" rows="4" cols="72"></textarea>
+</p>
+
+<p><label for="gender"><strong>Gender *</strong></label><br />
+<select required id="gender" name="gender">
+  <option value="" disabled="disabled" selected="selected"></option>
+  <option value="male">Male</option>
+  <option value="female">Female</option>
+  <option value="other">Other</option>
+  <option value="not_disclosed">Prefer not to disclose</option>
+</select>
+</p>
+
+<p><label for="country"><strong>Nationality *</strong></label><br />
+<select required name="country" id="country">
+    <option value="" label="Select a country ... " selected="selected">Select a country ... </option>
+    <option value="GB" label="United Kingdom">United Kingdom</option>
+    <option value="AF" label="Afghanistan">Afghanistan</option>
+    <option value="AL" label="Albania">Albania</option>
+    <option value="DZ" label="Algeria">Algeria</option>
+    <option value="AS" label="American Samoa">American Samoa</option>
+    <option value="AD" label="Andorra">Andorra</option>
+    <option value="AO" label="Angola">Angola</option>
+    <option value="AI" label="Anguilla">Anguilla</option>
+    <option value="AQ" label="Antarctica">Antarctica</option>
+    <option value="AG" label="Antigua and Barbuda">Antigua and Barbuda</option>
+    <option value="AR" label="Argentina">Argentina</option>
+    <option value="AM" label="Armenia">Armenia</option>
+    <option value="AW" label="Aruba">Aruba</option>
+    <option value="AU" label="Australia">Australia</option>
+    <option value="AT" label="Austria">Austria</option>
+    <option value="AZ" label="Azerbaijan">Azerbaijan</option>
+    <option value="BS" label="Bahamas">Bahamas</option>
+    <option value="BH" label="Bahrain">Bahrain</option>
+    <option value="BD" label="Bangladesh">Bangladesh</option>
+    <option value="BB" label="Barbados">Barbados</option>
+    <option value="BY" label="Belarus">Belarus</option>
+    <option value="BE" label="Belgium">Belgium</option>
+    <option value="BZ" label="Belize">Belize</option>
+    <option value="BJ" label="Benin">Benin</option>
+    <option value="BM" label="Bermuda">Bermuda</option>
+    <option value="BT" label="Bhutan">Bhutan</option>
+    <option value="BO" label="Bolivia">Bolivia</option>
+    <option value="BA" label="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+    <option value="BW" label="Botswana">Botswana</option>
+    <option value="BV" label="Bouvet Island">Bouvet Island</option>
+    <option value="BR" label="Brazil">Brazil</option>
+    <option value="BQ" label="British Antarctic Territory">British Antarctic Territory</option>
+    <option value="IO" label="British Indian Ocean Territory">British Indian Ocean Territory</option>
+    <option value="VG" label="British Virgin Islands">British Virgin Islands</option>
+    <option value="BN" label="Brunei">Brunei</option>
+    <option value="BG" label="Bulgaria">Bulgaria</option>
+    <option value="BF" label="Burkina Faso">Burkina Faso</option>
+    <option value="BI" label="Burundi">Burundi</option>
+    <option value="KH" label="Cambodia">Cambodia</option>
+    <option value="CM" label="Cameroon">Cameroon</option>
+    <option value="CA" label="Canada">Canada</option>
+    <option value="CT" label="Canton and Enderbury Islands">Canton and Enderbury Islands</option>
+    <option value="CV" label="Cape Verde">Cape Verde</option>
+    <option value="KY" label="Cayman Islands">Cayman Islands</option>
+    <option value="CF" label="Central African Republic">Central African Republic</option>
+    <option value="TD" label="Chad">Chad</option>
+    <option value="CL" label="Chile">Chile</option>
+    <option value="CN" label="China">China</option>
+    <option value="CX" label="Christmas Island">Christmas Island</option>
+    <option value="CC" label="Cocos [Keeling] Islands">Cocos [Keeling] Islands</option>
+    <option value="CO" label="Colombia">Colombia</option>
+    <option value="KM" label="Comoros">Comoros</option>
+    <option value="CG" label="Congo - Brazzaville">Congo - Brazzaville</option>
+    <option value="CD" label="Congo - Kinshasa">Congo - Kinshasa</option>
+    <option value="CK" label="Cook Islands">Cook Islands</option>
+    <option value="CR" label="Costa Rica">Costa Rica</option>
+    <option value="HR" label="Croatia">Croatia</option>
+    <option value="CU" label="Cuba">Cuba</option>
+    <option value="CY" label="Cyprus">Cyprus</option>
+    <option value="CZ" label="Czech Republic">Czech Republic</option>
+    <option value="CI" label="Cote d'Ivoire">Cote d'Ivoire</option>
+    <option value="DK" label="Denmark">Denmark</option>
+    <option value="DJ" label="Djibouti">Djibouti</option>
+    <option value="DM" label="Dominica">Dominica</option>
+    <option value="DO" label="Dominican Republic">Dominican Republic</option>
+    <option value="NQ" label="Dronning Maud Land">Dronning Maud Land</option>
+    <option value="DD" label="East Germany">East Germany</option>
+    <option value="EC" label="Ecuador">Ecuador</option>
+    <option value="EG" label="Egypt">Egypt</option>
+    <option value="SV" label="El Salvador">El Salvador</option>
+    <option value="GQ" label="Equatorial Guinea">Equatorial Guinea</option>
+    <option value="ER" label="Eritrea">Eritrea</option>
+    <option value="EE" label="Estonia">Estonia</option>
+    <option value="ET" label="Ethiopia">Ethiopia</option>
+    <option value="FK" label="Falkland Islands">Falkland Islands</option>
+    <option value="FO" label="Faroe Islands">Faroe Islands</option>
+    <option value="FJ" label="Fiji">Fiji</option>
+    <option value="FI" label="Finland">Finland</option>
+    <option value="FR" label="France">France</option>
+    <option value="GF" label="French Guiana">French Guiana</option>
+    <option value="PF" label="French Polynesia">French Polynesia</option>
+    <option value="TF" label="French Southern Territories">French Southern Territories</option>
+    <option value="FQ" label="French Southern and Antarctic Territories">French Southern and Antarctic Territories</option>
+    <option value="GA" label="Gabon">Gabon</option>
+    <option value="GM" label="Gambia">Gambia</option>
+    <option value="GE" label="Georgia">Georgia</option>
+    <option value="DE" label="Germany">Germany</option>
+    <option value="GH" label="Ghana">Ghana</option>
+    <option value="GI" label="Gibraltar">Gibraltar</option>
+    <option value="GR" label="Greece">Greece</option>
+    <option value="GL" label="Greenland">Greenland</option>
+    <option value="GD" label="Grenada">Grenada</option>
+    <option value="GP" label="Guadeloupe">Guadeloupe</option>
+    <option value="GU" label="Guam">Guam</option>
+    <option value="GT" label="Guatemala">Guatemala</option>
+    <option value="GG" label="Guernsey">Guernsey</option>
+    <option value="GN" label="Guinea">Guinea</option>
+    <option value="GW" label="Guinea-Bissau">Guinea-Bissau</option>
+    <option value="GY" label="Guyana">Guyana</option>
+    <option value="HT" label="Haiti">Haiti</option>
+    <option value="HM" label="Heard Island and McDonald Islands">Heard Island and McDonald Islands</option>
+    <option value="HN" label="Honduras">Honduras</option>
+    <option value="HK" label="Hong Kong SAR China">Hong Kong SAR China</option>
+    <option value="HU" label="Hungary">Hungary</option>
+    <option value="IS" label="Iceland">Iceland</option>
+    <option value="IN" label="India">India</option>
+    <option value="ID" label="Indonesia">Indonesia</option>
+    <option value="IR" label="Iran">Iran</option>
+    <option value="IQ" label="Iraq">Iraq</option>
+    <option value="IE" label="Ireland">Ireland</option>
+    <option value="IM" label="Isle of Man">Isle of Man</option>
+    <option value="IL" label="Israel">Israel</option>
+    <option value="IT" label="Italy">Italy</option>
+    <option value="JM" label="Jamaica">Jamaica</option>
+    <option value="JP" label="Japan">Japan</option>
+    <option value="JE" label="Jersey">Jersey</option>
+    <option value="JT" label="Johnston Island">Johnston Island</option>
+    <option value="JO" label="Jordan">Jordan</option>
+    <option value="KZ" label="Kazakhstan">Kazakhstan</option>
+    <option value="KE" label="Kenya">Kenya</option>
+    <option value="KI" label="Kiribati">Kiribati</option>
+    <option value="KW" label="Kuwait">Kuwait</option>
+    <option value="KG" label="Kyrgyzstan">Kyrgyzstan</option>
+    <option value="LA" label="Laos">Laos</option>
+    <option value="LV" label="Latvia">Latvia</option>
+    <option value="LB" label="Lebanon">Lebanon</option>
+    <option value="LS" label="Lesotho">Lesotho</option>
+    <option value="LR" label="Liberia">Liberia</option>
+    <option value="LY" label="Libya">Libya</option>
+    <option value="LI" label="Liechtenstein">Liechtenstein</option>
+    <option value="LT" label="Lithuania">Lithuania</option>
+    <option value="LU" label="Luxembourg">Luxembourg</option>
+    <option value="MO" label="Macau SAR China">Macau SAR China</option>
+    <option value="MK" label="Macedonia">Macedonia</option>
+    <option value="MG" label="Madagascar">Madagascar</option>
+    <option value="MW" label="Malawi">Malawi</option>
+    <option value="MY" label="Malaysia">Malaysia</option>
+    <option value="MV" label="Maldives">Maldives</option>
+    <option value="ML" label="Mali">Mali</option>
+    <option value="MT" label="Malta">Malta</option>
+    <option value="MH" label="Marshall Islands">Marshall Islands</option>
+    <option value="MQ" label="Martinique">Martinique</option>
+    <option value="MR" label="Mauritania">Mauritania</option>
+    <option value="MU" label="Mauritius">Mauritius</option>
+    <option value="YT" label="Mayotte">Mayotte</option>
+    <option value="FX" label="Metropolitan France">Metropolitan France</option>
+    <option value="MX" label="Mexico">Mexico</option>
+    <option value="FM" label="Micronesia">Micronesia</option>
+    <option value="MI" label="Midway Islands">Midway Islands</option>
+    <option value="MD" label="Moldova">Moldova</option>
+    <option value="MC" label="Monaco">Monaco</option>
+    <option value="MN" label="Mongolia">Mongolia</option>
+    <option value="ME" label="Montenegro">Montenegro</option>
+    <option value="MS" label="Montserrat">Montserrat</option>
+    <option value="MA" label="Morocco">Morocco</option>
+    <option value="MZ" label="Mozambique">Mozambique</option>
+    <option value="MM" label="Myanmar [Burma]">Myanmar [Burma]</option>
+    <option value="NA" label="Namibia">Namibia</option>
+    <option value="NR" label="Nauru">Nauru</option>
+    <option value="NP" label="Nepal">Nepal</option>
+    <option value="NL" label="Netherlands">Netherlands</option>
+    <option value="AN" label="Netherlands Antilles">Netherlands Antilles</option>
+    <option value="NT" label="Neutral Zone">Neutral Zone</option>
+    <option value="NC" label="New Caledonia">New Caledonia</option>
+    <option value="NZ" label="New Zealand">New Zealand</option>
+    <option value="NI" label="Nicaragua">Nicaragua</option>
+    <option value="NE" label="Niger">Niger</option>
+    <option value="NG" label="Nigeria">Nigeria</option>
+    <option value="NU" label="Niue">Niue</option>
+    <option value="NF" label="Norfolk Island">Norfolk Island</option>
+    <option value="KP" label="North Korea">North Korea</option>
+    <option value="VD" label="North Vietnam">North Vietnam</option>
+    <option value="MP" label="Northern Mariana Islands">Northern Mariana Islands</option>
+    <option value="NO" label="Norway">Norway</option>
+    <option value="OM" label="Oman">Oman</option>
+    <option value="PC" label="Pacific Islands Trust Territory">Pacific Islands Trust Territory</option>
+    <option value="PK" label="Pakistan">Pakistan</option>
+    <option value="PW" label="Palau">Palau</option>
+    <option value="PS" label="Palestinian Territories">Palestinian Territories</option>
+    <option value="PA" label="Panama">Panama</option>
+    <option value="PZ" label="Panama Canal Zone">Panama Canal Zone</option>
+    <option value="PG" label="Papua New Guinea">Papua New Guinea</option>
+    <option value="PY" label="Paraguay">Paraguay</option>
+    <option value="YD" label="People's Democratic Republic of Yemen">People's Democratic Republic of Yemen</option>
+    <option value="PE" label="Peru">Peru</option>
+    <option value="PH" label="Philippines">Philippines</option>
+    <option value="PN" label="Pitcairn Islands">Pitcairn Islands</option>
+    <option value="PL" label="Poland">Poland</option>
+    <option value="PT" label="Portugal">Portugal</option>
+    <option value="PR" label="Puerto Rico">Puerto Rico</option>
+    <option value="QA" label="Qatar">Qatar</option>
+    <option value="RO" label="Romania">Romania</option>
+    <option value="RU" label="Russia">Russia</option>
+    <option value="RW" label="Rwanda">Rwanda</option>
+    <option value="RE" label="Reunion">Reunion</option>
+    <option value="BL" label="Saint Barthelemy">Saint Barthelemy</option>
+    <option value="SH" label="Saint Helena">Saint Helena</option>
+    <option value="KN" label="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+    <option value="LC" label="Saint Lucia">Saint Lucia</option>
+    <option value="MF" label="Saint Martin">Saint Martin</option>
+    <option value="PM" label="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+    <option value="VC" label="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+    <option value="WS" label="Samoa">Samoa</option>
+    <option value="SM" label="San Marino">San Marino</option>
+    <option value="SA" label="Saudi Arabia">Saudi Arabia</option>
+    <option value="SN" label="Senegal">Senegal</option>
+    <option value="RS" label="Serbia">Serbia</option>
+    <option value="CS" label="Serbia and Montenegro">Serbia and Montenegro</option>
+    <option value="SC" label="Seychelles">Seychelles</option>
+    <option value="SL" label="Sierra Leone">Sierra Leone</option>
+    <option value="SG" label="Singapore">Singapore</option>
+    <option value="SK" label="Slovakia">Slovakia</option>
+    <option value="SI" label="Slovenia">Slovenia</option>
+    <option value="SB" label="Solomon Islands">Solomon Islands</option>
+    <option value="SO" label="Somalia">Somalia</option>
+    <option value="ZA" label="South Africa">South Africa</option>
+    <option value="GS" label="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</option>
+    <option value="KR" label="South Korea">South Korea</option>
+    <option value="ES" label="Spain">Spain</option>
+    <option value="LK" label="Sri Lanka">Sri Lanka</option>
+    <option value="SD" label="Sudan">Sudan</option>
+    <option value="SR" label="Suriname">Suriname</option>
+    <option value="SJ" label="Svalbard and Jan Mayen">Svalbard and Jan Mayen</option>
+    <option value="SZ" label="Swaziland">Swaziland</option>
+    <option value="SE" label="Sweden">Sweden</option>
+    <option value="CH" label="Switzerland">Switzerland</option>
+    <option value="SY" label="Syria">Syria</option>
+    <option value="ST" label="Sao Tome and Principe">Sao Tome and Principe</option>
+    <option value="TW" label="Taiwan">Taiwan</option>
+    <option value="TJ" label="Tajikistan">Tajikistan</option>
+    <option value="TZ" label="Tanzania">Tanzania</option>
+    <option value="TH" label="Thailand">Thailand</option>
+    <option value="TL" label="Timor-Leste">Timor-Leste</option>
+    <option value="TG" label="Togo">Togo</option>
+    <option value="TK" label="Tokelau">Tokelau</option>
+    <option value="TO" label="Tonga">Tonga</option>
+    <option value="TT" label="Trinidad and Tobago">Trinidad and Tobago</option>
+    <option value="TN" label="Tunisia">Tunisia</option>
+    <option value="TR" label="Turkey">Turkey</option>
+    <option value="TM" label="Turkmenistan">Turkmenistan</option>
+    <option value="TC" label="Turks and Caicos Islands">Turks and Caicos Islands</option>
+    <option value="TV" label="Tuvalu">Tuvalu</option>
+    <option value="UM" label="U.S. Minor Outlying Islands">U.S. Minor Outlying Islands</option>
+    <option value="PU" label="U.S. Miscellaneous Pacific Islands">U.S. Miscellaneous Pacific Islands</option>
+    <option value="VI" label="U.S. Virgin Islands">U.S. Virgin Islands</option>
+    <option value="UG" label="Uganda">Uganda</option>
+    <option value="UA" label="Ukraine">Ukraine</option>
+    <option value="SU" label="Union of Soviet Socialist Republics">Union of Soviet Socialist Republics</option>
+    <option value="AE" label="United Arab Emirates">United Arab Emirates</option>
+    <option value="GB" label="United Kingdom">United Kingdom</option>
+    <option value="US" label="United States">United States</option>
+    <option value="ZZ" label="Unknown or Invalid Region">Unknown or Invalid Region</option>
+    <option value="UY" label="Uruguay">Uruguay</option>
+    <option value="UZ" label="Uzbekistan">Uzbekistan</option>
+    <option value="VU" label="Vanuatu">Vanuatu</option>
+    <option value="VA" label="Vatican City">Vatican City</option>
+    <option value="VE" label="Venezuela">Venezuela</option>
+    <option value="VN" label="Vietnam">Vietnam</option>
+    <option value="WK" label="Wake Island">Wake Island</option>
+    <option value="WF" label="Wallis and Futuna">Wallis and Futuna</option>
+    <option value="EH" label="Western Sahara">Western Sahara</option>
+    <option value="YE" label="Yemen">Yemen</option>
+    <option value="ZM" label="Zambia">Zambia</option>
+    <option value="ZW" label="Zimbabwe">Zimbabwe</option>
+    <option value="AX" label="Aland Islands">Aland Islands</option>
+</select>
+
+<hr />
+<p>&nbsp;</p>
+<p>Please read our <a href="../privacy.php">Training Data Privacy statement</a> to find out about how this data is used.</p>
+<p>&nbsp;</p>
+<p>When registering to attend a course you agree to abide by our <a href="../code-of-conduct/index.php">Training Code of Conduct</a>.</p>
+<p>&nbsp;</p>
+<p>
+<input type="submit" value="Register" />
+<input type="reset" value="Clear Form" />
+
+</p>
+</fieldset>
+</form>
