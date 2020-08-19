@@ -12,7 +12,7 @@ function compare( a, b ) {
     var ia = parseInt(a['year']);
     var ib = parseInt(b['year']);
     if (ia == ib) return 0;
-    if (ia < ib) return 1;
+    if (!ia || ia < ib) return 1;
     return -1;
 }
 
@@ -54,12 +54,16 @@ function toHTML(publication) {
   $.getJSON(safe_publications)
     .done(function( data ) {
         data.sort(compare);
-        let currentYear = undefined;
+        let currentYear = null;
         h = "";
         for (i=0; i<data.length; i++) {
-            if (!currentYear || currentYear > data[i]['year']) {
-                currentYear = data[i]['year'];
+            if (!data[i]['year']) {
+                h += "</ul>\n";
+                h += "<h4>Other</h4>\n<ul>";
+            }
+            else if (!currentYear || currentYear > data[i]['year']) {
                 if (currentYear) h += "</ul>\n";
+                currentYear = data[i]['year'];
                 h += '<h4>' + currentYear + "</h4>\n<ul>";
             }
             h += toHTML(data[i])
