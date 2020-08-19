@@ -1,47 +1,15 @@
 ---
 layout: section
 title: ARCHER2 Training - Registration NOT YET IN USE
-summary: Please complete the registration form
+summary: 
 banner: web_banners_05.jpg
 ---
 
-<H2> Please do not use this form yet - not yet ready for use</h2>
-
 <h3>Please use the registration form at <a href="http://www.archer.ac.uk/training/registration/">http://www.archer.ac.uk/training/registration/</a> for course registration </h3>
 
-<p> If you have
-any questions about the training on ARCHER contact
-<a href="http://www.archer.ac.uk/support/helpdesk/">the ARCHER Helpdesk</a>.</p>
+<p> If you have any questions about the training on ARCHER2 contact
+<a href="https://www.archer2.ac.uk/support-access/servicedesk.html">the ARCHER2 Service Desk</a>.</p>
 
-
-<h3><label for="course"><strong>Please select one of the following courses *</strong></label></h3>
-
-<!--
-
-
-<input type="radio" name="course" value="Amber, 9 June 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200609-amber/">Preparing to run biomolecular QM/MM simulations with CP2K using AmberTools</a>, 9 June 2020, Online  <br />
-
-<input type="radio" name="course" value="HPC Carpentry, 29-30 June 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">HPC Carpentry</a>, 29-30 June 2020, Online  <br />
-  
-	
-	
-	--> 
-
-
-
-<input type="radio" name="course" value="OpenMP, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">OpenMP</a>, tbc October 2020, Online  <br />
-
-<input type="radio" name="course" value="Data Carpentry, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">Data Carpentry</a>, tbc October 2020, Online  <br />
-	
-<p>&nbsp;</p>	
-<p>Courses marked with <b>&dagger;</b> are fully booked but please complete the registration form to be added to the waiting list.</p>
-	
-	
-<!--
-<p><b>No courses available at present.</b></p>
-	--> 
-	
-	
 
 <p>
 <br />
@@ -49,18 +17,38 @@ any questions about the training on ARCHER contact
 	up to our ARCHER-Training mailing list to be kept informed of our training opportunities
  	<a href="http://bit.ly/ARCHER-Training-List">http://bit.ly/ARCHER-Training-List</a> <br />
 	Mailings about our upcoming training opportunities will be sent approximately 1-2 times per month, your details will not be shared and you can unsubscribe at any time.
-
 </p>
-
-
-
-
 
 
 <p><strong>Note:</strong> If your course does not appear in the list it may be offered in 
 collaboration with EPCC's PRACE Advanced Training Centre. Please follow the
 appropriate registration link in the table on the
 <a href="/training#upcoming-training">main training page</a>.</p>
+
+
+<hr />
+
+<form name="RegForm" action="https://safe.epcc.ed.ac.uk/QueryForm"    method="post" accept-charset="UTF-8">
+<fieldset>    
+
+<input type="hidden" id="subject" name="subject" value="Course registration.">
+<input type="hidden" id="type" name="type" value="course_registration">
+
+
+<h3><label for="course">Please select one of the following courses </label></h3>
+
+
+<input type="radio" name="course" required value="OpenMP, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">OpenMP</a>, tbc October 2020, Online  <br />
+
+<input type="radio" name="course" required value="Data Carpentry, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">Data Carpentry</a>, tbc October 2020, Online  <br />
+	
+
+
+<p>&nbsp;</p>
+<p>Courses marked with <b>&dagger;</b> are fully booked but please complete the registration form to be added to the waiting list.</p>
+	
+	
+
 <hr />
 
 <h3>Please complete your details</h3>
@@ -68,18 +56,7 @@ appropriate registration link in the table on the
 <p>
 * indicates a required field. 
 </p>
-<!--
-<p><strong>No courses currently open for registration through this form. Please
-see the <a href="../">Training Page</a> for open courses and links to their 
-registration forms.</strong></p>
--->
 
-<hr />
-<form name="RegForm" action="http://localhost:8080/deploy-spb/QueryForm"    method="post" accept-charset="UTF-8">
-<fieldset>
-
-<input type="hidden" id="subject" name="subject" value="Course registration.">
-<input type="hidden" id="type" name="type" value="course_registration">
 
 <p><label for="name"><strong>Forename *</strong></label><br />
 
@@ -90,11 +67,11 @@ registration forms.</strong></p>
 
 <input required type="text" id="surname" name="surname" value="" maxlength="80" size="40" /> </p>
 
-<p><label for="email"><strong>Your email address *</strong> - this <strong>must</strong> be your institution email address</label><br />
+<p><label for="email"><strong>Your email address *</strong> - this <strong>must</strong> be your institution/organisation email address</label><br />
  
 <input required type="email" id="email" name="email" value="" maxlength="80" size="40"/></p>
 
-<p><br />
+<p>
 <label for="organisation"><strong>Institution</strong> <i>Name of institution/organisation where you are studying/working</i></label><br />
 <input type="text" id="organisation" name="organisation" value="" maxlength="80" size="40" />
 </p>
