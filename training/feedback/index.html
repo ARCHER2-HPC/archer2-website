@@ -1,0 +1,335 @@
+---
+layout: section
+title: ARCHER2 Training - Feedback NOT YET IN USE
+summary: 
+banner: web_banners_05.jpg
+---
+
+<h2>ARCHER Course Feedback</h2>
+
+<p>
+  Please use this form to provide feedback for ARCHER courses. If you have
+  any questions about the training on ARCHER contact the
+  <a href="http://www.archer.ac.uk/support/helpdesk/">ARCHER Helpdesk</a>.
+</p>
+
+<p>
+  * indicates a required section.
+</p>
+
+
+
+
+<form id="feedback-form" action="scripts/form-feedback-course.php" method="post">
+<fieldset>
+
+<input type="hidden" id="subject" name="subject" value="Course feedback.">
+<input type="hidden" id="type" name="type" value="course_feedback">
+<input type="hidden" id="query_service" name="query_service" value="ARCHER2">
+
+
+
+<label for="course"><h3>Please select the training course you attended: *</h3></label>
+<select style="width: 100%" id="course" name="course" onchange="javascript:formChange()">
+				<option value="" disabled="disabled" selected="selected">Please select a course...</option>
+
+
+
+	<option 
+	    value="HPC Carpentry (29 - 30 June 2020) Online">
+    	HPC Carpentry (29 - 30 June 2020) Online
+  </option>
+	
+	
+		<option 
+	    value="AmberTools (9 June 2020) Online">
+    	AmberTools (9 June 2020) Online
+  </option>
+	
+
+
+
+
+
+
+
+</select>
+<input type="hidden" id="link" name="link" value="" /> 
+<br/>
+<br />
+
+
+
+<h3>Your details - <i>optional</i></h3>
+
+<table class="text-box-feedback">
+  <tbody>
+
+		
+		<tr>
+      <td class="text-box-question">
+        <label for="fbname"><strong>Name:</strong></label>
+      </td>
+      <td class="text-box-answer">
+        <textarea id="fbname" name="fbname" maxlength="200" rows="1" cols="43"></textarea>
+      </td>
+    </tr>
+		
+		<tr>
+      <td class="text-box-question"><strong>May we contact you about this feedback?</strong></td>
+      <td class="text-box-answer"><input type="radio" name="contact" value="Yes"> Yes</input> |
+      <input type="radio" name="contact" value="No"> No</input> 
+    </tr>
+		<tr><td class="text-box-question">&nbsp;</td></tr>
+		
+  </tbody>
+</table>
+
+
+
+
+<h3>Overall Satisfaction *</h3>
+<p>Your overall rating of the course.</p>
+<table class="text-box-feedback">
+  <tbody>
+    <tr>
+      <td class="text-box-question"><strong>I would rate this course as:</strong></td>
+      <td class="text-box-answer"><input type="radio" name="overall-rating" value="excellent"> Excellent</input> | 
+      <input type="radio" name="overall-rating" value="very-good"> Very Good</input> |
+      <input type="radio" name="overall-rating" value="good"> Good</input> |
+      <input type="radio" name="overall-rating" value="bad"> Bad</input> |
+      <input type="radio" name="overall-rating" value="very-bad"> Very Bad</input>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<div id="epcc-course" style="display:block">
+<h3>Detailed Feedback</h3>
+
+<p>If you wish to expand on any of your responses, please use the comment box at the bottom of the page.</p>
+
+<p>&nbsp;</p>
+
+<table class="feedback">
+  <tbody>
+    <tr>
+      <th id="question"><h4> General</h4></th>
+      <th class="answer-rate">Excellent</th>
+      <th class="answer-rate">Good</th>
+      <th class="answer-rate">Neither Good Nor Bad</th>
+      <th class="answer-rate">Bad</th>
+      <th class="answer-rate">Very Bad</th>
+    </tr>
+    <tr>
+      <td class="question"><label for="organisation"><strong>Organisation of the course was:</strong></label></td>
+      <td class="answer"><input type="radio" name="organisation" value="excellent" /></td>
+      <td class="answer"><input type="radio" name="organisation" value="good" /></td>
+      <td class="answer"><input type="radio" name="organisation" value="neither" /></td>
+      <td class="answer"><input type="radio" name="organisation" value="bad" /></td>
+      <td class="answer"><input type="radio" name="organisation" value="very bad" /></td>
+    </tr>
+		<tr>
+      <td class="question"><label for="info"><strong>The usefulness of pre-course information was:</strong></label></td>
+      <td class="answer"><input type="radio" name="info" value="excellent" /></td>
+      <td class="answer"><input type="radio" name="info" value="good" /></td>
+      <td class="answer"><input type="radio" name="info" value="neither" /></td>
+      <td class="answer"><input type="radio" name="info" value="bad" /></td>
+      <td class="answer"><input type="radio" name="info" value="very bad" /></td>
+    </tr>
+    <tr>
+      <td class="question"><label for="venue"><strong>The venue was:</strong></label></td>
+      <td class="answer"><input type="radio" name="venue" value="excellent" /></td>
+      <td class="answer"><input type="radio" name="venue" value="good" /></td>
+      <td class="answer"><input type="radio" name="venue" value="neither" /></td>
+      <td class="answer"><input type="radio" name="venue" value="bad" /></td>
+      <td class="answer"><input type="radio" name="venue" value="very bad" /></td>
+    </tr>
+		<tr>
+      <td class="question"><label for="venue-access"><strong>The accessibility of venue (e.g. stairs, lifts, signage, facilites) was:</strong></label></td>
+      <td class="answer"><input type="radio" name="venue-access" value="excellent" /></td>
+      <td class="answer"><input type="radio" name="venue-access" value="good" /></td>
+      <td class="answer"><input type="radio" name="venue-access" value="neither" /></td>
+      <td class="answer"><input type="radio" name="venue-access" value="bad" /></td>
+      <td class="answer"><input type="radio" name="venue-access" value="very bad" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+
+<table class="feedback">
+  <tbody>
+    <tr>
+      <th id="question"><h4> Teaching</h4></th>
+      <th class="answer-agree">Agree Completely</th>
+      <th class="answer-agree">Agree</th>
+      <th class="answer-agree">No Strong Feelings</th>
+      <th class="answer-agree">Disagree</th>
+      <th class="answer-agree">Disagree Completely</th>
+    </tr>
+    <tr>
+      <td class="question"><label for="topics-relevance"><strong>The topics were relevant for my work and/or research interests.</strong></label></td>
+      <td class="answer"><input type="radio" name="topics-relevance" value="agree-completely" /></td>
+      <td class="answer"><input type="radio" name="topics-relevance" value="agree" /></td>
+      <td class="answer"><input type="radio" name="topics-relevance" value="neither" /></td>
+      <td class="answer"><input type="radio" name="topics-relevance" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="topics-relevance" value="disagree-completely" /></td>
+    </tr>
+    <tr>
+      <td class="question"><label for="inspired"><strong>I found the course intellectually challenging and stimulating.<strong></label></td>
+      <td class="answer"><input type="radio" name="inspired" value="agree-completely" /></td>
+      <td class="answer"><input type="radio" name="inspired" value="agree" /></td>
+      <td class="answer"><input type="radio" name="inspired" value="neither" /></td>
+      <td class="answer"><input type="radio" name="inspired" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="inspired" value="disagree-completely" /></td>
+    </tr>
+    <tr>
+      <td class="question"><label for="clear-comprehensible"><strong>The lectures were clearly presented and comprehensible.</strong></label></td>
+      <td class="answer"><input type="radio" name="clear-comprehensible" value="agree-completely" /></td>
+      <td class="answer"><input type="radio" name="clear-comprehensible" value="agree" /></td>
+      <td class="answer"><input type="radio" name="clear-comprehensible" value="neither" /></td>
+      <td class="answer"><input type="radio" name="clear-comprehensible" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="clear-comprehensible" value="disagree-completely" /></td>
+    </tr>
+    <tr>
+      <td class="question"><label for="pace"><strong>The pace of teaching was right.</strong></label></td>
+      <td class="answer"><input type="radio" name="pace" value="agree-completely" /></td>
+      <td class="answer"><input type="radio" name="pace" value="agree" /></td>
+      <td class="answer"><input type="radio" name="pace" value="neither" /></td>
+      <td class="answer"><input type="radio" name="pace" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="pace" value="disagree-completely" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+
+<table class="feedback">
+  <tbody>
+    <tr>
+      <th id="question"><h4> Teaching Materials</h4></th>
+      <th class="answer-agree">Agree Completely</th>
+      <th class="answer-agree">Agree</th>
+      <th class="answer-agree">No Strong Feelings</th>
+      <th class="answer-agree">Disagree</th>
+      <th class="answer-agree">Disagree Completely</th>
+    </tr>
+    <tr>
+      <td class="question"><label for="well-prepared-aids"><strong>Teaching aids (e.g. slides, handouts, exercises) contained useful and relevant information.</strong></label></td>
+      <td class="answer"><input type="radio" name="well-prepared-aids" value="agree-completely" /></td>
+      <td class="answer"><input type="radio" name="well-prepared-aids" value="agree" /></td>
+      <td class="answer"><input type="radio" name="well-prepared-aids" value="neither" /></td>
+      <td class="answer"><input type="radio" name="well-prepared-aids" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="well-prepared-aids" value="disagree-completely" /></td>
+    </tr>
+		<tr>
+      <td class="question"><label for="accessible-aids"><strong>Teaching aids (e.g. slides, handouts, exercises) were clear and accessible.</strong></label></td>
+      <td class="answer"><input type="radio" name="accessible-aids" value="agree-completely" /></td>
+      <td class="answer"><input type="radio" name="accessible-aids" value="agree" /></td>
+      <td class="answer"><input type="radio" name="accessible-aids" value="neither" /></td>
+      <td class="answer"><input type="radio" name="accessible-aids" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="accessible-aids" value="disagree-completely" /></td>
+    </tr>
+    <tr>
+      <td class="question"><label for="exercises-demo-value"><strong>Hands-on exercises and demonstrations were appropriate to the course.</strong></label></td>
+      <td class="answer"><input type="radio" name="exercises-demo-value" value="agree-completely" /></td>
+      <td class="answer"><input type="radio" name="exercises-demo-value" value="agree" /></td>
+      <td class="answer"><input type="radio" name="exercises-demo-value" value="neither" /></td>
+      <td class="answer"><input type="radio" name="exercises-demo-value" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="exercises-demo-value" value="disagree-completely" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h4>Course Comments</h4>
+
+<table class="text-box-feedback">
+  <tbody>
+    <tr>
+      <td class="text-box-question"><strong>Would you recommend this course to others?</strong></td>
+      <td class="text-box-answer"><input type="radio" name="recommend" value="yes"> Yes</input> |
+      <input type="radio" name="recommend" value="no"> No</input>
+    </tr>
+    <tr>
+      <td class="text-box-question">
+        <label for="course-likes"><strong>What did you like the most about the course?</strong></label>
+      </td>
+      <td class="text-box-answer">
+        <textarea id="course-likes" name="course-likes" maxlength="200" rows="4" cols="43"></textarea>
+      </td>
+    </tr>
+    <tr>
+      <td class="text-box-question">
+        <label for="course-dislikes"><strong>What did you like least about the course?</strong></label>
+      </td>
+      <td class="text-box-answer">
+        <textarea id="course-dislikes" name="course-dislikes" maxlength="200" rows="4" cols="43"></textarea>
+      </td>
+    </tr>
+    <tr>
+      <td class="text-box-question">
+        <label for="additional-comments"><strong>Do you have any additional comments, suggestions for improvements to this course, ideas for future courses, <em>etc.</em>?</strong></label>
+      </td>
+      <td class="text-box-answer">
+        <textarea id="additional-comments" name="additional-comments" maxlength="200" rows="4" cols="43"></textarea>
+      </td>
+    </tr>
+  </tbody>
+</table>
+		
+<!-- The following questions added to help Toni/Athina analyse the responses -->		
+
+<h4>Other info</h4>
+
+<table class="text-box-feedback">
+  <tbody>
+		<tr>
+      <td class="text-box-question"><strong>Gender?</strong></td>
+      <td class="text-box-answer"><input type="radio" name="gender" value="Female"> Female</input> |
+      <input type="radio" name="gender" value="Male"> Male</input> | 
+			<input type="radio" name="gender" value="Other"> Other</input> | 
+		  <input type="radio" name="gender" value="Not_Say"> Prefer not to say</input> 
+    </tr>
+		
+		<tr>
+      <td class="text-box-question">
+        <label for="job-title"><strong>Job title / Career stage?</strong></label>
+      </td>
+      <td class="text-box-answer">
+        <textarea id="job-title" name="job-title" maxlength="200" rows="1" cols="43"></textarea>
+      </td>
+    </tr>
+		
+		<tr>
+      <td class="text-box-question"><strong>Academic / Industry?</strong></td>
+      <td class="text-box-answer"><input type="radio" name="academic" value="academic"> Academic</input> |
+      <input type="radio" name="academic" value="industry"> Industry</input> 
+    </tr>
+		<tr><td class="text-box-question">&nbsp;</td></tr>
+		<tr>
+      <td class="text-box-question"><strong>How hard or easy did you find the course?</strong></td>
+      <td class="text-box-answer"><input type="radio" name="hard" value="VeryEasy"> Very Easy</input> |
+      <input type="radio" name="hard" value="QuiteEasy"> Quite Easy</input> | 
+			<input type="radio" name="hard" value="Moderate"> Moderate</input> | 
+			<input type="radio" name="hard" value="QuiteHard"> Quite Hard</input> | 
+		  <input type="radio" name="hard" value="VeryHard"> Very Hard</input> 
+    </tr>
+		
+  </tbody>
+</table>
+
+<hr />
+
+<input type="submit" value="Submit" />
+<input type="reset" value="Clear Form" />
+</div>
+
+</fieldset>
+</form>
