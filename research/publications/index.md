@@ -6,8 +6,8 @@ banner: web_banners_08.jpg
 ---
 
 <script>
-const safe_publications = "http://localhost:8080/deploy-spb/servlet/PublicationsServlet?machine=archer&machine=archer2";
-// const safe_publications = "http://safe.epcc.ed.ac.uk/servlet/PublicationsServlet?machine=archer&machine=archer2";
+// const safe_publications = "http://localhost:8080/deploy-spb/servlet/PublicationsServlet?machine=archer&machine=archer2";
+const safe_publications = "https://safe.epcc.ed.ac.uk/servlet/PublicationsServlet?machine=archer";
 function compare( a, b ) {
     var ia = parseInt(a['year']);
     var ib = parseInt(b['year']);
@@ -18,14 +18,19 @@ function compare( a, b ) {
 
 function toHTML(publication) {
     h = '<li style="padding: 5px;">';
-    h += publication['authors'].join(", ");
-    if (publication['year']) {
-        h += " (" + publication['year'] + ")";
+    if (publication['authors'] && publication['authors'].length > 0)
+    {
+        h += publication['authors'].join(", ");
+        if (publication['year']) {
+            h += " (" + publication['year'] + ")";
+        }
+        h += "<br/>";
     }
-    h += "<br/>";
-    h += '<span class="bold">';
-    h += publication['title'];
-    h += '</span><br/>';
+    if (publication['title']) {
+        h += '<span class="bold">';
+        h += publication['title'];
+        h += '</span><br/>';
+    }
     var journal = undefined;
     if (publication['journal']) {
         journal = publication['journal'];
@@ -57,9 +62,12 @@ function toHTML(publication) {
         let currentYear = null;
         h = "";
         for (i=0; i<data.length; i++) {
-            if (!data[i]['year']) {
-                h += "</ul>\n";
-                h += "<h4>Other</h4>\n<ul>";
+            if (data[i]['year'] === undefined) {
+                if (currentYear !== undefined) {
+                    h += "</ul>\n";
+                    h += "<h4>Unknown</h4>\n<ul>";
+                    currentYear = undefined;
+                }
             }
             else if (!currentYear || currentYear > data[i]['year']) {
                 if (currentYear) h += "</ul>\n";
