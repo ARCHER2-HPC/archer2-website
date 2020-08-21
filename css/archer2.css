@@ -578,3 +578,71 @@ div.casestudy div.cstext {
 /*
  * End of Styles for case studies
  */
+ 
+ 
+ 
+ 
+ 
+/*---------------------------------------------
+					Feedback Form Table
+-----------------------------------------------*/
+
+
+table.feedback {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  border-collapse: collapse;
+  border-spacing: 0px;
+  width: 100%;
+}
+
+table.feedback td {
+  border: 1px solid black;
+}
+
+
+
+th.answer-rate {
+  width: 90px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+th.answer-agree {
+  width: 90px;
+  text-align: center;
+  border: 1px solid black;
+
+}
+
+
+
+td.question {
+  padding: 3px 5px 3px 5px;
+}
+
+td.answer {
+  text-align: center;
+}
+
+table.text-box-feedback {
+  width: 100%;
+  border: 0px;
+}
+
+td.text-box-question {
+  vertical-align: top;
+  padding-right: 2px;
+    border: 0px;
+}
+
+td.text-box-answer {
+  text-align: right;
+    border: 0px;
+}
+
+
+/*
+ * End of Styles for feedback form table
+ */
