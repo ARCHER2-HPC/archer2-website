@@ -6,8 +6,7 @@ banner: web_banners_08.jpg
 ---
 
 <script>
-// const safe_publications = "http://localhost:8080/deploy-spb/servlet/PublicationsServlet?machine=archer&machine=archer2";
-const safe_publications = "https://safe.epcc.ed.ac.uk/servlet/PublicationsServlet?machine=archer";
+const safe_publications = "https://safe.epcc.ed.ac.uk/servlet/PublicationsServlet?machine=archer&machine=archer2";
 function compare( a, b ) {
     var ia = parseInt(a['year']);
     var ib = parseInt(b['year']);
