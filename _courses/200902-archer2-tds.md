@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2- EPCC early experiences from the test and development platform 
 banner: web_banners_05.jpg
-human_dates: Wednesday tbc September 2020  15:00 - 16:00 BST
+human_dates: Wednesday 2nd September 2020  15:00 - 16:00 BST
 start_date: 2020-09-02 15:00:00
 end_date: 2020-09-02 16:00:00
 trainers: Andy Turner, EPCC
@@ -19,7 +19,7 @@ EPCC have recently had remote access to the ARCHER2 test and development system 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
-<!--
+
 
 <section id="service">
 
@@ -44,7 +44,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
--->
+
 
 
 <!--
