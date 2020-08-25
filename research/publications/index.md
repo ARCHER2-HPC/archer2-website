@@ -62,13 +62,11 @@ function toHTML(publication) {
         h = "";
         for (i=0; i<data.length; i++) {
             if (data[i]['year'] === undefined) {
-                if (currentYear !== undefined) {
-                    h += "</ul>\n";
-                    h += "<h4>Unknown</h4>\n<ul>";
-                    currentYear = undefined;
-                }
+                // ignore publications without a year
+                currentYear = undefined;
+                continue;
             }
-            else if (!currentYear || currentYear > data[i]['year']) {
+            if (!currentYear || currentYear > data[i]['year']) {
                 if (currentYear) h += "</ul>\n";
                 currentYear = data[i]['year'];
                 h += '<h4>' + currentYear + "</h4>\n<ul>";
