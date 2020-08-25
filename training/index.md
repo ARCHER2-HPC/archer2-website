@@ -170,22 +170,14 @@ The following courses are provisionally planned for the first year of the ARCHER
         <td>Online</td>
         <td></td>
       </tr>
-      <tr>
-        <td><a href="courses/index.html#mpp_with_mpi">Message Passing Programming with MPI</a></td>
-        <td>Online</td>
-        <td></td>
-      </tr>
+      
       <tr>
         <td><a href="courses/index.html#openmp">Shared Memory Programming with OpenMP</a></td>
         <td>Online</td>
         <td></td>
       </tr>
 
-      <tr>
-        <td><a href="courses/index.html#hpc_carpentry">HPC Carpentry</a></td>
-        <td></td>
-        <td></td>
-      </tr>
+     
       <tr>
         <td><a href="courses/index.html#package_use">ARCHER2 for HPC Software Package Users</a></td>
         <td></td>
@@ -237,11 +229,7 @@ The following courses are provisionally planned for the first year of the ARCHER
         <td></td>
         <td></td>
       </tr>
-      <tr>
-        <td><a href="courses/index.html#containers_for_hpc">Containers for HPC</a></td>
-        <td></td>
-        <td></td>
-      </tr>
+
       <tr>
         <td><a href="courses/index.html#data_analysis_using_python">Data Analytics with HPC</a></td>
         <td></td>
@@ -268,11 +256,7 @@ The following courses are provisionally planned for the first year of the ARCHER
         <td></td>
         <td></td>
       </tr>
-      <tr>
-        <td><a href="courses/index.html#performance_analysis_workshop">Performance Analysis Workshop</a></td>
-        <td></td>
-        <td></td>
-      </tr>
+      
     </tbody>
   </table>
 </div>
