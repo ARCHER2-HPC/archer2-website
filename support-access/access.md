@@ -35,10 +35,10 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 	<tr>
 		<td><a href="#pioneer-projects">Pioneer Projects</a></td>
-		<td>Not yet available</td>
-		<td></td>
-		<td>EPSRC remit only. Details to follow</td>
-		<td></td>
+		<td>12 October 2020 (4pm)</td>
+		<td>7 September 2020 (4pm)</td>
+		<td><a href="https://epsrc.ukri.org/funding/calls/archer-2-pioneer-projects/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 computing resource for a maximum duration of two years.</td>
+		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
