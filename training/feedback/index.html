@@ -18,6 +18,24 @@ banner: web_banners_05.jpg
 </p>
 
 
+<script type="text/javascript">
+
+function getUrlVars() { // Pulls GET values from the page URL
+    var vars = {};
+		var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+  			vars[key] = value;
+			});
+			return vars;
+	}
+	
+	window.onload = function(){
+    var course_in_url = getUrlVars()["course"];
+
+    if (course_in_url){	
+			document.getElementById(course_in_url).checked = true;
+    }
+  };
+</script>
 
 
 <form id="feedback-form" action="mailto:training@epcc.ed.ac.uk" method="post">
@@ -29,27 +47,13 @@ banner: web_banners_05.jpg
 
 
 
-<label for="course"><h3>Please select the training course you attended: *</h3></label>
-<select style="width: 100%" id="course" name="course" onchange="javascript:formChange()">
-				<option value="" disabled="disabled" selected="selected">Please select a course...</option>
+<h3><label for="course">Please select the training course you attended: *</label></h3>
 
 
+<input type="radio" name="course" required id="hpccarp" value="HPC Carpentry (29 - 30 June 2020) Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">HPC Carpentry</a> (29 - 30 June 2020) Online  <br />
 
-	<option 
-	    value="HPC Carpentry (29 - 30 June 2020) Online">
-    	HPC Carpentry (29 - 30 June 2020) Online
-  </option>
+<input type="radio" name="course" required id="amber" value="AmberTools (9 June 2020) Online" /> <a href="https://www.archer2.ac.uk/training/courses/200609-amber/">AmberTools</a> (9 June 2020) Online  <br />
 	
-	
-		<option 
-	    value="AmberTools (9 June 2020) Online">
-    	AmberTools (9 June 2020) Online
-  </option>
-	
-
-
-
-
 
 
 

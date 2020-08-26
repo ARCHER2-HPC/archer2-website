@@ -28,6 +28,29 @@ appropriate registration link in the table on the
 
 <hr />
 
+
+
+<script type="text/javascript">
+
+function getUrlVars() { // Pulls GET values from the page URL
+    var vars = {};
+		var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+  			vars[key] = value;
+			});
+			return vars;
+	}
+	
+	window.onload = function(){
+    var course_in_url = getUrlVars()["course"];
+
+    if (course_in_url){		
+			document.getElementById(course_in_url).checked = true;
+    }
+  };
+</script>
+
+
+
 <form name="RegForm" action="https://safe.epcc.ed.ac.uk/QueryForm"    method="post" accept-charset="UTF-8">
 <fieldset>    
 
@@ -39,9 +62,9 @@ appropriate registration link in the table on the
 <h3><label for="course">Please select one of the following courses </label></h3>
 
 
-<input type="radio" name="course" required value="OpenMP, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">OpenMP</a>, tbc October 2020, Online  <br />
+<input type="radio" name="course" required id="openmp" value="OpenMP, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">OpenMP</a>, tbc October 2020, Online  <br />
 
-<input type="radio" name="course" required value="Data Carpentry, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">Data Carpentry</a>, tbc October 2020, Online  <br />
+<input type="radio" name="course" required id="datacarp" value="Data Carpentry, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">Data Carpentry</a>, tbc October 2020, Online  <br />
 	
 
 
