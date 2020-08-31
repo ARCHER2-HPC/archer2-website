@@ -35,16 +35,23 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 	<tr>
 		<td><a href="#pioneer-projects">Pioneer Projects</a></td>
-		<td>Not yet available</td>
-		<td></td>
-		<td>EPSRC remit only. Details to follow</td>
-		<td></td>
+		<td>12 October 2020 (4pm)</td>
+		<td>7 September 2020 (4pm)</td>
+		<td><a href="https://epsrc.ukri.org/funding/calls/archer-2-pioneer-projects/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 computing resource for a maximum duration of two years.</td>
+		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
 		<td>4 September 2020 (4pm)</td>
 		<td>7 August 2020 (4pm)</td>
 		<td><a href="https://epsrc.ukri.org/funding/calls/access-to-high-performance-computing/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 or Tier-2 computing resource for a maximum duration of one year.</td>
+		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
+	</tr>
+	<tr>
+		<td><a href="#topup">TOPUP</a></td>
+		<td>25 September 2020 (4pm)</td>
+		<td>11 September 2020 (4pm)</td>
+		<td><a href="./calls/topup/Grant HPC TOPUP Process.docx">HPC TOPUP Process</a>. <a href="./calls/topup/Application Form 2020 TOPUP 1.docx">Application Form</a>. EPSRC remit only. Only for users with an existing ARCHER allocation who require additional resource.</td>
 		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
 </table>
@@ -67,6 +74,10 @@ Provides an open and relatively flexible route to computational support for proj
 You can access to EPSRC's HPC systems (both ARCHER2 and most of the Tier-2 services).
 Projects can be up to 1 year in length.
 This new call combines what was previously the ARCHER RAP (Resource Allocation Panel) and the Tier-2 Open Access call.
+
+#### TOPUP 
+
+Only for existing EPSRC grant holders with an ARCHER allocation. Provides additional resource for users who already have an allocation from an EPSRC grant, but need more to complete the objectives of their grant. Allocation will begin when ARCHER2 begins its business-as-usual phase. Successor to the ARCHER TOPUP process.
 
 ### Other routes to access HPC
 

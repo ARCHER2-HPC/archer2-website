@@ -39,7 +39,7 @@ Presentations and hands-on sessions are on the following topics:
 - MAQAO (UVSQ)
 - ARM Forge (ARM)
 
-A brief overview of the capabilities of these and associated tools is provided in the VI-HPS Tools Guide.
+A brief overview of the capabilities of these and associated tools is provided in the <a href="https://www.vi-hps.org/cms/upload/material/general/ToolsGuide.pdf">VI-HPS Tools Guide</a>
 
 The workshop will be held in English and run from 09:00 to not later than 17:00 each day, with breaks for lunch. There is no fee for participation.
 
@@ -110,13 +110,57 @@ While analysis of provided example codes will be used to guide the class through
     </div>
  -->
 
-<!-- 		
+ 		
 <h2><a name="video">Video</a></h2>
 
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row ">	
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/V9RokbTrX5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/jZ5dm0C2mMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 </div>
- -->
+
+
+<div class="row ">	
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/dy_xwvYJIqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ZwQ77vQ6Eg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+
+
+
+<div class="row ">	
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/apoyomV1tq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/0zD64fJUNKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+
+
+
+
 
 
 <!-- 
