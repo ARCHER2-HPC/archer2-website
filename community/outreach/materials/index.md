@@ -7,3 +7,4 @@ banner: web_banners_07.jpg
 
 * [Parallel sorting](parallel_sort)
 * [Wee Archie, the suitcase sized supercomputer](wee_archie)
+* [History of Machines at EPCC](history_of_machines)
