@@ -100,22 +100,30 @@ window.onload = function(){
 
 
 
-<h3>Overall Satisfaction *</h3>
-<p>Your overall rating of the course.</p>
-<table class="text-box-feedback">
+<table class="feedback">
   <tbody>
     <tr>
-      <td class="text-box-question"><strong>I would rate this course as:</strong></td>
-      <td class="text-box-answer"><input type="radio" name="overall-rating" value="excellent"> Excellent</input> | 
-      <input type="radio" name="overall-rating" value="very-good"> Very Good</input> |
-      <input type="radio" name="overall-rating" value="good"> Good</input> |
-      <input type="radio" name="overall-rating" value="bad"> Bad</input> |
-      <input type="radio" name="overall-rating" value="very-bad"> Very Bad</input>
-      </td>
+      <th id="question"><h3> Overall Satisfaction *</h3></th>
+      <th class="answer-rate">Excellent</th>
+      <th class="answer-rate">Very Good</th>
+      <th class="answer-rate">Good</th>
+      <th class="answer-rate">Bad</th>
+      <th class="answer-rate">Very Bad</th>
     </tr>
+    <tr>
+      <td class="question"><label for="overall"><strong><br> I would rate this course as: <br>&nbsp;</strong></label></td>
+      <td class="answer"><input type="radio" name="overall" value="excellent" /></td>
+      <td class="answer"><input type="radio" name="overall" value="very-good" /></td>
+      <td class="answer"><input type="radio" name="overall" value="good" /></td>
+      <td class="answer"><input type="radio" name="overall" value="bad" /></td>
+      <td class="answer"><input type="radio" name="overall" value="very-bad" /></td>
+    </tr>
+		
   </tbody>
 </table>
 
+
+<p>&nbsp;</p>
 
 
 <div id="epcc-course" style="display:block">
