@@ -28,17 +28,27 @@ function getUrlVars() { // Pulls GET values from the page URL
 			return vars;
 	}
 	
-	window.onload = function(){
-    var course_in_url = getUrlVars()["course"];
-
-    if (course_in_url){	
-			document.getElementById(course_in_url).checked = true;
-    }
-  };
+	
+function set_matching_course_by_id(selectObj)
+{
+   var course_in_url = getUrlVars()["course"];
+   for(var i = 0; i < selectObj.length; i++)   {
+      if(selectObj.options[i].id == course_in_url){
+      selectObj.selectedIndex = i;
+			document.getElementById("fbname").focus();
+			}
+   }
+}
+	
+	
+window.onload = function(){
+		set_matching_course_by_id(feedback.course);
+}
+	
 </script>
 
 
-<form id="feedback-form" action="https://safe.epcc.ed.ac.uk/QueryForm" method="post">
+<form name="feedback" id="feedback" action="https://safe.epcc.ed.ac.uk/QueryForm" method="post" accept-charset="UTF-8">
 <fieldset>
 
 <input type="hidden" id="subject" name="subject" value="Course feedback.">
@@ -49,15 +59,13 @@ function getUrlVars() { // Pulls GET values from the page URL
 
 <h3><label for="course">Please select the training course you attended: *</label></h3>
 
-
-<input type="radio" name="course" required id="hpccarp" value="HPC Carpentry (29 - 30 June 2020) Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">HPC Carpentry</a> (29 - 30 June 2020) Online  <br />
-
-<input type="radio" name="course" required id="amber" value="AmberTools (9 June 2020) Online" /> <a href="https://www.archer2.ac.uk/training/courses/200609-amber/">AmberTools</a> (9 June 2020) Online  <br />
-	
-
-
+<select name="course">
+	<option disabled="disabled" selected="selected">Please select the course you attended</option>
+  <option  required id="hpccarp" value="HPC Carpentry (29 - 30 June 2020) Online" /> HPC Carpentry (29 - 30 June 2020) Online  </option>
+  <option  required id="amber" value="AmberTools (9 June 2020) Online" /> AmberTools (9 June 2020) Online  </option>
 
 </select>
+
 <input type="hidden" id="link" name="link" value="" /> 
 <br/>
 <br />
