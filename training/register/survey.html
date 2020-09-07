@@ -68,6 +68,7 @@ window.onload = function(){
 
 <select name="course" id="course">
 	<option disabled="disabled" selected="selected">Please select your course</option>
+	<option disabled="disabled" > </option>
   <option  required id="openmp" value="OpenMP, tbc October 2020, Online" /> OpenMP, tbc October 2020, Online</option>
   
   <option  required id="datacarp" value="Data Carpentry, tbc October 2020, Online" /> Data Carpentry, tbc October 2020, Online </option>
@@ -210,13 +211,13 @@ window.onload = function(){
   </tbody>
 </table>
 
+<p>&nbsp;</p>
 
+<h4><label for="satisfaction">Please rate your level of satisfaction with your current data management and analysis workflow (i.e. how you collect, organize, store and analyze your data). </label></h4>
 
-<h3>Please rate your level of satisfaction with your current data management and analysis workflow (i.e. how you collect, organize, store and analyze your data).</h3>
-
-<p><label for="satisfaction"><strong>Satisfaction</strong> </label><br />
+<p>
 <select required id="satisfaction" name="satisfaction">
-  <option value=""  selected="selected"></option>
+	<option disabled="disabled" selected="selected">Please select your satisfaction level </option>
 
   <option value="very_unsatisfied">Very unsatisfied</option>
   <option value="unsatisfied">Unsatisfied</option>
@@ -229,12 +230,14 @@ window.onload = function(){
 </select>
 </p>
 
+<p>&nbsp;</p>
 
-<h3>Why are you participating in this workshop?</h3>
 
-<p><label for="participation"><strong>Participation</strong> </label><br />
+<h4><label for="participation">Why are you participating in this workshop?</label></h4>
+
+<p>
 <select required id="participation" name="participation">
-  <option value=""  selected="selected"></option>
+	<option disabled="disabled" selected="selected">Please select your reason for participation</option>
 
   <option value="new_skills">To learn new skills</option>
   <option value="refresh">To refresh or review my skills</option>
@@ -246,7 +249,7 @@ window.onload = function(){
 </select>
 </p>
 
-
+<p>&nbsp;</p>
 
 <h3>Please rate your level of agreement with the following statements</h3>
 
@@ -323,19 +326,20 @@ window.onload = function(){
 </table>
 
 
-<h3>Please share what you most hope to learn from participating in this workshop.</h3>
+<h3><label for="hope">Please share what you most hope to learn from participating in this workshop.</label></h3>
 
 <p>
-<label for="hope"><strong>Hope to learn.</strong> </label><br />
 <textarea id="hope" name="hope" rows="4" cols="72"></textarea>
 </p>
 
-<h3>Gender</h3>
+<p>&nbsp;</p>
 
-<p><label for="gender"><strong>To which gender do you most identify?</strong> </label><br />
+<h3><label for="gender">Gender</label></h3>
+
+<p>
 <select required id="gender" name="gender">
-  <option value="" disabled="disabled" selected="selected"></option>
-
+	<option disabled="disabled" selected="selected">To which gender do you most identify?</option>
+  <option disabled="disabled" value=""></option>
   <option value="female">Female</option>
   <option value="other">Gender variant/non-conforming</option>
 	<option value="male">Male</option>
@@ -343,9 +347,9 @@ window.onload = function(){
 </select>
 </p>
 
-<h3>Ethnicity</h3>
+<p>&nbsp;</p>
 
-<p><b>How would you describe yourself? </b></p>
+<h3>How would you describe yourself?</h3>
 <p>Choose one or more of the following groups.</p>
 
 	
