@@ -1,0 +1,409 @@
+---
+layout: section
+title: ARCHER2 Training - Survey NOT YET IN USE
+summary: Getting to know you, post registration survey
+banner: web_banners_05.jpg
+---
+
+<h3>Please use the registration form at <a href="http://www.archer.ac.uk/training/registration/">http://www.archer.ac.uk/training/registration/</a> for course registration </h3>
+
+<p> If you have any questions about the training on ARCHER2 contact
+<a href="https://www.archer2.ac.uk/support-access/servicedesk.html">the ARCHER2 Service Desk</a>.</p>
+
+<p>We use this survey to find out a little bit about you, your background, your experience, and what you hope to learn on our courses.</p>
+
+<p>All the information collected is anonymous and is only use to help us deliver courses targeted as much as possible to the 
+people attending.</p>
+
+<p>Data will be retained for statistical purposes only.</p>
+
+<p>Please answer as many of the questions as are relevant and that you are comfortable answering, and skip over the rest.</p>
+
+<script type="text/javascript">
+
+function getUrlVars() { // Pulls GET values from the page URL
+    var vars = {};
+		var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+  			vars[key] = value;
+			});
+			return vars;
+	}
+	
+	
+function set_matching_course_by_id(selectObj)
+{
+   var course_in_url = getUrlVars()["course"];
+   for(var i = 0; i < selectObj.length; i++)   {
+      if(selectObj.options[i].id == course_in_url){
+      selectObj.selectedIndex = i;
+			document.getElementById("name").focus();
+			}
+   }
+}
+	
+	
+window.onload = function(){
+		set_matching_course_by_id(RegForm.course);
+}
+	
+	
+</script>
+
+
+
+<form name="RegForm" action="https://safe.epcc.ed.ac.uk/QueryForm"    method="post" accept-charset="UTF-8">
+<fieldset>    
+
+<input type="hidden" id="subject" name="subject" value="Pre-Course survey.">
+<input type="hidden" id="type" name="type" value="course_survey">
+<input type="hidden" id="query_service" name="query_service" value="ARCHER2">
+
+
+
+
+<p>&nbsp;</p>
+
+<h3><label for="course">Please select the course you have registered to attend</label></h3>
+
+
+<select name="course" id="course">
+	<option disabled="disabled" selected="selected">Please select your course</option>
+  <option  required id="openmp" value="OpenMP, tbc October 2020, Online" /> OpenMP, tbc October 2020, Online</option>
+  
+  <option  required id="datacarp" value="Data Carpentry, tbc October 2020, Online" /> Data Carpentry, tbc October 2020, Online </option>
+	
+</select>
+
+
+
+<p>&nbsp;</p>
+	
+
+<hr />
+
+
+
+
+<table class="feedback">
+  <tbody>
+    <tr>
+      <th id="question"><h4> What operating system is on the computer you are using at the workshop?</h4></th>
+      <th class="answer-agree">MacOS</th>
+      <th class="answer-agree">Linux</th>
+      <th class="answer-agree">Windows</th>
+      <th class="answer-agree">Not sure</th>
+
+    </tr>
+    <tr>
+      <td class="question"><label for="os"><strong>Operating system</strong></label></td>
+      <td class="answer"><input type="radio" name="os" value="macos" /></td>
+      <td class="answer"><input type="radio" name="os" value="linux" /></td>
+      <td class="answer"><input type="radio" name="os" value="windows" /></td>
+      <td class="answer"><input type="radio" name="os" value="not-sure" /></td>
+
+    </tr>
+  </tbody>
+</table>
+
+
+
+<p>&nbsp;</p>
+
+<h4><label for="os2">What operating system is on the computer you are using at the workshop? Version 2</label></h4>
+
+
+  <input type="radio" name="os2" required id="macos" value="MacOS"> <label for="macos"> Macos </label><br />
+	<input type="radio" name="os2" required id="linux" value="Linux"> <label for="linux"> Linux </label><br />
+  <input type="radio" name="os2" required id="windows" value="Windows"> <label for="windows"> Windows </label><br />
+	<input type="radio" name="os2" required id="not-sure" value="Not sure">  <label for="not-sure"> Not sure </label><br />
+				
+</select>
+
+
+<p>&nbsp;</p>
+
+<h4>What operating system is on the computer you are using at the workshop? Version 3</h4>
+
+<p><label for="os3"><strong>Operating System</strong> </label><br />
+<select required id="os3" name="os3">
+	<option disabled="disabled" selected="selected">Please select your operating system</option>
+  <option value="macos">MacOS</option>
+  <option value="linux">Linux</option>
+	<option value="windows">Windows</option>
+  <option value="not-sure">Not sure</option>
+
+</select>
+</p>
+
+
+
+
+<h3>How often do you currently use any of the following?</h3>
+
+
+
+
+<table class="feedback">
+  <tbody>
+    <tr>
+      <th id="question"><h4> Frequency </h4></th>
+      <th class="answer-agree">Never</th>
+      <th class="answer-agree">Less than once per year</th>
+      <th class="answer-agree">Several times per year</th>
+      <th class="answer-agree">Monthly</th>
+			<th class="answer-agree">Weekly</th>
+			<th class="answer-agree">Daily</th>
+    </tr>
+		
+    <tr>
+      <td class="question"><label for="os"><strong>A specialized software with a point-and-click graphical user interface (e.g., for statistical analysis: SPSS, SAS, ...; for Geospatial analysis: ArcGIS, QGIS, ... ; for Genomics analysis: Geneious, ...)</strong></label></td>
+      <td class="answer"><input type="radio" name="sw" value="never" /></td>
+      <td class="answer"><input type="radio" name="sw" value="lt1pyear" /></td>
+      <td class="answer"><input type="radio" name="sw" value="gt1pyear" /></td>
+      <td class="answer"><input type="radio" name="sw" value="monthly" /></td>
+      <td class="answer"><input type="radio" name="sw" value="Weekly" /></td>
+      <td class="answer"><input type="radio" name="sw" value="Daily" /></td>
+    </tr>
+		
+    <tr>
+      <td class="question"><label for="lang"><strong>Programming languages (R, Python, etc.)</strong></label></td>
+      <td class="answer"><input type="radio" name="lang" value="never" /></td>
+      <td class="answer"><input type="radio" name="lang" value="lt1pyear" /></td>
+      <td class="answer"><input type="radio" name="lang" value="gt1pyear" /></td>
+      <td class="answer"><input type="radio" name="lang" value="monthly" /></td>
+      <td class="answer"><input type="radio" name="lang" value="Weekly" /></td>
+      <td class="answer"><input type="radio" name="lang" value="Daily" /></td>
+    </tr>
+			
+		
+    <tr>
+      <td class="question"><label for="db"><strong>Databases (SQL, Access, etc.)</strong></label></td>
+      <td class="answer"><input type="radio" name="db" value="never" /></td>
+      <td class="answer"><input type="radio" name="db" value="lt1pyear" /></td>
+      <td class="answer"><input type="radio" name="db" value="gt1pyear" /></td>
+      <td class="answer"><input type="radio" name="db" value="monthly" /></td>
+      <td class="answer"><input type="radio" name="db" value="Weekly" /></td>
+      <td class="answer"><input type="radio" name="db" value="Daily" /></td>
+    </tr>
+				
+    <tr>
+      <td class="question"><label for="version"><strong>Version control software (Git, Subversion (SVN), Mercurial, etc.)</strong></label></td>
+      <td class="answer"><input type="radio" name="version" value="never" /></td>
+      <td class="answer"><input type="radio" name="version" value="lt1pyear" /></td>
+      <td class="answer"><input type="radio" name="version" value="gt1pyear" /></td>
+      <td class="answer"><input type="radio" name="version" value="monthly" /></td>
+      <td class="answer"><input type="radio" name="version" value="Weekly" /></td>
+      <td class="answer"><input type="radio" name="version" value="Daily" /></td>
+    </tr>	
+		
+    <tr>
+      <td class="question"><label for="shell"><strong>A command shell (usually accessed through Terminal on macOS or PowerShell on Windows)</strong></label></td>
+      <td class="answer"><input type="radio" name="shell" value="never" /></td>
+      <td class="answer"><input type="radio" name="shell" value="lt1pyear" /></td>
+      <td class="answer"><input type="radio" name="shell" value="gt1pyear" /></td>
+      <td class="answer"><input type="radio" name="shell" value="monthly" /></td>
+      <td class="answer"><input type="radio" name="shell" value="Weekly" /></td>
+      <td class="answer"><input type="radio" name="shell" value="Daily" /></td>
+    </tr>	
+		
+		
+  </tbody>
+</table>
+
+
+
+<h3>Please rate your level of satisfaction with your current data management and analysis workflow (i.e. how you collect, organize, store and analyze your data).</h3>
+
+<p><label for="satisfaction"><strong>Satisfaction</strong> </label><br />
+<select required id="satisfaction" name="satisfaction">
+  <option value=""  selected="selected"></option>
+
+  <option value="very_unsatisfied">Very unsatisfied</option>
+  <option value="unsatisfied">Unsatisfied</option>
+	<option value="neutral">Neutral</option>
+  <option value="satisfied">Satisfied</option>
+  <option value="very_satisfied">Very satisfied</option>
+  <option value="not_sure">Not sure</option>
+  <option value="not_applicable">Not applicable</option>
+  <option value="never_thought_about_this">Never thought about this</option>
+</select>
+</p>
+
+
+<h3>Why are you participating in this workshop?</h3>
+
+<p><label for="participation"><strong>Participation</strong> </label><br />
+<select required id="participation" name="participation">
+  <option value=""  selected="selected"></option>
+
+  <option value="new_skills">To learn new skills</option>
+  <option value="refresh">To refresh or review my skills</option>
+	<option value="current">To learn skills that I can apply to my current work</option>
+	<option value="future">To learn skills that I can apply to my work in the future.</option>
+	<option value="promotion">To learn skills that will help me get a job or a promotion.</option>
+	<option value="requirement">As a requirement for my program or current position.</option>
+
+</select>
+</p>
+
+
+
+<h3>Please rate your level of agreement with the following statements</h3>
+
+
+
+<table class="feedback">
+  <tbody>
+    <tr>
+      <th id="question"><h4> Your rating:</h4></th>
+      <th class="answer-agree">Strongly Disagree</th>
+      <th class="answer-agree">Disagree</th>
+      <th class="answer-agree">Neutral</th>
+      <th class="answer-agree">Agree</th>
+      <th class="answer-agree">Strongly Agree</th>
+    </tr>
+    <tr>
+      <td class="question"><label for="raw-data"><strong>Having access to the original, raw data is important to be able to repeat an analysis.</strong></label></td>
+      <td class="answer"><input type="radio" name="raw-data" value="strongly-disagree" /></td>
+      <td class="answer"><input type="radio" name="raw-data" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="raw-data" value="neutral" /></td>
+      <td class="answer"><input type="radio" name="raw-data" value="agree" /></td>
+      <td class="answer"><input type="radio" name="wraw-data" value="strongly-agree" /></td>
+    </tr>
+    <tr>
+      <td class="question"><label for="script"><strong>I can write a small program, script, or macro to address a problem in my own work.</strong></label></td>
+      <td class="answer"><input type="radio" name="script" value="strongly-disagree" /></td>
+      <td class="answer"><input type="radio" name="script" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="script" value="neutral" /></td>
+      <td class="answer"><input type="radio" name="script" value="agree" /></td>
+      <td class="answer"><input type="radio" name="script" value="strongly-agree" /></td>
+    </tr>
+    <tr>
+      <td class="question"><label for="search"><strong>I know how to search for answers to my technical questions online.</strong></label></td>
+      <td class="answer"><input type="radio" name="search" value="strongly-disagree" /></td>
+      <td class="answer"><input type="radio" name="search" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="search" value="neutral" /></td>
+      <td class="answer"><input type="radio" name="search" value="agree" /></td>
+      <td class="answer"><input type="radio" name="search" value="strongly-agree" /></td>
+    </tr>
+		<tr>
+      <td class="question"><label for="stuck"><strong>While working on a programming project, if I got stuck, I can find ways of overcoming the problem.</strong></label></td>
+      <td class="answer"><input type="radio" name="stuck" value="strongly-disagree" /></td>
+      <td class="answer"><input type="radio" name="stuck" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="stuck" value="neutral" /></td>
+      <td class="answer"><input type="radio" name="stuck" value="agree" /></td>
+      <td class="answer"><input type="radio" name="stuck" value="strongly-agree" /></td>
+    </tr>
+		<tr>
+      <td class="question"><label for="confident"><strong>I am confident in my ability to make use of programming software to work with data.</strong></label></td>
+      <td class="answer"><input type="radio" name="confident" value="strongly-disagree" /></td>
+      <td class="answer"><input type="radio" name="confident" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="confident" value="neutral" /></td>
+      <td class="answer"><input type="radio" name="confident" value="agree" /></td>
+      <td class="answer"><input type="radio" name="confident" value="strongly-agree" /></td>
+    </tr>
+		<tr>
+      <td class="question"><label for="repro"><strong>Using a programming language (like R or Python) can make my analyses easier to reproduce.</strong></label></td>
+      <td class="answer"><input type="radio" name="repro" value="strongly-disagree" /></td>
+      <td class="answer"><input type="radio" name="repro" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="repro" value="neutral" /></td>
+      <td class="answer"><input type="radio" name="repro" value="agree" /></td>
+      <td class="answer"><input type="radio" name="repro" value="strongly-agree" /></td>
+    </tr>
+		<tr>
+      <td class="question"><label for="efficient"><strong>Using a programming language (like R or Python) can make me more efficient at working with data.</strong></label></td>
+      <td class="answer"><input type="radio" name="efficient" value="strongly-disagree" /></td>
+      <td class="answer"><input type="radio" name="efficient" value="disagree" /></td>
+      <td class="answer"><input type="radio" name="efficient" value="neutral" /></td>
+      <td class="answer"><input type="radio" name="efficient" value="agree" /></td>
+      <td class="answer"><input type="radio" name="efficient" value="strongly-agree" /></td>
+    </tr>
+		
+  </tbody>
+</table>
+
+
+<h3>Please share what you most hope to learn from participating in this workshop.</h3>
+
+<p>
+<label for="hope"><strong>Hope to learn.</strong> </label><br />
+<textarea id="hope" name="hope" rows="4" cols="72"></textarea>
+</p>
+
+<h3>Gender</h3>
+
+<p><label for="gender"><strong>To which gender do you most identify?</strong> </label><br />
+<select required id="gender" name="gender">
+  <option value="" disabled="disabled" selected="selected"></option>
+
+  <option value="female">Female</option>
+  <option value="other">Gender variant/non-conforming</option>
+	<option value="male">Male</option>
+  <option value="not_disclosed">Prefer not to say</option>
+</select>
+</p>
+
+<h3>Ethnicity</h3>
+
+<p><b>How would you describe yourself? </b></p>
+<p>Choose one or more of the following groups.</p>
+
+	
+<table class="text-box-feedback">
+  <tbody>	
+		<tr>
+      <td class="text-box-answer">  <input type="checkbox" id="ethnic1" name="ethnic1" value="amind"></td>
+      <td class="text-box-question"><label for="ethnic1">   American Indian or Alaska Native (Having origins in any of the original peoples of North and South America (including Central America), and who maintains a tribal affiliation or community attachment.)</label></td>
+    </tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic2" name="ethnic2" value="asian"> </td>
+			<td class="text-box-question"><label for="ethnic2">    Asian (Having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, Indonesia, the Philippine Islands, Thailand, and Vietnam.)</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic3" name="ethnic3" value="black"> </td>
+			<td class="text-box-question"> <label for="ethnic3">    Black or African American (Having origins in any of the Black racial groups of Africa - includes Caribbean Islanders and others of African origin.)</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic4" name="ethnic4" value="hisplat"> </td>
+			<td class="text-box-question"><label for="ethnic4">      Hispanic or Latino(a) (A person of Spanish-speaking origin or ancestry and/or Latin American origin or ancestry - includes Portuguese and Brazilians.)</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic5" name="ethnic5" value="hawaiipacific"></td>
+			<td class="text-box-question"> <label for="ethnic5">      Native Hawaiian or Other Pacific Islander (Having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.)</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic6" name="ethnic6" value="white"></td>
+			<td class="text-box-question"><label for="ethnic6">      White (Having origins in any of the original peoples of Europe, the Middle East, or North Africa.)</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic7" name="ethnic7" value="notsay"></td>
+			<td class="text-box-question"> <label for="ethnic7">      I prefer not to say.</label></td>
+		</tr>
+			
+	
+	
+	
+  </tbody>
+</table>
+	
+	
+
+
+
+
+
+
+
+<hr />
+<p>&nbsp;</p>
+<p>Please read our <a href="../privacy.php">Training Data Privacy statement</a> to find out about how this data is used.</p>
+<p>&nbsp;</p>
+<p>When registering to attend a course you agree to abide by our <a href="../code-of-conduct/index.php">Training Code of Conduct</a>.</p>
+<p>&nbsp;</p>
+<p>
+<input type="submit" value="Register" />
+<input type="reset" value="Clear Form" />
+
+</p>
+</fieldset>
+</form>
