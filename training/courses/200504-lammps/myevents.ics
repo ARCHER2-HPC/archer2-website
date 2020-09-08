@@ -22,18 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20200420T075005Z
-UID:20200420T075005Z-827264613@marudot.com
-DTSTART;TZID=Europe/London:20200504T140000
-RRULE:FREQ=DAILY;INTERVAL=7;UNTIL=20200518T130000Z
-DTEND;TZID=Europe/London:20200504T163000
-SUMMARY:LAMMPs Online
-DESCRIPTION:LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely-used classical \nmolecular dynamics (MD) code. This C++ code is easy to use\, incredibly versatile\, and parallelised \nto run efficiently on both small-scale personal computers and CPU/GPU/CPU&GPU HPC clusters. As of 2018\, \nLAMMPS has been used\, to some degree\, in over 14\,000 publications in fields as varied as chemistry\, \nphysics\, material science\, granular and lubricated-granular flow\, etc.\n\nThe course will be run over three 2.5 hour-long sessions. \n\nThe first session will be \nan introduction to setting up and running an MD simulation using LAMMPS. We will begin \nby running a simulation of a Lennard-Jones fluid before delving deeper into how simulations \ncan be set up and run in LAMMPS. \n\nIn the second session\, we will discuss how to download and \ninstall LAMMPS\, with a more in-depth discussion of the various packages LAMMPS offers and how \nto use them efficiently.\n\nThe third session will be a follow-up session for exercises\, discussion and questions.\n\nWeek 1 4th May Join link\n\nhttps://eu.bbcollab.com/guest/4cf5fc2f33d744428382ac7ddf9617de \n\nWeek 2  11th May Join link\nhttps://eu.bbcollab.com/guest/38454afc61534fada5bc43bee9c7e592\n\nWeek 3 18th May Join link\nhttps://eu.bbcollab.com/guest/9cff3091a8a74a33b30cad3b3974b742\n\n
+DTSTAMP:20200518T102231Z
+UID:20200518T102231Z-39181489@marudot.com
+DTSTART;TZID=Europe/London:20200525T140000
+DTEND;TZID=Europe/London:20200525T163000
+SUMMARY:LAMMPs Online reschedulled 3rd session
+DESCRIPTION:LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely-used classical \nmolecular dynamics (MD) code. This C++ code is easy to use\, incredibly versatile\, and parallelised \nto run efficiently on both small-scale personal computers and CPU/GPU/CPU&GPU HPC clusters. As of 2018\, \nLAMMPS has been used\, to some degree\, in over 14\,000 publications in fields as varied as chemistry\, \nphysics\, material science\, granular and lubricated-granular flow\, etc.\n\nThe course will be run over three 2.5 hour-long sessions. \n\nThe third session will be a follow-up session for exercises\, discussion and questions.\n\nWeek 3 25th May Join link\nhttps://eu.bbcollab.com/guest/9cff3091a8a74a33b30cad3b3974b742\n\n
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:LAMMPs Online
+DESCRIPTION:LAMMPs Online reschedulled 3rd session
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT

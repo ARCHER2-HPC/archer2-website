@@ -23,4 +23,4 @@ NW1 2DB
 
 The course will be held in 'Enigma' (the Institute's events space). 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9928.347630464725!2d-0.1276734!3d51.5299658!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa6f7b8acf648fffd!2sThe%20Alan%20Turing%20Institute!5e0!3m2!1sen!2suk!4v1582732424343!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe title="google map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9928.347630464725!2d-0.1276734!3d51.5299658!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa6f7b8acf648fffd!2sThe%20Alan%20Turing%20Institute!5e0!3m2!1sen!2suk!4v1582732424343!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>

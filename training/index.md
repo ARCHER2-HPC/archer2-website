@@ -55,7 +55,15 @@ banner: web_banners_05.jpg
           <strong>ARCHER2 Driving Test</strong><br/>
           The ARCHER2 Driving Test allows you to learn more about using ARCHER2 and get a small amount of ARCHER2 resource for your research.
         </a>
-      </div>							
+      </div>	
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="https://www.youtube.com/channel/UCZi-oBdxoDV5CPEQnhmrCAg/videos">
+          <strong>ARCHER2 YouTube channel</strong><br/>
+          Includes videos of past Webinars and online training.
+        </a>
+      </div>						
 			
     </div>
   </div>
@@ -111,6 +119,12 @@ Individual links to course provide more details on the content and prerequisites
               {% else %}
             <a href="{{ course.registration_url }}">Join waiting list</a>
               {% endif %}
+            {% elsif course.registration_status == "closed" %}
+              {% if course.prace_course %}
+            <a href="{{ course.registration_url }}"><img src="img/prace_25.jpg" alt="PRACE"/> Registration closed</a>
+              {% else %}
+            Registration closed
+              {% endif %}
             {% else %}
             &nbsp;
             {% endif %}
@@ -156,22 +170,14 @@ The following courses are provisionally planned for the first year of the ARCHER
         <td>Online</td>
         <td></td>
       </tr>
-      <tr>
-        <td><a href="courses/index.html#mpp_with_mpi">Message Passing Programming with MPI</a></td>
-        <td>Online</td>
-        <td></td>
-      </tr>
+      
       <tr>
         <td><a href="courses/index.html#openmp">Shared Memory Programming with OpenMP</a></td>
         <td>Online</td>
         <td></td>
       </tr>
 
-      <tr>
-        <td><a href="courses/index.html#hpc_carpentry">HPC Carpentry</a></td>
-        <td></td>
-        <td></td>
-      </tr>
+     
       <tr>
         <td><a href="courses/index.html#package_use">ARCHER2 for HPC Software Package Users</a></td>
         <td></td>
@@ -223,11 +229,7 @@ The following courses are provisionally planned for the first year of the ARCHER
         <td></td>
         <td></td>
       </tr>
-      <tr>
-        <td><a href="courses/index.html#containers_for_hpc">Containers for HPC</a></td>
-        <td></td>
-        <td></td>
-      </tr>
+
       <tr>
         <td><a href="courses/index.html#data_analysis_using_python">Data Analytics with HPC</a></td>
         <td></td>
@@ -254,11 +256,7 @@ The following courses are provisionally planned for the first year of the ARCHER
         <td></td>
         <td></td>
       </tr>
-      <tr>
-        <td><a href="courses/index.html#performance_analysis_workshop">Performance Analysis Workshop</a></td>
-        <td></td>
-        <td></td>
-      </tr>
+      
     </tbody>
   </table>
 </div>
@@ -286,15 +284,15 @@ Mailings will be sent approximately 1-2 times per month, your details will not b
 
 ## Online Training
 
-Much of the ARCHER2 training material is available online. In particular, this includes material relevant to the [ARCHER2 Driving Test](driving-test.html)
+Much of the ARCHER2 training material is available online. In particular, this includes material relevant to the [ARCHER2 Driving Test](driving-test.html).
 
 On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you will be invited to apply for an account on ARCHER2 with 1200 kAUs (80,000 core-hours) to use over 12 months, enabling you to put your skills into practice.
 
 ## Other Training
 
-*    [EPCC MSc in High Performance Computing](http://www.epcc.ed.ac.uk/msc)
+*   [EPCC MSc in High Performance Computing](http://www.epcc.ed.ac.uk/msc)
 *   [ Software Sustainability Institute - Guides](http://www.software.ac.uk/resources/guides-everything)
-*    [Software Sustainability Institute - Top Tips](http://www.software.ac.uk/resources/top-tips)
+*   [Software Sustainability Institute - Top Tips](http://www.software.ac.uk/resources/top-tips)
 
 ## Support for training on ARCHER2
 

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200713T115825Z
+UID:20200713T115825Z-96669414@marudot.com
+DTSTART;TZID=Europe/London:20200728T090000
+RRULE:FREQ=DAILY;COUNT=3
+DTEND;TZID=Europe/London:20200728T170000
+SUMMARY:33rd VI-HPS Tuning Workshop
+DESCRIPTION:Join links:\nDay 1 : https://eu.bbcollab.com/guest/c017423e49964ab2ae76e3014d6948a9\nDay 2 : https://eu.bbcollab.com/guest/edf2e4f2c67a4f509aac8bfa72baf221\nDay 3 : https://eu.bbcollab.com/guest/44843c48fec740139a41f38ade678c21\n\nThis workshop is organised by VI-HPS for the ARCHER2 service and the UK PRACE Advanced Training Centre to:\n\n    give an overview of the VI-HPS programming tools suite\n    explain the functionality of individual tools\, and how to use them effectively\n    offer hands-on experience and expert assistance using the tools
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:33rd VI-HPS Tuning Workshop
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

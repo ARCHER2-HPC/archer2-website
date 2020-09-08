@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200702T103136Z
+UID:20200702T103136Z-129652823@marudot.com
+DTSTART;TZID=Europe/London:20200715T150000
+DTEND;TZID=Europe/London:20200715T160000
+SUMMARY:Using Cirrus II
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Ffdaca97f1b0f463989da4ae0c21a3b28
+DESCRIPTION:Join link : https://eu.bbcollab.com/guest/fdaca97f1b0f463989da4ae0c21a3b28\n\nCirrus is a UK Tier 2 service funded by EPSRC and is aimed at users with computational requirements that fall between University-level resources\, and the National Service Archer.\n\nAn upgraded Cirrus system was returned to service in June with a number of significant changes. The Cirrus service consists of\n\n* 280 standard compute nodes each with Intel Xeon (Broadwell) 36 cores\n256 GB\n* 36 new GPU nodes each housing 4 NVIDIA V100s\n\nThis talk will give an overview of the important features of the new system\, including\n\n* How to get access to Cirrus\n* Logging in and the user environment\n* Submitting jobs using the Slurm scheduling system and queue policy\n* Using the GPU nodes\n\nand will be of interest to both new users and existing users wanting to refresh their knowledge of the system.
+LOCATION:https://eu.bbcollab.com/guest/fdaca97f1b0f463989da4ae0c21a3b28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Using Cirrus II
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -74,7 +74,7 @@ EPCC delivered a webinar on Transferring Data from ARCHER at End of Service
 
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2t4mv8TwYMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video" width="560" height="315" src="https://www.youtube.com/embed/2t4mv8TwYMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

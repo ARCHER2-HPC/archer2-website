@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200526T075013Z
+UID:20200526T075013Z-584987149@marudot.com
+DTSTART;TZID=Europe/London:20200610T110000
+DTEND;TZID=Europe/London:20200610T120000
+SUMMARY:ARCHER2 ExCALIBUR Webinar
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Ff11d429667cc44359a5772bf0dcadc68
+DESCRIPTION:Join Link: https://eu.bbcollab.com/guest/f11d429667cc44359a5772bf0dcadc68\n\nAbstract: The  ExCALIBUR (Exascale Computing Algorithms and Infrastructures Benefitting UK Research) is a £45.7m Strategic Priorities Fund (SPF) programme led by the Met Office\, UKAEA and UK Research and Innovation to deliver research and innovative algorithmic development to harness the power of exascale HPC. ExCALIBUR will be delivered over five years through a suite of complementary activities delivered by UK Research and Innovation\, the Met Office and UKAEA: a knowledge integration activity\; activities to address high priority use cases\; supporting emerging requirements for high-performance algorithms\; cross-cutting research\; and proof-of-concept hardware –(the Hardware and Enabling Software Programme).  The Exascale definitions we use are activity based:\n\n    * Solving Problems that are a 10-1000x larger than we solve at present\n    * Solving Problems 10-1000 faster than at present\n    * Problems can be simulation\, data modelling and/or data driven\n    * Can come from all areas of Research and Innovation\n    * Exascale “Velocity” is just an important output as Exascale “Volume”\n\nExCALIBUR has made 10 awards for software use code development for exascale computing and 5 awards to develop a hardware and enabling software fore-sighting programme. The latter will provide a testbed area that uses pre-commercial equipment for software prototyping and development and has two main purposes:\n\nenable the software development community to be ready to use commercial products effectively as soon as they come on to the market and provide the UK exascale community with the ability to influence the technology industry and the necessary knowledge to guide their purchase decisions.\n\nThis webinar will briefly outline the aims of the 10 Software Code Development Projects and the 5 hardware and enabling software projects and discuss how these projects will interact.  Also\, via a suitable benchmarking strategy\, ExCALIBUR  will produce quantitative methodologies\, procedures\, tools\, and mini-apps\, which will be used to benchmark systems\, codes and applications that do not yet exist.  This will allow benchmarks to be used to design new systems\, appliances and applications\, as well as be used to test and optimise existing systems and applications.\n\n
+LOCATION:https://eu.bbcollab.com/guest/f11d429667cc44359a5772bf0dcadc68
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 ExCALIBUR Webinar
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

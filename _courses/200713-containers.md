@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Reproducible computational environments using containers  (fully booked)
+title: Reproducible computational environments using containers  
 banner: web_banners_05.jpg 
 human_dates: 13 - 14 July 2020
 start_date: 2020-07-13 10:00:00
 end_date: 2020-07-14 16:00:00
 trainers: Andy Turner (EPCC), Jeremy Cohen (Imperial College)
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/962/
 location: Online
 location_url:
@@ -40,19 +40,16 @@ This course aims to introduce the use of containers with the goal of using them 
 <section id="service">
     <div class="row ">	
 
-<!--
-		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://imperialcollegelondon.github.io/2020-07-13-Containers-Online/">
           <strong>Course materials</strong>         
         </a>
       </div>
--->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/200713_Containers_online">
+          href="https://pad.archer2.ac.uk/p/2020-07-13-Containers-Online">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -60,7 +57,7 @@ This course aims to introduce the use of containers with the goal of using them 
 		</div>
 		
 		
-					
+<!--					
 
 <h2>Join sessions		</h2>		
 
@@ -88,3 +85,65 @@ This course aims to introduce the use of containers with the goal of using them 
 
 											
     </div>
+
+-->
+
+
+<!-- 		
+<h2><a name="video">Video</a></h2>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ -->
+
+
+<!-- 
+<h2><a name="slides">Slides</a></h2>
+
+
+<section id="service">
+    <div class="row ">	
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="transcript.pdf">
+          <strong>Transcript</strong><br/>
+          Download a transcript of the video audio
+        </a>
+      </div>
+
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="slides.pdf">
+          <strong>Slides</strong><br/>
+          Download pdf of the presentation.
+        </a>
+      </div>
+										
+    </div>
+
+ -->
+
+
+
+<h2><a name="feedback">Feedback</a></h2>
+
+<section id="service">
+    <div class="row ">	
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+
+		   href="https://events.prace-ri.eu/event/962/surveys/652"
+		>
+          <strong>Feedback</strong><br/>
+          Please let us know what was great about this course and anything we can improve
+        </a>
+      </div>
+    </div>
+		
+
