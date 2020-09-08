@@ -43,7 +43,7 @@ function set_matching_course_by_id(selectObj)
 	
 	
 window.onload = function(){
-		set_matching_course_by_id(RegForm.course);
+		set_matching_course_by_id(SurveyForm.course);
 }
 	
 	
@@ -51,7 +51,7 @@ window.onload = function(){
 
 
 
-<form name="RegForm" action="https://safe.epcc.ed.ac.uk/QueryForm"    method="post" accept-charset="UTF-8">
+<form name="SurveyForm" action="https://safe.epcc.ed.ac.uk/QueryForm"    method="post" accept-charset="UTF-8">
 <fieldset>    
 
 <input type="hidden" id="subject" name="subject" value="Pre-Course survey.">
@@ -137,6 +137,7 @@ window.onload = function(){
 </p>
 
 
+<p>&nbsp;</p>
 
 
 <h3>How often do you currently use any of the following?</h3>
@@ -266,7 +267,7 @@ window.onload = function(){
       <th class="answer-agree">Strongly Agree</th>
     </tr>
     <tr>
-      <td class="question"><label for="raw-data"><strong>Having access to the original, raw data is important to be able to repeat an analysis.</strong></label></td>
+      <td class="question"><label for="raw-data">Having access to the original, raw data is important to be able to repeat an analysis.</label></td>
       <td class="answer"><input type="radio" name="raw-data" value="strongly-disagree" /></td>
       <td class="answer"><input type="radio" name="raw-data" value="disagree" /></td>
       <td class="answer"><input type="radio" name="raw-data" value="neutral" /></td>
@@ -274,7 +275,7 @@ window.onload = function(){
       <td class="answer"><input type="radio" name="wraw-data" value="strongly-agree" /></td>
     </tr>
     <tr>
-      <td class="question"><label for="script"><strong>I can write a small program, script, or macro to address a problem in my own work.</strong></label></td>
+      <td class="question"><label for="script">I can write a small program, script, or macro to address a problem in my own work.</label></td>
       <td class="answer"><input type="radio" name="script" value="strongly-disagree" /></td>
       <td class="answer"><input type="radio" name="script" value="disagree" /></td>
       <td class="answer"><input type="radio" name="script" value="neutral" /></td>
@@ -282,7 +283,7 @@ window.onload = function(){
       <td class="answer"><input type="radio" name="script" value="strongly-agree" /></td>
     </tr>
     <tr>
-      <td class="question"><label for="search"><strong>I know how to search for answers to my technical questions online.</strong></label></td>
+      <td class="question"><label for="search">I know how to search for answers to my technical questions online.</label></td>
       <td class="answer"><input type="radio" name="search" value="strongly-disagree" /></td>
       <td class="answer"><input type="radio" name="search" value="disagree" /></td>
       <td class="answer"><input type="radio" name="search" value="neutral" /></td>
@@ -290,7 +291,7 @@ window.onload = function(){
       <td class="answer"><input type="radio" name="search" value="strongly-agree" /></td>
     </tr>
 		<tr>
-      <td class="question"><label for="stuck"><strong>While working on a programming project, if I got stuck, I can find ways of overcoming the problem.</strong></label></td>
+      <td class="question"><label for="stuck">While working on a programming project, if I got stuck, I can find ways of overcoming the problem.</label></td>
       <td class="answer"><input type="radio" name="stuck" value="strongly-disagree" /></td>
       <td class="answer"><input type="radio" name="stuck" value="disagree" /></td>
       <td class="answer"><input type="radio" name="stuck" value="neutral" /></td>
@@ -298,7 +299,7 @@ window.onload = function(){
       <td class="answer"><input type="radio" name="stuck" value="strongly-agree" /></td>
     </tr>
 		<tr>
-      <td class="question"><label for="confident"><strong>I am confident in my ability to make use of programming software to work with data.</strong></label></td>
+      <td class="question"><label for="confident">I am confident in my ability to make use of programming software to work with data.</label></td>
       <td class="answer"><input type="radio" name="confident" value="strongly-disagree" /></td>
       <td class="answer"><input type="radio" name="confident" value="disagree" /></td>
       <td class="answer"><input type="radio" name="confident" value="neutral" /></td>
@@ -306,7 +307,7 @@ window.onload = function(){
       <td class="answer"><input type="radio" name="confident" value="strongly-agree" /></td>
     </tr>
 		<tr>
-      <td class="question"><label for="repro"><strong>Using a programming language (like R or Python) can make my analyses easier to reproduce.</strong></label></td>
+      <td class="question"><label for="repro">Using a programming language (like R or Python) can make my analyses easier to reproduce.</label></td>
       <td class="answer"><input type="radio" name="repro" value="strongly-disagree" /></td>
       <td class="answer"><input type="radio" name="repro" value="disagree" /></td>
       <td class="answer"><input type="radio" name="repro" value="neutral" /></td>
@@ -314,7 +315,7 @@ window.onload = function(){
       <td class="answer"><input type="radio" name="repro" value="strongly-agree" /></td>
     </tr>
 		<tr>
-      <td class="question"><label for="efficient"><strong>Using a programming language (like R or Python) can make me more efficient at working with data.</strong></label></td>
+      <td class="question"><label for="efficient">Using a programming language (like R or Python) can make me more efficient at working with data.</label></td>
       <td class="answer"><input type="radio" name="efficient" value="strongly-disagree" /></td>
       <td class="answer"><input type="radio" name="efficient" value="disagree" /></td>
       <td class="answer"><input type="radio" name="efficient" value="neutral" /></td>
