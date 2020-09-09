@@ -90,6 +90,10 @@ th, td {
 }
 
 
+label {
+	font-weight: 400;
+}
+
 .section-title {
   margin-bottom: 70px;
 }
