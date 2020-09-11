@@ -28,17 +28,27 @@ function getUrlVars() { // Pulls GET values from the page URL
 			return vars;
 	}
 	
-	window.onload = function(){
-    var course_in_url = getUrlVars()["course"];
-
-    if (course_in_url){	
-			document.getElementById(course_in_url).checked = true;
-    }
-  };
+	
+function set_matching_course_by_id(selectObj)
+{
+   var course_in_url = getUrlVars()["course"];
+   for(var i = 0; i < selectObj.length; i++)   {
+      if(selectObj.options[i].id == course_in_url){
+      selectObj.selectedIndex = i;
+			document.getElementById("fbname").focus();
+			}
+   }
+}
+	
+	
+window.onload = function(){
+		set_matching_course_by_id(feedback.course);
+}
+	
 </script>
 
 
-<form id="feedback-form" action="https://safe.epcc.ed.ac.uk/QueryForm" method="post">
+<form name="feedback" id="feedback" action="https://safe.epcc.ed.ac.uk/QueryForm" method="post" accept-charset="UTF-8">
 <fieldset>
 
 <input type="hidden" id="subject" name="subject" value="Course feedback.">
@@ -49,15 +59,12 @@ function getUrlVars() { // Pulls GET values from the page URL
 
 <h3><label for="course">Please select the training course you attended: *</label></h3>
 
-
-<input type="radio" name="course" required id="hpccarp" value="HPC Carpentry (29 - 30 June 2020) Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">HPC Carpentry</a> (29 - 30 June 2020) Online  <br />
-
-<input type="radio" name="course" required id="amber" value="AmberTools (9 June 2020) Online" /> <a href="https://www.archer2.ac.uk/training/courses/200609-amber/">AmberTools</a> (9 June 2020) Online  <br />
-	
-
-
-
+<select name="course">
+	<option disabled="disabled" selected="selected">Please select the course you attended</option>
+  <option  required id="hpccarp" value="HPC Carpentry (29 - 30 June 2020) Online" /> HPC Carpentry (29 - 30 June 2020) Online  </option>
+  <option  required id="amber" value="AmberTools (9 June 2020) Online" /> AmberTools (9 June 2020) Online  </option>
 </select>
+
 <input type="hidden" id="link" name="link" value="" /> 
 <br/>
 <br />
@@ -66,268 +73,256 @@ function getUrlVars() { // Pulls GET values from the page URL
 
 <h3>Your details - <i>optional</i></h3>
 
-<table class="text-box-feedback">
-  <tbody>
-
-		
-		<tr>
-      <td class="text-box-question">
-        <label for="fbname"><strong>Name:</strong></label>
-      </td>
-      <td class="text-box-answer">
-        <textarea id="fbname" name="fbname" maxlength="200" rows="1" cols="43"></textarea>
-      </td>
-    </tr>
-		
-		<tr>
-      <td class="text-box-question"><strong>May we contact you about this feedback?</strong></td>
-      <td class="text-box-answer"><input type="radio" name="contact" value="Yes"> Yes</input> |
-      <input type="radio" name="contact" value="No"> No</input> 
-    </tr>
-		<tr><td class="text-box-question">&nbsp;</td></tr>
-		
-  </tbody>
-</table>
 
 
+<p>
+  <label for="fbname">Name:</label><br />
+ 	<input id="fbname" type="text" name="fbname" size="50">
+</p>
+
+<p>
+  <label for="contact">May we contact you about this feedback?<br />
+  <input type="radio" name="contact" id="contact" value="Yes"> Yes</input> |
+  <input type="radio" name="contact" id="contact" value="No"> No</input> 
+</p>
 
 
-<h3>Overall Satisfaction *</h3>
-<p>Your overall rating of the course.</p>
-<table class="text-box-feedback">
-  <tbody>
-    <tr>
-      <td class="text-box-question"><strong>I would rate this course as:</strong></td>
-      <td class="text-box-answer"><input type="radio" name="overall-rating" value="excellent"> Excellent</input> | 
-      <input type="radio" name="overall-rating" value="very-good"> Very Good</input> |
-      <input type="radio" name="overall-rating" value="good"> Good</input> |
-      <input type="radio" name="overall-rating" value="bad"> Bad</input> |
-      <input type="radio" name="overall-rating" value="very-bad"> Very Bad</input>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h3><label for="overall"> Overall Satisfaction *</label></h3>
+
+<select name="overall" id="overall">
+	<option disabled="disabled" selected="selected">I would rate this course as:</option>
+  <option  required  value="Excellent" /> Excellent  </option>
+  <option  required  value="Very Good" /> Very Good  </option>
+	<option  required  value="Good" /> Good  </option>
+  <option  required  value="Bad" />Bad  </option>
+	<option  required  value="Very Bad" /> Very Bad  </option>
+
+</select>
 
 
-
-<div id="epcc-course" style="display:block">
 <h3>Detailed Feedback</h3>
 
-<p>If you wish to expand on any of your responses, please use the comment box at the bottom of the page.</p>
+<h4>General</h4>
 
-<p>&nbsp;</p>
-
-<table class="feedback">
-  <tbody>
-    <tr>
-      <th id="question"><h4> General</h4></th>
-      <th class="answer-rate">Excellent</th>
-      <th class="answer-rate">Good</th>
-      <th class="answer-rate">Neither Good Nor Bad</th>
-      <th class="answer-rate">Bad</th>
-      <th class="answer-rate">Very Bad</th>
-    </tr>
-    <tr>
-      <td class="question"><label for="organisation"><strong>Organisation of the course was:</strong></label></td>
-      <td class="answer"><input type="radio" name="organisation" value="excellent" /></td>
-      <td class="answer"><input type="radio" name="organisation" value="good" /></td>
-      <td class="answer"><input type="radio" name="organisation" value="neither" /></td>
-      <td class="answer"><input type="radio" name="organisation" value="bad" /></td>
-      <td class="answer"><input type="radio" name="organisation" value="very bad" /></td>
-    </tr>
-		<tr>
-      <td class="question"><label for="info"><strong>The usefulness of pre-course information was:</strong></label></td>
-      <td class="answer"><input type="radio" name="info" value="excellent" /></td>
-      <td class="answer"><input type="radio" name="info" value="good" /></td>
-      <td class="answer"><input type="radio" name="info" value="neither" /></td>
-      <td class="answer"><input type="radio" name="info" value="bad" /></td>
-      <td class="answer"><input type="radio" name="info" value="very bad" /></td>
-    </tr>
-    <tr>
-      <td class="question"><label for="venue"><strong>The venue was:</strong></label></td>
-      <td class="answer"><input type="radio" name="venue" value="excellent" /></td>
-      <td class="answer"><input type="radio" name="venue" value="good" /></td>
-      <td class="answer"><input type="radio" name="venue" value="neither" /></td>
-      <td class="answer"><input type="radio" name="venue" value="bad" /></td>
-      <td class="answer"><input type="radio" name="venue" value="very bad" /></td>
-    </tr>
-		<tr>
-      <td class="question"><label for="venue-access"><strong>The accessibility of venue (e.g. stairs, lifts, signage, facilites) was:</strong></label></td>
-      <td class="answer"><input type="radio" name="venue-access" value="excellent" /></td>
-      <td class="answer"><input type="radio" name="venue-access" value="good" /></td>
-      <td class="answer"><input type="radio" name="venue-access" value="neither" /></td>
-      <td class="answer"><input type="radio" name="venue-access" value="bad" /></td>
-      <td class="answer"><input type="radio" name="venue-access" value="very bad" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>&nbsp;</p>
+<p>
+<label for="organisation"> Organisation of the course was:</label> <br />
+<select name="organisation" id="organisation">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Excellent" /> Excellent  </option>
+  <option  value="Very Good" /> Very Good  </option>
+	<option  value="Good" /> Good  </option>
+  <option  value="Bad" />Bad  </option>
+	<option  value="Very Bad" /> Very Bad  </option>
+</select>
+</p>
 
 
-<table class="feedback">
-  <tbody>
-    <tr>
-      <th id="question"><h4> Teaching</h4></th>
-      <th class="answer-agree">Agree Completely</th>
-      <th class="answer-agree">Agree</th>
-      <th class="answer-agree">No Strong Feelings</th>
-      <th class="answer-agree">Disagree</th>
-      <th class="answer-agree">Disagree Completely</th>
-    </tr>
-    <tr>
-      <td class="question"><label for="topics-relevance"><strong>The topics were relevant for my work and/or research interests.</strong></label></td>
-      <td class="answer"><input type="radio" name="topics-relevance" value="agree-completely" /></td>
-      <td class="answer"><input type="radio" name="topics-relevance" value="agree" /></td>
-      <td class="answer"><input type="radio" name="topics-relevance" value="neither" /></td>
-      <td class="answer"><input type="radio" name="topics-relevance" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="topics-relevance" value="disagree-completely" /></td>
-    </tr>
-    <tr>
-      <td class="question"><label for="inspired"><strong>I found the course intellectually challenging and stimulating.<strong></label></td>
-      <td class="answer"><input type="radio" name="inspired" value="agree-completely" /></td>
-      <td class="answer"><input type="radio" name="inspired" value="agree" /></td>
-      <td class="answer"><input type="radio" name="inspired" value="neither" /></td>
-      <td class="answer"><input type="radio" name="inspired" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="inspired" value="disagree-completely" /></td>
-    </tr>
-    <tr>
-      <td class="question"><label for="clear-comprehensible"><strong>The lectures were clearly presented and comprehensible.</strong></label></td>
-      <td class="answer"><input type="radio" name="clear-comprehensible" value="agree-completely" /></td>
-      <td class="answer"><input type="radio" name="clear-comprehensible" value="agree" /></td>
-      <td class="answer"><input type="radio" name="clear-comprehensible" value="neither" /></td>
-      <td class="answer"><input type="radio" name="clear-comprehensible" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="clear-comprehensible" value="disagree-completely" /></td>
-    </tr>
-    <tr>
-      <td class="question"><label for="pace"><strong>The pace of teaching was right.</strong></label></td>
-      <td class="answer"><input type="radio" name="pace" value="agree-completely" /></td>
-      <td class="answer"><input type="radio" name="pace" value="agree" /></td>
-      <td class="answer"><input type="radio" name="pace" value="neither" /></td>
-      <td class="answer"><input type="radio" name="pace" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="pace" value="disagree-completely" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>&nbsp;</p>
+<p>
+<label for="info"> The usefulness of pre-course information was:</label> <br />
+<select name="info" id="info">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Excellent" /> Excellent  </option>
+  <option  value="Very Good" /> Very Good  </option>
+	<option  value="Good" /> Good  </option>
+  <option  value="Bad" />Bad  </option>
+	<option  value="Very Bad" /> Very Bad  </option>
+</select>
+</p>
 
 
-<table class="feedback">
-  <tbody>
-    <tr>
-      <th id="question"><h4> Teaching Materials</h4></th>
-      <th class="answer-agree">Agree Completely</th>
-      <th class="answer-agree">Agree</th>
-      <th class="answer-agree">No Strong Feelings</th>
-      <th class="answer-agree">Disagree</th>
-      <th class="answer-agree">Disagree Completely</th>
-    </tr>
-    <tr>
-      <td class="question"><label for="well-prepared-aids"><strong>Teaching aids (e.g. slides, handouts, exercises) contained useful and relevant information.</strong></label></td>
-      <td class="answer"><input type="radio" name="well-prepared-aids" value="agree-completely" /></td>
-      <td class="answer"><input type="radio" name="well-prepared-aids" value="agree" /></td>
-      <td class="answer"><input type="radio" name="well-prepared-aids" value="neither" /></td>
-      <td class="answer"><input type="radio" name="well-prepared-aids" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="well-prepared-aids" value="disagree-completely" /></td>
-    </tr>
-		<tr>
-      <td class="question"><label for="accessible-aids"><strong>Teaching aids (e.g. slides, handouts, exercises) were clear and accessible.</strong></label></td>
-      <td class="answer"><input type="radio" name="accessible-aids" value="agree-completely" /></td>
-      <td class="answer"><input type="radio" name="accessible-aids" value="agree" /></td>
-      <td class="answer"><input type="radio" name="accessible-aids" value="neither" /></td>
-      <td class="answer"><input type="radio" name="accessible-aids" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="accessible-aids" value="disagree-completely" /></td>
-    </tr>
-    <tr>
-      <td class="question"><label for="exercises-demo-value"><strong>Hands-on exercises and demonstrations were appropriate to the course.</strong></label></td>
-      <td class="answer"><input type="radio" name="exercises-demo-value" value="agree-completely" /></td>
-      <td class="answer"><input type="radio" name="exercises-demo-value" value="agree" /></td>
-      <td class="answer"><input type="radio" name="exercises-demo-value" value="neither" /></td>
-      <td class="answer"><input type="radio" name="exercises-demo-value" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="exercises-demo-value" value="disagree-completely" /></td>
-    </tr>
-  </tbody>
-</table>
+<p>
+<label for="venue"> The venue was:</label> <br />
+<select name="venue" id="venue">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Excellent" /> Excellent  </option>
+  <option  value="Very Good" /> Very Good  </option>
+	<option  value="Good" /> Good  </option>
+  <option  value="Bad" />Bad  </option>
+	<option  value="Very Bad" /> Very Bad  </option>
+</select>
+</p>
+
+<p>
+<label for="venue-access"> The accessibility of venue (e.g. stairs, lifts, signage, facilites) was:</label> <br />
+<select name="venue-access" id="venue-access">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Excellent" /> Excellent  </option>
+  <option  value="Very Good" /> Very Good  </option>
+	<option  value="Good" /> Good  </option>
+  <option  value="Bad" />Bad  </option>
+	<option  value="Very Bad" /> Very Bad  </option>
+</select>
+</p>
+
+
+
+<h4>Teaching</h4>
+
+<p>
+<label for="topics">The topics were relevant for my work and/or research interests:</label> <br />
+<select name="topics" id="topics">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Agree Completely" /> Agree Completely  </option>
+  <option  value="Agree" /> Agree  </option>
+	<option  value="No Strong Feelings" /> No Strong Feelings  </option>
+  <option  value="Disagree" />Disagree  </option>
+	<option  value="Disagree Completely" /> Disagree Completely </option>
+</select>
+</p>
+
+
+<p>
+<label for="inspired">I found the course intellectually challenging and stimulating:</label> <br />
+<select name="inspired" id="inspired">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Agree Completely" /> Agree Completely  </option>
+  <option  value="Agree" /> Agree  </option>
+	<option  value="No Strong Feelings" /> No Strong Feelings  </option>
+  <option  value="Disagree" />Disagree  </option>
+	<option  value="Disagree Completely" /> Disagree Completely </option>
+</select>
+</p>
+
+<p>
+<label for="clear">The lectures were clearly presented and comprehensible:</label> <br />
+<select name="clear" id="clear">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Agree Completely" /> Agree Completely  </option>
+  <option  value="Agree" /> Agree  </option>
+	<option  value="No Strong Feelings" /> No Strong Feelings  </option>
+  <option  value="Disagree" />Disagree  </option>
+	<option  value="Disagree Completely" /> Disagree Completely </option>
+</select>
+</p>
+
+<p>
+<label for="pace">The pace of teaching was right:</label> <br />
+<select name="pace" id="pace">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Agree Completely" /> Agree Completely  </option>
+  <option  value="Agree" /> Agree  </option>
+	<option  value="No Strong Feelings" /> No Strong Feelings  </option>
+  <option  value="Disagree" />Disagree  </option>
+	<option  value="Disagree Completely" /> Disagree Completely </option>
+</select>
+</p>
+
+
+<h4>Teaching Materials</h4>
+
+<p>
+<label for="well-prepared-aids">Teaching aids (e.g. slides, handouts, exercises) contained useful and relevant information:</label> <br />
+<select name="well-prepared-aids" id="well-prepared-aids">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Agree Completely" /> Agree Completely  </option>
+  <option  value="Agree" /> Agree  </option>
+	<option  value="No Strong Feelings" /> No Strong Feelings  </option>
+  <option  value="Disagree" />Disagree  </option>
+	<option  value="Disagree Completely" /> Disagree Completely </option>
+</select>
+</p>
+
+
+<p>
+<label for="accessible-aids">Teaching aids (e.g. slides, handouts, exercises) were clear and accessible:</label> <br />
+<select name="accessible-aids" id="accessible-aids">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Agree Completely" /> Agree Completely  </option>
+  <option  value="Agree" /> Agree  </option>
+	<option  value="No Strong Feelings" /> No Strong Feelings  </option>
+  <option  value="Disagree" />Disagree  </option>
+	<option  value="Disagree Completely" /> Disagree Completely </option>
+</select>
+</p>
+
+
+<p>
+<label for="exercises-demo-value">Hands-on exercises and demonstrations were appropriate to the course:</label> <br />
+<select name="exercises-demo-value" id="exercises-demo-value">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Agree Completely" /> Agree Completely  </option>
+  <option  value="Agree" /> Agree  </option>
+	<option  value="No Strong Feelings" /> No Strong Feelings  </option>
+  <option  value="Disagree" />Disagree  </option>
+	<option  value="Disagree Completely" /> Disagree Completely </option>
+</select>
+</p>
+
 
 <p>&nbsp;</p>
 
 <h4>Course Comments</h4>
 
-<table class="text-box-feedback">
-  <tbody>
-    <tr>
-      <td class="text-box-question"><strong>Would you recommend this course to others?</strong></td>
-      <td class="text-box-answer"><input type="radio" name="recommend" value="yes"> Yes</input> |
-      <input type="radio" name="recommend" value="no"> No</input>
-    </tr>
-    <tr>
-      <td class="text-box-question">
-        <label for="course-likes"><strong>What did you like the most about the course?</strong></label>
-      </td>
-      <td class="text-box-answer">
-        <textarea id="course-likes" name="course-likes" maxlength="200" rows="4" cols="43"></textarea>
-      </td>
-    </tr>
-    <tr>
-      <td class="text-box-question">
-        <label for="course-dislikes"><strong>What did you like least about the course?</strong></label>
-      </td>
-      <td class="text-box-answer">
-        <textarea id="course-dislikes" name="course-dislikes" maxlength="200" rows="4" cols="43"></textarea>
-      </td>
-    </tr>
-    <tr>
-      <td class="text-box-question">
-        <label for="additional-comments"><strong>Do you have any additional comments, suggestions for improvements to this course, ideas for future courses, <em>etc.</em>?</strong></label>
-      </td>
-      <td class="text-box-answer">
-        <textarea id="additional-comments" name="additional-comments" maxlength="200" rows="4" cols="43"></textarea>
-      </td>
-    </tr>
-  </tbody>
-</table>
-		
-<!-- The following questions added to help Toni/Athina analyse the responses -->		
+<p>
+  <label for="recommend">Would you recommend this course to others?<br />
+  <input type="radio" name="recommend" id="recommend" value="Yes"> Yes</input> |
+        <input type="radio" name="recommend"  id="recommend" value="No"> No</input> 
+</p>
+
+
+
+<p>
+  <label for="course-likes">What did you like the most about the course?</label><br />
+  <textarea id="course-likes" name="course-likes" maxlength="200" rows="4" cols="43"></textarea>
+</p>
+
+
+
+<p>
+  <label for="course-dislikes">What did you like least about the course?</label><br />
+  <textarea id="course-dislikes" name="course-dislikes" maxlength="200" rows="4" cols="43"></textarea>
+</p>
+
+
+
+<p>
+  <label for="additional-comments">Do you have any additional comments, suggestions for improvements to this course, ideas for future courses, <em>etc.</em>?</label><br />
+  <textarea id="additional-comments" name="additional-comments" maxlength="200" rows="4" cols="43"></textarea>
+</p>
+
+
+
+	
 
 <h4>Other info</h4>
 
-<table class="text-box-feedback">
-  <tbody>
-		<tr>
-      <td class="text-box-question"><strong>Gender?</strong></td>
-      <td class="text-box-answer"><input type="radio" name="gender" value="Female"> Female</input> |
-      <input type="radio" name="gender" value="Male"> Male</input> | 
-			<input type="radio" name="gender" value="Other"> Other</input> | 
-		  <input type="radio" name="gender" value="Not_Say"> Prefer not to say</input> 
-    </tr>
-		
-		<tr>
-      <td class="text-box-question">
-        <label for="job-title"><strong>Job title / Career stage?</strong></label>
-      </td>
-      <td class="text-box-answer">
-        <textarea id="job-title" name="job-title" maxlength="200" rows="1" cols="43"></textarea>
-      </td>
-    </tr>
-		
-		<tr>
-      <td class="text-box-question"><strong>Academic / Industry?</strong></td>
-      <td class="text-box-answer"><input type="radio" name="academic" value="academic"> Academic</input> |
-      <input type="radio" name="academic" value="industry"> Industry</input> 
-    </tr>
-		<tr><td class="text-box-question">&nbsp;</td></tr>
-		<tr>
-      <td class="text-box-question"><strong>How hard or easy did you find the course?</strong></td>
-      <td class="text-box-answer"><input type="radio" name="hard" value="VeryEasy"> Very Easy</input> |
-      <input type="radio" name="hard" value="QuiteEasy"> Quite Easy</input> | 
-			<input type="radio" name="hard" value="Moderate"> Moderate</input> | 
-			<input type="radio" name="hard" value="QuiteHard"> Quite Hard</input> | 
-		  <input type="radio" name="hard" value="VeryHard"> Very Hard</input> 
-    </tr>
-		
-  </tbody>
-</table>
+
+<p>
+<label for="gender"> Gender:</label> <br />
+<select name="gender" id="gender">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Female" /> Female  </option>
+  <option  value="Male" /> Male  </option>
+	<option  value="Other" /> Other  </option>
+  <option  value="Prefer not to say" />Prefer not to say  </option>
+</select>
+</p>
+
+
+<p>
+  <label for="job-title">Job title / Career stage?</label><br />
+	<input type="text" id="job-title" name="job-title" size="50">
+</p>
+
+
+<p>
+  <label for="academic">Academic / Industry?<br />
+  <input type="radio" name="academic" id="academic" value="Academic"> Academic</input> |
+  <input type="radio" name="academic"  id="academic" value="Industry"> Industry</input> 
+</p>
+
+<p>
+<label for="hard"> How hard or easy did you find the course?</label> <br />
+<select name="hard" id="hard">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option  value="Very Easy" /> Very Easy  </option>
+  <option  value="Quite Easy" /> Quite Easy  </option>
+	<option  value="Moderate" /> Moderate  </option>
+	<option  value="Quite Hard" /> Quite Hard  </option>
+	<option  value="Very Hard" /> Very Hard  </option>
+</select>
+</p>
+
 
 <hr />
 

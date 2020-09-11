@@ -62,9 +62,9 @@ function getUrlVars() { // Pulls GET values from the page URL
 <h3><label for="course">Please select one of the following courses </label></h3>
 
 
-<input type="radio" name="course" required id="openmp" value="OpenMP, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">OpenMP</a>, tbc October 2020, Online  <br />
+<input type="radio" name="course" required id="openmp" value="OpenMP, tbc October 2020, Online" /> OpenMP, tbc October 2020, Online - <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">course details</a>  <br />
 
-<input type="radio" name="course" required id="datacarp" value="Data Carpentry, tbc October 2020, Online" /> <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">Data Carpentry</a>, tbc October 2020, Online  <br />
+<input type="radio" name="course" required id="datacarp" value="Data Carpentry, tbc October 2020, Online" /> Data Carpentry, tbc October 2020, Online - <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">course details</a>  <br />
 	
 
 
@@ -160,7 +160,7 @@ function getUrlVars() { // Pulls GET values from the page URL
 <textarea id="reason" name="reason" rows="4" cols="72"></textarea>
 </p>
 
-<p><label for="gender"><strong>Gender *</strong></label><br />
+<p><label for="gender"><strong>Gender *</strong> collected only for statistical purposes</label><br />
 <select required id="gender" name="gender">
   <option value="" disabled="disabled" selected="selected"></option>
   <option value="male">Male</option>
@@ -170,8 +170,8 @@ function getUrlVars() { // Pulls GET values from the page URL
 </select>
 </p>
 
-<p><label for="country"><strong>Nationality *</strong></label><br />
-<select required name="country" id="country">
+<p><label for="nationality"><strong>Nationality *</strong></label><br />
+<select required name="nationality" id="nationality">
     <option value="" label="Select a country ... " selected="selected">Select a country ... </option>
     <option value="UK" label="United Kingdom">United Kingdom</option>
     <option value="AF" label="Afghanistan">Afghanistan</option>

@@ -4,6 +4,15 @@ title: Gallery
 banner: web_banners_02.jpg
 ---
 
+## Gallery of front-page News banners
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="block">
+      <a href="news-gallery.html"><img style="width: 35%" src="img/news-splash.jpg" alt="a2 news banner" /></a> 
+    </div>
+  </div>
+</div>
 
 ## Galleries from the ARCHER Image Competitions
 
