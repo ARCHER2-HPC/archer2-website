@@ -1,7 +1,7 @@
 ---
 layout: section
 title: History of Machines
-summary: This virtual museum showcases nearly 40 years of supercomputers at EPCC, and how the technology has changed over time.
+summary: This virtual museum showcases nearly 40 years of supercomputers at EPCC, which hosts and manages ARCHER2 on behalf of UKRI, and how the technology has changed over time.
 banner: web_banners_07.jpg
 ---
 
