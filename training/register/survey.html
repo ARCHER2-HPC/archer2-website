@@ -81,8 +81,7 @@ window.onload = function(){
 	
 
 <hr />
-
-
+<p>&nbsp;</p>
 
 
 <table class="feedback">
@@ -139,92 +138,91 @@ window.onload = function(){
 
 <p>&nbsp;</p>
 
-
 <h3>How often do you currently use any of the following?</h3>
 
 
+<h4><label for="sw">A specialized software with a point-and-click graphical user interface (e.g., for statistical analysis: SPSS, SAS, ...; for Geospatial analysis: ArcGIS, QGIS, ... ; for Genomics analysis: Geneious, ...)</label></h4>
+<p>
+<select required id="sw" name="sw">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Daily">Daily</option>
+  <option value="Weekly">Weekly</option>
+	<option value="Monthly">Monthly</option>
+	<option value="Several">Several times per year</option>
+	<option value="Year">Less than once per year</option>
+	<option value="Never">Never</option>
+</select>
+</p>
 
 
-<table class="feedback">
-  <tbody>
-    <tr>
-      <th id="question"><h4> Frequency </h4></th>
-      <th class="answer-agree">Never</th>
-      <th class="answer-agree">Less than once per year</th>
-      <th class="answer-agree">Several times per year</th>
-      <th class="answer-agree">Monthly</th>
-			<th class="answer-agree">Weekly</th>
-			<th class="answer-agree">Daily</th>
-    </tr>
-		
-    <tr>
-      <td class="question"><label for="os"><strong>A specialized software with a point-and-click graphical user interface (e.g., for statistical analysis: SPSS, SAS, ...; for Geospatial analysis: ArcGIS, QGIS, ... ; for Genomics analysis: Geneious, ...)</strong></label></td>
-      <td class="answer"><input type="radio" name="sw" value="never" /></td>
-      <td class="answer"><input type="radio" name="sw" value="lt1pyear" /></td>
-      <td class="answer"><input type="radio" name="sw" value="gt1pyear" /></td>
-      <td class="answer"><input type="radio" name="sw" value="monthly" /></td>
-      <td class="answer"><input type="radio" name="sw" value="Weekly" /></td>
-      <td class="answer"><input type="radio" name="sw" value="Daily" /></td>
-    </tr>
-		
-    <tr>
-      <td class="question"><label for="lang"><strong>Programming languages (R, Python, etc.)</strong></label></td>
-      <td class="answer"><input type="radio" name="lang" value="never" /></td>
-      <td class="answer"><input type="radio" name="lang" value="lt1pyear" /></td>
-      <td class="answer"><input type="radio" name="lang" value="gt1pyear" /></td>
-      <td class="answer"><input type="radio" name="lang" value="monthly" /></td>
-      <td class="answer"><input type="radio" name="lang" value="Weekly" /></td>
-      <td class="answer"><input type="radio" name="lang" value="Daily" /></td>
-    </tr>
-			
-		
-    <tr>
-      <td class="question"><label for="db"><strong>Databases (SQL, Access, etc.)</strong></label></td>
-      <td class="answer"><input type="radio" name="db" value="never" /></td>
-      <td class="answer"><input type="radio" name="db" value="lt1pyear" /></td>
-      <td class="answer"><input type="radio" name="db" value="gt1pyear" /></td>
-      <td class="answer"><input type="radio" name="db" value="monthly" /></td>
-      <td class="answer"><input type="radio" name="db" value="Weekly" /></td>
-      <td class="answer"><input type="radio" name="db" value="Daily" /></td>
-    </tr>
-				
-    <tr>
-      <td class="question"><label for="version"><strong>Version control software (Git, Subversion (SVN), Mercurial, etc.)</strong></label></td>
-      <td class="answer"><input type="radio" name="version" value="never" /></td>
-      <td class="answer"><input type="radio" name="version" value="lt1pyear" /></td>
-      <td class="answer"><input type="radio" name="version" value="gt1pyear" /></td>
-      <td class="answer"><input type="radio" name="version" value="monthly" /></td>
-      <td class="answer"><input type="radio" name="version" value="Weekly" /></td>
-      <td class="answer"><input type="radio" name="version" value="Daily" /></td>
-    </tr>	
-		
-    <tr>
-      <td class="question"><label for="shell"><strong>A command shell (usually accessed through Terminal on macOS or PowerShell on Windows)</strong></label></td>
-      <td class="answer"><input type="radio" name="shell" value="never" /></td>
-      <td class="answer"><input type="radio" name="shell" value="lt1pyear" /></td>
-      <td class="answer"><input type="radio" name="shell" value="gt1pyear" /></td>
-      <td class="answer"><input type="radio" name="shell" value="monthly" /></td>
-      <td class="answer"><input type="radio" name="shell" value="Weekly" /></td>
-      <td class="answer"><input type="radio" name="shell" value="Daily" /></td>
-    </tr>	
-		
-		
-  </tbody>
-</table>
+<h4><label for="lang">Programming languages (R, Python, etc.)</label></h4>
+<p>
+<select required id="lang" name="lang">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Daily">Daily</option>
+  <option value="Weekly">Weekly</option>
+	<option value="Monthly">Monthly</option>
+	<option value="Several">Several times per year</option>
+	<option value="Year">Less than once per year</option>
+	<option value="Never">Never</option>
+</select>
+</p>
+
+
+<h4><label for="db">Databases (SQL, Access, etc.)</label></h4>
+<p>
+<select required id="db" name="db">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Daily">Daily</option>
+  <option value="Weekly">Weekly</option>
+	<option value="Monthly">Monthly</option>
+	<option value="Several">Several times per year</option>
+	<option value="Year">Less than once per year</option>
+	<option value="Never">Never</option>
+</select>
+</p>
+
+
+<h4><label for="version">Version control software (Git, Subversion (SVN), Mercurial, etc.)</label></h4>
+<p>
+<select required id="version" name="version">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Daily">Daily</option>
+  <option value="Weekly">Weekly</option>
+	<option value="Monthly">Monthly</option>
+	<option value="Several">Several times per year</option>
+	<option value="Year">Less than once per year</option>
+	<option value="Never">Never</option>
+</select>
+</p>
+
+
+<h4><label for="shell">A command shell (usually accessed through Terminal on macOS or PowerShell on Windows)</label></h4>
+<p>
+<select required id="shell" name="shell">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Daily">Daily</option>
+  <option value="Weekly">Weekly</option>
+	<option value="Monthly">Monthly</option>
+	<option value="Several">Several times per year</option>
+	<option value="Year">Less than once per year</option>
+	<option value="Never">Never</option>
+</select>
+</p>
 
 <p>&nbsp;</p>
+
 
 <h4><label for="satisfaction">Please rate your level of satisfaction with your current data management and analysis workflow (i.e. how you collect, organize, store and analyze your data). </label></h4>
 
 <p>
 <select required id="satisfaction" name="satisfaction">
 	<option disabled="disabled" selected="selected">Please select your satisfaction level </option>
-
-  <option value="very_unsatisfied">Very unsatisfied</option>
-  <option value="unsatisfied">Unsatisfied</option>
-	<option value="neutral">Neutral</option>
-  <option value="satisfied">Satisfied</option>
   <option value="very_satisfied">Very satisfied</option>
+  <option value="satisfied">Satisfied</option>
+	<option value="neutral">Neutral</option>
+  <option value="unsatisfied">Unsatisfied</option>
+  <option value="very_unsatisfied">Very unsatisfied</option>	
   <option value="not_sure">Not sure</option>
   <option value="not_applicable">Not applicable</option>
   <option value="never_thought_about_this">Never thought about this</option>
@@ -256,75 +254,102 @@ window.onload = function(){
 
 
 
-<table class="feedback">
-  <tbody>
-    <tr>
-      <th id="question"><h4> Your rating:</h4></th>
-      <th class="answer-agree">Strongly Disagree</th>
-      <th class="answer-agree">Disagree</th>
-      <th class="answer-agree">Neutral</th>
-      <th class="answer-agree">Agree</th>
-      <th class="answer-agree">Strongly Agree</th>
-    </tr>
-    <tr>
-      <td class="question"><label for="raw-data">Having access to the original, raw data is important to be able to repeat an analysis.</label></td>
-      <td class="answer"><input type="radio" name="raw-data" value="strongly-disagree" /></td>
-      <td class="answer"><input type="radio" name="raw-data" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="raw-data" value="neutral" /></td>
-      <td class="answer"><input type="radio" name="raw-data" value="agree" /></td>
-      <td class="answer"><input type="radio" name="wraw-data" value="strongly-agree" /></td>
-    </tr>
-    <tr>
-      <td class="question"><label for="script">I can write a small program, script, or macro to address a problem in my own work.</label></td>
-      <td class="answer"><input type="radio" name="script" value="strongly-disagree" /></td>
-      <td class="answer"><input type="radio" name="script" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="script" value="neutral" /></td>
-      <td class="answer"><input type="radio" name="script" value="agree" /></td>
-      <td class="answer"><input type="radio" name="script" value="strongly-agree" /></td>
-    </tr>
-    <tr>
-      <td class="question"><label for="search">I know how to search for answers to my technical questions online.</label></td>
-      <td class="answer"><input type="radio" name="search" value="strongly-disagree" /></td>
-      <td class="answer"><input type="radio" name="search" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="search" value="neutral" /></td>
-      <td class="answer"><input type="radio" name="search" value="agree" /></td>
-      <td class="answer"><input type="radio" name="search" value="strongly-agree" /></td>
-    </tr>
-		<tr>
-      <td class="question"><label for="stuck">While working on a programming project, if I got stuck, I can find ways of overcoming the problem.</label></td>
-      <td class="answer"><input type="radio" name="stuck" value="strongly-disagree" /></td>
-      <td class="answer"><input type="radio" name="stuck" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="stuck" value="neutral" /></td>
-      <td class="answer"><input type="radio" name="stuck" value="agree" /></td>
-      <td class="answer"><input type="radio" name="stuck" value="strongly-agree" /></td>
-    </tr>
-		<tr>
-      <td class="question"><label for="confident">I am confident in my ability to make use of programming software to work with data.</label></td>
-      <td class="answer"><input type="radio" name="confident" value="strongly-disagree" /></td>
-      <td class="answer"><input type="radio" name="confident" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="confident" value="neutral" /></td>
-      <td class="answer"><input type="radio" name="confident" value="agree" /></td>
-      <td class="answer"><input type="radio" name="confident" value="strongly-agree" /></td>
-    </tr>
-		<tr>
-      <td class="question"><label for="repro">Using a programming language (like R or Python) can make my analyses easier to reproduce.</label></td>
-      <td class="answer"><input type="radio" name="repro" value="strongly-disagree" /></td>
-      <td class="answer"><input type="radio" name="repro" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="repro" value="neutral" /></td>
-      <td class="answer"><input type="radio" name="repro" value="agree" /></td>
-      <td class="answer"><input type="radio" name="repro" value="strongly-agree" /></td>
-    </tr>
-		<tr>
-      <td class="question"><label for="efficient">Using a programming language (like R or Python) can make me more efficient at working with data.</label></td>
-      <td class="answer"><input type="radio" name="efficient" value="strongly-disagree" /></td>
-      <td class="answer"><input type="radio" name="efficient" value="disagree" /></td>
-      <td class="answer"><input type="radio" name="efficient" value="neutral" /></td>
-      <td class="answer"><input type="radio" name="efficient" value="agree" /></td>
-      <td class="answer"><input type="radio" name="efficient" value="strongly-agree" /></td>
-    </tr>
-		
-  </tbody>
-</table>
+
+<h4><label for="rawdata">Having access to the original, raw data is important to be able to repeat an analysis.</label></h4>
+<p>
+<select required id="rawdata" name="rawdata">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Strongly Agree">Strongly Agree</option>
+  <option value="Agree">Agree</option>
+	<option value="Neutral">Neutral</option>
+	<option value="Disagree">Disagree</option>
+	<option value="Strongly Disagree">Strongly Disagree</option>
+</select>
+</p>
+
+
+<h4><label for="script">I can write a small program, script, or macro to address a problem in my own work.</label></h4>
+<p>
+<select required id="script" name="script">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Strongly Agree">Strongly Agree</option>
+  <option value="Agree">Agree</option>
+	<option value="Neutral">Neutral</option>
+	<option value="Disagree">Disagree</option>
+	<option value="Strongly Disagree">Strongly Disagree</option>
+</select>
+</p>
+
+
+<h4><label for="search">I know how to search for answers to my technical questions online.</label></h4>
+<p>
+<select required id="search" name="search">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Strongly Agree">Strongly Agree</option>
+  <option value="Agree">Agree</option>
+	<option value="Neutral">Neutral</option>
+	<option value="Disagree">Disagree</option>
+	<option value="Strongly Disagree">Strongly Disagree</option>
+</select>
+</p>
+
+
+<h4><label for="stuck">While working on a programming project, if I got stuck, I can find ways of overcoming the problem.</label></h4>
+<p>
+<select required id="stuck" name="stuck">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Strongly Agree">Strongly Agree</option>
+  <option value="Agree">Agree</option>
+	<option value="Neutral">Neutral</option>
+	<option value="Disagree">Disagree</option>
+	<option value="Strongly Disagree">Strongly Disagree</option>
+</select>
+</p>
+
+
+<h4><label for="confident">I am confident in my ability to make use of programming software to work with data.</label></h4>
+<p>
+<select required id="confident" name="confident">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Strongly Agree">Strongly Agree</option>
+  <option value="Agree">Agree</option>
+	<option value="Neutral">Neutral</option>
+	<option value="Disagree">Disagree</option>
+	<option value="Strongly Disagree">Strongly Disagree</option>
+</select>
+</p>
+
+
+<h4><label for="repro">Using a programming language (like R or Python) can make my analyses easier to reproduce.</label></h4>
+<p>
+<select required id="repro" name="repro">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Strongly Agree">Strongly Agree</option>
+  <option value="Agree">Agree</option>
+	<option value="Neutral">Neutral</option>
+	<option value="Disagree">Disagree</option>
+	<option value="Strongly Disagree">Strongly Disagree</option>
+</select>
+</p>
+
+
+
+<h4><label for="efficient">Using a programming language (like R or Python) can make me more efficient at working with data.</label></h4>
+<p>
+<select required id="efficient" name="efficient">
+	<option disabled="disabled" selected="selected">Please select:</option>
+  <option value="Strongly Agree">Strongly Agree</option>
+  <option value="Agree">Agree</option>
+	<option value="Neutral">Neutral</option>
+	<option value="Disagree">Disagree</option>
+	<option value="Strongly Disagree">Strongly Disagree</option>
+</select>
+</p>
+
+
+<p>&nbsp;</p>
+
+
 
 
 <h3><label for="hope">Please share what you most hope to learn from participating in this workshop.</label></h3>
