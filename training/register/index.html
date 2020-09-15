@@ -1,11 +1,9 @@
 ---
 layout: section
-title: ARCHER2 Training - Registration NOT YET IN USE
+title: ARCHER2 Training Registration
 summary: 
 banner: web_banners_05.jpg
 ---
-
-<h3>Please use the registration form at <a href="http://www.archer.ac.uk/training/registration/">http://www.archer.ac.uk/training/registration/</a> for course registration </h3>
 
 <p> If you have any questions about the training on ARCHER2 contact
 <a href="https://www.archer2.ac.uk/support-access/servicedesk.html">the ARCHER2 Service Desk</a>.</p>
@@ -32,7 +30,7 @@ appropriate registration link in the table on the
 
 <script type="text/javascript">
 
-function getUrlVars() { // Pulls GET values from the page URL
+  function getUrlVars() { // Pulls GET values from the page URL
     var vars = {};
 		var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
   			vars[key] = value;
@@ -45,27 +43,51 @@ function getUrlVars() { // Pulls GET values from the page URL
 
     if (course_in_url){		
 			document.getElementById(course_in_url).checked = true;
-    }
-  };
+    };
+	}
+
+	
+	function formChange(){
+	  var TAB = ";";
+		var vprompt = "Please paste this text into the Name field in the registration spreadsheet:\r\n";
+	  var vname = document.getElementById("name").value;
+	  var vsurname = document.getElementById("surname").value;
+		var vinstitution =  document.getElementById("organisation").value;
+		var vemail = document.getElementById("email").value;
+		var vaccess = document.getElementById("access").value;
+		var vmessage = document.getElementById("message").value;
+		var reginfotext = vprompt.concat(vname, TAB,  vsurname, TAB, vinstitution, TAB,  vemail, TAB,TAB,TAB,TAB,TAB,TAB,TAB,TAB,TAB,TAB,  vaccess, TAB,  vmessage);
+		document.getElementById("reginfo").value = reginfotext;	
+  }
+	
+
+	
 </script>
 
 
 
 <form name="RegForm" action="https://safe.epcc.ed.ac.uk/QueryForm"    method="post" accept-charset="UTF-8">
+
 <fieldset>    
 
 <input type="hidden" id="subject" name="subject" value="Course registration.">
 <input type="hidden" id="type" name="type" value="course_registration">
 <input type="hidden" id="query_service" name="query_service" value="ARCHER2">
 
+<input type="hidden" id="reginfo" name="reginfo" value="">
+
 
 <h3><label for="course">Please select one of the following courses </label></h3>
 
 
-<input type="radio" name="course" required id="openmp" value="OpenMP, tbc October 2020, Online" /> OpenMP, tbc October 2020, Online - <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">course details</a>  <br />
+<input type="radio" name="course" required id="a2packusers" value="ARCHER2 for software package users, tbc October 2020, Online" /> <strong>ARCHER2 for software package users</strong>, tbc October 2020, Online - <a href="https://www.archer2.ac.uk/training/courses/209900-archer2-package-users/">course details</a>  <br />
 
-<input type="radio" name="course" required id="datacarp" value="Data Carpentry, tbc October 2020, Online" /> Data Carpentry, tbc October 2020, Online - <a href="https://www.archer2.ac.uk/training/courses/200629-hpc-carpentry/">course details</a>  <br />
+<input type="radio" name="course" required id="a2swdev" value="Introduction to ARCHER2 for software developers, tbc October 2020, Online" /> <strong>Introduction to ARCHER2 for software developers</strong>, tbc October 2020, Online - <a href="https://www.archer2.ac.uk/training/courses/209900-archer2-software-developers/">course details</a>  <br />
 	
+
+
+<p>&nbsp;</p>
+<p>These courses will be opened for registration as soon as the dates are confirmed.</p>
 
 
 <p>&nbsp;</p>
@@ -84,20 +106,20 @@ function getUrlVars() { // Pulls GET values from the page URL
 
 <p><label for="name"><strong>Forename *</strong></label><br />
 
-<input required type="text" id="name" name="name" value="" maxlength="80" size="40" /> </p>
+<input required type="text" id="name" name="name" value="" maxlength="80" size="40" onchange="javascript:formChange()" /> </p>
 
 
 <p><label for="surname"><strong>Family Name *</strong></label><br />
 
-<input required type="text" id="surname" name="surname" value="" maxlength="80" size="40" /> </p>
+<input required type="text" id="surname" name="surname" value="" maxlength="80" size="40" onchange="javascript:formChange()" /> </p>
 
 <p><label for="email"><strong>Your email address *</strong> - this <strong>must</strong> be your institution/organisation email address</label><br />
  
-<input required type="email" id="email" name="email" value="" maxlength="80" size="40"/></p>
+<input required type="email" id="email" name="email" value="" maxlength="80" size="40" onchange="javascript:formChange()" /></p>
 
 <p>
 <label for="organisation"><strong>Institution</strong> <i>Name of institution/organisation where you are studying/working</i></label><br />
-<input type="text" id="organisation" name="organisation" value="" maxlength="80" size="40" />
+<input type="text" id="organisation" name="organisation" value="" maxlength="80" size="40" onchange="javascript:formChange()"  />
 </p>
 
 <p><label for="sector"><strong>Please select your Institution sector:</strong></label><br />
@@ -145,23 +167,25 @@ function getUrlVars() { // Pulls GET values from the page URL
 <p>
 <label for="access"><strong>Please provide any particular accessibility requirements</strong><br />
 <i> (e.g. wheelchair access, large print slides, hearing loop etc.) </i> :</label><br />
-<textarea id="access" name="access" rows="4" cols="72"></textarea>
+<textarea id="access" name="access" rows="4" cols="72" onchange="javascript:formChange()" ></textarea>
 </p>
 <p>
 <label for="message"><strong>Any other information</strong> <i>(e.g. bursary requests (where advertised only))</i>:
 <!-- <br /><i><b>Lunches and refreshments are NOT provided</b> (unless explicitly advertised in the course details), but all training locations will have nearby catering outlets where these may be purchased.</i>
  -->
 </label><br />
-<textarea id="message" name="message" rows="4" cols="72"></textarea>
+<textarea id="message" name="message" rows="4" cols="72" onchange="javascript:formChange()" ></textarea>
 </p>
 
 <p>
 <label for="reason"><strong>Reason for participation</strong> <i>Please let us know why you wish to attend this course</i> :</label><br />
-<textarea id="reason" name="reason" rows="4" cols="72"></textarea>
+<textarea id="reason" name="reason" rows="4" cols="72" onchange="javascript:formChange()" ></textarea>
 </p>
 
-<!-- <p><label for="gender"><strong>Gender *</strong> collected only for statistical purposes</label><br />
-<select required id="gender" name="gender">
+
+
+<!-- <p><label for="gender"><strong>Gender *</strong></label><br />
+<select  id="gender" name="gender">
   <option value="" disabled="disabled" selected="selected"></option>
   <option value="male">Male</option>
   <option value="female">Female</option>
@@ -170,9 +194,10 @@ function getUrlVars() { // Pulls GET values from the page URL
 </select>
 </p>
  -->
- 
-<p><label for="nationality"><strong>Nationality *</strong></label><br />
-<select required name="nationality" id="nationality">
+
+
+<p><label for="country"><strong>Nationality *</strong></label><br />
+<select required name="country" id="country">
     <option value="" label="Select a country ... " selected="selected">Select a country ... </option>
     <option value="UK" label="United Kingdom">United Kingdom</option>
     <option value="AF" label="Afghanistan">Afghanistan</option>
