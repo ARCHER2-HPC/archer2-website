@@ -30,9 +30,9 @@ banner: web_banners_05.jpg
       </div>	
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="http://www.archer.ac.uk/training/feedback/" target="_blank">
+        <a class="ar2_linkbox ar2_linkbox-green" href="feedback/">
           <strong>Training Feedback</strong><br/>
-          Provide feedback on ARCHER2 training courses (via ARCHER website).
+          Provide feedback on ARCHER2 training courses.
         </a>
       </div>
 
