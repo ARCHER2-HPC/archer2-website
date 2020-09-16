@@ -35,7 +35,7 @@ results but the YouTube video still includes the old version.
 
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wl7hrfpheq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  title="Video" width="560" height="315" src="https://www.youtube.com/embed/wl7hrfpheq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

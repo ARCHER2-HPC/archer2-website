@@ -129,6 +129,11 @@ href="ARCHER2_eCSE02_TechnicalEvaluation.docx">here</a> and the
 proposal template can be found <a
 href="ARCHER2_eCSE02_ProposalTemplate.docx">here</a>.
 
+The eCSE team presented a webinar giving an overview of the eCSE scheme and application 
+process, including a walk-through of completing the application form.  Full details 
+and video of this presentation are 
+available <a href="https://www.archer2.ac.uk/training/courses/200527-archer2-ecse-call/">here</a>.
+
 ### Reports and eCSE staff requirements
 
 A detailed technical report is required at the end of the project. A

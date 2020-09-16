@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200702T103232Z
+UID:20200702T103232Z-261922747@marudot.com
+DTSTART;TZID=Europe/London:20200722T150000
+DTEND;TZID=Europe/London:20200722T160000
+SUMMARY:HPC Certification
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2F1af123ef60ce428a9b72d679696e0dc9
+DESCRIPTION:Join link : https://eu.bbcollab.com/guest/1af123ef60ce428a9b72d679696e0dc9\n\nThe HPC community has always considered the training of new and existing HPC practitioners to be of high importance to its growth. The significance of training will increase even further in the era of Exascale when HPC encompasses even more scientific disciplines. This diversification of HPC practitioners challenges the traditional training approaches\, which are not able to satisfy the specific needs of users\, often coming from non-traditionally HPC disciplines and only interested in learning a particular set of skills. HPC centres are struggling to identify and overcome the gaps in users' knowledge. \n\nHow should we support prospective and existing users who are not aware of their own knowledge gaps?\n\nThe goals of the HPC Certification Forum are:\n\n* Standardizing the HPC knowledge representation into fine-grained competences\n* Establishing international recognized certificates attesting knowledge\n* Supporting an ecosystem around the HPC competences\nThis talk introduces the HPC Certification Forum and gives an overview of its activities and status.
+LOCATION:https://eu.bbcollab.com/guest/1af123ef60ce428a9b72d679696e0dc9
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HPC Certification
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

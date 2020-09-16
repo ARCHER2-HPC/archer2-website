@@ -20,7 +20,7 @@ This online session is open to all.  It will use the Blackboard Collaborate plat
 
 <div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-F9j0_mr-MU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/-F9j0_mr-MU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

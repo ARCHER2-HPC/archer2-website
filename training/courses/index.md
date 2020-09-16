@@ -14,8 +14,7 @@ banner: web_banners_05.jpg
 
 ##  Outline Course Descriptions
 
-<a href="#introductory">&nbsp;</a>
-#### Introductory (level 1) courses
+#### [Introductory (level 1) courses](#introductory)
 
 * [Data Carpentry](#data_carpentry)
 * [HPC Carpentry](#hpc_carpentry)
@@ -26,8 +25,7 @@ banner: web_banners_05.jpg
 * [Reproducible computational environments using containers](#containers)
 
 
-<a href="#intermediate">&nbsp;</a>
-#### Intermediate (level 2) courses
+#### [Intermediate (level 2) courses](#intermediate)
 
 * [Understanding Package Performance](#understanding_package_performance)
 * [Data Analysis using Python](#data_analysis_using_python)
@@ -35,8 +33,8 @@ banner: web_banners_05.jpg
 * [Message Passing Programming with MPI](#mpp_with_mpi)
 * [Shared Memory Programming with OpenMP](#openmp)
 
-<a href="#advanced">&nbsp;</a>
-#### Advanced (level 3) courses
+
+#### [Advanced (level 3) courses](#advanced)
 
 * [Efficient Parallel IO](#efficient_parallel_io)
 * [Performance Optimisation on AMD EPYC](#performance_optimisation_on_amd_epyc)
