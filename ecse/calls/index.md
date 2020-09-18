@@ -34,7 +34,7 @@ If your eCSE proposal is selected for funding, you will be provided
 with an award letter and will be asked to agree to the eCSE
 Terms. Please view [the Terms here](../Terms/ARCHER2_eCSE_Terms.pdf)
 in advance of submitting your eCSE proposal. Please get in touch via
-the ARCHER2 service desk if you have any questions about this.
+the ARCHER2 service desk if you have any questions about this. 
 
 ### Early Career eCSE Panel Observers call
 
