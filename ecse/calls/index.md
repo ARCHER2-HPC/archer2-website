@@ -22,17 +22,19 @@ technical staff) must have been invited by the proposal owner to join
 a project and have accepted the invitation in time for the final
 submission. Proposals cannot be submitted without technical staff.
 
-Please follow the links here for [the guidance for
-submitting a proposal](ARCHER2_eCSE02_ApplicationGuidance.pdf)
-to this call, along with [the technical
-evaluation form](ARCHER2_eCSE02_TechnicalEvaluation.docx) and 
-[the project proposal template](ARCHER2_eCSE02_ProposalTemplate.docx).
+Please follow the links here for [the guidance for submitting a
+proposal](ARCHER2_eCSE02_ApplicationGuidance.pdf) to this call, along
+with [the technical evaluation
+form](ARCHER2_eCSE02_TechnicalEvaluation.docx) and [the project
+proposal template](ARCHER2_eCSE02_ProposalTemplate.docx). Each call
+has its own guidance document and associated forms. Please ensure that the
+correct guidance and forms are used for this call.
 
 If your eCSE proposal is selected for funding, you will be provided
 with an award letter and will be asked to agree to the eCSE
 Terms. Please view [the Terms here](../Terms/ARCHER2_eCSE_Terms.pdf)
 in advance of submitting your eCSE proposal. Please get in touch via
-the ARCHER2 service desk if you have any questions about this.
+the ARCHER2 service desk if you have any questions about this. 
 
 ### Early Career eCSE Panel Observers call
 
