@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: Wednesday 30th September 2020  15:00 - 16:00 BST
 start_date: 2020-09-30 15:00:00
 end_date: 2020-09-30 16:00:00
-trainers: Catherine Inglis, EPCC
+trainers: Juan Rodriguez Herrera, EPCC
 course_type: vt
 registration_status:
 registration_url:
