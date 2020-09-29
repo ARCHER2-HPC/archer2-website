@@ -13,8 +13,8 @@ The winning image or video, along with a selection of other entries, will also b
 ### Key Details 
 
 - Competition Opens: 2 September 2020
-- Submission Deadline: 5 October 2019
-- Judging: October 2020
+- Submission Deadline: **extended to 19 October 2019**
+- Judging: October/November 2020
 - Prizes:
     - Best image : £150
     - Best video : £150
@@ -58,7 +58,7 @@ The submission form is a PDF form which is editable in ADOBE Acrobat Reader and 
 
 ### Deadline
 
-Submission deadline:  5 October 2020
+Submission deadline: ** extended to 19 October 2020**
 
 Any queries should be directed to [image@archer.ac.uk](mailto: image@archer.ac.uk)
 
