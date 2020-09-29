@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200929T123030Z
+UID:20200929T123030Z-1432460838@marudot.com
+DTSTART;TZID=Europe/London:20201007T140000
+DTEND;TZID=Europe/London:20201007T150000
+SUMMARY:ARCHER2 Webinar: Differences between ARCHER and ARCHER2
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2F13c91175f2914a51baeaf5711bd055e6
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/13c91175f2914a51baeaf5711bd055e6\n\nIn this webinar we will cover differences between the user environments on ARCHER and ARCHER2 to help users prepare for the upcoming transition to the ARCHER2 service. We will focus on differences in the modules environment\, compilers and job scheduler. There will be plenty of time for questions and discussion after the presentation.
+LOCATION:https://eu.bbcollab.com/guest/13c91175f2914a51baeaf5711bd055e6
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Webinar: Differences between ARCHER and ARCHER2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
