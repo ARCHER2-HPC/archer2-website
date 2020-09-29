@@ -14,7 +14,7 @@ banner: web_banners_07.jpg
     <li>All entrants are required to provide their ARCHER or ARCHER2 username for 
 			validation purposes.</li>
     <li>Entry to the competition is free.</li>
-    <li>The competition opens on 2 September 2020. The closing date is 5 October 2020. The ARCHER2 CSE Team reserves the right to 
+    <li>The competition opens on 2 September 2020. The closing date is **extended to 19 October 2020**. The ARCHER2 CSE Team reserves the right to 
   		extend the duration of the competition if necessary.</li>
     <li>The total prize fund is &pound;550.</li>
     <li>Entries will be judged on their visual impact, public appeal 
