@@ -15,7 +15,7 @@ The winning image or video, along with a selection of other entries, will also b
 ### Key Details 
 
 - Competition Opens: 2 September 2020
-- Submission Deadline: 5 October 2019
+- Submission Deadline: **extended to 19 October 2020**
 - Judging: October 2020
 - Prizes:
     - Best image : £150
