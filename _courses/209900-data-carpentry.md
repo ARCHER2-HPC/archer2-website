@@ -16,6 +16,10 @@ prace_course: false
 
 Details to follow very soon
 
+#### Overview
+
+In many domains of research, the rapid generation of large amounts of data is fundamentally changing how research is done. The deluge of data presents great opportunities, but also many challenges in managing, analysing and sharing data. Data Carpentry aims to teach the skills that will enable researchers to be more effective and productive. The course is designed for learners with little to no prior knowledge of programming, shell scripting, or command line tools.
+
 <!-- 
 
 #### Location:
