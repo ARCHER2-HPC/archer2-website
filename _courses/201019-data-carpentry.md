@@ -2,33 +2,27 @@
 layout: course
 title: Data Carpentry
 banner: web_banners_05.jpg 
-human_dates: Date to be confirmed
-start_date: 2020-12-29 10:00:00
-end_date: 2020-12-30 16:00:00
+human_dates: 19, 20, 21, 22 October, 10:00 to 13:00 BST
+start_date: 2020-10-19 10:00:00
+end_date: 2020-10-22 13:00:00
 trainers: EPCC Trainers - to be decided
 course_type: course
-registration_status: 
-registration_url: https://events.prace-ri.eu/event/000/
+registration_status: open
+registration_url: https://events.prace-ri.eu/event/1080/registrations/780/
 location: Online
 location_url:
-prace_course: false
+prace_course: true
 ---
 
-Details to follow very soon
+
 
 #### Overview
 
 In many domains of research, the rapid generation of large amounts of data is fundamentally changing how research is done. The deluge of data presents great opportunities, but also many challenges in managing, analysing and sharing data. Data Carpentry aims to teach the skills that will enable researchers to be more effective and productive. The course is designed for learners with little to no prior knowledge of programming, shell scripting, or command line tools.
 
-<!-- 
 
-#### Location:
+#### Requirements
 
-#### Target Audience:
-
-#### Prerequisites:
-
-### Requirements:
 
 Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
 
@@ -36,6 +30,10 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
 
 #### Timetable:
+
+The course will run 10:00 - 13:00 each day.
+
+You are welcome to join the sessions from 9:30 each day.
 
 
 <section id="service">
@@ -47,17 +45,17 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
 
     <div class="row ">	
--->
-<!-- 		
+
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://archer2-hpc.github.io/2020-10-19-edinburgh-online/">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+<!-- 
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/200713_Containers_online">
@@ -65,12 +63,12 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
         </a>
       </div>
 		
-
+-->
   
  	</div>
 		
 		
-					
+<!--					
 
 <h2><a name="join">Join sessions	</a>	</h2>		
 
