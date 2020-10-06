@@ -52,7 +52,6 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="./calls/topup/Grant HPC TOPUP Process.docx">HPC TOPUP Process</a>. <a href="./calls/topup/Application Form 2020 TOPUP 1.docx">Application Form</a>. EPSRC remit only. Only for users with an existing ARCHER allocation who require additional resource.</td>
 		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
-
 	<tr>
 		<td><a href="calls/covid19/">Access to ARCHER2 for Covid19 research</a></td>
 		<td>Open now</td>
