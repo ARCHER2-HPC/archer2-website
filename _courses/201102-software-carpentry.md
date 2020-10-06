@@ -2,27 +2,24 @@
 layout: course
 title: Software Carpentry
 banner: web_banners_05.jpg 
-human_dates: Date to be confirmed
-start_date: 2020-12-29 10:00:00
-end_date: 2020-12-30 16:00:00
+human_dates:  2nd, 3rd, 4th, 5th November, 10:00 to 13:00 GMT
+start_date: 2020-11-02 10:00:00
+end_date: 2020-11-05 13:00:00
 trainers: EPCC Trainers - to be decided
 course_type: course
-registration_status: 
-registration_url: https://events.prace-ri.eu/event/000/
+registration_status: open
+registration_url: https://www.archer2.ac.uk/training/register/?course=swcarp
 location: Online
 location_url:
 prace_course: false
 ---
 
-Details to follow very soon
 
 #### Overview
 
 Software Carpentry’s goal is to help scientists and engineers become more productive by teaching them basic computing skills like program design, version control, testing, and task automation. In this two-day workshop, short tutorials will alternate with hands-on practical exercises. Participants will be encouraged both to help one another, and to apply what they have learned to their own research problems during and between sessions.
 
-<!-- 
 
-#### Location:
 
 #### Target Audience:
 
@@ -47,20 +44,20 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
 
     <div class="row ">	
--->
-<!-- 		
+
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://archer2-hpc.github.io/2020-11-02-cardiff-online/">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/200713_Containers_online">
+          href="https://pad.archer2.ac.uk/p/201102_Software_Carpentry">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -70,7 +67,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
  	</div>
 		
 		
-					
+<!--					
 
 <h2><a name="join">Join sessions	</a>	</h2>		
 

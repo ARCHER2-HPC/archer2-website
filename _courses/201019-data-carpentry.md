@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 19, 20, 21, 22 October, 10:00 to 13:00 BST
 start_date: 2020-10-19 10:00:00
 end_date: 2020-10-22 13:00:00
-trainers: EPCC Trainers - to be decided
+trainers: Juan Rodriguez Herrera, EPCC
 course_type: course
 registration_status: open
 registration_url: https://events.prace-ri.eu/event/1080/registrations/780/
@@ -54,16 +54,16 @@ You are welcome to join the sessions from 9:30 each day.
         </a>
       </div>
 
-<!-- 
+ 
   
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/200713_Containers_online">
+          href="https://pad.archer2.ac.uk/p/201019-data-carpentry">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
--->
+
   
  	</div>
 		
