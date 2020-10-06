@@ -20,11 +20,23 @@ prace_course: true
 
 In many domains of research, the rapid generation of large amounts of data is fundamentally changing how research is done. The deluge of data presents great opportunities, but also many challenges in managing, analysing and sharing data. Data Carpentry aims to teach the skills that will enable researchers to be more effective and productive. The course is designed for learners with little to no prior knowledge of programming, shell scripting, or command line tools.
 
+#### Target Audience
+
+Who: The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
+
+ 
+
+
+Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below).
+
+
 
 #### Requirements
 
 
 Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+
+They should have a [few specific software packages installed](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html).
 
 They are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
@@ -34,6 +46,8 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 The course will run 10:00 - 13:00 each day.
 
 You are welcome to join the sessions from 9:30 each day.
+
+[Detailed timetable in the materials pages.](https://archer2-hpc.github.io/2020-10-19-edinburgh-online/#schedule)
 
 
 <section id="service">
