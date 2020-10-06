@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201006T071158Z
+UID:20201006T071158Z-1779262777@marudot.com
+DTSTART;TZID=Europe/London:20201102T100000
+RRULE:FREQ=DAILY;COUNT=4
+DTEND;TZID=Europe/London:20201102T130000
+SUMMARY:ARCHER2 Software Carpentry
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Fd7d8b8dee89d4502b18d3c11619fe41b
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/d7d8b8dee89d4502b18d3c11619fe41b\n\nSoftware Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. A Software Carpentry workshop is a hands-on event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises\, and all instruction is done via live coding. This hands-on workshop will cover basic concepts and tools\, including program design\, version control\, data management\, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
+LOCATION:https://eu.bbcollab.com/guest/d7d8b8dee89d4502b18d3c11619fe41b
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Software Carpentry
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201006T071158Z
+UID:20201006T071158Z-816122895@marudot.com
+DTSTART;TZID=Europe/London:20201209T140000
+DTEND;TZID=Europe/London:20201209T150000
+SUMMARY:ARCHER2 Software Carpentry follow up consultancy
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2Fd7d8b8dee89d4502b18d3c11619fe41b
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/d7d8b8dee89d4502b18d3c11619fe41b\n\nSoftware Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. A Software Carpentry workshop is a hands-on event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises\, and all instruction is done via live coding. This hands-on workshop will cover basic concepts and tools\, including program design\, version control\, data management\, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
+LOCATION:https://eu.bbcollab.com/guest/d7d8b8dee89d4502b18d3c11619fe41b
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Software Carpentry follow up consultancy
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
