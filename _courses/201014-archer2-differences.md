@@ -2,9 +2,9 @@
 layout: course
 title: Differences between ARCHER and ARCHER2
 banner: web_banners_05.jpg
-human_dates: Wednesday 7th October 2020  14:00 - 15:00 BST
-start_date: 2020-10-07 14:00:00
-end_date: 2020-10-07 15:00:00
+human_dates: Wednesday 14th October 2020  14:00 - 15:00 BST
+start_date: 2020-10-14 14:00:00
+end_date: 2020-10-14 15:00:00
 trainers: Andy Turner, EPCC
 course_type: vt
 registration_status:
