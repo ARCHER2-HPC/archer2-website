@@ -509,7 +509,7 @@ footer p {
 
 footer div.logos {
   display: block;
-  float: left;
+  padding-left: 20px;
 }
 
 footer div.logos img {
@@ -518,7 +518,11 @@ footer div.logos img {
 
 footer div.copyright {
   display: block;
-  float: right;
+  padding-left: 20px;
+}
+
+footer ion-icon {
+  font-size: 24px;
 }
 /*--
 	End of Footer Css
