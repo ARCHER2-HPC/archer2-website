@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201013T121428Z
+UID:20201013T121428Z-1934819364@marudot.com
+DTSTART;TZID=Europe/London:20201021T150000
+DTEND;TZID=Europe/London:20201021T160000
+SUMMARY:ARCHER2 Webinar : Slurm scheduling system on ARCHER2
+URL:https%3A%2F%2Feu.bbcollab.com%2Fguest%2F14d83c1b1bdc450cbd198bed442f86bb
+DESCRIPTION:Join Link : https://eu.bbcollab.com/guest/14d83c1b1bdc450cbd198bed442f86bb\n\nThe slurm scheduling system is the access point for user jobs on ARCHER2. In this virtual tutorial\, we will briefly introduce Slurm\, how it will be configured and used on ARCHER2\, the difference with the current scheduler (PBS) on ARCHER\, and some of the extra features you might find useful.\n
+LOCATION:https://eu.bbcollab.com/guest/14d83c1b1bdc450cbd198bed442f86bb
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Webinar : Slurm scheduling system on ARCHER2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
