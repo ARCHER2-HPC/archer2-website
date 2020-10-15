@@ -44,6 +44,9 @@
   - title: "ARCHER2 Documentation Site"
     url: "https://docs.archer2.ac.uk/"
     external: "True"
+  - title: "SAFE User Guide"
+    url: "https://epcced.github.io/safe-docs/"
+    external: "True"
   
 
 - title: Training
