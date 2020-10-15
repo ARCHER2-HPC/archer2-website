@@ -12,13 +12,13 @@ also be documentation covering research software, software libraries, data analy
 
 * Go to the [ARCHER2 Documentation Site](https://docs.archer2.ac.uk)
 
-<!--
+
 
 There is also a [SAFE User Guide](https://epcced.github.io/safe-docs/), with help for using the online ARCHER2 service management system, for both individual users and for PIs and Project Managers.
 
 * Go to the [SAFE User Guide](https://epcced.github.io/safe-docs/)
 
--->
+
 
 
 **Onboarding Data Migration**
