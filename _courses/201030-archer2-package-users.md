@@ -2,13 +2,13 @@
 layout: course
 title: ARCHER2 for software package users
 banner: web_banners_05.jpg 
-human_dates: Date to be confirmed
-start_date: 2020-12-29 10:00:00
-end_date: 2020-12-30 16:00:00
-trainers: EPCC Trainers - to be decided
+human_dates: 30 October 2020 10:00 - 16:00 GMT
+start_date: 2020-10-30 10:00:00
+end_date: 2020-10-30 16:00:00
+trainers: Juan Rodriguez Herrera (EPCC)
 course_type: course
-registration_status: 
-registration_url: https://events.prace-ri.eu/event/000/
+registration_status: open
+registration_url: https://www.archer2.ac.uk/training/register/?course=a2packusers
 location: Online
 location_url:
 prace_course: false
