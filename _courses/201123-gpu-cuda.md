@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 23 - 24 and 26 November 2020 10:00 - 17:00 GMT
 start_date: 2020-11-23 10:00:00
 end_date: 2020-11-26 17:00:00
-trainers: Kevin Stratford EPCC, Rupert Nash (EPCC)
+trainers: Kevin Stratford (EPCC), Rupert Nash (EPCC)
 course_type: course
 registration_status: open
 registration_url: https://events.prace-ri.eu/event/1085/registrations/784/
