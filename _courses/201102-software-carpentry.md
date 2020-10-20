@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Software Carpentry
+title: Software Carpentry 
 banner: web_banners_05.jpg 
 human_dates:  2nd, 3rd, 4th, 5th November, 10:00 to 13:00 GMT
 start_date: 2020-11-02 10:00:00
 end_date: 2020-11-05 13:00:00
 trainers: EPCC Trainers - to be decided
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=swcarp
 location: Online
 location_url:
