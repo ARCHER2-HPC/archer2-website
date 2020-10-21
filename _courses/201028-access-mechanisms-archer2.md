@@ -2,7 +2,7 @@
 layout: course
 title: Access mechanisms for ARCHER2
 banner: web_banners_05.jpg
-human_dates: Wednesday 28th October 2020  11:00 - 12:00 BST
+human_dates: Wednesday 28th October 2020  11:00 - 12:00 GMT
 start_date: 2020-10-28 11:00:00
 end_date: 2020-10-28 12:00:00
 trainers: Lorna Smith (EPCC) and Josephine Beech-Brandt (EPCC)
