@@ -132,6 +132,12 @@ You are welcome to join the sessions from 9:30 each day.
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Hdyqpd5BtP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<h3>Video Session 4</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/oB0hDLGaAMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 <!-- 
