@@ -160,7 +160,7 @@ You are welcome to join the sessions from 9:30 each day.
  -->
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -169,9 +169,8 @@ You are welcome to join the sessions from 9:30 each day.
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="http://www.archer.ac.uk/training/feedback/?course=XXXX (4 - 25 May 2020) Online"  
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+
+		   href="https://events.prace-ri.eu/event/1080/surveys/712"
 
 		>
           <strong>Feedback</strong><br/>
@@ -180,7 +179,7 @@ You are welcome to join the sessions from 9:30 each day.
       </div>
     </div>
 		
- -->		
+	
 
 <!--  
 </section>
