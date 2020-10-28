@@ -147,7 +147,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -156,9 +156,8 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="http://www.archer.ac.uk/training/feedback/?course=XXXX (4 - 25 May 2020) Online"  
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+           href="https://www.archer2.ac.uk/training/feedback/?course=pack"  
+
 
 		>
           <strong>Feedback</strong><br/>
@@ -167,7 +166,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
