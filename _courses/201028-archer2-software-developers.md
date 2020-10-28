@@ -7,7 +7,7 @@ start_date: 2020-10-28 10:00:00
 end_date: 2020-10-29 16:00:00
 trainers: Adrian Jackson (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=a2swdev
 location: Online
 location_url:
