@@ -7,7 +7,7 @@ start_date: 2020-10-30 10:00:00
 end_date: 2020-10-30 16:00:00
 trainers: Juan Rodriguez Herrera (EPCC)
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=a2packusers
 location: Online
 location_url:
