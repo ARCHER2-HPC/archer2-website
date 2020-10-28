@@ -57,7 +57,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/archer2-intro-develop/">
+          href="https://adrianjhpc.github.io/archer2-intro-develop">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -145,7 +145,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
  -->
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -154,9 +154,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="http://www.archer.ac.uk/training/feedback/?course=XXXX (4 - 25 May 2020) Online"  
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+           href="https://www.archer2.ac.uk/training/feedback/?course=swdev"
 
 		>
           <strong>Feedback</strong><br/>
@@ -165,7 +163,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
