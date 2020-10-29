@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 30 October 2020 10:00 - 16:00 GMT
 start_date: 2020-10-30 10:00:00
 end_date: 2020-10-30 16:00:00
-trainers: Juan Rodriguez Herrera (EPCC)
+trainers: David Henty (EPCC)
 course_type: course
 registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=a2packusers
@@ -60,7 +60,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/2020130-archer2-intro-package/">
+          href="https://epcced.github.io/20201030-archer2-intro-package/">
           <strong>Course materials</strong>         
         </a>
       </div>
