@@ -96,13 +96,77 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
     </div>
  -->
 
-<!-- 		
+ 		
 <h2><a name="video">Video</a></h2>
+
+
+<h3><a name="video1a">Video - Day 1 part 1</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/rK8H9h9Owzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<h3><a name="video1b">Video - Day 1 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/nKj7I7wMAys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+<!--
+<h3><a name="video2a">Video - Day 2 part 1</a></h3>
 
 <div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
  -->
+
+<!--
+<h3><a name="video2b">Video - Day 2 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ -->
+
+
+<!--
+<h3><a name="video3a">Video - Day 3 part 1</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ -->
+
+<!--
+<h3><a name="video3b">Video - Day 3 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ -->
+
+
+<!--
+<h3><a name="video4a">Video - Day 4 part 1</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ -->
+
+<!--
+<h3><a name="video4b">Video - Day 4 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ -->
+
 
 
 <!-- 
