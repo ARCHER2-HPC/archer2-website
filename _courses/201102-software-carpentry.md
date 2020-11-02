@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates:  2nd, 3rd, 4th, 5th November, 10:00 to 13:00 GMT
 start_date: 2020-11-02 10:00:00
 end_date: 2020-11-05 13:00:00
-trainers: EPCC Trainers - to be decided
+trainers: Juan Herrera EPCC, Jose Muñoz 
 course_type: course
 registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=swcarp
@@ -136,7 +136,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -145,9 +145,8 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="http://www.archer.ac.uk/training/feedback/?course=XXXX (4 - 25 May 2020) Online"  
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+           href="../../feedback/?course=swcarp"  
+
 
 		>
           <strong>Feedback</strong><br/>
@@ -156,7 +155,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
       </div>
     </div>
 		
- -->		
+ 		
 
 <!--  
 </section>
