@@ -122,19 +122,15 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 </div>
 
 
-<!--
+
 
 <h3><a name="video2">Day 2</a></h3>
 
 <div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/hzR-fy4Eqlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
--->
 
-<h3><a name="video2">Day 2</a></h3>
-
-<p>Available soon</p>
 
 
 <!-- 
