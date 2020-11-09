@@ -107,13 +107,24 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
     </div>
  -->
 
-<!-- 		
-<h2><a name="video">Video</a></h2>
+		
+<h2><a name="videos">Videos</a></h2>
+
+<h3><a name="video1">Part 1</a></h3>
 
 <div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/fjxh3TMdN0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+
+
+		
+<h3><a name="video2">Part 2</a></h3>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/WqadGAr8DVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 <!-- 
