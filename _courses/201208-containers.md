@@ -17,12 +17,12 @@ prace_course: true
 
 This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will introduce the use of Docker and Singularity containers but the material will be of use for whatever container technology you plan to, or end up, using. On completion of this course attendees should:
 
-	Understand what containers are and what they are used for
-	Understand how to manage and create Docker containers
-	Appreciate decisions that need to be made around containerising research workflows
-	Understand the differences between Docker and Singularity containers and why Singularity is more suitable for multi-user systems (e.g. HPC)
-	Understand how to manage and create Singularity containers
-	Appreciate how containers can be used to enable and improve reproducibility in research
+* Understand what containers are and what they are used for
+* Understand how to manage and create Docker containers
+* Appreciate decisions that need to be made around containerising research workflows
+* Understand the differences between Docker and Singularity containers and why Singularity is more suitable for multi-user systems (e.g. HPC)
+* Understand how to manage and create Singularity containers
+* Appreciate how containers can be used to enable and improve reproducibility in research
 
 #### Target Audience:
 
