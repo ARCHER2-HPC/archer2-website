@@ -15,7 +15,9 @@ prace_course: true
 ---
 
 
-This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will introduce the use of Docker and Singularity containers but the material will be of use for whatever container technology you plan to, or end up, using. On completion of this course attendees should:
+This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will introduce the use of Docker and Singularity containers but the material will be of use for whatever container technology you plan to, or end up, using. 
+
+On completion of this course attendees should:
 
 * Understand what containers are and what they are used for
 * Understand how to manage and create Docker containers
@@ -43,10 +45,12 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
 #### Timetable:
 
+Details will follow soon.
+
 
 <section id="service">
 
-
+<!-- 	
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -74,7 +78,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
  	</div>
 		
-		
+-->		
 					
 
 
