@@ -50,7 +50,7 @@ Details will follow soon.
 
 <section id="service">
 
-<!-- 	
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -61,7 +61,7 @@ Details will follow soon.
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/containers-introduction/">
+          href="https://epcced.github.io/2020-12-08-Containers-Online/">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -78,7 +78,7 @@ Details will follow soon.
 
  	</div>
 		
--->		
+	
 					
 
 
