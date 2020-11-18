@@ -2,7 +2,7 @@
 layout: course
 title: Supercomputers and molecular simulation in the fight against Covid19 - Exploring the binding site of the SARS-CoV-2 main protease using high performance computing
 banner: web_banners_05.jpg
-human_dates: Wednesday 18th November 2020  15:00 - 16:00 BST
+human_dates: Wednesday 18th November 2020  15:00 - 16:00 GMT
 start_date: 2020-11-18 15:00:00
 end_date: 2020-11-18 16:00:00
 trainers: Syma Khalid and Jon Essex 
