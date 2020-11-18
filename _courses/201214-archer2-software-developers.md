@@ -2,13 +2,13 @@
 layout: course
 title: Introduction to ARCHER2 for software developers
 banner: web_banners_05.jpg 
-human_dates: 8 - 9 December 2020 10:00 - 16:00 GMT
-start_date: 2020-12-08 10:00:00
-end_date: 2020-12-09 16:00:00
+human_dates: 14 - 15 December 2020 10:00 - 16:00 GMT
+start_date: 2020-12-14 10:00:00
+end_date: 2020-12-15 16:00:00
 trainers: Trainer tbc
 course_type: course
 registration_status: open
-registration_url: https://www.archer2.ac.uk/training/register/?course=201208swdev
+registration_url: https://www.archer2.ac.uk/training/register/?course=201214swdev
 location: Online
 location_url:
 prace_course: false
@@ -66,7 +66,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
   
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/201208-archer2-swdev">
+          href="https://pad.archer2.ac.uk/p/201214-archer2-swdev">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -173,7 +173,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="https://www.archer2.ac.uk/training/feedback/?course=201208swdev"
+           href="https://www.archer2.ac.uk/training/feedback/?course=201214swdev"
 
 		>
           <strong>Feedback</strong><br/>
