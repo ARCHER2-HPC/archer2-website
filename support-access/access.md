@@ -33,22 +33,22 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 	<tr>
 		<td><a href="#pioneer-projects">Pioneer Projects</a></td>
-		<td>12 October 2020 (4pm)</td>
-		<td>7 September 2020 (4pm)</td>
+		<td>No open calls</td>
+		<td></td>
 		<td><a href="https://epsrc.ukri.org/funding/calls/archer-2-pioneer-projects/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 computing resource for a maximum duration of two years.</td>
 		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
-		<td>4 September 2020 (4pm)</td>
-		<td>7 August 2020 (4pm)</td>
+		<td>No open calls</td>
+		<td></td>
 		<td><a href="https://epsrc.ukri.org/funding/calls/access-to-high-performance-computing/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. </td>
 		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#topup">TOPUP</a></td>
-		<td>25 September 2020 (4pm)</td>
-		<td>11 September 2020 (4pm)</td>
+		<td>No open calls</td>
+		<td></td>
 		<td><a href="./calls/topup/Grant HPC TOPUP Process.docx">HPC TOPUP Process</a>. <a href="./calls/topup/Application Form 2020 TOPUP 1.docx">Application Form</a>. EPSRC remit only. Only for users with an existing ARCHER allocation who require additional resource.</td>
 		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
 	</tr>
