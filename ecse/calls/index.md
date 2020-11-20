@@ -174,7 +174,7 @@ The ARCHER2 CSE team can be contacted via the ARCHER2 service desk [support@arch
 
 * [Technical evaluation form](ARCHER2_eCSE02_TechnicalEvaluation.docx)
 
-* [Project Proposl template](ARCHER2_eCSE02_ProposalTemplate.docx)
+* [Project Proposal template](ARCHER2_eCSE02_ProposalTemplate.docx)
 
 * [eCSE projects funded under the ARCHER service](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php)
 
