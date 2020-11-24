@@ -137,6 +137,13 @@ Detailed timetable to follow
 
 
 
+<h3><a name="videos2">Day 2</a></h3>
+
+<h4>Part 1</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XCwgFx4Rf0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
