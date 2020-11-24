@@ -108,13 +108,36 @@ Detailed timetable to follow
     </div>
 -->
 
-<!-- 		
-<h2><a name="video">Video</a></h2>
+		
+<h2><a name="video">Videos</a></h2>
+
+
+<h3><a name="videos1">Day 1</a></h3>
+
+<h4>Part 1</h4>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/YVmRmgS2XDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+
+<h4>Part 2</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/RuEGQT0BY5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h4>Part 3</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/u5ZLj2iwDXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+
 
 
 <!-- 
