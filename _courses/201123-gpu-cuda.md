@@ -146,6 +146,12 @@ Detailed timetable to follow
 </div>
 
 
+<h4>Part 2</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/TRubbO88r40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 <!-- 
 <h2><a name="slides">Slides</a></h2>
@@ -178,7 +184,7 @@ Detailed timetable to follow
  -->
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -188,7 +194,7 @@ Detailed timetable to follow
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://events.prace-ri.eu/event/1085/manage/surveys/718/"
+		   href="https://events.prace-ri.eu/event/1085/surveys/718"
 
 		>
           <strong>Feedback</strong><br/>
@@ -197,7 +203,7 @@ Detailed timetable to follow
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
