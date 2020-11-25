@@ -2,13 +2,13 @@
 layout: course
 title: ARCHER2 for software package users
 banner: web_banners_05.jpg 
-human_dates: 30 October 2020 10:00 - 16:00 GMT
-start_date: 2020-10-30 10:00:00
-end_date: 2020-10-30 16:00:00
-trainers: David Henty (EPCC)
+human_dates: 7 December 2020 10:00 - 16:00 GMT
+start_date: 2020-12-07 10:00:00
+end_date: 2020-12-07 16:00:00
+trainers: Trainer tbc
 course_type: course
-registration_status: closed
-registration_url: https://www.archer2.ac.uk/training/register/?course=a2packusers
+registration_status: open
+registration_url: https://www.archer2.ac.uk/training/register/?course=201207packusers
 location: Online
 location_url:
 prace_course: false
@@ -46,7 +46,7 @@ local system and copying them to the remote HPC system using scp).
 #### Requirements:
 
 Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that 
-they have administrative privileges on. They should have a few specific software packages installed (listed [here](https://epcced.github.io/20201030-archer2-intro-package/#setup)). They 
+they have administrative privileges on. They should have a few specific software packages installed (listed [here](https://epcced.github.io/archer2-intro-package/#setup)). They 
 are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
 <section id="service">
@@ -60,7 +60,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/20201030-archer2-intro-package/">
+          href="https://epcced.github.io/archer2-intro-package/">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -69,7 +69,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/201028-archer2-package-users">
+          href="https://pad.archer2.ac.uk/p/201207-archer2-package-users">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -107,6 +107,10 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
     </div>
  -->
 
+
+
+
+<!-- 
 		
 <h2><a name="videos">Videos</a></h2>
 
@@ -125,7 +129,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/WqadGAr8DVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+-->
 
 <!-- 
 <h2><a name="slides">Slides</a></h2>
@@ -157,7 +161,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 
  -->
 
-
+<!--
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -167,7 +171,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="https://www.archer2.ac.uk/training/feedback/?course=pack"  
+           href="https://www.archer2.ac.uk/training/feedback/?course=201207pack"  
 
 
 		>
@@ -177,7 +181,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
       </div>
     </div>
 		
-	
+ -->
 
  
 </section>

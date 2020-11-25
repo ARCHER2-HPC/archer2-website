@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates:  2nd, 3rd, 4th, 5th November, 10:00 to 13:00 GMT
 start_date: 2020-11-02 10:00:00
 end_date: 2020-11-05 13:00:00
-trainers: EPCC Trainers - to be decided
+trainers: Juan Herrera EPCC, Jose Muñoz Criollo
 course_type: course
 registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=swcarp
@@ -96,13 +96,72 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
     </div>
  -->
 
-<!-- 		
+ 		
 <h2><a name="video">Video</a></h2>
 
+
+<h3><a name="video1a">Video - Day 1 part 1</a></h3>
+
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/rK8H9h9Owzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+
+
+<h3><a name="video1b">Video - Day 1 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/nKj7I7wMAys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+<h3><a name="video2a">Video - Day 2 part 1</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/gIft17lCzvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3><a name="video2b">Video - Day 2 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Jt2inp4q4nI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+<h3><a name="video3a">Video - Day 3 part 1</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/tfSZLKmSHkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<h3><a name="video3b">Video - Day 3 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/OZYRNwyqs1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
+
+<h3><a name="video4a">Video - Day 4 part 1</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/T4oW4yurYtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3><a name="video4b">Video - Day 4 part 2</a></h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/uDiKEsAfBI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 <!-- 
@@ -136,7 +195,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -145,9 +204,8 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="http://www.archer.ac.uk/training/feedback/?course=XXXX (4 - 25 May 2020) Online"  
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+           href="../../feedback/?course=swcarp"  
+
 
 		>
           <strong>Feedback</strong><br/>
@@ -156,7 +214,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
       </div>
     </div>
 		
- -->		
+ 		
 
 <!--  
 </section>

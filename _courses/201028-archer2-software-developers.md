@@ -105,13 +105,32 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
  -->
  
 
-<!-- 		
-<h2><a name="video">Video</a></h2>
+ 		
+<h2><a name="video">Videos</a></h2>
+
+<h3><a name="video1a">Day 1 - part 1</a></h3>
 
 <div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Svlb7rm_PzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+
+<h3><a name="video1b">Day 1 - part 2</a></h3>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Eq1pBlvM1bM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+<h3><a name="video2">Day 2</a></h3>
+
+<div>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/hzR-fy4Eqlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 
 
 <!-- 

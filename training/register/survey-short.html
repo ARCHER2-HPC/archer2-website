@@ -1,0 +1,134 @@
+---
+layout: section
+title: ARCHER2 Training - Survey NOT YET IN USE
+summary: Post-registration survey
+banner: web_banners_05.jpg
+---
+
+<p>We use this survey to find out a little bit about you. All the information collected is anonymous and is only use to help us deliver courses targeted as much as possible to the 
+people attending. Data will be retained for statistical purposes only. Please answer as many of the questions as are relevant and that you are comfortable answering, and skip over the rest. If you have any questions about the training on ARCHER2 contact
+<a href="https://www.archer2.ac.uk/support-access/servicedesk.html">the ARCHER2 Service Desk</a>.</p>
+
+<script type="text/javascript">
+
+function getUrlVars() { // Pulls GET values from the page URL
+    var vars = {};
+		var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+  			vars[key] = value;
+			});
+			return vars;
+	}
+	
+	
+function set_matching_course_by_id(selectObj)
+{
+   var course_in_url = getUrlVars()["course"];
+   for(var i = 0; i < selectObj.length; i++)   {
+      if(selectObj.options[i].id == course_in_url){
+      selectObj.selectedIndex = i;
+			document.getElementById("name").focus();
+			}
+   }
+}
+	
+	
+window.onload = function(){
+		set_matching_course_by_id(SurveyForm.course);
+}
+	
+	
+</script>
+
+
+
+<form name="SurveyForm" action="https://safe.epcc.ed.ac.uk/QueryForm"    method="post" accept-charset="UTF-8">
+<fieldset>    
+
+<input type="hidden" id="subject" name="subject" value="Pre-Course survey.">
+<input type="hidden" id="type" name="type" value="course_survey">
+<input type="hidden" id="query_service" name="query_service" value="ARCHER2">
+
+<h3><label for="course">Please select the course you have registered to attend</label></h3>
+
+
+<select name="course" id="course">
+	<option disabled="disabled" selected="selected">Please select your course</option>
+	<option disabled="disabled" > </option>
+  <option  required id="openmp" value="OpenMP, tbc October 2020, Online" /> OpenMP, tbc October 2020, Online</option>
+  
+  <option  required id="datacarp" value="Data Carpentry, tbc October 2020, Online" /> Data Carpentry, tbc October 2020, Online </option>
+	
+</select>
+
+<hr />
+
+<h3><label for="gender">Gender</label></h3>
+
+<p>
+<select required id="gender" name="gender">
+	<option disabled="disabled" selected="selected">To which gender do you most identify?</option>
+  <option disabled="disabled" value=""></option>
+  <option value="female">Female</option>
+  <option value="other">Gender variant/non-conforming</option>
+	<option value="male">Male</option>
+  <option value="not_disclosed">Prefer not to say</option>
+</select>
+</p>
+
+<h3>How would you describe yourself?</h3>
+<p>Choose one or more of the following groups.</p>
+
+	
+<table class="text-box-feedback">
+  <tbody>	
+		<tr>
+      <td class="text-box-answer">  <input type="checkbox" id="ethnic1" name="ethnic1" value="amind"></td>
+      <td class="text-box-question"><label for="ethnic1" style="font-weight: 400"> <strong>White:</strong> English / Welsh / Scottish / Northern Irish / British;     Irish;     Gypsy or Irish Traveller;     Any other White background  </label></td>
+    </tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic2" name="ethnic2" value="asian"> </td>
+			<td class="text-box-question"><label for="ethnic2" style="font-weight: 400">    <strong>Mixed / Multiple ethnic groups:</strong> White and Black Caribbean;     White and Black African;     White and Asian;     Any other Mixed / Multiple ethnic background</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic3" name="ethnic3" value="black"> </td>
+			<td class="text-box-question"> <label for="ethnic3" style="font-weight: 400">    <strong>Asian / Asian British:</strong> Indian;     Pakistani;     Bangladeshi;     Chinese;     Any other Asian background</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic4" name="ethnic4" value="hisplat"> </td>
+			<td class="text-box-question"><label for="ethnic4" style="font-weight: 400">     <strong> Black / African / Caribbean / Black British:</strong> African;     Caribbean;     Any other Black / African / Caribbean background</label></td>
+		</tr>
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic5" name="ethnic5" value="hawaiipacific"></td>
+			<td class="text-box-question"> <label for="ethnic5" style="font-weight: 400">     <strong>Other ethnic group:</strong><font >   Arab;   Any other ethnic group</font></label></td>
+		</tr>
+
+		<tr>
+		  <td class="text-box-answer">   <input type="checkbox" id="ethnic7" name="ethnic7" value="notsay"></td>
+			<td class="text-box-question"> <label for="ethnic7" style="font-weight: 400">      <strong>I prefer not to say</strong>.</label></td>
+		</tr>
+			
+	
+	
+	
+  </tbody>
+</table>
+	
+	
+
+
+
+
+
+
+
+<hr />
+<p>Please read our <a href="../privacy.php">Training Data Privacy statement</a> to find out about how this data is used.</p>
+<p>When registering to attend a course you agree to abide by our <a href="../code-of-conduct/index.php">Training Code of Conduct</a>.</p>
+<p>&nbsp;</p>
+<p>
+<input type="submit" value="Register" />
+<input type="reset" value="Clear Form" />
+
+</p>
+</fieldset>
+</form>

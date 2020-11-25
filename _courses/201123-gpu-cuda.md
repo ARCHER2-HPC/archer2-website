@@ -7,7 +7,7 @@ start_date: 2020-11-23 10:00:00
 end_date: 2020-11-26 17:00:00
 trainers: Kevin Stratford (EPCC), Rupert Nash (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1085/registrations/784/
 location: Online
 location_url:
@@ -58,16 +58,16 @@ Detailed timetable to follow
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/archer-gpu-course">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/201123-gpu-cuda">
@@ -75,7 +75,7 @@ Detailed timetable to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
@@ -108,13 +108,49 @@ Detailed timetable to follow
     </div>
 -->
 
-<!-- 		
-<h2><a name="video">Video</a></h2>
+		
+<h2><a name="video">Videos</a></h2>
+
+
+<h3><a name="videos1">Day 1</a></h3>
+
+<h4>Part 1</h4>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/YVmRmgS2XDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+
+<h4>Part 2</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/RuEGQT0BY5c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h4>Part 3</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/u5ZLj2iwDXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+<h3><a name="videos2">Day 2</a></h3>
+
+<h4>Part 1</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XCwgFx4Rf0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h4>Part 2</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/TRubbO88r40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 <!-- 
@@ -148,7 +184,7 @@ Detailed timetable to follow
  -->
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -158,7 +194,7 @@ Detailed timetable to follow
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://events.prace-ri.eu/event/1085/manage/surveys/718/"
+		   href="https://events.prace-ri.eu/event/1085/surveys/718"
 
 		>
           <strong>Feedback</strong><br/>
@@ -167,7 +203,7 @@ Detailed timetable to follow
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
