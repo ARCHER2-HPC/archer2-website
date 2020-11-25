@@ -14,7 +14,7 @@ location_url:
 prace_course: false
 ---
 
-The next HPC Champions meeting will be held virtually on the afternoon of the 15th December 2020, and will involve talks and discussion sessions. We will confirm topics closer to the time but are likely to include updates from supercomputing services, training, and HPC software. The workshop will run between 1pm and 5pm GMT. If you have an idea for a 10minute presentation, a 3 minute lightning talk or discussion topic then please get in touch with the organiser: Andy Turner (a.turner@epcc.ed.ac.uk).
+The next HPC Champions meeting will be held virtually on the afternoon of the 15th December 2020, and will involve talks and discussion sessions. We will confirm topics closer to the time but are likely to include updates from supercomputing services, training, and HPC software. The workshop will run between 1pm and 5pm GMT. If you have an idea for a 10minute presentation, a 3 minute lightning talk or discussion topic then please get in touch with the organiser: [Andy Turner (a.turner@epcc.ed.ac.uk)](mailto:a.turner@epcc.ed.ac.uk).
 
 HPC Champions is a network of individuals with the goal of supporting HPC users in the UK to learn about HPC, find the most appropriate system for their purposes, and to get the most out of that system. The roughly bi-annual HPC Champions workshops play a key part in this, increasing the coordination between the different tiers of HPC in the UK and acting as a launching point for collaboration on projects related to training, outreach, reference materials and more. 
 
@@ -22,19 +22,22 @@ The network includes a wide number of HPC communities including RSEs and system 
 
 If you have any questions, please contact the organiser: Andy Turner (a.turner@epcc.ed.ac.uk).
 
-#### Draft schedule:
-* 1300-1430: Presentations and lightning talks
+Participants are required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
+
+## Draft schedule:
+* 1300-1430: Presentations and lightning talks (see below for details)
 * 1430-1500: Break
 * 1500-1520: Selection of discussion topics
 * 1530-1630: Discussion session
 * 1640-1700: Wrap-up and planning for next meeting
 
+### Presentations
 
-Participants are required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
+**Isambard 2: Adding SVE to the World’s First Production ARMv8 Supercomputer**
 
+*Andrei Poenaru, University of Bristol*
 
-
-
+The Isambard Tier-2 HPC service is the world’s first supercomputer to use ARMv8 in production. In September 2020, the existing Arm and multi-architecture (MACS) partitions were doubled in size, and Isambard 2, a 72-node Fujitsu A64FX partition, was added. This talk presents the University of Bristol HPC Group’s experience with setting up and running early workloads on the SVE-enabled A64FX chips in Isambard 2.
 
 <section id="service">
 
