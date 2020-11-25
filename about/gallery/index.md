@@ -26,6 +26,19 @@ banner: web_banners_02.jpg
 
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
+
+                  <li class="mix 2020">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2020-image-comp/" target="_blank">
+                      <img src="img/2020.jpg" alt="2020 Winner">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>2020 Gallery</h2>
+                          <p></p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>	
+
                   <li class="mix 2019">
                     <a href="http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2019/index.php" target="_blank">
                       <img src="img/2019.jpg" alt="2019 Winner">
