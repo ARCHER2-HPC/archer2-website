@@ -12,7 +12,6 @@ banner: web_banners_03.jpg
 
 * A list of active UKRI projects on the prospective ARCHER Service end date will be provided to the Authority. 
 * At the end of the ARCHER Service, a snapshot will be taken of the remaining allocations for every active project. 
-* These allocations will be put through the agreed exchange rate for the allocation unit (provisionally set to 1 CU = 1000 AUs = 1 kAUs). 
 * Allocations will be available from the point at which charging starts on the system
 * Adjustments to the planned end date for allocation periods may be required to allow for downtime and consortia may need to be reimbursed allocations. 
 * The Authority will provide details where required.  
@@ -31,6 +30,18 @@ banner: web_banners_03.jpg
 
 ### New ARCHER2 Users:  
 * New ARCHER2 Users will apply for ARCHER2 accounts via the SAFE. 
+
+
+### Unit of allocation on ARCHER2
+UKRI has finalised its proposals for the unit of allocation on ARCHER2. It is going to be called the ARCHER2 Compute Unit (CU) and in general 1 CU will be worth 1 ARCHER2 node hour. As part of this process we have also determined the conversion rates which will be used to transfer existing ARCHER allocations onto ARCHER2. These will be:
+
+    1.5156 kAU : 4.21 ARCHER node hour : 1 ARCHER2 node hour : 1 CU
+
+In identifying these conversion rates UKRI has endeavoured to ensure that no user will be disadvantaged by the transfer of their allocation from ARCHER to ARCHER2.
+
+More information on how we have reached these conversions and how they will be used during transition can be found [in this document](ARCHER2 unit of allocation.docx).
+
+
 
 ### Further Resources:
 EPCC has produced [ARCHER2 documentation for the SAFE](https://epcced.github.io/safe-docs/)
