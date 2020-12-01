@@ -33,11 +33,41 @@ Participants are required to abide by the [ARCHER2 Training Code of Conduct](../
 
 ### Presentations
 
-**Isambard 2: Adding SVE to the World’s First Production ARMv8 Supercomputer**
+**1300-1315: Welcome**
+
+*Andy Turner, EPCC, The University of Edinburgh*
+
+**1315-1400: European Environment for Scientific Software Installations (EESSI)**
+
+*Kenneth Hoste, University of Ghent*
+
+What if there was a way to avoid having to install a broad range of
+scientific software from scratch on every workstation, HPC cluster, or
+cloud instance you use or maintain, without compromising on performance?
+
+The European Environment for Scientific Software Installations (EESSI,
+pronounced as "easy") is a brand new collaboration between different
+European HPC sites & industry partners, with the common goal to set up a
+shared repository of scientific software installations that can be used
+on a variety of systems, regardless of the operating system or processor
+architecture of the client system, or whether it’s a full size HPC
+cluster, a cloud environment, or a personal workstation.
+
+- website: https://www.eessi-hpc.org
+- GitHub: https://github.com/EESSI
+- documentation: https://eessi.github.io/docs
+
+**1400-1420: Isambard 2: Adding SVE to the World’s First Production ARMv8 Supercomputer**
 
 *Andrei Poenaru, University of Bristol*
 
-The Isambard Tier-2 HPC service is the world’s first supercomputer to use ARMv8 in production. In September 2020, the existing Arm and multi-architecture (MACS) partitions were doubled in size, and Isambard 2, a 72-node Fujitsu A64FX partition, was added. This talk presents the University of Bristol HPC Group’s experience with setting up and running early workloads on the SVE-enabled A64FX chips in Isambard 2.
+The Isambard Tier-2 HPC service is the world’s first supercomputer to use ARMv8
+in production. In September 2020, the existing Arm and multi-architecture (MACS)
+partitions were doubled in size, and Isambard 2, a 72-node Fujitsu A64FX partition,
+was added. This talk presents the University of Bristol HPC Group’s experience with
+setting up and running early workloads on the SVE-enabled A64FX chips in Isambard 2.
+
+
 
 <section id="service">
 
