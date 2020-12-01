@@ -26,6 +26,11 @@ The course aims to answer the following questions:
 * What practical steps can I take to improve my research workflow?
 
 
+### Pre-requisites:
+
+Participants must have attended *ARCHER2 for software package users* or be familiar with use of Software Packages on ARCHER and/or ARCHER2
+
+This course focuses on efficient use of centrally installed packages. Users interested in optimising the performance of their own applications, e.g. through compiler options or code changes, should consider attending  [Performance Optimisation on AMD EPYC](https://www.archer2.ac.uk/training/courses/210128-performance-optimisation/)  instead
 
 ### Requirements:
 
