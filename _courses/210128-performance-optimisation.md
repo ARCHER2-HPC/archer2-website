@@ -20,7 +20,7 @@ Modern HPC systems such as ARCHER2 are being constructed using increasingly powe
 
 ### Pre-requisites:
 
-Participants must have attended *ARCHER2 for Software Developers* or be familiar with software development on ARCHER and/or ARCHER2 using C, C++ or Fortran.
+Participants must have attended *ARCHER2 for Software Developers* or be familiar with software development on ARCHER, ARCHER2, or any other HPC facility, using C, C++ or Fortran.
 
 This course is targeted at users interested in optimising the performance of their own applications, e.g. through compiler options or code changes. 
 
