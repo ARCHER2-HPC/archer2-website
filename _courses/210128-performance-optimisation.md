@@ -18,6 +18,14 @@ This course covers techniques for improving the performance of parallel applicat
 
 Modern HPC systems such as ARCHER2 are being constructed using increasingly powerful nodes, with larger and larger numbers of cores and enhanced vector capabilities. To extract maximum performance from applications, it is therefore necessary to understand, and be able to overcome, on-node performance bottlenecks. This course will cover the main features of modern HPC nodes, including multiple cores, vector floating point units, deep cache hierarchies, and NUMA memory systems. We will cover techniques for efficient programming of these features, using batch processing options and compiler options as well as hand tuning of code. The course will also contain an introduction to the use of Cray performance analysis tools.
 
+### Pre-requisites:
+
+Participants must have attended *ARCHER2 for Software Developers* or be familiar with software development on ARCHER and/or ARCHER2 using C, C++ or Fortran.
+
+This course is targeted at users interested in optimising the performance of their own applications, e.g. through compiler options or code changes. 
+
+Users interested in efficient use of centrally installed packages should consider attending [Understanding Package Performance](https://www.archer2.ac.uk/training/courses/210125-package-performance/) instead
+
 ### Requirements:
 
 Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
