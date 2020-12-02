@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 7 December 2020 10:00 - 16:00 GMT
 start_date: 2020-12-07 10:00:00
 end_date: 2020-12-07 16:00:00
-trainers: Trainer tbc
+trainers: Julien Sindt, Caoimhín Laoide-Kemp, David Henty 
 course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=201207packusers
