@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 10 December 2020 10:00 - 16:00 GMT
 start_date: 2020-12-10 10:00:00
 end_date: 2020-12-10 16:00:00
-trainers: Juan Rodriguez Herrera (EPCC)
+trainers: Kevin Stratford
 course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=201210packusers

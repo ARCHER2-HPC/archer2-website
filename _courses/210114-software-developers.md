@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 14 - 15 January 2021  10:00 - 16:00
 start_date: 2021-01-14 10:00:00
 end_date: 2021-01-15 16:00:00
-trainers: Trainers tbc
+trainers: Kevin Stratford
 course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=210114-swdev
