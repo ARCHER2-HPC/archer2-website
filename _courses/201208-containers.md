@@ -7,7 +7,7 @@ start_date: 2020-12-08 10:00:00
 end_date: 2020-12-09 16:00:00
 trainers: Andy Turner and Jeremy Cohen
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1101/registrations/792/
 location: Online
 location_url:
