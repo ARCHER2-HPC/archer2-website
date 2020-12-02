@@ -161,7 +161,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 
  -->
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -181,7 +181,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
       </div>
     </div>
 		
- -->
+
 
  
 </section>
