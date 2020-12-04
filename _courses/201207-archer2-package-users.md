@@ -1,18 +1,22 @@
 ---
 layout: course
-title: ARCHER2 for software package users
+title: ARCHER2 for software package users - POSTPONED
 banner: web_banners_05.jpg 
 human_dates: 7 December 2020 10:00 - 16:00 GMT
 start_date: 2020-12-07 10:00:00
 end_date: 2020-12-07 16:00:00
 trainers: Julien Sindt, Caoimhín Laoide-Kemp, David Henty 
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=201207packusers
 location: Online
 location_url:
 prace_course: false
 ---
+
+#### Postponed
+
+> This run of the course has been postponed - if you have already registered, then you will have been contacted by email regarding transfer of your registration to a future run of this course.
 
 #### Description:
 
@@ -161,7 +165,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 
  -->
 
-
+<!--
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -182,7 +186,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
     </div>
 		
 
-
+-->
  
 </section>
 
