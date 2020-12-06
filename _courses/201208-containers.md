@@ -45,7 +45,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
 #### Timetable:
 
-Details will follow soon.
+Timetable can be found on the [course website](https://epcced.github.io/2020-12-08-Containers-Online/).
 
 
 <section id="service">
