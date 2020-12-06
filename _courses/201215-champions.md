@@ -14,22 +14,22 @@ location_url:
 prace_course: false
 ---
 
-The next HPC Champions meeting will be held virtually on the afternoon of the 15th December 2020, and will involve talks and discussion sessions. We will confirm topics closer to the time but are likely to include updates from supercomputing services, training, and HPC software. The workshop will run between 1pm and 5pm GMT. If you have an idea for a 10minute presentation, a 3 minute lightning talk or discussion topic then please get in touch with the organiser: [Andy Turner (a.turner@epcc.ed.ac.uk)](mailto:a.turner@epcc.ed.ac.uk).
+The next HPC Champions meeting will be held virtually on the afternoon of the 15th December 2020, and will involve talks and discussion sessions. We will confirm topics closer to the time but are likely to include updates from supercomputing services, training, and HPC software. The workshop will run between 1pm and 5pm GMT. If you have an idea for a discussion topic then please get in touch with the organiser: [Andy Turner (a.turner@epcc.ed.ac.uk)](mailto:a.turner@epcc.ed.ac.uk).
 
 HPC Champions is a network of individuals with the goal of supporting HPC users in the UK to learn about HPC, find the most appropriate system for their purposes, and to get the most out of that system. The roughly bi-annual HPC Champions workshops play a key part in this, increasing the coordination between the different tiers of HPC in the UK and acting as a launching point for collaboration on projects related to training, outreach, reference materials and more. 
 
 The network includes a wide number of HPC communities including RSEs and system administrators from the local, regional and national supercomputing centres, as well representatives of HPC consortia, and we encourage anyone with an interest in supporting researchers and RSEs to make the best possible use of the HPC resources to attend. HPC Champions has been co-located with both the RSE Conference and HPC-SIG in the past, and this time is partnered with the ARCHER2 UK national supercomputing service.
 
-If you have any questions, please contact the organiser: Andy Turner (a.turner@epcc.ed.ac.uk).
+If you have any questions, please contact the organiser: [Andy Turner (a.turner@epcc.ed.ac.uk)](mailto:a.turner@epcc.ed.ac.uk).
 
 Participants are required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
 ## Draft schedule:
-* 1300-1430: Presentations and lightning talks (see below for details)
-* 1430-1500: Break
-* 1500-1520: Selection of discussion topics
+* 1300-1440: Presentations and lightning talks (see below for details)
+* 1440-1510: Break
+* 1510-1530: Selection of discussion topics
 * 1530-1630: Discussion session
-* 1640-1700: Wrap-up and planning for next meeting
+* 1630-1645: Wrap-up and planning for next meeting
 
 ### Presentations
 
@@ -67,44 +67,30 @@ partitions were doubled in size, and Isambard 2, a 72-node Fujitsu A64FX partiti
 was added. This talk presents the University of Bristol HPC Group’s experience with
 setting up and running early workloads on the SVE-enabled A64FX chips in Isambard 2.
 
+**1420-1430: Baskerville: A National Tier 2 Accelerated Compute Facility**
 
+*Simon Branford, University of Birmingham*
+
+This collaboration between the University of Birmingham, The Rosalind Franklin
+Institute, The Alan Turing Institute, and Diamond Light Source, will provide a
+state-of-the-art platform for GPU-accelerated computing. This talk will introduce
+the facility and resources it will provide.
+
+**1430-1440: Sulis**
+
+*Matt Ismail, University of Warwick*
 
 <section id="service">
 
-<!--
-
-<h2><a name="materials">Course materials</a></h2>
-
-
-
-    <div class="row ">	
-
- 		
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
-          <strong>Course materials</strong>         
-        </a>
-      </div>
- -->
-
-<!--  
+    <div class="row">	
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/200713_Containers_online">
-          <strong>Course Chat</strong>       
+          href="https://pad.archer2.ac.uk/p/201215_champions">
+          <strong>Shared event document</strong>       
         </a>
       </div>
-		
-
- 	</div>
-		
- -->		
+    </div>
 					
-
-
-
-
 <!-- 		
 <h2><a name="video">Video</a></h2>
 
