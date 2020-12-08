@@ -79,16 +79,17 @@ Timetable can be found on the [course website](https://epcced.github.io/2020-12-
  	</div>
 		
 	
-					
+			
 
+		
+<h2><a name="videos">Videos</a></h2>
 
-<!-- 		
-<h2><a name="video">Video</a></h2>
+<h3>Video: Day 1 Part 1 </h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/iqwbTig_Hxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
 
 
 <!-- 
