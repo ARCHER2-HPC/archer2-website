@@ -22,7 +22,7 @@ The following table shows a provisional timetable of eCSE calls for the coming f
    <tbody>
    <tr><td>1st: ARCHER2 eCSE01</td><td>19 May 2020</td><td>16:00 on 16 Jun 2020</td><td>16:00 on 7 Jul 2020</td></tr>
    <tr><td>2nd: ARCHER2 eCSE02</td><td>8 Sep 2020</td><td>16:00 on 6 Oct 2020</td><td>16:00 on 27 Oct 2020</td></tr>
-   <tr><td>3rd: ARCHER2 eCSE03</td><td>8 Dec 2020</td><td>16:00 on 19 Jan 2021</td><td>16:00 on 9 Feb 2021</td></tr>
+   <tr><td>3rd: ARCHER2 eCSE03</td><td>8 Dec 2020</td><td>16:00 on 26 Jan 2021</td><td>16:00 on 16 Feb 2021</td></tr>
    <tr><td>4th: ARCHER2 eCSE04</td><td>6 Apr 2021</td><td>16:00 on 4 May 2021</td><td>16:00 on 25 May 2021</td></tr>
    </tbody>
   </table>
