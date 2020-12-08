@@ -40,7 +40,7 @@ The RSE may be based at the institution of the PI, at a third party institution,
 
 ## Current Call Information
 
-The second ARCHER2 eCSE call opened on **8th September 2020**. The deadline for submitting documents for technical evaluations is **16:00 on 6th October 2020**, with the final deadline for proposal submission being **16:00 on 27th October 2020**. 
+The third ARCHER2 eCSE call opened on **8th December 2020**. The deadline for submitting documents for technical evaluations is **16:00 on 26th January 2020**, with the final deadline for proposal submission being **16:00 on 16th February 2020**.
 
 Further details on the [eCSE Calls page](calls/).
 
