@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Reproducible computational environments using containers - Introduction to Docker and Singularity - Fully booked
+title: Reproducible computational environments using containers - Introduction to Docker and Singularity
 banner: web_banners_05.jpg 
 human_dates: 8 - 9 December 2020 10:00-16:00 GMT
 start_date: 2020-12-08 10:00:00
@@ -130,7 +130,7 @@ Timetable can be found on the [course website](https://epcced.github.io/2020-12-
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -149,7 +149,7 @@ Timetable can be found on the [course website](https://epcced.github.io/2020-12-
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
