@@ -76,9 +76,13 @@ Institute, The Alan Turing Institute, and Diamond Light Source, will provide a
 state-of-the-art platform for GPU-accelerated computing. This talk will introduce
 the facility and resources it will provide.
 
-**1430-1440: Sulis**
+**1430-1440: Sulis: An EPSRC platform for ensemble computing delivered by HPC Midlands+**
 
 *Matt Ismail, University of Warwick*
+
+This talk will briefly outline "Sulis", a recently-funded Tier-2 HPC
+service aimed at non-traditional parallelism in the form of ensemble
+computing.
 
 <section id="service">
 
