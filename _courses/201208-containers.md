@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Reproducible computational environments using containers - Introduction to Docker and Singularity - Fully booked
+title: Reproducible computational environments using containers - Introduction to Docker and Singularity
 banner: web_banners_05.jpg 
 human_dates: 8 - 9 December 2020 10:00-16:00 GMT
 start_date: 2020-12-08 10:00:00
 end_date: 2020-12-09 16:00:00
 trainers: Andy Turner and Jeremy Cohen
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1101/registrations/792/
 location: Online
 location_url:
@@ -45,7 +45,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
 #### Timetable:
 
-Details will follow soon.
+Timetable can be found on the [course website](https://epcced.github.io/2020-12-08-Containers-Online/).
 
 
 <section id="service">
@@ -79,16 +79,31 @@ Details will follow soon.
  	</div>
 		
 	
-					
 
 
-<!-- 		
-<h2><a name="video">Video</a></h2>
+		
+<h2><a name="videos">Videos</a></h2>
+
+<h3>Video: Day 1 Part 1 </h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/iqwbTig_Hxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+
+<h3>Video: Day 1 Part 2 </h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/f93Bse4riCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Video: Day 2 Part 1 </h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/IpzecnKfB8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 <!-- 
@@ -122,7 +137,7 @@ Details will follow soon.
  -->
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -141,7 +156,7 @@ Details will follow soon.
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>

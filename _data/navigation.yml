@@ -16,6 +16,8 @@
     url: "/about/policies/"
   - title: "Service Reports"
     url: "/about/reports/"
+  - title: "User Feedback"
+    url: "/about/feedback.html"
   - title: "Media Gallery"
     url: "/about/gallery/"
   - title: "Community"

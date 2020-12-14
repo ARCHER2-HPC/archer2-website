@@ -5,9 +5,9 @@ banner: web_banners_05.jpg
 human_dates: 10 December 2020 10:00 - 16:00 GMT
 start_date: 2020-12-10 10:00:00
 end_date: 2020-12-10 16:00:00
-trainers: Juan Rodriguez Herrera (EPCC)
+trainers: Kevin Stratford
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=201210packusers
 location: Online
 location_url:
@@ -60,7 +60,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/archer2-intro-package/">
+          href="https://epcced.github.io/2020-12-10-archer2-intro-package-online/">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -158,7 +158,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 
  -->
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -179,7 +179,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
     </div>
 		
 	
--->
+
  
 </section>
 

@@ -57,7 +57,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-intro-develop">
+          href="https://epcced.github.io/2020-12-14-archer2-developers-online/">
           <strong>Course materials</strong>         
         </a>
       </div>
