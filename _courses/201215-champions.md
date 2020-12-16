@@ -135,17 +135,17 @@ computing.
         </a>
       </div>
 
-<!--
+
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="EESSI-HPC-Champions-20201215.pdf">
+           href="20201215_HPC_Champions_Baskerville.pdf">
           <strong>Slides</strong><br/>
           Baskerville: A National Tier 2 Accelerated Compute Facility<br/>
 		Simon Branford, University of Birmingham
         </a>
       </div>
--->
+
 										
     </div>
 
