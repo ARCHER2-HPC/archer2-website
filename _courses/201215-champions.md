@@ -140,8 +140,7 @@ computing.
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
            href="20201215_HPC_Champions_Baskerville.pdf">
-          <strong>Slides</strong><br/>
-          Baskerville: A National Tier 2 Accelerated Compute Facility<br/>
+          <strong>Baskerville: A National Tier 2 Accelerated Compute Facility</strong><br/>
 		Simon Branford, University of Birmingham
         </a>
       </div>
