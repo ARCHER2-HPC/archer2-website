@@ -86,6 +86,7 @@ computing.
 
 <section id="service">
 
+<!--
     <div class="row">	
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -94,6 +95,7 @@ computing.
         </a>
       </div>
     </div>
+-->
 					
 <!-- 		
 <h2><a name="video">Video</a></h2>
