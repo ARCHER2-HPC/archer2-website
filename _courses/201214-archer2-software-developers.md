@@ -5,9 +5,9 @@ banner: web_banners_05.jpg
 human_dates: 14 - 15 December 2020 10:00 - 16:00 GMT
 start_date: 2020-12-14 10:00:00
 end_date: 2020-12-15 16:00:00
-trainers: Trainer tbc
+trainers: Kevin Stratford
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=201214swdev
 location: Online
 location_url:
@@ -62,7 +62,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
         </a>
       </div>
 
-
+<!--
   
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -70,6 +70,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
           <strong>Course Chat</strong>       
         </a>
       </div>
+-->
 		
 
  	</div>
@@ -104,21 +105,21 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
     </div>
  -->
  
-<!--
+
  		
 <h2><a name="video">Videos</a></h2>
 
 <h3><a name="video1a">Day 1 - part 1</a></h3>
 
 <div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/Svlb7rm_PzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/-hlEAyXvk2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 <h3><a name="video1b">Day 1 - part 2</a></h3>
 
 <div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/Eq1pBlvM1bM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/av3O68UH8LI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -127,13 +128,13 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 <h3><a name="video2">Day 2</a></h3>
 
 <div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/hzR-fy4Eqlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/RCpCsA4_Vls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
--->
+
+<!--
 
 
-<!-- 
 <h2><a name="slides">Slides</a></h2>
 
 
@@ -161,9 +162,9 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 										
     </div>
 
- -->
+-->
 
-<!--
+
  
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -183,7 +184,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
     </div>
 		
 		
--->
+
  
 </section>
 
