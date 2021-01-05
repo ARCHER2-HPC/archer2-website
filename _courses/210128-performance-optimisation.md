@@ -7,7 +7,7 @@ start_date: 2021-01-28 09:30:00
 end_date: 2021-01-29 16:00:00
 trainers: David Henty, Adrian Jackson, Mark Bull
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://events.prace-ri.eu/event/1124/registrations/805/ 
 location: Online
 location_url:
