@@ -64,7 +64,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/archer2-intro-package/">
+          href="https://epcced.github.io/2021-01-12-archer2-package-users-course/">
           <strong>Course materials</strong>         
         </a>
       </div>
