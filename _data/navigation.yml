@@ -31,6 +31,8 @@
   sublinks:
   - title: "User Support and Access"
     url: "/support-access/"
+  - title: "Status"
+    url: "/support-access/status.html"
   - title: "Service Desk"
     url: "/support-access/servicedesk.html"
   - title: "Get Access"
@@ -115,3 +117,4 @@
     url: "/research/publications"    
   - title: "Research Consortia"
     url: "/research/consortia"   
+
