@@ -115,3 +115,6 @@
     url: "/research/publications"    
   - title: "Research Consortia"
     url: "/research/consortia"   
+
+- title: "Status"
+  url: "/status.html"
