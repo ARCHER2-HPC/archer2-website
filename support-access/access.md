@@ -125,7 +125,7 @@ Further information is provided on the [NERC HPC page](https://nerc.ukri.org/res
 EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER instant access.
 
 #### <a name="driving_test"></a>Driving test
-A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
+A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the full 23 cabinet service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
 
 #### <a name="prace"></a>PRACE
 ##### Guidance on access to PRACE machine for UK scientists
