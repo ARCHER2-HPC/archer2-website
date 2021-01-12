@@ -17,7 +17,7 @@ This scheme is intended to promote access to HPC to new users and communities wh
 The Driving Test is intended for academics and non-academic researchers working in UK based research institutions within sectors related to the remits of the ARCHER2 partner research councils for pre-competitive computational research runs. The final decision on awarding access to ARCHER2 remains with the service. 
 
 
-## Take the ARCHER Driving Test
+## Take the ARCHER2 Driving Test
 
 The test will be available once ARCHER2 becomes available.
 
