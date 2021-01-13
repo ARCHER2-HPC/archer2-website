@@ -7,15 +7,15 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-### Wednesday 13th January 2021 15:50
-
-HPE Cray are investigating an issue on a key backend server on the ARCHER2 4-Cabinet service. This is causing instability in running jobs on the system so we have stopped any new jobs starting while investigations take place. We will update you once we have further information. 
-We apologise for the inconvenience caused.
+No current issues
 
 
 ## Recently Resolved Issues
 
-No recent issues
+### Wednesday 13th January 2021 17:00
+
+An issue on a key backend server on the ARCHER2 4-Cabinet service caused instability in running jobs on the system so we stopped any new jobs starting while investigations took place. The affected nodes have been rebooted and new work is once again being scheduled.
+We apologise for the inconvenience caused.
 
 
 ## Upcoming Maintenance Sessions
