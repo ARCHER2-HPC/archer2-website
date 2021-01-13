@@ -7,7 +7,7 @@ start_date: 2021-01-12 10:00:00
 end_date: 2021-01-12 16:00:00
 trainers: Julien Sindt
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210112-pkgusers
 location: Online
 location_url:
@@ -97,7 +97,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -116,7 +116,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
