@@ -6,11 +6,11 @@ author: Andy Turner
 categories: [news]
 ---
 
+We are currently in (or have recently finished, depending on when you read this) the Early Access period for the ARCHER2 service. During this period, users nominated by their peers and the ARCHER2 teams at EPCC and HPE Cray have had access to the ARCHER2 4-cabinet system. 
 
+> The Early User Access programme is very useful ... It allows us to get familiar with the new configuration and greatly improve the efficiency of the work. Many thanks. (ARCHER2 Early Access User)
 
-> The Early User Access programme is very useful ... It allows us to get familiar with the new configuration and greatly improve the efficiency of the work. Many thanks. (ARCHER2 Early Access User) 
-
-We are currently in (or have recently finished, depending on when you read this) the Early Access period for the ARCHER2 service. During this period, users nominated by their peers and the ARCHER2 teams at EPCC and HPE Cray have had access to the ARCHER2 4-cabinet system. Different people have been using this early access for different things, but most uses fall into one or more of the following categories: 
+Different people have been using this early access for different things, but most uses fall into one or more of the following categories: 
 
 - Porting software 
 - Porting research workflows 
