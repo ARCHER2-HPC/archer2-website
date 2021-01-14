@@ -92,7 +92,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -111,7 +111,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>

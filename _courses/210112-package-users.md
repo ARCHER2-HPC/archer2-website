@@ -82,16 +82,15 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
  	</div>
 		
 		
-					
 
 
-<!-- 		
+		
 <h2><a name="video">Video</a></h2>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/pv2ZGyIE7JI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
 
 
 
