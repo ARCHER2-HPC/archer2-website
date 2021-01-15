@@ -46,22 +46,22 @@ Details to follow
 
 <section id="service">
 
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://epcced.github.io/2021-01-25_PackagePerformance_Online/">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
+
 
 <!--  
       <div class="col-xs-6 col-sm-4">
