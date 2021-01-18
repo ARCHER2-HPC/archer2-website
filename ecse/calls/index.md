@@ -9,9 +9,16 @@ A timetable of recent, current and upcoming calls can be found [here](timetable.
 
 ### The 3rd ARCHER2 eCSE call
 
-The 3rd ARCHER2 eCSE call (ARCHER2 eCSE03) opened on the 8 December 2020. The deadline for submitting documents for technical evaluations
-is **16:00 on 26 Jan 2021**, with the final deadline for proposal
-submission being **16:00 on 16 Feb 2021**.
+**Given the current situation many are facing right now with schools
+closed and further restrictions in place, we have taken a decision to
+extend the deadlines for the current eCSE call (ARCHER2 eCSE03) by 4
+weeks. We are aware that the recent changes in restrictions will
+affect different people in different ways. The ARCHER2 Service is
+committed to [equality, diversity, inclusion and accessibility](../../community/diversity-inclusion/) and we
+believe that giving this extension will allow as many people to
+participate in the call as possible.**
+
+The 3rd ARCHER2 eCSE call (ARCHER2 eCSE03) opened on the 8 Dec 2020. The deadline for submitting documents for technical evaluations is **16:00 on 23 Feb 2021**, with the final deadline for proposal submission being **16:00 on 16 Mar 2021**.
 
 Please note that applying for an eCSE project under ARCHER2 is a 2-stage
 submission where technical evaluation documents must be submitted for
