@@ -7,7 +7,7 @@ start_date: 2021-01-18 10:00:00
 end_date: 2021-01-21 13:00:00
 trainers: Juan Rodriguez Herrera
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210118-swcarp
 location: Online
 location_url:
@@ -73,7 +73,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -92,7 +92,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
