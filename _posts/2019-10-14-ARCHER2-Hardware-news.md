@@ -3,6 +3,7 @@ layout: post
 title: UKRI ARCHER2 Hardware Announcement
 date: 2019-10-14 12:00:00
 author: UKRI
+tags: [blog]
 categories: [news]
 ---
 

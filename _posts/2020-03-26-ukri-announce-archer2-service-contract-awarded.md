@@ -4,6 +4,7 @@ title: UKRI Announce ARCHER2 services contracts awarded
 subtitle: EPCC has been awarded contracts to run the Service Provision (SP) and Computational Science and Engineering (CSE) services for the next national supercomputer, ARCHER2
 date: 2020-03-26 08:00:00
 author: EPCC
+tags: [blog]
 categories: [news]
 ---
 

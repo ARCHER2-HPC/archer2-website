@@ -3,6 +3,7 @@ layout: post
 title: ARCHER2 Early Access - communication and community
 date: 2020-12-16 12:00:00
 author: Andy Turner
+tags: [blog]
 categories: [news]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: ARCHER2 – 4 cabinets arrive
 date: 2020-07-13 12:00:00
 author: Lorna Smith
+tags: [blog]
 categories: [news]
 ---
 

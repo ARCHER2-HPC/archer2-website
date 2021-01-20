@@ -3,6 +3,7 @@ layout: post
 title: UKRI ARCHER2 update
 date: 2020-06-19 12:00:00
 author: UKRI
+tags: [blog]
 categories: [news]
 ---
 

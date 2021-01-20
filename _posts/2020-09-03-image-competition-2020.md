@@ -3,6 +3,7 @@ layout: post
 title: ARCHER2 Image and Video Competition 2020
 date: 2020-09-03 12:00:00
 author: Clair Barrass
+tags: [events]
 categories: [news]
 ---
 
