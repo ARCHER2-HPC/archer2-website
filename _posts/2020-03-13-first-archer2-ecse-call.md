@@ -3,6 +3,7 @@ layout: post
 title: First ARCHER2 eCSE Call
 date: 2020-03-13 12:00:00
 author: EPCC
+tags: [calls]
 categories: [news]
 ---
 The ARCHER2 Embedded (eCSE) Programme: Funding RSE staff Embedded within Research Communities

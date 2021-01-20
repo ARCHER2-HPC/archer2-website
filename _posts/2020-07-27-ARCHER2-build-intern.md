@@ -3,6 +3,7 @@ layout: post
 title: ARCHER2 Build Intern log
 date: 2020-07-27 12:00:00
 author: Gregor Muir
+tags: [blog]
 categories: [news]
 ---
 

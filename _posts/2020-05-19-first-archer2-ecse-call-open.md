@@ -4,6 +4,7 @@ title: ARCHER2 Embedded CSE (eCSE) call
 subtitle: We are very pleased to announce that the 1st ARCHER2 eCSE call (ARCHER2 eCSE01) is now open for proposals
 date: 2020-05-19 16:00:00
 author: EPCC
+tags: [calls]
 categories: [news]
 ---
 

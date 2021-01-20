@@ -3,6 +3,7 @@ layout: post
 title: Day 3 of the ARCHER2 Build
 date: 2020-07-15 12:00:00
 author: Lorna Smith
+tags: [blog]
 categories: [news]
 ---
 
