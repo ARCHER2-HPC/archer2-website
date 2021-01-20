@@ -10,6 +10,8 @@
     url: "/about/partners.html"   
   - title: "News &amp; Announcements"
     url: "/about/news/"
+  - title: "Blog"
+    url: "/about/news/blog"    
   - title: "Calendar"
     url: "/about/calendar.html"
   - title: "Service Policies"
@@ -20,8 +22,6 @@
     url: "/about/feedback.html"
   - title: "Media Gallery"
     url: "/about/gallery/"
-  - title: "Community"
-    url: "/community/"
     
 
 

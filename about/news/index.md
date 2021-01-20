@@ -5,6 +5,9 @@ summary: All the latest updates and information from the ARCHER2 service.
 banner: web_banners_02.jpg
 ---
 
+Filter news by tags :  <a href="/about/news/blog"><code class="highligher-rouge"><nobr>blog</nobr></code>&nbsp;</a>        <a href="/about/news/calls"><code class="highligher-rouge"><nobr>calls</nobr></code>&nbsp;</a>        <a href="/about/news/events"><code class="highligher-rouge"><nobr>events</nobr></code>&nbsp;</a>      <!--  <a href="/about/news/newsletters"><code class="highligher-rouge"><nobr>newsletters</nobr></code>&nbsp;</a>  -->   <!--   <a href="/about/news/"><code class="highligher-rouge"><nobr>show all</nobr></code>&nbsp;</a>   -->
+
+
 
 {% for post in site.posts %}
 <div class="post-area">
