@@ -23,9 +23,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 They are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
 
-#### Timetable:
 
-Details to follow
 
 <section id="service">
 
@@ -59,18 +57,35 @@ Details to follow
 		
 		
 					
+ 		
+<h2><a name="videos">Videos</a></h2>
 
-
-<!-- 		
-<h2><a name="video">Video</a></h2>
+<h3>Day 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/nw_Rg6bu1ss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
 
 
+<h3>Day 2</h3>
 
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/tpew216sl3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Day 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/of1uNRXHDaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Day 4</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Mt1_RLwc2qM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
