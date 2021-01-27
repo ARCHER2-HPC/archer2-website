@@ -7,6 +7,8 @@ tags: [newsletters]
 categories: [news]
 ---
 
+Welcome to the first ARCHER2 weekly user mailing.
+
 
 - [End of ARCHER Service](#end-of-archer-service)
 - [EPCC GPU Hackathon 19-28 April 2021](#epcc-gpu-hackathon-19-28-april-2021)
@@ -16,7 +18,7 @@ categories: [news]
 - [Upcoming ARCHER2 training](#other-upcoming-archer2-training) 
 
 
-Welcome to the first ARCHER2 weekly user mailing.
+
 
 
 ## End of ARCHER Service
