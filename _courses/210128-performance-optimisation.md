@@ -7,7 +7,7 @@ start_date: 2021-01-28 09:30:00
 end_date: 2021-01-29 16:00:00
 trainers: David Henty, Adrian Jackson, Mark Bull
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1124/registrations/805/ 
 location: Online
 location_url:
@@ -33,30 +33,28 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 They are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
 
-#### Timetable:
 
-Details to follow
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/single-node-optimisation-course/tree/2021-01-29">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/210128-performance-optimisation">
@@ -64,7 +62,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
@@ -83,7 +81,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -92,9 +90,8 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=XXXX" 
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+
+		   href="https://events.prace-ri.eu/event/1124/surveys/732"
 
 		>
           <strong>Feedback</strong><br/>
@@ -103,7 +100,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
