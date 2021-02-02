@@ -11,7 +11,7 @@ categories: [news]
 
 As the ARCHER service was switched off, our colleagues at the ACF photographed and recorded ARCHER's final moments. 
 
-With a particular thank you to Connor, Aaron and Paul at the ACF and to Sypro for putting this video together, we give you ARCHER's final moment. It is best with the sound on. 
+With a particular thank you to Connor, Aaron, Jordan, Craig and Paul at the ACF and to Sypro for putting this video together, we give you ARCHER's final moment. It is best with the sound on. 
 
 
 <div>
