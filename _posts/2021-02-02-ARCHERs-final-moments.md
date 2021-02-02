@@ -21,6 +21,6 @@ With a particular thank you to Connor, Aaron and Paul at the ACF and to Sypro fo
 </div>
 
 
-As we say our final farewell, my colleagues have put together a few blog articles around the service which will be released this week. Clair discusses the success of the driving test, an innovative way to encourage new users on to the sysyem. Jo discusses life on the front line of the query system and Andy takes us through application code usage throughout the lifetime of the service.
+As we say our final farewell, my colleagues have put together a few blog articles around the service which will be released this week. Clair discusses the success of the driving test, an innovative way to encourage new users on to the system. Jo discusses life on the front line of the query system and Andy takes us through application code usage throughout the lifetime of the service.
 
 
