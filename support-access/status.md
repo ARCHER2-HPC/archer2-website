@@ -20,4 +20,8 @@ We apologise for the inconvenience caused.
 
 ## Upcoming Maintenance Sessions
 
-No sessions planned
+### Full maintenance: Thursday 4 February 2021, 0800-1600 GMT
+
+During this maintenance session users will not be able to access the login or compute nodes. Jobs will be drained from the system before the maintenance session.
+
+The maintenance session will be used by HPE Cray to resolve issues which several users are experiencing with the High Speed Network (HSN).
