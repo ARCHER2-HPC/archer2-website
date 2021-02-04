@@ -12,16 +12,18 @@ No current issues
 
 ## Recently Resolved Issues
 
-### Thursday 14th January 2021 16:45
-
-The issue on a key backend server on the ARCHER2 4-cabinet service has now been resolved.  New jobs are being scheduled once more.
-We apologise for the inconvenience caused.
+No recent issues
 
 
 ## Upcoming Maintenance Sessions
 
-### Full maintenance: Thursday 4 February 2021, 0800-1600 GMT
+No planned maintenance
 
-During this maintenance session users will not be able to access the login or compute nodes. Jobs will be drained from the system before the maintenance session.
+## Completed Maintenance Sessions
 
-The maintenance session will be used by HPE Cray to resolve issues which several users are experiencing with the High Speed Network (HSN).
+### Full maintenance: Thursday 4 February 2021, 0800-1600 GMT - completed 1400 GMT
+
+The maintenance session was used by HPE Cray to resolve issues which several users are experiencing with the High Speed Network (HSN).
+
+We are pleased to confirm that this ARCHER2 maintenance has completed, ahead of schedule, and the service is once more available to users.
+
