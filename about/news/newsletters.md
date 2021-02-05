@@ -13,6 +13,9 @@ Filter news by tags :  <a href="/about/news/blog"><code class="highligher-rouge"
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <p class="post-date">{{ post.date | date_to_long_string }}
 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  {{ post.author }}
+
       &nbsp;&nbsp;&nbsp;&nbsp;
       {% for tag in post.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
