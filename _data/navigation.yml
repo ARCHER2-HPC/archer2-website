@@ -37,6 +37,8 @@
     url: "/support-access/servicedesk.html"
   - title: "Get Access"
     url: "/support-access/access.html"
+  - title: "CU Calculator"
+    url: "/support-access/cu-calc.html"
 
 
 - title: Documentation
