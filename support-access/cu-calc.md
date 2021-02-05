@@ -157,7 +157,7 @@ use in the Je-S submission system.</p>
   <th class="value">Cost/CU (&pound;)</th> 
 </tr> 
 <tr> 
-  <td id="otherarcher2Cost" class="value">0.36</td> 
+  <td id="otherarcher2Cost" class="value">0.39</td> 
 </tr> 
 </tbody> 
 </table> 
