@@ -19,7 +19,7 @@ We apologise for this unplanned interruption to service.
 
 #### Monday 8th February 9:30  SAFE restored
 
-SAFE was also unavailable due to the poser outage so the Service Desk were unable to see or respond to user queries. <br>
+SAFE was also unavailable due to the power outage so the Service Desk were unable to see or respond to user queries. <br>
 SAFE has now been restored and our team are responding as quickly as possible to queries.
 
 
