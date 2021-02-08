@@ -52,16 +52,25 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 
-<!--
+
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/-weI6_Pgdps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
+<h3><a name="walkthroughvideo">Walkthrough of how to Submit eCSE Application via SAFE Video</a></h3>
+
+<div>
+
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/72741_NbO6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
 
 <!--
 
