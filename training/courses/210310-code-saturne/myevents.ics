@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210209T150538Z
+UID:20210209T150538Z-1414823344@marudot.com
+DTSTART;TZID=Europe/London:20210310T131500
+DTEND;TZID=Europe/London:20210310T173000
+SUMMARY:Training: Computational Thermal Hydraulics using Code_Saturne
+DESCRIPTION:Join link : https://eu.bbcollab.com/guest/b249d40c03b648f89f14ee764bb8effb\n\nARCHER2 Course Page : https://www.archer2.ac.uk/training/courses/210310-code-saturne
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Training: Computational Thermal Hydraulics using Code_Saturne
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210209T150538Z
+UID:20210209T150538Z-1520287287@marudot.com
+DTSTART;TZID=Europe/London:20210311T090000
+DTEND;TZID=Europe/London:20210311T123000
+SUMMARY:Training: Computational Thermal Hydraulics using Code_Saturne
+DESCRIPTION:Join link : https://eu.bbcollab.com/guest/b249d40c03b648f89f14ee764bb8effb\n\nARCHER2 Course Page : https://www.archer2.ac.uk/training/courses/210310-code-saturne
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Training: Computational Thermal Hydraulics using Code_Saturne
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210209T150538Z
+UID:20210209T150538Z-538698523@marudot.com
+DTSTART;TZID=Europe/London:20210325T150000
+DTEND;TZID=Europe/London:20210325T153000
+SUMMARY:Training: Computational Thermal Hydraulics using Code_Saturne - Follow up
+DESCRIPTION:Join link : https://eu.bbcollab.com/guest/b249d40c03b648f89f14ee764bb8effb\n\nARCHER2 Course Page : https://www.archer2.ac.uk/training/courses/210310-code-saturne
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Training: Computational Thermal Hydraulics using Code_Saturne - Follow up
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
