@@ -7,15 +7,16 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-#### Monday 8th February 8:00
-
-A powercut affecting a large part of SE Scotland last night has affected machines and hosting services based at our ACF centre. <br>
-At present ARCHER2 is unavailable for users to log on. <br>
-Our team are on site and we will provide further updates as soon as possible. <br>
-We apologise for this unplanned interruption to service.
-
+No current issues
 
 ## Recently Resolved Issues
+
+#### Tuesday 9th February 9:30
+
+ARCHER2 has been restored to service, following the power outage affecting a large part of SE Scotland on Monday night. <br>
+We apologise for this unplanned interruption to service.<br>
+Please alert the [Service desk](mailto:support@archer2.ac.uk) if you experience any further issues.
+
 
 #### Monday 8th February 9:30  SAFE restored
 
