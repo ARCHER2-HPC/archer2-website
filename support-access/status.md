@@ -7,7 +7,13 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-No current issues
+### Service Desk emails delayed : Tuesday 9th February 17.00
+
+Queries submitted to ARCHER2 Service Desk via the `support@archer2.ac.uk` email address are taking a very long time to arrive.
+
+Please send queries to [helpdesk@archer2.ac.uk](mailto: helpdesk@archer2.ac.uk) or log in to SAFE and use  "Help and Support", "[Submit Support Request](https://safe.epcc.ed.ac.uk/TransitionServlet/Query//-/Transition=Submit)" instead.
+
+We will provide a further update as soon as this issue is resolved.
 
 ## Recently Resolved Issues
 
