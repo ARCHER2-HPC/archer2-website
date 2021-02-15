@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 10 - 11 March 2021  13:15 - 12:30
 start_date: 2021-03-10 13:15:00
 end_date: 2021-03-11 12:30:00
-trainers: Charles Moulinec (STFC,DL,SC)
+trainers: Charles Moulinec (STFC,DL,SC), Juan Uribe (EDF)
 course_type: course
 registration_status: open
 registration_url: https://events.prace-ri.eu/event/1169/registrations/847/
