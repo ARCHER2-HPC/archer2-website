@@ -24,7 +24,7 @@ The maintenance session will start at 0830 and we expect it to last throughout T
 
 This outage will include the User Access Nodes and the Compute Nodes.
 
-HPE Cray will be applying a patch to the system software. Apologies for the inconvenience of this planned essential outage.
+HPE Cray will be applying an update to the system software. Apologies for the inconvenience of this planned essential outage.
 
 
 ## Completed Maintenance Sessions

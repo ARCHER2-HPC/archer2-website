@@ -7,7 +7,7 @@ start_date: 2021-03-22 10:00:00
 end_date: 2021-03-24 16:00:00
 trainers: Julien Sindt (EPCC)
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://events.prace-ri.eu/event/1160/registrations/839/
 location: Online
 location_url:
