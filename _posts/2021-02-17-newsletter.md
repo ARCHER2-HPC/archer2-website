@@ -129,9 +129,8 @@ Follow us on Twitter for project news: [https://twitter.com/HPCEuropa3](https://
 
 
 - HPC Carpentry, Online, 22 - 23 February 2021 10:00 - 16:00 
-- Computational Thermal Hydraulics using Code_Saturne, Online, 10 - 11 March 2021 13:15 - 12:30 
 - Message-passing programming with MPI, Online, 17, 22 and 24 March 2021 09:30 - 17:00 GMT, 09:30 - 15:00 GMT on final day 
-- Introduction to HPC for Life Scientists, Online, 22nd-24th March 2021 10:00 - 16:00 GMT (11:00 - 17:00 CET) 
+
 
 
 Further details [https://www.archer2.ac.uk/training/#upcoming-training](https://www.archer2.ac.uk/training/#upcoming-training)
