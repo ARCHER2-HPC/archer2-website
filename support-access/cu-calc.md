@@ -6,7 +6,7 @@ banner: web_banners_04.jpg
 ---    
 
 This page helps you to calculate the values you need to fill in the
-[ARCHER2 Technical Assessment Form](ta.md).
+[ARCHER2 Technical Assessment Form](ta/).
     
 To use the calculator fill in the values in the input section and the remaining
 entries will be calculated automatically. You do not need to fill in all the fields if you
