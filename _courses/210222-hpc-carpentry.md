@@ -28,7 +28,7 @@ This course introduces accessing remote advanced computing facilities via the co
 There are no prerequisites for this workshop.
 
 **Requirements**
-Participants must use a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. You will need a bash shell. They are also required to abide by ARCHER2 Training Code of Conduct.
+Participants must use a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. You will need a bash shell. They are also required to abide by [ARCHER2 Training Code of Conduct](https://www.archer2.ac.uk/training/code-of-conduct/).
 
 <section id="service">
 
