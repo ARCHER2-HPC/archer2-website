@@ -29,6 +29,6 @@ The maintenance was completed successfully and ARCHER2 is now running Version 1.
 
 During yesterday's maintenance, some users may have been surprised to see their compute jobs begin to run. We apologise for this, it was due to a mistake in the maintenance configuration. Jobs that ran to completion during the maintenance will have been able to write their outputs and close successfully, so the output of such jobs should be valid. However, jobs that were running beyond approximately 10pm last night, will have been deleted when the high-speed network was rebooted, and will need to be resubmitted.
 
-Thank you all for your patience during the maintenance. If you encounter any problems, please contact the ARCHER2 Service Desk as usual [https://www.archer2.ac.uk/support-access/]
+Thank you all for your patience during the maintenance. If you encounter any problems, please contact the [ARCHER2 Service Desk as usual](https://www.archer2.ac.uk/support-access/).
 
 
