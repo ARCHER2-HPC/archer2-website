@@ -56,8 +56,9 @@ appropriate registration link in the table on the
 		var vemail = document.getElementById("email").value;
 		var vaccess = document.getElementById("access").value;
 		var vmessage = document.getElementById("message").value;
-		var reginfotext = vprompt.concat(vname, TAB,  vsurname, TAB, vinstitution, TAB,  vemail, TAB,TAB,TAB,TAB,TAB,TAB,TAB,TAB,TAB,TAB,  vaccess, TAB,  vmessage);
+		var reginfotext = "";
 		document.getElementById("reginfo").value = reginfotext;	
+		
   }
 	
 
@@ -156,7 +157,7 @@ appropriate registration link in the table on the
 <p><label for="status"><strong>Please select one of the following descriptions of your HPC use:</strong></label><br />
 <select id="status" name="status">
   <option required value="Not selected">Please select:</option>
-  <option value="ARCHER user">ARCHER User</option>
+  <option value="ARCHER2 user">ARCHER User</option>
 	<option value="DIRAC user">DIRAC User</option>
 	<option value="Regional UK HPC">Regional UK HPC User</option>	
   <option value="Other">Other (please specify below)</option>
@@ -176,7 +177,7 @@ appropriate registration link in the table on the
 	<option value="Research Support">Research Support: Technician, Software engineer, etc.</option>
 	<option value="Industrial/Commercial">Industrial/Commercial</option>
 	<option value="Admin">Administrative Staff</option>
-	<option value="ARCHER Service">ARCHER Service staff</option>
+	<option value="ARCHER2 Service">ARCHER Service staff</option>
 	<option value="Other">Other (please specify below)</option>
 </select>
 </p>
