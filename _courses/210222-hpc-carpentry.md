@@ -7,7 +7,7 @@ start_date: 2021-02-22 10:00:00
 end_date: 2021-02-23 16:00:00
 trainers: Kevin Stratford
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1161/registrations/840/
 location: Online
 location_url:
@@ -79,7 +79,7 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -98,7 +98,7 @@ Participants must use a laptop with a Mac, Linux, or Windows operating system (n
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
