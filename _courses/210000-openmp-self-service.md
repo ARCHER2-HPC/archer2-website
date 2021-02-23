@@ -29,6 +29,8 @@ The course covers the following topics:
 - OpenMP implementations
 - Memory models.
 
+This self-service course includes a series of Lecture videos (with transcript and slides downloadable) which you can work through at your own pace and in your own time.
+
 Hands-on practical programming exercises are included, with the option of working in either Fortran or C.
  
 Access to ARCHER2 provided for participants to build and run the exercises.
