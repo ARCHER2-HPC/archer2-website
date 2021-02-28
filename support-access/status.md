@@ -7,7 +7,12 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-### 20:00, 27 Feb 2021: Login node issues
+No current issues.
+
+## Recently Resolved Issues
+
+
+### 20:00, 27 Feb 2021 - 12:30, 28 Feb 2021: Login node issues
 
 The login nodes (UAN) have lost connection to some management services. This means that
 some commands will not work on the login nodes. In particular, all commands to the
@@ -18,13 +23,7 @@ to:
 slurm_load_partitions: Unable to contact slurm controller (connect failure)
 ```
 
-The ARCHER2 team are investigating and will provide further updates once there is more
-information available.
-
-## Recently Resolved Issues
-
-No recent issues
-
+A workaround was put in place on 28 Feb 2021 to resolve this issue.
 
 ## Upcoming Maintenance Sessions
 
@@ -33,7 +32,7 @@ No scheduled maintenance
 
 ## Completed Maintenance Sessions
 
-### Friday 19th February 1030 ARCHER2 Returned to service
+### 19 Feb 2021, 10:30 ARCHER2 Returned to service
 
 We are pleased to confirm that ARCHER2 is now back in service, following yesterday's maintenance and you may now login and begin running work again.  We have updated the DNS but it appears that users of some ISPs may require some time for their DNS to update. We expect these issues to clear in the next hour or so.
 
