@@ -7,7 +7,19 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-No current issues
+### 20:00, 27 Feb 2021: Login node issues
+
+The login nodes (UAN) have lost connection to some management services. This means that
+some commands will not work on the login nodes. In particular, all commands to the
+Slurm scheduler (e.g. `sbatch`, `squeue`) will not work and will return an error similar
+to:
+
+```
+slurm_load_partitions: Unable to contact slurm controller (connect failure)
+```
+
+The ARCHER2 team are investigating and will provide further updates once there is more
+information available.
 
 ## Recently Resolved Issues
 
