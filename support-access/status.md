@@ -27,8 +27,15 @@ A workaround was put in place on 28 Feb 2021 to resolve this issue.
 
 ## Upcoming Maintenance Sessions
 
-No scheduled maintenance
+### 1st March 2021 14:00 - Reconnect management switch on login nodes (UAN)
 
+The workaround put in place yesterday, 28th February, to restore access to management services means that interactive jobs are currently unable to run.
+
+The switch has now been rebooted and is working, so will now be restored allowing interactive jobs once more.
+
+This will be done at 14:00 today, Monday 1st March.
+
+Most users should see no impact from this work; it will very briefly interrupt job submission and some disc mounts.  Please alert the [Service desk](mailto: support@archer2.ac.uk) if you see any further issues.
 
 ## Completed Maintenance Sessions
 
