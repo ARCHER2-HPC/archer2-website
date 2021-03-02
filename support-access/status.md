@@ -31,14 +31,9 @@ Please alert the [Service desk](mailto: support@archer2.ac.uk) if you see any fu
 
 ## Upcoming Maintenance Sessions
 
-No upcomming sessions scheduled
+No upcoming sessions scheduled
 
 ## Completed Maintenance Sessions
 
-### 19 Feb 2021, 10:30 ARCHER2 Returned to service
-
-We are pleased to confirm that ARCHER2 is now back in service, following yesterday's maintenance and you may now login and begin running work again.  We have updated the DNS but it appears that users of some ISPs may require some time for their DNS to update. We expect these issues to clear in the next hour or so.
-
-Thank you all for your patience during the maintenance. If you encounter any problems, please contact the [ARCHER2 Service Desk as usual](https://www.archer2.ac.uk/support-access/).
-
+There have been no recent maintenance sessions. 
 
