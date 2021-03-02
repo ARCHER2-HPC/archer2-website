@@ -39,8 +39,6 @@ No upcomming sessions scheduled
 
 We are pleased to confirm that ARCHER2 is now back in service, following yesterday's maintenance and you may now login and begin running work again.  We have updated the DNS but it appears that users of some ISPs may require some time for their DNS to update. We expect these issues to clear in the next hour or so.
 
-The maintenance was completed successfully and ARCHER2 is now running Version 1.3.3 of the system software, which includes bug fixes and resilience improvements.
-
 Thank you all for your patience during the maintenance. If you encounter any problems, please contact the [ARCHER2 Service Desk as usual](https://www.archer2.ac.uk/support-access/).
 
 
