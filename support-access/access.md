@@ -106,7 +106,7 @@ e completed form to EPSRC for approval.
   
 
 #### <a name="other_grants"></a>Access through Grants with other Funding Bodies 
-For access through grants with other Funding Bodies, please complete a <a href="./ta/ARCHER2-TA-form.docx">Technical Assessment Form</a> and submit this to the ARCHER2 Service Desk to confirm that the proposal is technically suitable for ARCHER2 and the resources required to include in the grant application. Once this is completed, the ARCHER2 Service Desk will send the completed form to EPSRC for approval. 
+For access through grants with other Funding Bodies, please complete a <a href="./ta/ARCHER2-TA-form.docx">Technical Assessment Form</a> and submit this to the ARCHER2 Service Desk to confirm that the proposal is technically suitable for ARCHER2 and the resources required to include in the grant application. Once this is completed, the ARCHER2 Service Desk will send the completed form to EPSRC in order to begin discussions with the other funding body. Please note that these discussions may take some time, and EPSRC cannot guarantee that an agreement will be reached.
 
 
 #### <a name="topup_grant"></a>Grant Top-Up 
