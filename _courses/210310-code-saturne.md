@@ -107,7 +107,7 @@ This course is organised by CCP-NTH/UKTC in association with ARCHER2 and PRACE.
 
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -117,7 +117,7 @@ This course is organised by CCP-NTH/UKTC in association with ARCHER2 and PRACE.
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
            
-		   href="https://events.prace-ri.eu/event/1169/surveys/761/"
+		   href="https://events.prace-ri.eu/event/1169/surveys/761"
 
 		>
           <strong>Feedback</strong><br/>
@@ -126,7 +126,7 @@ This course is organised by CCP-NTH/UKTC in association with ARCHER2 and PRACE.
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
