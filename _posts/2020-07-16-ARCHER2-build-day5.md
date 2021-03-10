@@ -3,6 +3,7 @@ layout: post
 title: ARCHER2 Build Final Day
 date: 2020-07-17 12:00:00
 author: Lorna Smith
+tags: [blog]
 categories: [news]
 ---
 

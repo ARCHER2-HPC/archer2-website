@@ -3,6 +3,7 @@ layout: post
 title: ARCHER2 – 4 cabinets ship from the US
 date: 2020-07-03 12:00:00
 author: Lorna Smith
+tags: [blog]
 categories: [news]
 ---
 

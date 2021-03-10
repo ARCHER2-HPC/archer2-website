@@ -4,6 +4,7 @@ title: Welcome to the ARCHER2 website!
 subtitle: The next generation UK National HPC service
 date: 2020-03-13 08:00:00
 author: EPCC
+tags: [blog]
 categories: [news]
 ---
 We are pleased to welcome you to the new ARCHER2 website.

@@ -7,7 +7,7 @@ start_date: 2020-12-15 13:00:00
 end_date: 2020-12-15 17:00:00
 trainers: Andy Turner
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=champions
 location: Online
 location_url:
@@ -86,6 +86,7 @@ computing.
 
 <section id="service">
 
+<!--
     <div class="row">	
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -94,6 +95,7 @@ computing.
         </a>
       </div>
     </div>
+-->
 					
 <!-- 		
 <h2><a name="video">Video</a></h2>
@@ -104,7 +106,7 @@ computing.
  -->
 
 
-<!-- 
+
 <h2><a name="slides">Slides</a></h2>
 
 
@@ -112,11 +114,24 @@ computing.
     <div class="row ">	
 
 
+
+
+
+
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
-           href="transcript.pdf">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="EESSI-HPC-Champions-20201215.pdf">
+
+          <strong>European Environment for Scientific Software Installations (EESSI)</strong><br/>
+		Kenneth Hoste, University of Ghent
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="HPC Champions Dec 2020 Bristol.pdf">
+          <strong>Isambard 2: Adding SVE to the World’s First Production ARMv8 Supercomputer</strong><br/>
+		Andrei Poenaru, University of Bristol
         </a>
       </div>
 
@@ -124,15 +139,16 @@ computing.
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="slides.pdf">
-          <strong>Slides</strong><br/>
-          Download pdf of the presentation.
+           href="20201215_HPC_Champions_Baskerville.pdf">
+          <strong>Baskerville: A National Tier 2 Accelerated Compute Facility</strong><br/>
+		Simon Branford, University of Birmingham
         </a>
       </div>
+
 										
     </div>
 
- -->
+
 
 
 <!-- 

@@ -7,7 +7,7 @@ start_date: 2021-01-12 10:00:00
 end_date: 2021-01-12 16:00:00
 trainers: Julien Sindt
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210112-pkgusers
 location: Online
 location_url:
@@ -64,7 +64,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/archer2-intro-package/">
+          href="https://epcced.github.io/2021-01-12-archer2-package-users-course/">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -82,22 +82,21 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
  	</div>
 		
 		
-					
 
 
-<!-- 		
+		
 <h2><a name="video">Video</a></h2>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/pv2ZGyIE7JI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
 
 
 
 
 
-<!-- 
+
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -116,7 +115,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>

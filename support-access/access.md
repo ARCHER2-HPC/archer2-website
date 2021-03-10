@@ -36,21 +36,21 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td>No open calls</td>
 		<td></td>
 		<td><a href="https://epsrc.ukri.org/funding/calls/archer-2-pioneer-projects/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 computing resource for a maximum duration of two years.</td>
-		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
+		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
-		<td>No open calls</td>
-		<td></td>
-		<td><a href="https://epsrc.ukri.org/funding/calls/access-to-high-performance-computing/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. </td>
-		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
+		<td>30 April 2021 16:00</td>
+		<td>2 April 2021 16:00</td>
+		<td><a href="https://www.ukri.org/opportunity/access-to-high-performance-computing/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. </td>
+		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#topup">TOPUP</a></td>
-		<td>No open calls</td>
-		<td></td>
-		<td><a href="./calls/topup/Grant HPC TOPUP Process.docx">HPC TOPUP Process</a>. <a href="./calls/topup/Application Form 2020 TOPUP 1.docx">Application Form</a>. EPSRC remit only. Only for users with an existing ARCHER allocation who require additional resource.</td>
-		<td><a href="./ta/ARCHER2-TA-form_v1.3.docx">TA Form</a></td>
+		<td>30 April 2021 16:00</td>
+		<td>2 April 2021 16:00</td>
+		<td><a href="./calls/topup/Grant HPC TOPUP Process 2021.docx">HPC TOPUP Process</a>. <a href="./calls/topup/Application Form 2021 TOPUP 1.docx">Application Form</a>. EPSRC remit only. Only for users with an existing ARCHER2 allocation who require additional resource.</td>
+		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="calls/covid19/">Access to ARCHER2 for Covid19 research</a></td>
@@ -87,7 +87,7 @@ You can access to EPSRC's HPC systems (both ARCHER2 and most of the Tier-2 servi
 EPSRC remit researchers can apply for large amounts of ARCHER2 compute for ambitious, computationally intensive simulations and calculations in support of an individual project through EPSRC's ARCHER2 Pioneer Projects call.  Projects can be up to 2 years in length.  This is the successor scheme to the ARCHER Leadership Calls.
 
 #### <a name="epsrc_grants"></a> Access through EPSRC Grants
-On [Je-S,](https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx) access can be requested by choosing ARCHER2 from the drop down list in the _Research Council Facilities_ section for a standard EPSRC grant application. Please add the requested resource in CU as _unit_ and the notional cost in £ as _cost_. Reasonable ARCHER2 allocations are now awarded for the duration of the grant. A completed (<a href="./ta/ARCHER2-TA-form_v1.3.docx">Technical Assessment Form</a>) must be uploaded through Je-S, selecting the document type "Technical Assessment". 
+On [Je-S,](https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx) access can be requested by choosing ARCHER2 from the drop down list in the _Research Council Facilities_ section for a standard EPSRC grant application. Please add the requested resource in CU as _unit_ and the notional cost in £ as _cost_. Reasonable ARCHER2 allocations are now awarded for the duration of the grant. A completed (<a href="./ta/ARCHER2-TA-form.docx">Technical Assessment Form</a>) must be uploaded through Je-S, selecting the document type "Technical Assessment". 
 
 EPSRC operate a 6-monthly allocation period policy for access on ARCHER2. The total number of CPUh (measured on ARCHER2 as the CU) awarded is broken down into 6-month periods that span the length of  access to ARCHER2 that has been requested. Applicants specify the period profile on the TA form when they apply for access.
 EPSRC period allcoations are enforced on ARCHER2 in the following way: 
@@ -100,13 +100,13 @@ Applicants within the NERC remit wishing to access ARCHER2 via the NERC route mu
 
 
 #### <a name="ukri_grants"></a>Access through UKRI Grants (non EPSRC and NERC)
-For access through UKRI Grants, please complete a <a href="./ta/ARCHER2-TA-form_v1.3.docx">Technical Assessment Form</a>  and submit this to the ARCHER2 Service Desk to
+For access through UKRI Grants, please complete a <a href="./ta/ARCHER2-TA-form.docx">Technical Assessment Form</a>  and submit this to the ARCHER2 Service Desk to
  confirm that the proposal is technically suitable for ARCHER2 and the resources required to include in the grant application. Once this is completed, the ARCHER2 Service Desk will send th
 e completed form to EPSRC for approval.
   
 
 #### <a name="other_grants"></a>Access through Grants with other Funding Bodies 
-For access through grants with other Funding Bodies, please complete a <a href="./ta/ARCHER2-TA-form_v1.3.docx">Technical Assessment Form</a> and submit this to the ARCHER2 Service Desk to confirm that the proposal is technically suitable for ARCHER2 and the resources required to include in the grant application. Once this is completed, the ARCHER2 Service Desk will send the completed form to EPSRC for approval. 
+For access through grants with other Funding Bodies, please complete a <a href="./ta/ARCHER2-TA-form.docx">Technical Assessment Form</a> and submit this to the ARCHER2 Service Desk to confirm that the proposal is technically suitable for ARCHER2 and the resources required to include in the grant application. Once this is completed, the ARCHER2 Service Desk will send the completed form to EPSRC in order to begin discussions with the other funding body. Please note that these discussions may take some time, and EPSRC cannot guarantee that an agreement will be reached.
 
 
 #### <a name="topup_grant"></a>Grant Top-Up 
@@ -125,7 +125,7 @@ Further information is provided on the [NERC HPC page](https://nerc.ukri.org/res
 EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER instant access.
 
 #### <a name="driving_test"></a>Driving test
-A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
+A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the full 23 cabinet service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
 
 #### <a name="prace"></a>PRACE
 ##### Guidance on access to PRACE machine for UK scientists

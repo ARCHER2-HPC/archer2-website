@@ -10,6 +10,8 @@
     url: "/about/partners.html"   
   - title: "News &amp; Announcements"
     url: "/about/news/"
+  - title: "Blog"
+    url: "/about/news/blog"    
   - title: "Calendar"
     url: "/about/calendar.html"
   - title: "Service Policies"
@@ -20,8 +22,6 @@
     url: "/about/feedback.html"
   - title: "Media Gallery"
     url: "/about/gallery/"
-  - title: "Community"
-    url: "/community/"
     
 
 
@@ -31,10 +31,14 @@
   sublinks:
   - title: "User Support and Access"
     url: "/support-access/"
+  - title: "Status"
+    url: "/support-access/status.html"
   - title: "Service Desk"
     url: "/support-access/servicedesk.html"
   - title: "Get Access"
     url: "/support-access/access.html"
+  - title: "CU Calculator"
+    url: "/support-access/cu-calc.html"
 
 
 - title: Documentation
@@ -115,3 +119,4 @@
     url: "/research/publications"    
   - title: "Research Consortia"
     url: "/research/consortia"   
+

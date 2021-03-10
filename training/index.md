@@ -140,6 +140,9 @@ Individual links to course provide more details on the content and prerequisites
 
 Recent courses will be moved to the [Materials repository](materials/) shortly after they have ended.
 
+
+<!--
+
 ### ARCHER2 year one planned courses
 
 The following courses are provisionally planned for the first year of the ARCHER2 service and details of dates and locations may be subject to change. Once all details are finalised, the course will be moved up to the confirmed section above and registration opened.
@@ -261,6 +264,8 @@ The following courses are provisionally planned for the first year of the ARCHER
   </table>
 </div>
 
+-->
+
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.
 
 Details of the software you should have installed, in preparation for any of our courses, is listed on our [software page](training-software.html).
@@ -275,6 +280,12 @@ Courses marked ![PRACE](img/prace_25.jpg) are also funded by
   [PRACE](https://prace-ri.eu/) and are free to everyone including commercial attendees.
 
 We normally charge a fee for non-academics. If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
+
+## ARCHER2 year two planned courses
+
+We are preparing the schedule of courses for year two and will add the details here soon.
+
+ARCHER2 will be unavailable during the work to prepare the full 23-cabinet system. This is expected to take place during May 2021 so no courses are planned during that period.
 
 ## Training updates mailing list
 

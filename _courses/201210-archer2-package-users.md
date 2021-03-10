@@ -65,7 +65,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
         </a>
       </div>
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -74,6 +74,7 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
         </a>
       </div>
 		
+-->
 
  	</div>
 		
@@ -107,26 +108,28 @@ are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-
     </div>
  -->
 
-<!-- 
+
 		
 <h2><a name="videos">Videos</a></h2>
 
-<h3><a name="video1">Part 1</a></h3>
-
-<div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/fjxh3TMdN0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 
-		
-<h3><a name="video2">Part 2</a></h3>
 
-<div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/WqadGAr8DVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+    <div class="row ">	
 
- -->
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+          href="https://youtube.com/playlist?list=PLB4tvLCynFjTFzh_I0VmfYeV37VzdPrn-">
+          <strong>This course was not recorded</strong><br/>
+          This playlist is a recording of a previous run.
+        </a>
+      </div>
+
+    </div>
+
+
+
 
 <!-- 
 <h2><a name="slides">Slides</a></h2>

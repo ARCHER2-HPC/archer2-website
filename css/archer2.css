@@ -119,6 +119,19 @@ label {
   padding-top: 20px;
 }
 
+
+code {
+ padding:2px 4px;
+ font-size:90%;
+ color:#245b4e;
+ background-color:#edf8f5;
+ border-radius:4px
+}
+
+
+
+
+
 /*--
 	features Start
 --*/

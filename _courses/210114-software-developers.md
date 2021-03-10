@@ -7,7 +7,7 @@ start_date: 2021-01-14 10:00:00
 end_date: 2021-01-15 16:00:00
 trainers: Kevin Stratford
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210114-swdev
 location: Online
 location_url:
@@ -59,7 +59,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/archer2-intro-develop/">
+          href="https://epcced.github.io/2021-01-14-archer2-developers-online/">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -78,21 +78,38 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 		
 		
 					
-
-
-<!-- 		
+		
 <h2><a name="video">Video</a></h2>
 
+<h3>Day 1 Part 1</h3>
+
+
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/BoAUseQ5dKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
- -->
+
+<h3>Day 1 Part 2</h3>
+
+
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/jrV65m0QtOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Day 2</h3>
+
+
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/RFlGYi1kND8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
 
 
-<!-- 
+
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -111,7 +128,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
