@@ -2,7 +2,7 @@
 layout: course
 title: Containers in HPC
 banner: web_banners_05.jpg
-human_dates: Wednesday 30th March 2021  15:00 - 16:00 BST
+human_dates: Wednesday 30th March 2021  15:00 - 16:00 GMT
 start_date: 2021-03-30 15:00:00
 end_date: 2021-03-30 16:00:00
 trainers: Alfio Lazzaro, HPE HPC&AI EMEA Research Lab; Harvey Richardson, HPE HPC&AI EMEA Research Lab
