@@ -7,7 +7,7 @@ start_date: 2021-03-22 10:00:00
 end_date: 2021-03-24 16:00:00
 trainers: Julien Sindt (EPCC)
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1160/registrations/839/
 location: Online
 location_url:
@@ -81,7 +81,7 @@ No programming skills or previous HPC experience is required.
 <!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/210322-intro-life-sci">
           <strong>Course Chat</strong>       
         </a>
       </div>
