@@ -8,16 +8,16 @@ categories: [news]
 ---
 
 
-- [Exploding, forming and disentangling stars with HPC](#exploding-forming-and-disentangling-stars-with-hpc), Online webinar, Wednesday 10th March 2021 15:00 - 16:00 BST 
+- [Exploding, forming and disentangling stars with HPC](#exploding-forming-and-disentangling-stars-with-hpc), Online webinar, Wednesday 10th March 2021 15:00 - 16:00 GMT 
 - [Access to HPC call open](#access-to-hpc-call-open)
 - [HPC TopUp call open](#hpc-topup-call-open)
-- [Introduction to ARCHER2 for software developers](#introduction-to-archer2-for-software-developers), Online course, 29 - 30 March 2021 10:00 - 16:00
+- [Introduction to ARCHER2 for software developers](#introduction-to-archer2-for-software-developers), Online course, 29 - 30 March 2021 10:00 - 16:00 BST
 - [Upcoming ARCHER2 training](#other-upcoming-archer2-training) 
 
 
 ## Exploding, forming and disentangling stars with HPC
 
-Online webinar, Wednesday 10th March 2021 15:00 - 16:00 BST 
+Online webinar, Wednesday 10th March 2021 15:00 - 16:00 GMT 
 
 High-performance computation (HPC) is central to modern astronomy. Moreover, the diversity of astronomy as a science results in models with very different computational requirements.
 
@@ -53,7 +53,7 @@ Closing date for Technial assessment: 2 April 2021
 
 ## Introduction to ARCHER2 for software developers
 
-Online, 29 - 30 March 2021 10:00 - 16:00 
+Online, 29 - 30 March 2021 10:00 - 16:00 BST
 
 ### Overview:
 
@@ -77,8 +77,8 @@ Further details [https://www.archer2.ac.uk/training/#upcoming-training](https://
 
 ## Other upcoming ARCHER2 Training
 
-- Exploding, forming and disentangling stars with HPC, Online webinar, Wednesday 10th March 2021 15:00 - 16:00 BST 
-- Introduction to ARCHER2 for software developers, Online, 29 - 30 March 2021 10:00 - 16:00 
+- Exploding, forming and disentangling stars with HPC, Online webinar, Wednesday 10th March 2021 15:00 - 16:00 GMT 
+- Introduction to ARCHER2 for software developers, Online, 29 - 30 March 2021 10:00 - 16:00 BST
 - Quantum Computing Without A Quantum Computer, Online webinar, Wednesday 31st March 2021 15:00 - 16:00 BST 
 - Shared Memory Programming with OpenMP, Online, a new always-open self-service course
 
