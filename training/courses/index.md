@@ -23,11 +23,11 @@ banner: web_banners_05.jpg
 * [Data Science on ARCHER2](#data_science)
 * [Development on ARCHER2](#development)
 * [Reproducible computational environments using containers](#containers)
+* [Understanding Package Performance](#understanding_package_performance)
 
 
 #### [Intermediate (level 2) courses](#intermediate)
 
-* [Understanding Package Performance](#understanding_package_performance)
 * [Data Analysis using Python](#data_analysis_using_python)
 * [Data Analytics with HPC](#data_analytics_with_hpc)
 * [Message Passing Programming with MPI](#mpp_with_mpi)
@@ -102,15 +102,26 @@ This course will cover the ARCHER2 application development environment, core par
 
 This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will primarily use Docker to illustrate the use of containers but will also briefly introduce Singularity which is designed for use on multi-user systems (such as HPC resources). This course is aimed at researchers who have no (or very little) previous experience of using containers. Attendees are expected to have basic familiarity with using a command line interface such as bash or Powershell.
 
-<p><a name="intermediate">&nbsp;</a></p>
-### Intermediate (level 2) courses
-
 <p><a name="understanding_package_performance">&nbsp;</a></p>
 #### Understanding Package Performance
 
-*Course length: 1 day. Course level: intermediate.*
+*Course length: 1 day. Course level: introductory.*
 
-As parallel packages for computational science become more sophisticated, it becomes more difficult for a researcher to understand the most important factors that determine end-to-end productivity from initial input data to final result. Aspects such as file IO and data transfer can be just as important in practice as the performance and parallel scalability of the application itself. This course will take a holistic approach and cover tools and techniques to help researchers to improve their overall scientific productivity on large-scale HPC systems.
+As parallel packages for computational science become more sophisticated, it becomes more difficult for a researcher to understand the most important factors that determine end-to-end productivity from initial input data to final result. Aspects such as file IO and data transfer can be just as important in practice as the performance and parallel scalability of the application itself. This course provides an introduction to understanding your research workflow, the place of HPC application performance within the workflow, an introduction to benchmarking parallel applications and how you can use benchmark data to make decisions on running your research on HPC systems.
+
+The lesson aims to answer the following questions:
+
+- How can I understand the end-to-end performance of my research workflow and, particularly, how does my use of HPC fit into this workflow?
+- How do I measure parallel application performance and which metrics should I use and when?
+- What decisions on my use of HPC can I make based on performance measurements?
+
+Note: this course does not require any programming experience - it covers benchmarking HPC applications from the standpoint of running existing compiled applications and is suitable for users of HPC applications rather than developers. If you are an HPC software developer then you may find the [Advanced courses](#advanced) courses more suitable.
+
+- [Understanding Package Performance: Base Lesson Materials](https://epcced.github.io/understanding-package-performance/)
+- [Understanding Package Performance: Base Lesson Repository (Github)](https://github.com/EPCCed/understanding-package-performance)
+
+<p><a name="intermediate">&nbsp;</a></p>
+### Intermediate (level 2) courses
 
 <p><a name="data_analysis_using_python">&nbsp;</a></p>
 #### Data Analysis using Python
