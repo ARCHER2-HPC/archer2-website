@@ -2,7 +2,7 @@
 layout: course
 title: Quantum Computing Without A Quantum Computer
 banner: web_banners_05.jpg
-human_dates: Wednesday 31st March 2021  15:00 - 16:00 GMT
+human_dates: Wednesday 31st March 2021  15:00 - 16:00 BST
 start_date: 2021-03-31 15:00:00
 end_date: 2021-03-31 16:00:00
 trainers: Oliver Brown (EPCC)
