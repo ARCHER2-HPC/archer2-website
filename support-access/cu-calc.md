@@ -109,7 +109,7 @@ be useful.</p>
 
 <h3>Totals</h3>
 
-<p>This is information on the total kAUs and notional cost of the 
+<p>This is information on the total CUs and notional cost of the 
 current job specification. It is useful for filling out Section 1, Part 4
 of the ARCHER Technical Assessment Form and also for the cost associated with ARCHER 
 use in the Je-S submission system.</p>
@@ -119,7 +119,7 @@ use in the Je-S submission system.</p>
 <p>Total 'Notional Costs' for these jobs = &pound;<strong id="totCost"></strong></p>
 </div>
 
-<h3 class="subsection">kAU Rates and Costs</h3>
+<h3 class="subsection">CU Rates and Costs</h3>
 
 <h4>ARCHER2 CU Rates</h4> 
 
