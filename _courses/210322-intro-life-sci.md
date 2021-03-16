@@ -51,11 +51,6 @@ On completion of the course, we expect that attendees will understand and be abl
 - The Future of HPC
 
 
-49 _courses/210322-intro-life-sci.md
-@@ -50,6 +50,55 @@ On completion of the course, we expect that attendees will understand and be abl
-    - Performance
-- The Future of HPC
-
 #### Schedule
 
 **Day 1**
