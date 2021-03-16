@@ -59,51 +59,51 @@ On completion of the course, we expect that attendees will understand and be abl
 #### Schedule
 
 **Day 1**
-10:00 	Welcome 
-10:15 	Who we are: Introducing BioExcel, PRACE, and EPCC training
-11:00 	LECTURE: High-Performance Computing (HPC)
-11:20 	PRACTICAL: Connecting to ARCHER2
-11:40 	BREAK
-12:00 	LECTURE: HPC Architectures (pre-recorded)
-12:20 	PRACTICAL: Overview of the ARCHER2 system and modules
-13:00 	LUNCH
-13:40 	LECTURE: Batch systems and parallel application launchers (pre-recorded)
-14:00 	PRACTICAL: Batch Systems and ARCHER2 Slurm Scheduler
-14:30 	BREAK
-14:50 	LECTURE: Parallel Computing
-15:20 	PRACTICAL: HMMER (1 of 2) 	
-15:55 	LECTURE: Review of Day 1 	
-16:00 	Finish
+- 10:00 	Welcome 
+- 10:15 	Who we are: Introducing BioExcel, PRACE, and EPCC training
+- 11:00 	LECTURE: High-Performance Computing (HPC)
+- 11:20 	PRACTICAL: Connecting to ARCHER2
+- 11:40 	BREAK
+- 12:00 	LECTURE: HPC Architectures (pre-recorded)
+- 12:20 	PRACTICAL: Overview of the ARCHER2 system and modules
+- 13:00 	LUNCH
+- 13:40 	LECTURE: Batch systems and parallel application launchers (pre-recorded)
+- 14:00 	PRACTICAL: Batch Systems and ARCHER2 Slurm Scheduler
+- 14:30 	BREAK
+- 14:50 	LECTURE: Parallel Computing
+- 15:20 	PRACTICAL: HMMER (1 of 2) 	
+- 15:55 	LECTURE: Review of Day 1 	
+- 16:00 	Finish
 
 **Day 2**
-10:00 	Welcome
-10:05 	LECTURE: Measuring Parallel Performance
-10:35 	PRACTICAL: HMMER (2 of 2) 	
-11:20 	BREAK
-11:40 	LECTURE: Computational Building Blocks: Software
-12:10 	LECTURE: Computational Building Blocks: Hardware
-12:40 	LUNCH
-13:30 	PRACTICAL: Benchmarking Molecular Dynamics Performance Using GROMACS
-14:00 	LECTURE: Parallel Models to Exploit Parallelism
-14:30 	BREAK
-14:50 	PRACTICAL: Benchmarking Molecular Dynamics Using GROMACS
-15:20 	LECTURE: Building and compiling software: from algorithm to executable
-15:45 	LECTURE: Review of Day 2 	
-16:00 	Finish 	
+- 10:00 	Welcome
+- 10:05 	LECTURE: Measuring Parallel Performance
+- 10:35 	PRACTICAL: HMMER (2 of 2) 	
+- 11:20 	BREAK
+- 11:40 	LECTURE: Computational Building Blocks: Software
+- 12:10 	LECTURE: Computational Building Blocks: Hardware
+- 12:40 	LUNCH
+- 13:30 	PRACTICAL: Benchmarking Molecular Dynamics Performance Using GROMACS
+- 14:00 	LECTURE: Parallel Models to Exploit Parallelism
+- 14:30 	BREAK
+- 14:50 	PRACTICAL: Benchmarking Molecular Dynamics Using GROMACS
+- 15:20 	LECTURE: Building and compiling software: from algorithm to executable
+- 15:45 	LECTURE: Review of Day 2 	
+- 16:00 	Finish 	
 
 **Day 3**
-10:00 	Welcome
-10:05 	PRACTICAL: Benchmarking Molecular Dynamics Using GROMACS
-10:35 	LECTURE: Pipelines and Workflows
-11:20 	BREAK
-11:40 	QM/MM Simulations Using CP2K
-12:40 	LUNCH
-13:30 	LECTURE: The future of HPC
-14:00 	QM/MM Simulations Using CP2K
-14:30 	BREAK 	Break
-14:50 	LECTURE: The HPC landcsape in the EU and UK
-15:20 	LECTURE: Course review and where next?
-15:40 	Finish
+- 10:00 	Welcome
+- 10:05 	PRACTICAL: Benchmarking Molecular Dynamics Using GROMACS
+- 10:35 	LECTURE: Pipelines and Workflows
+- 11:20 	BREAK
+- 11:40 	QM/MM Simulations Using CP2K
+- 12:40 	LUNCH
+- 13:30 	LECTURE: The future of HPC
+- 14:00 	QM/MM Simulations Using CP2K
+- 14:30 	BREAK 	Break
+- 14:50 	LECTURE: The HPC landcsape in the EU and UK
+- 15:20 	LECTURE: Course review and where next?
+- 15:40 	Finish
 
 
 #### Pre-requisites
