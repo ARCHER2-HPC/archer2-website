@@ -7,7 +7,7 @@ tags: [newsletters]
 categories: [news]
 ---
 
-- [Containers in HPC](#containers-in-hpc), Online webinar, Wednesday 30th March 2021 15:00 - 16:00 BST 
+- [Containers in HPC](#containers-in-hpc), Online webinar, Tuesday 30th March 2021 15:00 - 16:00 BST 
  - [Quantum Computing Without A Quantum Computer](#quantum-computing-without-a-quantum-computer), Online webinar, Wednesday 31st March 2021 15:00 - 16:00 BST
  - [ARCHER2 Charging of Jobs](#archer2-charging-of-jobs)
 - [Access to HPC call open](#access-to-hpc-call-open)
@@ -18,7 +18,7 @@ categories: [news]
 
 ## Containers in HPC 
 
-Online webinar, Wednesday 30th March 2021 15:00 - 16:00 BST 
+Online webinar, Tuesday 30th March 2021 15:00 - 16:00 BST 
 
 Containers have become popular for HPC applications, creating the possibility of packing entire scientific workflows, software, libraries, and even data, thus solving the problem of making software run reliably when moved from one computing environment to another. Several optimized technologies have been specifically developed for HPC systems, such as Charliecloud, Sarus, and Singularity. Despite the main portability goal, the challenge for HPC applications is to achieve performance portability. We will discuss the challenges and present some solutions for addressing them with a focus on Singularity.
 
@@ -94,7 +94,7 @@ Further details [https://www.archer2.ac.uk/training/#upcoming-training](https://
 
 
 - Introduction to ARCHER2 for software developers, Online, 29 - 30 March 2021 10:00 - 16:00 BST
-- Containers in HPC, Online webinar, Wednesday 30th March 2021 15:00 - 16:00 BST 
+- Containers in HPC, Online webinar, Tuesday 30th March 2021 15:00 - 16:00 BST 
 - Quantum Computing Without A Quantum Computer, Online webinar, Wednesday 31st March 2021 15:00 - 16:00 BST 
 - Shared Memory Programming with OpenMP, Online, a new always-open self-service course
 
