@@ -10,7 +10,6 @@ The ARCHER2 Service is a world-class advanced computing resource for UK research
 The ARCHER2 User Support Team are available to offer advice and assistance to any prospective users and can offer guidance as to what is the best route of access ([support@archer2.ac.uk](mailto:support@archer2.ac.uk)) or [further contact details can be found here](https://www.archer2.ac.uk/support-access/servicedesk.html).
 The ARCHER2 CSE Team can also provide assistance with completing a Technical Assessment (TA)  and can also be contacted via the Service Desk ([support@archer2.ac.uk](mailto:support@archer2.ac.uk)). 
 
-
 ### Open ARCHER2 Calls
 
 A list of any currently open calls through which you can apply for access to ARCHER2. 
@@ -26,10 +25,10 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 	<tr>
 		<td><a href="#pump-priming">Pump-priming</a></td>
-		<td>Available from start of ARCHER2 Service</td>
+		<td>Always open</td>
 		<td></td>
-		<td>EPSRC remit only.</td>
-		<td></td>
+		<td>EPSRC remit only. Small amounts of time for testing and porting. Quick decision on access.</td>
+		<td><a href="./ta/ARCHER2-PumpPriming-form.docx">Pump Priming TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#pioneer-projects">Pioneer Projects</a></td>
@@ -64,7 +63,8 @@ A list of any currently open calls through which you can apply for access to ARC
 
 ### ARCHER2 Access Mechanisms 
 
-There are a variety of specialised routes through which researchers can access ARCHER2. We recommend applicants familiarise themselves with these routes to ensure they apply to the most appropriate one for their project. The ARCHER2 User Support Team can offer guidance as to what is the best route of access ([support@archer2.ac.uk](mailto:support@archer2.ac.uk)) .
+There are a variety of specialised routes through which researchers can access ARCHER2. We recommend applicants familiarise themselves with these routes to ensure they apply to the most appropriate one for their project. The ARCHER2 User Support Team can offer guidance as to what is the best route of access ([support@archer2.ac.uk](mailto:support@archer2.ac.uk)).
+
 - [ARCHER2 Specific Calls](#specific_calls)  
 - [Access through EPSRC Grants](#epsrc_grants)
 - [Access through NERC Grants](#nerc_grants)
@@ -122,7 +122,7 @@ Details for access routes for NERC Remit researchers will be available soon.
 Further information is provided on the [NERC HPC page](https://nerc.ukri.org/research/sites/facilities/hpc). 
 
 #### <a name="pump_priming"></a>Pump-priming
-EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER instant access.
+EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER instant access. Applicants should [complete the ARCHER2 Pump Priming TA form (docx)](ta/ARCHER2-PumpPriming-form.docx) and send to the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk). The ARCHER2 CSE team will review the form and send to UKRI for a decision on access. We expect decisions to be made in less than 2 weeks (and usually much sooner).
 
 #### <a name="driving_test"></a>Driving test
 A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the full 23 cabinet service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
