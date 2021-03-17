@@ -27,7 +27,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="#pump-priming">Pump-priming</a></td>
 		<td>Always open</td>
 		<td></td>
-		<td>EPSRC remit only. Small amounts of time for testing and porting. Quick decision on access.</td>
+		<td>EPSRC remit only. Small amounts of time for testing and porting. Quick decision on access. Maximum of 800 CU for 6 months.</td>
 		<td><a href="./ta/ARCHER2-PumpPriming-form.docx">Pump Priming TA Form</a></td>
 	</tr>
 	<tr>
@@ -122,7 +122,7 @@ Details for access routes for NERC Remit researchers will be available soon.
 Further information is provided on the [NERC HPC page](https://nerc.ukri.org/research/sites/facilities/hpc). 
 
 #### <a name="pump_priming"></a>Pump-priming
-EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER instant access. Applicants should [complete the ARCHER2 Pump Priming TA form (docx)](ta/ARCHER2-PumpPriming-form.docx) and send to the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk). The ARCHER2 CSE team will review the form and send to UKRI for a decision on access. We expect decisions to be made in less than 2 weeks (and usually much sooner).
+EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER Instant Access. Applicants should [complete the ARCHER2 Pump Priming TA form (docx)](ta/ARCHER2-PumpPriming-form.docx) and send to the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk). The ARCHER2 CSE team will review the form and send to UKRI for a decision on access. We expect decisions to be made in less than 2 weeks (and usually much sooner). A maximum of 800 CU for 6 months are currently available through Pump Priming.
 
 #### <a name="driving_test"></a>Driving test
 A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the full 23 cabinet service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
