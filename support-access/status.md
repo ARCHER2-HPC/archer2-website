@@ -6,8 +6,15 @@ banner: web_banners_03.jpg
 ---
 
 ## Current Issues
+### 17:00, 17 Mar 2021 : ARCHER2 Maintenance Session Thursday 18th March 0900
 
-No current issues.
+We are currently experiencing issues with the High Speed Network (HSN) on ARCHER2. 
+HPE Cray hope to resolve the issues during a maintenance session on Thursday 18th March from 0900 GMT.
+
+During this maintenance session, you will be unable to access the User Access Nodes (UANs) and any jobs running on the compute nodes will be stopped. 
+We have set the batch system to drain ahead of the outage and so we expect that most of the jobs will have completed ahead of the maintenance session.
+
+We apologise for any inconvenience caused by this planned essential outage.
 
 ## Recently Resolved Issues
 
