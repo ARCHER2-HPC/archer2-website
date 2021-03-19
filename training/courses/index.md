@@ -115,7 +115,7 @@ The lesson aims to answer the following questions:
 - How do I measure parallel application performance and which metrics should I use and when?
 - What decisions on my use of HPC can I make based on performance measurements?
 
-Note: this course does not require any programming experience - it covers benchmarking HPC applications from the standpoint of running existing compiled applications and is suitable for users of HPC applications rather than developers. If you are an HPC software developer then you may find the [Advanced courses](#advanced) courses more suitable.
+Note: this course does not require any programming experience - it covers benchmarking HPC applications from the standpoint of running existing compiled applications and is suitable for users of HPC applications rather than developers. If you are an HPC software developer then you may find the [Advanced courses](#advanced) more suitable.
 
 - [Understanding Package Performance: Base Lesson Materials](https://epcced.github.io/understanding-package-performance/)
 - [Understanding Package Performance: Base Lesson Repository (Github)](https://github.com/EPCCed/understanding-package-performance)
