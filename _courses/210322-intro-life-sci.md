@@ -159,7 +159,7 @@ No programming skills or previous HPC experience is required.
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -178,7 +178,7 @@ No programming skills or previous HPC experience is required.
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
