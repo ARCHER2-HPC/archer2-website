@@ -37,9 +37,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 They are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
 
-#### Timetable:
 
-Details to follow
 
 <section id="service">
 
@@ -55,7 +53,8 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="https://epcced.github.io/2021-04-19_PackagePerformance_Online/">
-          <strong>Course materials</strong>         
+          <strong>Course materials</strong> <br />
+           Includes timetable        
         </a>
       </div>
 
