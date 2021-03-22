@@ -8,7 +8,7 @@ end_date: 2021-04-19 16:15:00
 trainers: Andrew Turner (EPCC)
 course_type: course
 registration_status: open
-registration_url: https://www.archer2.ac.uk/training/register/course=210419-package-performance
+registration_url: https://www.archer2.ac.uk/training/register/?course=210419-package-performance
 location: Online
 location_url:
 prace_course: false
