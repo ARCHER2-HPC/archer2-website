@@ -2,7 +2,7 @@
 layout: course
 title: Efficient use of the HPE Cray EX Supercomputer ARCHER2 
 banner: web_banners_05.jpg 
-human_dates: 20 - 22 April 2021  09:00 - 17:00
+human_dates: 20 - 22 April 2021  09:00 - 17:00 BST
 start_date: 2021-04-20 09:00:00
 end_date: 2021-04-22 17:00:00
 trainers: Harvey Richardson HPE Cray
