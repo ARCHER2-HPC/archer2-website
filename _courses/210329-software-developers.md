@@ -46,13 +46,11 @@ You should have used remote HPC facilities before. In particular, you should be 
 Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed [here](https://epcced.github.io/archer2-intro-develop/#setup)). They are also required to abide by the [ARCHER2 Training Code of Conduct](../../code-of-conduct/). 
 
 
-#### Timetable:
 
-Details to follow
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -63,8 +61,9 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-intro-develop">
-          <strong>Course materials</strong>         
+          href="https://epcced.github.io/2021-03-29-archer2-developers-online/">
+          <strong>Course materials</strong> <br />
+			Includes Schedule        
         </a>
       </div>
 
@@ -80,7 +79,7 @@ Details to follow
 
  	</div>
 		
--->		
+	
 					
 
 
