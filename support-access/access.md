@@ -34,7 +34,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="#pioneer-projects">Pioneer Projects</a></td>
 		<td>No open calls</td>
 		<td></td>
-		<td><a href="https://epsrc.ukri.org/funding/calls/archer-2-pioneer-projects/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 computing resource for a maximum duration of two years.</td>
+		<td>EPSRC remit only. <br> Large amounts of ARCHER2 computing resource for a maximum duration of two years.</td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
 	<tr>
