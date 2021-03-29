@@ -7,7 +7,7 @@ start_date: 2021-03-29 10:00:00
 end_date: 2021-03-30 16:00:00
 trainers: Juan Rodriguez Herrera (EPCC) and Julien Sindt (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210329-software-developers
 location: Online
 location_url:
@@ -98,7 +98,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -117,7 +117,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
