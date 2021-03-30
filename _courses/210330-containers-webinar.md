@@ -17,11 +17,13 @@ prace_course: false
 Containers have become popular for HPC applications, creating the possibility of packing entire scientific workflows, software, libraries, and even data, thus solving the problem of making software run reliably when moved from one computing environment to another. Several optimized technologies have been specifically developed for HPC systems, such as Charliecloud, Sarus, and Singularity. Despite the main portability goal, the challenge for HPC applications is to achieve performance portability. We will discuss the challenges and present some solutions for addressing them with a focus on Singularity.
 
 
-This online session is open to all. It will use the Blackboard Collaborate platform.
+
 
 
 
 <section id="service">
+
+<!--
 
   <div class="row ">	
 
@@ -44,19 +46,18 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
-
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/nvzgxB-vono" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 <!--
 
