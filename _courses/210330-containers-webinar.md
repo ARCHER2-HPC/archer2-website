@@ -59,7 +59,7 @@ Containers have become popular for HPC applications, creating the possibility of
 
 
 
-<!--
+
 
 <section id="service">
   <div class="container">
@@ -67,18 +67,12 @@ Containers have become popular for HPC applications, creating the possibility of
 
 
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
-        </a>
-      </div>
 
 
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+           href="Containers_in_HPC_web.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
@@ -87,4 +81,4 @@ Containers have become popular for HPC applications, creating the possibility of
     </div>
   </div>
 </section>
--->
+
