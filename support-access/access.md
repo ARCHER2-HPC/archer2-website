@@ -40,14 +40,14 @@ A list of any currently open calls through which you can apply for access to ARC
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
 		<td>30 April 2021 16:00</td>
-		<td>2 April 2021 16:00</td>
+		<td>2 April 2021 16:00 *</td>
 		<td><a href="https://www.ukri.org/opportunity/access-to-high-performance-computing/">EPSRC Call Details</a>. EPSRC remit only. <br> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. </td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#topup">TOPUP</a></td>
 		<td>30 April 2021 16:00</td>
-		<td>2 April 2021 16:00</td>
+		<td>2 April 2021 16:00 *</td>
 		<td><a href="./calls/topup/Grant HPC TOPUP Process 2021.docx">HPC TOPUP Process</a>. <a href="./calls/topup/Application Form 2021 TOPUP 1.docx">Application Form</a>. EPSRC remit only. Only for users with an existing ARCHER2 allocation who require additional resource.</td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
@@ -60,6 +60,10 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 </table>
 
+
+
+\* Service Desk is closed on Friday 2nd April so Technical Assessments will be acknowledged and reviewed when staff return on Tuesday 6th April.  
+Technical Assessments must be submitted by the deadline of 4pm on Friday 2nd April - in line with UKRI guidance we are unable to accept late submissions.
 
 ### ARCHER2 Access Mechanisms 
 
