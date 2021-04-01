@@ -16,6 +16,10 @@ prace_course: true
 
 This course is organised and funded by BioExcel - the Centre of Excellence for [Computational Biomolecular Research](http://bioexcel.eu) and PRACE, and delivered in collaboration with [ARCHER2 - the UK national supercomputing service](https://www.archer2.ac.uk/).
 
+<div><img src="../../img/bioexcel_logo.png" alt="BioExcel Logo" width="20%" /></div>
+
+
+
 
 ### Learning outcomes
 ----------------------------
