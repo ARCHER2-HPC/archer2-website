@@ -55,7 +55,6 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 <h2><a name="materials">Course materials</a></h2>
 
 
-
     <div class="row ">	
 
  		
@@ -66,7 +65,6 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 			Includes Schedule        
         </a>
       </div>
-
 
   
       <div class="col-xs-6 col-sm-4">
@@ -79,22 +77,32 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 
  	</div>
 		
-	
-					
+						
 
-
-<!-- 		
+ 		
 <h2><a name="videos">Videos</a></h2>
 
-<h3>Session 1</h3>
+<h3>Day 1 - Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/6z4qx9V7oZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+<br />
 
+<h3>Day 1 - Session 2</h3>
 
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/j99eeuocZWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br />
+
+<h3>Day 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/BhHtbmUcAEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
