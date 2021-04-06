@@ -1,13 +1,13 @@
 ---
 layout: course
-title: QM/MM simulation with GROMACS + CP2K
+title: QM/MM simulation with GROMACS + CP2K (Fully booked)
 banner: web_banners_05.jpg 
 human_dates: 22 - 23 April 2021  9:30-15:00 CEST (8:30-14:00 BST)
 start_date: 2021-04-22 08:30:00
 end_date: 2021-04-23 14:00:00
 trainers: Dmitry Morozov (Chemistry, University of Jyväskylä),<br /> Emiliano Ippoliti (Computational Biomedicine, Forschungszentrum Jülich),<br />  Holly Judge (EPCC, University of Edinburgh)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1204/registrations/878/
 location: Online
 location_url:
