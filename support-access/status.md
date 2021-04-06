@@ -5,10 +5,6 @@ summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
 
-## Service Desk closure over Easter
-
-- Service Desk is closed on Friday 2nd April and Monday 5th April.
-- Service Desk resumes at 8am on Tuesday 6th April.
 
 ## Current Issues
 
