@@ -59,13 +59,13 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 
-<!--
+
 
 <section id="service">
   <div class="container">
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -74,11 +74,11 @@ This online session is open to all. It will use the Blackboard Collaborate platf
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+           href="Python_on_ARCHER2.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
@@ -87,4 +87,4 @@ This online session is open to all. It will use the Blackboard Collaborate platf
     </div>
   </div>
 </section>
--->
+
