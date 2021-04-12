@@ -667,3 +667,31 @@ td.text-box-answer {
 /*
  * End of Styles for feedback form table
  */
+ 
+ 
+ 
+ /*---------------------------------------------
+					Image Formatting 
+-----------------------------------------------*/
+ 
+ .img-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.img-ecse {
+  float: left;
+  margin-right: 20px;
+  width: 180px;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*
+ * End of Styles for Image Formatting
+ */
