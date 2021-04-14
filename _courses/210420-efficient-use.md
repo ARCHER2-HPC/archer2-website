@@ -25,7 +25,7 @@ Specific topics that will be covered include:
 * Application profiling 
 * Optimization of applications for serial performance, parallel execution and efficient use of I/O
 
-
+*This is an opportunity to learn about the new system, direct from HPE Cray Centre of Excellence experts, and we do not expect to be able to repeat this opportunity in the near future.  No recordings will be provided so we encourage you to sign up now to ensure your place.*
 
 #### Prerequisites:
 
