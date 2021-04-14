@@ -1,18 +1,22 @@
 ---
 layout: course
-title: High Performance Containers?
+title: CANCELLED - High Performance Containers?
 banner: web_banners_05.jpg
 human_dates: Wednesday 21st April 2021  15:00 - 16:00 BST
 start_date: 2021-04-21 15:00:00
 end_date: 2021-04-21 16:00:00
 trainers: Michael Bareford EPCC
 course_type: vt
-registration_status:
+registration_status: 
 registration_url:
 location: Online
 location_url:
 prace_course: false
 ---
+
+We regret that we have to CANCEL this webinar.  We hope to be able to run a webinar on this topic at some point in the future but we are unable to set a date at this time.
+
+
 
 Containers are a convenient means of encapsulating complex software environments, but can
 this convenience be realised for parallel research codes?
@@ -32,7 +36,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 <section id="service">
-
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -53,7 +57,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 											
     </div>
-
+-->
 
 
 

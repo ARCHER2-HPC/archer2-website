@@ -9,7 +9,6 @@ categories: [news]
 
  - [Efficient use of the HPE Cray EX Supercomputer ARCHER2](#efficient-use-of-the-hpe-cray-ex-supercomputer-archer2), Online training, 20 - 22 April 2021 09:00 - 17:00 BST 
  - [Understanding Package Performance](#understanding-package-performance), Online training, 19 April 2021 9:00 - 16:15 BST 
- - [High Performance Containers?](#high-performance-containers)  Webinar, Wednesday 21st April 2021 15:00 - 16:00 BST
 -  [RDFaaS available from ARCHER2](#rdfaas-available-from-archer2)
 - [HPC-Europa3 Transnational Access visitor programme](#hpc-europa3-transnational-access-visitor-programme) 
 - [Upcoming ARCHER2 training](#other-upcoming-archer2-training) 
@@ -36,21 +35,6 @@ As parallel packages for computational science become more sophisticated, it bec
 Further details and registration [https://www.archer2.ac.uk/training/#upcoming-training](https://www.archer2.ac.uk/training/#upcoming-training)
  
  
-## High Performance Containers?
-
-Wednesday 21st April 2021 15:00 - 16:00 BST
- 
-Containers are a convenient means of encapsulating complex software environments, but can this convenience be realised for parallel research codes?
-
-Running such codes costs money, which means that code performance is often tuned to specific supercomputer platforms. Therefore, for containers to be useful in the world of HPC, it must be possible to capture this specialisation within a single container. Indeed a container should be dedicated to one research code and have the ability to run efficiently on multiple HPC platforms.
-
-This presentation will explore a workflow that attempts to achieve this aim using Singularity containers based on the bind model.
-
-This online session is free of charge and open to all. 
-
-Further details and join link  [https://www.archer2.ac.uk/training/#upcoming-training](https://www.archer2.ac.uk/training/#upcoming-training)
-
-
 ## RDFaaS available from ARCHER2
 
 The RDF data is now available on RDF as a Service (RDFaaS).  
@@ -104,7 +88,6 @@ Follow us on Twitter for project news: [https://twitter.com/HPCEuropa3 ](https:/
 
 - Understanding Package Performance, Online, 19 April 2021 9:00 - 16:15 BST  
 - Efficient use of the HPE Cray EX Supercomputer ARCHER2, Online, 20 - 22 April 2021 09:00 - 17:00 BST
-- High Performance Containers?, Online webinar, Wednesday 21st April 2021 15:00 - 16:00 BST 
 - Shared Memory Programming with OpenMP, Online, always-open self-service course
 
 
