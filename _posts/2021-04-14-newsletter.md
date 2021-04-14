@@ -7,9 +7,8 @@ tags: [newsletters]
 categories: [news]
 ---
 
-
- - [Understanding Package Performance](#understanding-package-performance), Online training, 19 April 2021 9:00 - 16:15 BST 
  - [Efficient use of the HPE Cray EX Supercomputer ARCHER2](#efficient-use-of-the-hpe-cray-ex-supercomputer-archer2), Online training, 20 - 22 April 2021 09:00 - 17:00 BST 
+ - [Understanding Package Performance](#understanding-package-performance), Online training, 19 April 2021 9:00 - 16:15 BST 
  - [High Performance Containers?](#high-performance-containers)  Webinar, Wednesday 21st April 2021 15:00 - 16:00 BST
 -  [RDFaaS available from ARCHER2](#rdfaas-available-from-archer2)
 - [HPC-Europa3 Transnational Access visitor programme](#hpc-europa3-transnational-access-visitor-programme) 
