@@ -50,6 +50,8 @@ This course will not be recorded and the materials will be shared only with the 
 There will be morning, lunch, and afternoon breaks. 
 There will be a mixture between lessons and hands-on exercises.
 
+[Detailed timetable (PDF)](https://www.archer2.ac.uk/training/courses/210420-efficient-use/Agenda_ARCHER2_April2021.pdf)
+
 #### Eligibility
 
 This course is open to users of ARCHER2
