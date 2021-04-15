@@ -43,7 +43,12 @@ This course will not be recorded and the materials will be shared only with the 
 
 #### Timetable:
 
-Details to follow
+- **Day 1**: Introduction to the ARCHER2 architecture and software.
+- **Day 2**: Deep dive on compilation and profiling.
+- **Day 3**: Deep dive on MPI and IO. You will also have the opportunity to compile your code on ARCHER2.
+
+There will be morning, lunch, and afternoon breaks. 
+There will be a mixture between lessons and hands-on exercises.
 
 #### Eligibility
 
