@@ -7,7 +7,7 @@ start_date: 2021-04-19 09:00:00
 end_date: 2021-04-19 16:15:00
 trainers: Andrew Turner (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210419-package-performance
 location: Online
 location_url:
@@ -105,7 +105,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -124,7 +124,7 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](../../
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
