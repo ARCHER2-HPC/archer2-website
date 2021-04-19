@@ -40,7 +40,7 @@ Further details and join link:  [https://www.archer2.ac.uk/training/#upcoming-tr
 
 ## ARCHER2 Charging of Jobs
 
-As users have now had a chance to evaluate the 4-cabinet system and to help improve user experience, we will also be introducing charging of jobs against budgets from 1 April 2021. Ahead of this time, project budgets will be transferred over from ARCHER, converted to ARCHER2 CU (for those projects continuing), and new budgets will be created for new projects on ARCHER2. The conversion rate for ARCHER kAU to ARCHER2 CU is 1 ARCHER2 CU = 1.536 ARCHER kAU. In identifying these conversion rates UKRI has endeavoured to ensure that no user will be disadvantaged by the transfer of their allocation from ARCHER to ARCHER2. 
+As users have now had a chance to evaluate the 4-cabinet system and to help improve user experience, we will also be introducing charging of jobs against budgets from 1 April 2021. Ahead of this time, project budgets will be transferred over from ARCHER, converted to ARCHER2 CU (for those projects continuing), and new budgets will be created for new projects on ARCHER2. The conversion rate for ARCHER kAU to ARCHER2 CU is 1 ARCHER2 CU = 1.5156 ARCHER kAU. In identifying these conversion rates UKRI has endeavoured to ensure that no user will be disadvantaged by the transfer of their allocation from ARCHER to ARCHER2. 
 
 
 ## Access to HPC call open

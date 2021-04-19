@@ -21,7 +21,7 @@ categories: [news]
 
 A reminder that we will be introducing charging of jobs against budgets from 1 April 2021. 
 
-Project budgets have been transferred over from ARCHER, converted to ARCHER2 CU (for those projects continuing), and new budgets created for new projects on ARCHER2. The conversion rate for ARCHER kAU to ARCHER2 CU is 1 ARCHER2 CU = 1.536 ARCHER kAU. In identifying these conversion rates UKRI has endeavoured to ensure that no user will be disadvantaged by the transfer of their allocation from ARCHER to ARCHER2. 
+Project budgets have been transferred over from ARCHER, converted to ARCHER2 CU (for those projects continuing), and new budgets created for new projects on ARCHER2. The conversion rate for ARCHER kAU to ARCHER2 CU is 1 ARCHER2 CU = 1.5156 ARCHER kAU. In identifying these conversion rates UKRI has endeavoured to ensure that no user will be disadvantaged by the transfer of their allocation from ARCHER to ARCHER2. 
 
 If you have any questions about the new budgets, please do not hesitate to get in touch with the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk).
  
