@@ -7,7 +7,7 @@ start_date: 2021-04-20 09:00:00
 end_date: 2021-04-22 17:00:00
 trainers: Harvey Richardson HPE Cray
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1194/registrations/869/
 location: Online
 location_url:
@@ -107,7 +107,7 @@ This course is open to users of ARCHER2
 
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -126,7 +126,6 @@ This course is open to users of ARCHER2
       </div>
     </div>
 		
- -->		
 
  
 </section>
