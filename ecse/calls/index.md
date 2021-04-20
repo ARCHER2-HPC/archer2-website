@@ -5,34 +5,50 @@ summary: Details of open calls
 banner: web_banners_06.jpg
 ---
 
+<img src="eCSE04-timeline.png" alt="eCSE04 Timeline"
+	title="eCSE04 Timeline" width="925"/>
+	
 A timetable of recent, current and upcoming calls can be found [here](timetable.html).
 
-### The 3rd ARCHER2 eCSE call
+### The 4th ARCHER2 eCSE call
 
-**Given the current situation many are facing right now with schools
-closed and further restrictions in place, we have taken a decision to
-extend the deadlines for the current eCSE call (ARCHER2 eCSE03) by 4
-weeks. We are aware that the recent changes in restrictions will
-affect different people in different ways. The ARCHER2 Service is
-committed to [equality, diversity, inclusion and accessibility](../../community/diversity-inclusion/) and we
-believe that giving this extension will allow as many people to
-participate in the call as possible.**
+The 4th ARCHER2 eCSE call (ARCHER2 eCSE04) opened on the 20 April 2021. The deadline for submitting documents for technical evaluations is **16:00 on 18 May 2021**, with the final deadline for proposal submission being **16:00 on 8 Jun 2021**.
 
-The 3rd ARCHER2 eCSE call (ARCHER2 eCSE03) opened on the 8 Dec 2020. The deadline for submitting documents for technical evaluations is **16:00 on 23 Feb 2021**, with the final deadline for proposal submission being **16:00 on 16 Mar 2021**.
+For the first three ARCHER2 eCSE calls the programme has awarded
+projects of between 3 and 12 person months (inclusive). We recognise
+that in some cases there may be a need for work requiring less effort
+than this so we are now accepting proposals requesting effort from
+between 1 and 12 person months (inclusive). The process of submission
+is the same for all proposals. However, we recognise that the number
+of objectives and the way in which impacts and benefits will be
+realised may differ depending on the length of the project. Please see
+the guidance document for further information about this.
 
-Please note that applying for an eCSE project under ARCHER2 is a 2-stage
-submission where technical evaluation documents must be submitted for
-evaluation by the first deadline above in advance of the final
-submission. Any project members (PI, Co-I and technical staff) must
-have been invited by the proposal owner to join a project and have
-accepted the invitation in time for the final submission. Proposals
-cannot be submitted without technical staff.
+Please note that applying for an eCSE project under ARCHER2 is a
+2-stage submission where technical evaluation documents must be
+submitted for evaluation by the first deadline above in advance of the
+final submission. Any project members (PI, Co-I and technical staff)
+must have been invited by the proposal owner to join a project and
+have accepted the invitation in time for the final
+submission. Proposals cannot be submitted without technical staff. All
+technical staff must provide a CV, and the PI and all Co-Is must each
+provide descriptions of their relevant background experience and the
+contribution that they will each bring to the project. Please see
+the guidance document for further information about this.
+
+We are very keen to encourage software developers at the early stage
+of their careers. At this stage, an RSE will be developing
+expertise. This will be taken into account when a proposal is assessed
+and in such cases, the Panel will be looking at what support is on
+offer from PI and any Co-Is so it is important that this information
+is made clear in the proposal. Please see the guidance document for
+further information about this.
 
 Please follow the links here for [the guidance for submitting a
-proposal](ARCHER2_eCSE03_ApplicationGuidance.pdf) to this call, along
+proposal](ARCHER2_eCSE04_ApplicationGuidance.pdf) to this call, along
 with [the technical evaluation
-form](ARCHER2_eCSE03_TechnicalEvaluation.docx) and [the project
-proposal template](ARCHER2_eCSE03_ProposalTemplate.docx). Each call
+form](ARCHER2_eCSE04_TechnicalEvaluation.docx) and [the project
+proposal template](ARCHER2_eCSE04_ProposalTemplate.docx). Each call
 has its own guidance document and associated forms. Please ensure that the
 correct guidance and forms are used for this call.
 
@@ -87,7 +103,7 @@ Funding is provided for software which results in research which is
 within the remit of EPSRC or NERC. Funding can be requested for
 staff located at the institution of the PI, third parties, or can
 include staff from the centralised CSE support team or a mixture of
-the above. Funding can be requested for between 3 and 12 person months
+the above. Funding can be requested for between 1 and 12 person months
 in total. Staff employed on an eCSE project are expected to play a
 full part in ARCHER2 related activities.
 
@@ -103,8 +119,8 @@ costs and associated documents.
 ### Computing Resources
 
 Successful projects will be given an allocation of resources on
-ARCHER2 when it becomes available. The size of this allocation will be
-determined when the system itself becomes available.
+ARCHER2 when it becomes available. Details will be provided before
+projects begin.
 
 ### Training
 
@@ -115,7 +131,7 @@ upcoming training course can be found [here](../../training/).
 
 Information and guidelines on how to apply for eCSE funding can be
 found <a
-href="ARCHER2_eCSE03_ApplicationGuidance.pdf">here</a>. Proposals
+href="ARCHER2_eCSE04_ApplicationGuidance.pdf">here</a>. Proposals
 undergo a two-stage process. A technical evaluation is performed first
 with completed forms being passed back to applicants in time for
 including in the final submission. After final submission, all
@@ -123,13 +139,16 @@ proposal documents, including the completed technical evaluation
 forms, will then be passed to the review panel who will make decisions
 on ranking and any award of funding.
 
-The eCSE applications should be submitted via SAFE. The eCSE technical
-evaluation form can be found <a
-href="ARCHER2_eCSE03_TechnicalEvaluation.docx">here</a> and the
-proposal template can be found <a
-href="ARCHER2_eCSE03_ProposalTemplate.docx">here</a>.
+The eCSE technical evaluation form can be found <a
+href="ARCHER2_eCSE04_TechnicalEvaluation.docx">here</a> and should be
+submitted to the ARCHER service desk
+[support@archer2.ac.uk](mailto:support@archer2.ac.uk). The proposal
+template can be found <a
+href="ARCHER2_eCSE04_ProposalTemplate.docx">here</a> and should be
+submitted via the <a href="https://safe.epcc.ed.ac.uk/">ARCHER2
+SAFE</a> together with the completed Technical Evaluation document.
 
-The eCSE team presented a webinar giving an overview of the eCSE scheme and application 
+The eCSE team recently presented a webinar giving an overview of the eCSE scheme and application 
 process, including a walk-through of completing the application form. Full details 
 and video of this presentation are 
 available <a href="https://www.archer2.ac.uk/training/courses/200527-archer2-ecse-call/">here</a>.
@@ -168,11 +187,11 @@ The ARCHER2 CSE team can be contacted via the ARCHER2 service desk [support@arch
 
 ### Links and documents
 
-* [Application Guidance](ARCHER2_eCSE03_ApplicationGuidance.pdf)
+* [Application Guidance](ARCHER2_eCSE04_ApplicationGuidance.pdf)
 
-* [Technical evaluation form](ARCHER2_eCSE03_TechnicalEvaluation.docx)
+* [Technical evaluation form](ARCHER2_eCSE04_TechnicalEvaluation.docx)
 
-* [Project Proposal template](ARCHER2_eCSE03_ProposalTemplate.docx)
+* [Project Proposal template](ARCHER2_eCSE04_ProposalTemplate.docx)
 
 * [eCSE projects funded under the ARCHER service](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php)
 
