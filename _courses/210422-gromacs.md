@@ -1,6 +1,6 @@
 ---
 layout: course
-title: QM/MM simulation with GROMACS + CP2K (Fully booked)
+title: QM/MM simulation with GROMACS + CP2K 
 banner: web_banners_05.jpg 
 human_dates: 22 - 23 April 2021  9:30-15:00 CEST (8:30-14:00 BST)
 start_date: 2021-04-22 08:30:00
@@ -112,7 +112,7 @@ Recordings will be made available after the course on the [BioExcel YouTube chan
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="https://bioexcel.github.io/2021-04-22-qmmm-gromacs-cp2k">
           <strong>Course materials</strong>   <br />
-			Available soon      
+			     
         </a>
       </div>
 
@@ -147,7 +147,7 @@ Recordings will be made available after the course on the [BioExcel YouTube chan
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -166,7 +166,7 @@ Recordings will be made available after the course on the [BioExcel YouTube chan
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
