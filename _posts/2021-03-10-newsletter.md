@@ -47,8 +47,8 @@ The HPC TopUp Call, through which existing EPSRC users with an existing ARCHER2 
 
 https://www.archer2.ac.uk/support-access/access.html#open-archer2-calls
 
-Closing date: 30 April 2021 16:00
-Closing date for Technial assessment: 2 April 2021
+- Closing date 21 May 2021 16:00
+- Closing date for Technical assessment: 30 April 2021 16:00
 
 
 ## Introduction to ARCHER2 for software developers
