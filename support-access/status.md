@@ -12,18 +12,21 @@ No current issues
 
 ## Recently Resolved Issues
 
-### 18 Mar 2021 - 12:30   Maintenance completed.
-
-The ARCHER2 maintenance session is now complete, jobs are running, and the login node is available again.
-
-This maintenance session was due to issues being experienced with the High Speed Network (HSN) on ARCHER2.
-
-Apologies again for any inconvenience caused by this essential outage.
+No recent issues
 
 
 ## Upcoming Maintenance Sessions
 
-No upcoming sessions scheduled
+### Tuesday 27th April Compute Nodes unavailable from 0900 
+
+We would like to install a newer version of the HPE Cray Programming Environment to address memory leaks that are affecting a significant number of users and to help all users prepare for the main ARCHER2 system. Installing this PE will require a reboot of the compute nodes.
+
+The compute nodes will be drained to allow them to be rebooted from 0900 on Tuesday 27th April. We expect the compute nodes to be unavailable until lunchtime and will notify you once they are back in service.
+
+The User Access Nodes (UAN) will be available but if you experience any issues then please reconnect. You will be able to submit jobs during the reboot of the compute nodes and any submitted jobs will be queued until the compute nodes are available again.
+
+We apologise for the inconvenience caused by this planned reboot of the compute nodes.
+
 
 ## Completed Maintenance Sessions
 
