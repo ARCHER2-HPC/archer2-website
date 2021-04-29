@@ -48,7 +48,7 @@ Panel meeting 19 August 2020 (virtual meeting)
 
 ### Projects funded from the 1st eCSE call
 
-- *ARCHER2-eCSE01-6 PI: Dr Sylvain Laizet (Imperial College) High fidelity simulations of moving objects in a turbulent flow using a Cartesian mesh* (12 months) [[[UKTC](https://www.ukturbulence.co.uk/)](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE01-6 PI: Dr Sylvain Laizet (Imperial College) High fidelity simulations of moving objects in a turbulent flow using a Cartesian mesh* (12 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
 - *ARCHER2-eCSE01-9 PI: Prof Matt Probert (University of York) CASTEP solvation forces* (6 months) [[UKCP](http://www.ukcp.ac.uk/)]
 

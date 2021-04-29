@@ -49,6 +49,8 @@ Further details on the [eCSE Calls page](calls/).
 
 ## Previous eCSE Projects
 
+The list of all previous eCSE projects funded under the ARCHER2 service can be found on the [eCSE Panels page](panels/).
+
 The list of all previous eCSE projects funded under the ARCHER service can be found on the funded [eCSE projects](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php) page.
 
 
