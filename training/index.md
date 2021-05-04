@@ -283,9 +283,22 @@ We normally charge a fee for non-academics. If you are from a commercial organis
 
 ## ARCHER2 year two planned courses
 
-We are preparing the schedule of courses for year two and will add the details here soon.
 
-ARCHER2 will be unavailable during the work to prepare the full 23-cabinet system. This is expected to take place during May 2021 so no courses are planned during that period.
+
+ARCHER2 will be unavailable during the work to prepare the full 23-cabinet system. This is expected to take place during May/June 2021 so no courses are planned during that period.
+
+Provisional schedule of planned courses.  Brief details of the courses can be found on the [Course Descriptions page](courses/).
+
+| May - July 2021   |  August - October 2021 |
+| --- | --- |
+| Data Carpentry<br>Software Carpentry<br>HPC Carpentry<br>Reproducible computational environments using containers<br>Modern C++ for Computational Scientists<br>Parallel Performance Analysis using Scalasca<br>Advanced MPI|Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Introduction to Unified Model <br>Introduction to CP2K<br>Data Analytics with HPC <br>Advanced use of LAMMPS <br>Advanced OpenMP <br>Performance Optimisation on AMD EPYC|
+
+| November 2021 - January 2022 | February - April 2022 |
+| --- | --- |
+| Data Carpentry<br>HPC Carpentry<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Introduction to GROMACS<br>Reproducible computational environments using containers<br>Scientific Programming with Python<br>Modern Fortran<br>Efficient Parallel IO<br>| Software Carpentry<br>Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Advanced use of Code_Saturne<br>Message Passing Programming with MPI<br>Efficient use of the HPE Cray EX System<br> |
+
+
+Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
 
 ## Training updates mailing list
 
