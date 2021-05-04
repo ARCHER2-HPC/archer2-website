@@ -9,9 +9,7 @@ banner: web_banners_05.jpg
 Please see the [Course Descriptions page](./) for more information about the courses.
 
 
-## Novice package user
-
-
+## Novice package user without HPC expertise
 
 
 
@@ -24,7 +22,61 @@ Virat is a PhD student working in materials science research. He has been told b
 
 
 
+## Experienced package user without HPC expertise
+
+
+Blah
 
 
 
+----------
 
+
+## Experienced package user with HPC expertise
+
+
+Blah
+
+
+
+----------
+
+
+## Data Scientist
+
+
+Blah
+
+
+
+----------
+
+
+## Novice Developer without HPC expertise
+
+
+Blah
+
+
+
+----------
+
+
+## Novice Developer with HPC expertise
+
+
+Blah
+
+
+
+----------
+
+
+## Experienced Developer with HPC expertise
+
+
+Blah
+
+
+
+----------
