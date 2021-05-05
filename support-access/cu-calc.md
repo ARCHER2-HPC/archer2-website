@@ -184,3 +184,5 @@ use in the Je-S submission system.</p>
 </tr> 
 </tbody> 
 </table> 
+
+1 ARCHER2 CU = 1 Node hour = 128 Core hours (CPUh)
