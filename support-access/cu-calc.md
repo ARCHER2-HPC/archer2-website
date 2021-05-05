@@ -136,6 +136,8 @@ use in the Je-S submission system.</p>
 </tbody> 
 </table> 
 
+1 ARCHER2 CU = 1 Node hour = 128 Core hours (CPUh)
+
 <h4>Costs per CU for Partner Research Councils</h4> 
  
 <table class="lined"> 
@@ -185,4 +187,3 @@ use in the Je-S submission system.</p>
 </tbody> 
 </table> 
 
-1 ARCHER2 CU = 1 Node hour = 128 Core hours (CPUh)
