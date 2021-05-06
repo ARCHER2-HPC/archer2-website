@@ -20,13 +20,11 @@ I joined the ARCHER2 CSE team at EPCC in October 2020 as a new university gradua
 
 
 ![image]({{ site.baseurl }}/img/blog/210506-HPE-Cray-EX-Cabinet-Exploded-View.jpg)
-{: .img-center style="width: 70%" 
+{: .img-center style="width: 80%" 
 alt="Hewlett Packard Enterprise Cray EX Cabinet Exploded View" 
 title=" Hewlett Packard Enterprise Cray EX Cabinet Exploded View"}
 
 
-
-Image &#169; HPE Cray
 
 
 
