@@ -15,7 +15,7 @@ Please see the [Course Descriptions page](./) for more information about the cou
 
 Virat is a PhD student working in materials science research. He has been told by his supervisor that he will be using CASTEP on ARCHER2 for the research project. He has played around with using the command line before but has no experience of accessing remote HPC resources, using batch submission systems or running parallel software. He feels unsure about where to start with accessing and using ARCHER2 and is concerned that he will waste the project’s ARCHER2 resources by getting things wrong when he uses the system.
 
-![image](img/Novice-package-user2.jpg){: style="width: 100%; float:center"}
+![image](img/Novice-package-user-wo-exp.jpg){: style="width: 100%; float:center"}
 
 
 ----------
@@ -25,9 +25,9 @@ Virat is a PhD student working in materials science research. He has been told b
 ## Experienced package user without HPC expertise
 
 
-Blah
+To follow
 
-
+![image](img/Exp-package-user-wo-exp.jpg){: style="width: 100%; float:center"}
 
 ----------
 
@@ -35,9 +35,10 @@ Blah
 ## Experienced package user with HPC expertise
 
 
-Blah
+To follow
 
 
+![image](img/Exp-package-user-with-exp.jpg){: style="width: 100%; float:center"}
 
 ----------
 
@@ -45,9 +46,10 @@ Blah
 ## Data Scientist
 
 
-Blah
+To follow
 
 
+![image](img/Data-sci.jpg){: style="width: 100%; float:center"}
 
 ----------
 
@@ -55,9 +57,10 @@ Blah
 ## Novice Developer without HPC expertise
 
 
-Blah
+To follow
 
 
+![image](img/Novice-dev-wo-exp.jpg){: style="width: 100%; float:center"}
 
 ----------
 
@@ -65,8 +68,9 @@ Blah
 ## Novice Developer with HPC expertise
 
 
-Blah
+To follow
 
+![image](img/Novice-dev-with-exp.jpg){: style="width: 100%; float:center"}
 
 
 ----------
@@ -75,8 +79,9 @@ Blah
 ## Experienced Developer with HPC expertise
 
 
-Blah
+To follow
 
 
+![image](img/Exp-dev-with-exp.jpg){: style="width: 100%; float:center"}
 
 ----------

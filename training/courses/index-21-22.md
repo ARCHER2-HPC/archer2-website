@@ -35,28 +35,30 @@ banner: web_banners_05.jpg
 * [Introduction to Unified Model](#introduction-to-unified-model)
 
 * [Data Science on ARCHER2](#data-science-on-archer2)
-* [Development on ARCHER2](#development-on-archer2)
-* [Reproducible computational environments using containers](#reproducible-computational-environments-using-containers)
-* [Understanding Package Performance](#understanding-package-performance)
+* [Data Analytics with HPC](#data-analytics-with-hpc)
 
+* [Development on ARCHER2](#development-on-archer2)
+* [Modern Fortran](#modern-fortran) 
+* [Scientific Programming with Python](#scientific-programming-with-python)
 
 #### [Intermediate (level 2) courses](#intermediate_courses)
 
-* [Advanced use of Code_Saturne](#advanced-use-of-code_saturne) 
-* [Advanced use of LAMMPS](#advanced-use-of-lammps) 
 <!-- * [Data Analysis using Python](#data-analysis-using-python) -->
-* [Data Analytics with HPC](#data-analytics-with-hpc)
+
 * [Message Passing Programming with MPI](#message-passing-programming-with-mpi)
 * [Shared Memory Programming with OpenMP](#shared-memory-programming-with-openmp)
 * [Modern C++ for Computational Scientists](#modern-c-for-computational-scientists) 
-* [Modern Fortran](#modern-fortran) 
-* [Scientific Programming with Python](#scientific-programming-with-python)
+* [Reproducible computational environments using containers](#reproducible-computational-environments-using-containers)
+* [Understanding Package Performance](#understanding-package-performance)
+
 
 
 #### [Advanced (level 3) courses](#advanced_courses)
 
 * [Advanced MPI](#advanced-mpi) 
 * [Advanced OpenMP](#advanced-openmp)
+* [Advanced use of Code_Saturne](#advanced-use-of-code_saturne) 
+* [Advanced use of LAMMPS](#advanced-use-of-lammps) 
 * [Efficient Parallel IO](#efficient-parallel-io)
 * [Efficient use of the HPE Cray EX System](#efficient-use-of-the-hpe-cray-ex-system)
 * [Parallel Performance Analysis using Scalasca](#parallel-performance-analysis-using-scalasca) 
@@ -132,6 +134,14 @@ This introductory course aims to give a practical introduction to using GROMACS 
 This one-day introductory course will cover the essentials of ARCHER2, the basic use of core data science packages (e.g., R, Pandas), and data handling best practice.
 
 
+
+#### Data Analytics with HPC
+
+*Course length: 2 days. Course level: introductory.*
+
+Data Analytics, Data Science and Big Data are a just a few of the many terms used in business and academic research, all referring to the manipulation, processing, and analysis of data. Fundamentally, these are all concerned with the extraction of knowledge from data that can be used for competitive advantage or to provide scientific insight. In recent years, this area has undergone a revolution in which HPC has been a key driver. This two-day intermediate course provides an overview of data science and the analytical techniques that form its basis as well as exploring how HPC provides the power that has driven their adoption. The course will cover key data analytical techniques such as, classification, optimisation, and unsupervised learning; key parallel patterns, such as Map Reduce, for implementing analytical techniques; relevant HPC and data infrastructures; case studies from academia and business.
+
+
 #### Development on ARCHER2
 
 *Course length: 2 days. Course level: introductory.*
@@ -139,34 +149,25 @@ This one-day introductory course will cover the essentials of ARCHER2, the basic
 This two-day introductory course will cover the ARCHER2 application development environment, core parallel and scientific software libraries, available debugging, and profiling tools. This will be available both online and face-to-face course to suit the needs of attendees.
 
 
-#### Reproducible computational environments using containers
+
+#### Modern Fortran 
 
 *Course length: 2 days. Course level: introductory.*
 
-This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will primarily use Docker to illustrate the use of containers but will also briefly introduce Singularity which is designed for use on multi-user systems (such as HPC resources). This course is aimed at researchers who have no (or very little) previous experience of using containers. Attendees are expected to have basic familiarity with using a command line interface such as bash or Powershell.
+This course introduces Modern Fortran, which contains many powerful features that make it a suitable language for programming scientific, engineering, and numerical applications. Fortran 90/95 is a modern and efficient general purpose programming language, particularly suited to numeric and scientific computation. The language offers advanced array support and is complimented by a wealth of numerical libraries. Many large-scale computing facilities offer heavily optimised Fortran compilers, making Fortran suitable for the most demanding computational tasks.
 
 
-#### Understanding Package Performance
+#### Scientific Programming with Python
 
-*Course length: 1 day. Course level: introductory.*
+*Course length: 2 days. Course level: introductory.*
 
-As parallel packages for computational science become more sophisticated, it becomes more difficult for a researcher to understand the most important factors that determine end-to-end productivity from initial input data to final result. Aspects such as file IO and data transfer can be just as important in practice as the performance and parallel scalability of the application itself. This one-day intermediate course will take a holistic approach and cover tools and techniques to help researchers to improve their overall scientific productivity on large-scale HPC systems.
+This course is aimed at programmers with little or no Python knowledge seeking to learn how to use Python for scientific computing. We will introduce Python's fundamental scientific libraries numpy, scipy, and matplotlib. We will also introduce how to interface Python with Fortran and C codes, along with parallel programming methods including MPI via mpi4py.
+
+
 
 <p><a name="intermediate_courses">&nbsp;</a></p>
 ### Intermediate (level 2) courses
 
-
-####  Advanced use of Code_Saturne 
-
-*Course length: 1 day. Course level: intermediate.*
-
-Code_Saturne is the free, open-source software developed and released by EDF to solve computational fluid dynamics (CFD) applications. This course will focus on the use of CFD for the prediction of fluid flow and heat transfer, including turbulence modelling, near wall modelling and conjugate heat transfer.
-
-####  Advanced use of LAMMPS 
-
-*Course length: 1 day. Course level: intermediate.*
-
-LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely-used classical molecular dynamics (MD) code. This C++ code is easy to use, incredibly versatile, and parallelised to run efficiently on both small-scale personal computers and HPC clusters. As of 2018, LAMMPS has been used, to some degree, in over 14,000 publications in fields as varied as chemistry, physics, material science, granular and lubricated-granular flow, etc. This course will contain an in-depth discussion of the various packages LAMMPS offers and how to use them efficiently.
 
 
 <!--
@@ -177,12 +178,6 @@ LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely-u
 Data Analytics, Data Science and Big Data are a just a few of the many terms used in business and academic research, all referring to the manipulation, processing and analysis of data. Fundamentally, these are all concerned with the extraction of knowledge from data that can be used for competitive advantage or to provide scientific insight. In recent years, this area has undergone a revolution in which HPC has been a key driver. This course provides an overview of data science and the analytical techniques that form its basis as well as exploring how HPC provides the power that has driven their adoption. The course will cover: key data analytical techniques such as, classification, optimisation, and unsupervised learning; key parallel patterns, such as Map Reduce, for implementing analytical techniques; relevant HPC and data infrastructures; case studies from academia and business.
 -->
 
-
-#### Data Analytics with HPC
-
-*Course length: 2 days. Course level: intermediate.*
-
-Data Analytics, Data Science and Big Data are a just a few of the many terms used in business and academic research, all referring to the manipulation, processing, and analysis of data. Fundamentally, these are all concerned with the extraction of knowledge from data that can be used for competitive advantage or to provide scientific insight. In recent years, this area has undergone a revolution in which HPC has been a key driver. This two-day intermediate course provides an overview of data science and the analytical techniques that form its basis as well as exploring how HPC provides the power that has driven their adoption. The course will cover key data analytical techniques such as, classification, optimisation, and unsupervised learning; key parallel patterns, such as Map Reduce, for implementing analytical techniques; relevant HPC and data infrastructures; case studies from academia and business.
 
 
 
@@ -220,18 +215,19 @@ The course is meant to appeal to programmers with experience in another language
 
 
 
-#### Modern Fortran 
+#### Reproducible computational environments using containers
 
 *Course length: 2 days. Course level: intermediate.*
 
-This course introduces Modern Fortran, which contains many powerful features that make it a suitable language for programming scientific, engineering, and numerical applications. Fortran 90/95 is a modern and efficient general purpose programming language, particularly suited to numeric and scientific computation. The language offers advanced array support and is complimented by a wealth of numerical libraries. Many large-scale computing facilities offer heavily optimised Fortran compilers, making Fortran suitable for the most demanding computational tasks.
+This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. We will primarily use Docker to illustrate the use of containers but will also briefly introduce Singularity which is designed for use on multi-user systems (such as HPC resources). This course is aimed at researchers who have no (or very little) previous experience of using containers. Attendees are expected to have basic familiarity with using a command line interface such as bash or Powershell.
 
 
-#### Scientific Programming with Python
+#### Understanding Package Performance
 
-*Course length: 2 days. Course level: intermediate.*
+*Course length: 1 day. Course level: intermediate.*
 
-This course is aimed at programmers with little or no Python knowledge seeking to learn how to use Python for scientific computing. We will introduce Python's fundamental scientific libraries numpy, scipy, and matplotlib. We will also introduce how to interface Python with Fortran and C codes, along with parallel programming methods including MPI via mpi4py.
+As parallel packages for computational science become more sophisticated, it becomes more difficult for a researcher to understand the most important factors that determine end-to-end productivity from initial input data to final result. Aspects such as file IO and data transfer can be just as important in practice as the performance and parallel scalability of the application itself. This one-day intermediate course will take a holistic approach and cover tools and techniques to help researchers to improve their overall scientific productivity on large-scale HPC systems.
+
 
 
 <p><a name="advanced_courses">&nbsp;</a></p>
@@ -251,6 +247,21 @@ This course is aimed at programmers seeking to deepen their understanding of MPI
 OpenMP is the industry standard for shared-memory programming, which enables serial programs to be parallelised using compiler directives. This course is aimed at programmers seeking to deepen their understanding of OpenMP and explore some of its more recent and advanced features.
 
 This two-day advanced course will cover topics including nested parallelism, OpenMP tasks, the OpenMP memory model, performance tuning, hybrid OpenMP + MPI, OpenMP implementations, and new features in OpenMP 5. Hands-on practical programming exercises make up a significant, and integral, part of this course.
+
+
+
+####  Advanced use of Code_Saturne 
+
+*Course length: 1 day. Course level: advanced.*
+
+Code_Saturne is the free, open-source software developed and released by EDF to solve computational fluid dynamics (CFD) applications. This course will focus on the use of CFD for the prediction of fluid flow and heat transfer, including turbulence modelling, near wall modelling and conjugate heat transfer.
+
+
+####  Advanced use of LAMMPS 
+
+*Course length: 1 day. Course level: advanced.*
+
+LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) is a widely-used classical molecular dynamics (MD) code. This C++ code is easy to use, incredibly versatile, and parallelised to run efficiently on both small-scale personal computers and HPC clusters. As of 2018, LAMMPS has been used, to some degree, in over 14,000 publications in fields as varied as chemistry, physics, material science, granular and lubricated-granular flow, etc. This course will contain an in-depth discussion of the various packages LAMMPS offers and how to use them efficiently.
 
 
 
