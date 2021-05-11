@@ -25,7 +25,7 @@ Virat is a PhD student working in materials science research. He has been told b
 ## Experienced package user without HPC expertise
 
 
-To follow
+
 
 ![image](img/Exp-package-user-wo-exp.jpg){: style="width: 100%; float:center"}
 
@@ -35,7 +35,6 @@ To follow
 ## Experienced package user with HPC expertise
 
 
-To follow
 
 
 ![image](img/Exp-package-user-with-exp.jpg){: style="width: 100%; float:center"}
@@ -46,7 +45,7 @@ To follow
 ## Data Scientist
 
 
-To follow
+
 
 
 ![image](img/Data-sci.jpg){: style="width: 100%; float:center"}
@@ -57,7 +56,7 @@ To follow
 ## Novice Developer without HPC expertise
 
 
-To follow
+
 
 
 ![image](img/Novice-dev-wo-exp.jpg){: style="width: 100%; float:center"}
@@ -68,7 +67,7 @@ To follow
 ## Novice Developer with HPC expertise
 
 
-To follow
+
 
 ![image](img/Novice-dev-with-exp.jpg){: style="width: 100%; float:center"}
 
@@ -79,7 +78,7 @@ To follow
 ## Experienced Developer with HPC expertise
 
 
-To follow
+
 
 
 ![image](img/Exp-dev-with-exp.jpg){: style="width: 100%; float:center"}
