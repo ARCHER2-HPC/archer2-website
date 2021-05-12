@@ -53,5 +53,7 @@ If you have any questions about these Terms and Conditions, please mail to the [
 
 
 Update Logs
-* 2020-05-05 Minor Updates
+* 2021-02-15 Add line 'to observe the [UoE Acceptable Use Policy](https://www.ed.ac.uk/information-services/about/policies-and-regulations/computing-regulations)' and amend link in 'to observe the [JANET Acceptable Use Policy](https://community.jisc.ac.uk/library/acceptable-use-policy)' to reflect updated JISC url
+* 2020-05-05 Update capitalisation of page title
+* 2020-03-15 Update references to service from ARCHER to ARCHER2
 * 2020-03-13 Copied from ARCHER and Updated for ARCHER2
