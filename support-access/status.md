@@ -8,14 +8,14 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-### Friday 14th May 0900
-
-HPE Cray are investigating an issue with very slow I/O on the ARCHER2 /work filesystem.
-We will provide a further update once we know more.
+No current issues
 
 ## Recently Resolved Issues
 
-No recent issues
+### Friday 14th May 0950
+
+HPE Cray have resolved an issue with very slow I/O on the ARCHER2 /work filesystem.
+We apologise for the inconvenience caused during this issue.
 
 
 ## Upcoming Maintenance Sessions
