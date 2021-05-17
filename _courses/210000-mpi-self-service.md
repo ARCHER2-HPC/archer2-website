@@ -43,13 +43,13 @@ Message Passing Interface (MPI). It covers:
 - general design issues.
 
 This self-service course includes a series of Lecture videos (with
-closed-captions and downloadable slides) which you can work through at
+closed captions and downloadable PDF slides) which you can work through at
 your own pace and in your own time.
 
 Hands-on practical programming exercises are included, with the option
-of working in either Fortran or C.
+of working in either C, C++ or Fortran.
  
-Access to ARCHER2 provided for participants to build and run the exercises.
+Access to ARCHER2 is provided for participants to build and run the exercises.
 
 ### Intended Learning Outcomes
 
