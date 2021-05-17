@@ -25,10 +25,10 @@ and [associated material](
 http://www.archer.ac.uk/training/course-material/2016/07/intro_epcc/index.php#slides)
 
 * [Shared-Memory Programming with OpenMP]( 
-https://www.archer.ac.uk/training/courses/2019/11/openmp_online/)
+https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/)
 
 * [Message-Passing Programming with MPI](
-https://www.archer.ac.uk/training/courses/2019/02/online-mpi/index.php)
+https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/)
 
 
 
