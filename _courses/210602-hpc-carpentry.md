@@ -53,14 +53,14 @@ If you are confident using the bash shell but have any issues with connecting to
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="https://epcced.github.io/2021-06-02-hpc-shell-online/">
-          <strong>Course materials</strong><br>HPC Shell
+          <strong>Course materials</strong><br>Day 1<br>HPC Shell
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="https://epcced.github.io/2021-06-03-hpc-intro-online/">
-          <strong>Course materials</strong><br>HPC Introduction
+          <strong>Course materials</strong><br>Day 2<br>HPC Introduction
         </a>
       </div>
 
