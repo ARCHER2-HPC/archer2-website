@@ -10,6 +10,7 @@ categories: [news]
 
 - [Message-Passing Programming with MPI](#message-passing-programming-with-mpi) - new Online self-service course
 - [VASP modules updated](#vasp-modules-updated)
+- [RDFaaS available from ARCHER2](#rdfaas-available-from-archer2)
 - [Upcoming ARCHER2 training](#other-upcoming-archer2-training) 
 
 
@@ -46,6 +47,20 @@ Access to ARCHER2 is provided for participants to build and run the exercises.
 The following were made the default versions on ARCHER2 on Tuesday 18 May 2021
 - vasp/5/5.4.4-gcc10-cpe2103
 - vasp/6/6.2.0-gcc10-cpe2103
+
+
+## RDFaaS available from ARCHER2
+
+As previously noted, the RDF data was available on RDF as a Service (RDFaaS) as read-only. 
+The RDFaaS is now available for read and write access. 
+
+ARCHER2 users can access the data from the ARCHER2 User Access Nodes (UANs) using
+- cd /epsrc/your_project_code
+- cd /general/your_project_code
+
+Note: as previously notified, /nerc is no longer available
+
+If the data you wish to access is from an old ARCHER project which is not on ARCHER2, then please contact the [Service Desk](mailto:support@archer2.ac.uk) and we can make arrangements so that you are able to access the data.
 
 
 ## Other upcoming ARCHER2 Training
