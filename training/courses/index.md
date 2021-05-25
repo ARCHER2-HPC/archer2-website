@@ -15,6 +15,11 @@ banner: web_banners_05.jpg
 
 
 
+
+
+![image](img/training-paths-key.jpg){: style="width: 200px; float:right"}
+
+
 <!--
 [Some example scenarios and suggested training paths](course-paths).
 
