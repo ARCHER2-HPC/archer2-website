@@ -118,9 +118,8 @@ costs and associated documents.
 
 ### Computing Resources
 
-Successful projects will be given an allocation of resources on
-ARCHER2 when it becomes available. Details will be provided before
-projects begin.
+Successful projects will be given an allocation of 800 CU of ARCHER2
+resources per 6 months of eCSE person month awarded.
 
 ### Training
 
