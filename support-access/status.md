@@ -8,14 +8,17 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-No current issues
+There is currently a technical issue with the high-speed network interfering with some jobs on ARCHER2.  Our collegues at HPE Cray are currently working on this and the system is being drained in order for HPE Cray to perform emergency maintenance.  
+
+Any queued jobs will not be affected and the system is being drained to give jobs currently running the best chance of successful completion.
+
+We will provide further updates when the system is returned to service.
+
+We apologise for the inconvenience caused.
 
 ## Recently Resolved Issues
 
-### Friday 14th May 0950
-
-HPE Cray have resolved an issue with very slow I/O on the ARCHER2 /work filesystem.
-We apologise for the inconvenience caused during this issue.
+No recent issues
 
 
 ## Upcoming Maintenance Sessions
