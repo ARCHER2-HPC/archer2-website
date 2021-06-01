@@ -52,7 +52,8 @@ These Terms and Conditions are governed by the laws of England and the English c
 If you have any questions about these Terms and Conditions, please mail to the [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
 
 
-Update Logs
+[Update Logs](https://github.com/ARCHER2-HPC/archer2-website/commits/main/about/policies/tandc.md)
+* 2021-06-01 Add link to this page source within the GitHub repo from the [Update Logs header](https://github.com/ARCHER2-HPC/archer2-website/commits/main/about/policies/tandc.md), to allow direct inspection of the change history
 * 2021-02-15 Add line 'to observe the [UoE Acceptable Use Policy](https://www.ed.ac.uk/information-services/about/policies-and-regulations/computing-regulations)' and amend link in 'to observe the [JANET Acceptable Use Policy](https://community.jisc.ac.uk/library/acceptable-use-policy)' to reflect updated JISC url
 * 2020-05-05 Update capitalisation of page title
 * 2020-03-15 Update references to service from ARCHER to ARCHER2
