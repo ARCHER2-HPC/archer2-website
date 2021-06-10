@@ -15,7 +15,9 @@ forms, some examples are:
 - Adding your thoughts and ideas to any open issues
 
 All people who contribute and interact via this Github repository undertake to abide by the
-[ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html).
+[ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html) so that we,
+as a community, provide a welcoming and supportive environment for all people, regardless of background
+or identity.
 
 To contribute to this website, first you have to fork it on GitHub and
 clone it to your machine, see [Fork a Repo](https://help.github.com/articles/fork-a-repo/) for the GitHub
