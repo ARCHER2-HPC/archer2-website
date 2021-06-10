@@ -7,6 +7,16 @@ This repository contains the website for the service available at:
 
 ## How to Contribute
 
+We welcome contributions from the ARCHER2 community and beyond. Contributions can take many different
+forms, some examples are:
+
+- Raising Issues if you spot a mistake or something that could be improved
+- Adding/updating material via a Pull Request
+- Adding your thoughts and ideas to any open issues
+
+All people who contribute and interact via this Github repository undertake to abide by the
+[ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html).
+
 To contribute to this website, first you have to fork it on GitHub and
 clone it to your machine, see [Fork a Repo](https://help.github.com/articles/fork-a-repo/) for the GitHub
 documentation on how to do this.
