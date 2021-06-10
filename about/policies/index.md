@@ -15,5 +15,5 @@ These policies form an integrated whole, based on the Terms and Conditions of Ac
 * [End of Life Policy for User Accounts and Projects](project_account_closing.html)
 * [Website Accessibility Policy](accessibility.html)
 * [Diversity and Inclusion Policy](diversity-inclusion.html)
-* [Training Code of Conduct](../../training/code-of-conduct/)
+* [Training Code of Conduct](code-of-conduct.html)
 * [Training Privacy Statement](../../training/code-of-conduct/training-privacy.html)

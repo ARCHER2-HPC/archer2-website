@@ -75,7 +75,7 @@ banner: web_banners_05.jpg
 
 The list below shows the currently scheduled ARCHER2 courses. Please follow the links in the list to find out more about the courses and to register.
 
-If you would like us to provide a course on a particular topic and/or in a particular location then please contact us via the [ ARCHER2 Service Desk](../support-access/servicedesk.html).
+If you would like us to provide a course on a particular topic and/or in a particular location then please contact us via the [ARCHER2 Service Desk](../support-access/servicedesk.html).
 
 Individual links to course provide more details on the content and prerequisites. Use the <em>Register Link</em> to sign up for a particular course.
 
@@ -270,7 +270,7 @@ Courses marked with **†** are fully booked but please complete the registratio
 
 Details of the software you should have installed, in preparation for any of our courses, is listed on our [software page](training-software.html).
 
-When registering for one of our courses you agree to abide by our [Training Code of Conduct](code-of-conduct/).
+When registering for one of our courses you agree to abide by the [ARCHER2 Code of Conduct](../policies/code-of-conduct/).
 
 ## Eligibility for training
 
