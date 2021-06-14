@@ -12,7 +12,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 * Use welcoming and inclusive language
 * Be respectful of different viewpoints and experiences
 * Gracefully accept constructive criticism
-* Show courtesy and respect towards other community members
+* Show courtesy and respect towards others
 
 If you believe someone is violating the Code of Conduct, we ask that you report it to ARCHER2 Code of Conduct Committee by [completing this form](http://bit.ly/ARCHER-Training-Code-of-Conduct-Incident-Report), who will take the appropriate action to address the situation.
 
@@ -43,7 +43,7 @@ All participants in our services, events and communications are expected to show
 * Use welcoming and inclusive language
 * Be respectful of different viewpoints and experiences
 * Gracefully accept constructive criticism
-* Show courtesy and respect towards other community members
+* Show courtesy and respect towards others
 
 #### Part 2.2 Unacceptable behaviour
 
