@@ -22,7 +22,7 @@ We apologise for the inconvenience caused.
 
 
 ## Upcoming Maintenance Sessions
-Tuesday 29th June 0600 - late evening (TBC)
+### Tuesday 29th June 0600 - late evening (TBC)
 
 There will be a full ARCHER2 maintenance session for essential power work at the Advanced Computing Facility. The full shutdown will start on Tuesday 29th June at 0600. We expect the system to be returned on Tuesday 29th June by late evening. Users will be notified once the system is available again. 
 
