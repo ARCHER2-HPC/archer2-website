@@ -7,7 +7,7 @@ start_date: 2021-07-20 09:30:00
 end_date: 2021-07-23 12:30:00
 trainers: Rupert Nash EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://events.prace-ri.eu/event/1232/  
 location: Online
 location_url:
