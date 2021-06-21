@@ -3,8 +3,8 @@ layout: course
 title: Software Carpentry
 banner: web_banners_05.jpg 
 human_dates: 21 - 24 June 2021  09:30 - 13:00 BST
-start_date: 2021-06-14 09:30:00
-end_date: 2021-06-17 13:00:00
+start_date: 2021-06-21 09:30:00
+end_date: 2021-06-24 13:00:00
 trainers: Juan Herrera (EPCC)
 course_type: course
 registration_status: open
