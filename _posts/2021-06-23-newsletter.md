@@ -29,7 +29,7 @@ This course aims to introduce the use of containers with the goal of using them 
 - Understand how to manage and create Singularity containers
 - Appreciate how containers can be used to enable and improve reproducibility in research
 
-Further details and registration : https://www.archer2.ac.uk/training/#upcoming-training
+Further details and registration : <https://www.archer2.ac.uk/training/#upcoming-training>
 
 
 
