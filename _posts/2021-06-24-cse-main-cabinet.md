@@ -11,7 +11,7 @@ categories: [news]
 
 Today saw a significant milestone in our move towards our full 23 cabinet ARCHER2 system. 
 
-A small group of CSE staff gained access to the main HPE Cray EX supercomputing system today and are currently putting it through its paces. Andy, William, David, Adrian, Julien and Michael will be testing functionality and performance, while looking at porting and testing a wide range of applications. 
+A small group of CSE staff gained access to the main HPE Cray EX supercomputing system today and are currently putting it through its paces. Andy, William, David, Adrian, Julien and Kevin will be testing functionality and performance, while looking at porting and testing a wide range of applications. 
 
 A few pictures of them getting started. As and when we can we will provide updates on early experiences and performance results.
 
