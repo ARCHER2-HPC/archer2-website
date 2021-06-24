@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Modern C++ for Computational Scientists
+title: Modern C++ for Computational Scientists (closed as waiting list full)
 banner: web_banners_05.jpg 
 human_dates: 20 - 23 July 2021  09:30 - 12:30 BST
 start_date: 2021-07-20 09:30:00
 end_date: 2021-07-23 12:30:00
 trainers: Rupert Nash EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1232/  
 location: Online
 location_url:
