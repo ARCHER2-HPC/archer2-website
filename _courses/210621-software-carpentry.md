@@ -7,7 +7,7 @@ start_date: 2021-06-21 09:30:00
 end_date: 2021-06-24 13:00:00
 trainers: Juan Herrera (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210621-software-carpentry
 location: Online
 location_url:
