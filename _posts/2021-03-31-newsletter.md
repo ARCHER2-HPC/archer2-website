@@ -74,7 +74,7 @@ Short Queue on ARCHER2
 
 Now that ARCHER2 is being more heavily used, we would like to remind you that the Short queue is available for quick turn-around for small test jobs.
 
-Details of all the QoS options available can be found at [https://docs.archer2.ac.uk/user-guide/scheduler/#quality-of-service-qos](https://docs.archer2.ac.uk/user-guide/scheduler/#quality-of-service-qos)
+Details of all the QoS options available can be found at [https://docs.archer2.ac.uk/user-guide/scheduler#quality-of-service-qos](https://docs.archer2.ac.uk/user-guide/scheduler#quality-of-service-qos)
 
 ## Other upcoming ARCHER2 Training
 
