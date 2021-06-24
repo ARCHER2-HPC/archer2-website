@@ -270,7 +270,7 @@ Courses marked with **†** are fully booked but please complete the registratio
 
 Details of the software you should have installed, in preparation for any of our courses, is listed on our [software page](training-software.html).
 
-When registering for one of our courses you agree to abide by the [ARCHER2 Code of Conduct](../policies/code-of-conduct/).
+When registering for one of our courses you agree to abide by the [ARCHER2 Code of Conduct](../about/policies/code-of-conduct).
 
 ## Eligibility for training
 

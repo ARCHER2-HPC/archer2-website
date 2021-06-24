@@ -23,7 +23,7 @@ Version 21.03 includes patches for several MPI memory-management issues which ha
 
 HPE Cray Programming Environment Version 20.10 remains the default on ARCHER2. Unless users actively select the new environment, they will see the same environment as before.
 
-Instructions on how to enable the new programming environment are available on the ARCHER2 documentation site [https://docs.archer2.ac.uk/user-guide/dev-environment/](https://docs.archer2.ac.uk/user-guide/dev-environment/).
+Instructions on how to enable the new programming environment are available on the ARCHER2 documentation site [https://docs.archer2.ac.uk/user-guide/dev-environment/](https://docs.archer2.ac.uk/user-guide/dev-environment).
 
 However, we have noted that this work has caused HPE Cray perftools modules to no longer be available by default. We have provided a workaround for users while we continue to investigate these issues. Details can be found at:
 [https://docs.archer2.ac.uk/known-issues/#hpe-cray-perftools-modules-not-available-by-default-added-2021-04-27](https://docs.archer2.ac.uk/known-issues/#hpe-cray-perftools-modules-not-available-by-default-added-2021-04-27)

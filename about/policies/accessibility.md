@@ -7,7 +7,7 @@ summary: Committed to ensuring our websites are accessible to the widest possibl
 
 ## Accessibility statement for ARCHER2 website
 
-This accessibility statement applies to [www.archer2.ac.uk](www.archer2.ac.uk) and [https://docs.archer2.ac.uk/
+This accessibility statement applies to [www.archer2.ac.uk](https://www.archer2.ac.uk) and [https://docs.archer2.ac.uk/
 ](https://docs.archer2.ac.uk/)
 
 This website is run by EPCC on behalf of the ARCHER2 service partners. We want as many people as possible to be able to use this website. For example, that means you should be able to:

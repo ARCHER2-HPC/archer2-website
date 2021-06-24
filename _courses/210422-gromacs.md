@@ -23,7 +23,7 @@ This course is organised and funded by BioExcel - the Centre of Excellence for [
 
 ### Learning outcomes
 ----------------------------
-This course will equip participants to perform hybrid QM/MM simulations using the molecular dynamics code GROMACS in combination with the quantum chemistry package CP2K through an interface developed by one of the instructors from the [BioExcel Centre of Excellence](www.bioexcel.eu).
+This course will equip participants to perform hybrid QM/MM simulations using the molecular dynamics code GROMACS in combination with the quantum chemistry package CP2K through an interface developed by one of the instructors from the [BioExcel Centre of Excellence](http://www.bioexcel.eu).
 
 ### Prerequisites
 -------------------

@@ -25,7 +25,7 @@ The ARCHER2 system now supports low priority jobs which allow users to run jobs 
 - Maximum 1 low priority job running per user (of the 4 queued)
 - Maximum runtime of 3 hours
 
-These details are also available in the ARCHER2 User and Best Practice Guide at: [https://docs.archer2.ac.uk/user-guide/scheduler/#low-priority-access](https://docs.archer2.ac.uk/user-guide/scheduler/#low-priority-access)
+These details are also available in the ARCHER2 User and Best Practice Guide at: [https://docs.archer2.ac.uk/user-guide/scheduler#low-priority-access](https://docs.archer2.ac.uk/user-guide/scheduler#low-priority-access)
 
 
 ## ARCHER2 Embedded CSE (eCSE) call
