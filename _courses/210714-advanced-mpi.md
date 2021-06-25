@@ -53,14 +53,15 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
-          <strong>Course materials</strong>         
+          href="https://github.com/EPCCed/archer2-AMPP-2021-07-14">
+          <strong>Course materials</strong> <br>
+			including draft timetable        
         </a>
       </div>
- -->
+
 
 <!--  
       <div class="col-xs-6 col-sm-4">
