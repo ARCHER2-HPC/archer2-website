@@ -10,7 +10,7 @@ categories: [news]
  
 - [ARCHER2 Code of Conduct](#archer2-code-of-conduct)
 - [Software Carpentry course](#software-carpentry-course), 21 - 24 June 2021 09:30 - 13:00 BST
-- [Upcoming ARCHER2 training](#other-upcoming-archer2-training) 
+- [Upcoming ARCHER2 training](#upcoming-archer2-training) 
 
 
 ## ARCHER2 Code of Conduct

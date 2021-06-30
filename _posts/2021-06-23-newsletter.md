@@ -11,7 +11,7 @@ categories: [news]
 - [Advanced MPI online training course](#advanced-mpi) 14 and 16 July 2021 09:30 - 17:00 BST
 - [ARCHER2 Maintenance 29th June](#archer2-maintenance-29th-june)
 - [Research Software Engineers in HPC: Creating Community, Building Careers, Addressing Challenges (RSE-HPC-2021)](#research-software-engineers-in-hpc-creating-community-building-careers-addressing-challenges-rse-hpc-2021)
-- [Upcoming ARCHER2 training](#other-upcoming-archer2-training) 
+- [Upcoming ARCHER2 training](#upcoming-archer2-training) 
 
 
 ## Reproducible computational environments using containers - Introduction to Docker and Singularity
