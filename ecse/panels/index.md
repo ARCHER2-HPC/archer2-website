@@ -8,6 +8,7 @@ banner: web_banners_06.jpg
 - [1st ARCHER2 eCSE call (eCSE01)](#1st-archer2-ecse-call-ecse01)
 - [2nd ARCHER2 eCSE call (eCSE02)](#2nd-archer2-ecse-call-ecse02)
 - [3rd ARCHER2 eCSE call (eCSE03)](#3rd-archer2-ecse-call-ecse03)
+- [4th ARCHER2 eCSE call (eCSE04)](#4th-archer2-ecse-call-ecse04)
 
 
 ## 1st ARCHER2 eCSE call (eCSE01)
@@ -169,18 +170,68 @@ Panel meeting 8 April 2021 (virtual meeting)
 
 ### Projects funded from the 3rd eCSE call
 
-- *ARCHER2-eCSE03-2 PI: Dr Sylvain Laizet Developing in-situ analysis capabilities for pre-Exascale simulations with Xcompact3D* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE03-2 PI: Dr Sylvain Laizet (Imperial College London) Developing in-situ analysis capabilities for pre-Exascale simulations with Xcompact3D* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *ARCHER2-eCSE03-4 PI: Prof Matthew Piggott Goal-oriented mesh adaptation for Firedrake* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *ARCHER2-eCSE03-4 PI: Prof Matthew Piggott (Imperial College London) Goal-oriented mesh adaptation for Firedrake* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
 
-- *ARCHER2-eCSE03-5 PI: Dr Nicholas D M Hine Unleashing the Potential for Superior Parallel Performance of the ONETEP Linear-Scaling Density Functional Theory Package on ARCHER2* (6 months)
+- *ARCHER2-eCSE03-5 PI: Dr Nicholas D M Hine (University of Warwick) Unleashing the Potential for Superior Parallel Performance of the ONETEP Linear-Scaling Density Functional Theory Package on ARCHER2* (6 months)
 
-- *ARCHER2-eCSE03-6 PI: Dr Ioana Colfescu Porting, Testing, Optimising, and Configuring the Community Earth System Model (CESM2) on ARCHER2* (8 months) [[NCAS](https://www.ncas.ac.uk/en/)]
+- *ARCHER2-eCSE03-6 PI: Dr Ioana Colfescu (National Centre for Atmospheric Science) Porting, Testing, Optimising, and Configuring the Community Earth System Model (CESM2) on ARCHER2* (8 months) [[NCAS](https://www.ncas.ac.uk/en/)]
 
-- *ARCHER2-eCSE03-10 PI: Dr Andrew Logsdail Realising a modular data interface to couple quantum mechanical calculators with external data-driven workflows* (9 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+- *ARCHER2-eCSE03-10 PI: Dr Andrew Logsdail (Cardiff University) Realising a modular data interface to couple quantum mechanical calculators with external data-driven workflows* (9 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 
-- *ARCHER2-eCSE03-12 PI: Dr Grenville GMS Lister MONC performance portability* (8 months) [[NCAS](https://www.ncas.ac.uk/en/)]
+- *ARCHER2-eCSE03-12 PI: Dr Grenville GMS Lister (NCAS-CMS, University of Reading) MONC performance portability* (8 months) [[NCAS](https://www.ncas.ac.uk/en/)]
 
-- *ARCHER2-eCSE03-14 PI: Dr Rupert Nash Enhanced Realism and Scalability for Erythrocyte modelling with HemeLB (ERaSEM-HemeLB)* (12 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
+- *ARCHER2-eCSE03-14 PI: Dr Rupert Nash (The University of Edinburgh) Enhanced Realism and Scalability for Erythrocyte modelling with HemeLB (ERaSEM-HemeLB)* (12 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
 
-- *ARCHER2-eCSE03-15 PI: Dr Phil Hasnip Future-proof parallelism in CASTEP* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *ARCHER2-eCSE03-15 PI: Dr Phil Hasnip (University of York) Future-proof parallelism in CASTEP* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+
+
+
+## 4th ARCHER2 eCSE call (eCSE04)
+
+Panel meeting 29 June 2021 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- Catherine O'Sullivan (Imperial College London)
+- Charles Laughton (University of Nottingham)
+- Ania Brown (University of Southampton)
+- Jimena Gorfinkiel (Open University)
+- Stewart Cant (University of Cambridge)
+- N. Luke Abraham (NCAS, University of Cambridge)
+- Grenville Lister (NCAS, University of Reading)
+
+### eCSE Team
+
+- Chris Johnson
+- Lorna Smith
+- Xu Guo
+
+### ARCHER2 Service Representatives
+
+- Harvey Richardson (HPE Cray) 
+- William Lucas (EPCC)
+- Kevin Stratford (EPCC)
+
+### UKRI
+
+- Billy McGregor (EPSRC)
+- Frances Collingborn (NERC)
+
+### Projects funded from the 4th eCSE call
+
+- *ARCHER2-eCSE04-1 PI: Dr. Michele Sergio Campobasso (Lancaster University) Green multi-rotor systems: a pre-exascale multi-code framework for rotor-resolved analysis and design of floating wind farm and multi-propeller electrical aircraft propulsion* (10 months)
+
+- *ARCHER2-eCSE04-2 PI: Dr Tobias Weinzierl (University of Durham) Upscaling ExaHyPE* (11 months)
+
+- *ARCHER2-eCSE04-3 PI: Dr Reinhard Maurer (University of Warwick) Relativistic all-electron orbital-constrained Density Functional Theory to simulate x-ray photoemission and absorption spectroscopy* (11 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+
+- *ARCHER2-eCSE04-5 PI: Dr David A Ham (Imperial College) Scalable and robust Firedrake deployment on ARCHER2 and beyond* (6 months)
+
+- *ARCHER2-eCSE04-6 PI: Mr Jerry Blackford (Plymouth Marine Laboratory) Optimising NEMO-ERSEM for High Resolution* (8 months)
+
+- *ARCHER2-eCSE04-7 PI: Prof Simon Tett (University of Edinburgh) Porting OptClim Optimisation system to ARCHER2* (5 months)
+
+- *ARCHER2-eCSE04-8 PI: Dr William J Brown (British Geological Survey) Enabling a better global view of the magnetic field of Earth's rocks* (9 months)
