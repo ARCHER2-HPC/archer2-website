@@ -29,3 +29,10 @@ No upcoming maintenance sessions are currently scheduled
 
 No recent maintenance
 
+
+
+
+
+## System Status mailings
+If you would like to receive email notifications about system issues and outages, please subscribe to the "System Status Notificiations" mailing list via SAFE <https://epcced.github.io/safe-docs/safe-for-users/#how-to-get-added-to-or-removed-from-the-email-mailing-list>
+
