@@ -7,19 +7,15 @@ banner: web_banners_03.jpg
 
 
 ## Current Issues
+
+No current issues.
+
+## Recently Resolved Issues
 ### Monday 12th July 2021 10:00 BST 
 
 Over the weekend (started on the evening of Friday 9 July 2021) we have seen some issues with the /work file systems on the ARCHER2 system. These were resolved but since the incident there have been ongoing issues accessing some data from the login nodes. 
 
-We have disabled login access to the system while these issues are investigated with the system vendor (HPE). 
-
-We will provide a further update on this issue by the end of today (Monday 12 July 2021).
-
-
-## Recently Resolved Issues
-
-No recently resolved issues
-
+This has now been mitigated by temporarily routing all logins to user access node 02. We hope to bring UAN01 back in to service in due course.
 
 ## Upcoming Maintenance Sessions
 
