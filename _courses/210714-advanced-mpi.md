@@ -7,7 +7,7 @@ start_date: 2021-07-14 09:30:00
 end_date: 2021-07-16 17:00:00
 trainers: David Henty EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1235/  
 location: Online
 location_url:
@@ -45,10 +45,10 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
@@ -63,7 +63,7 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
       </div>
 
 
-<!--  
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/210714-advanced-mpi">
@@ -71,7 +71,7 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
@@ -93,7 +93,7 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -111,7 +111,7 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
