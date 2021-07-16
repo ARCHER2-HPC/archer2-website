@@ -78,16 +78,41 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
 					
 
 
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
+
+<h3>Day 1</h3>
+
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/L2dFICmL470" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+
+<h3>Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/aAeN6W6WKq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Pu2q_gji_6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Session 4</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/-4PFjHYYXCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
 
 
 
