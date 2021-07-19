@@ -113,9 +113,28 @@ This is a two day coures, running on Wednesday 14th and Friday 16th July (two se
 
 
 
+<h3>Day 2</h3>
 
 
+<h3>Session 1</h3>
 
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/B5MlV6JSDMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xUVw53r2xy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/hV_KWdIt3ww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
