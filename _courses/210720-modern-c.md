@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Modern C++ for Computational Scientists (closed as waiting list full)
+title: Modern C++ for Computational Scientists
 banner: web_banners_05.jpg 
 human_dates: 20 - 23 July 2021  09:30 - 12:30 BST
 start_date: 2021-07-20 09:30:00
@@ -48,7 +48,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 09:30 - 12:30 BST each day, with a break from 11:00 to 11:30.
 
-Details to follow
+
 
 <section id="service">
 
@@ -60,16 +60,16 @@ Details to follow
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="  https://epcced.github.io/archer2-CPP-2021-07-20/  ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/210720-modern-c">
@@ -77,7 +77,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
@@ -99,7 +99,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -118,7 +118,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
