@@ -11,7 +11,12 @@ banner: web_banners_03.jpg
 
 
 ## Current Issues
-No current issues.
+
+### Tuesday 20th July 12:00
+
+We are currently seeing an issue with the interconnect on the ARCHER2 service that causes some new jobs to fail on MPI initialisation. We have now prevented new jobs from starting on the system to reduce the impact on users. Some running jobs may also have crashed as a result of this issue but any currently running should be unaffected at this time. We are investigating the issue along with HPE (the system vendor) and will provide further information as soon as it is available.
+
+Apologies for any inconvenience caused by this unplanned downtime. We will provide a further update by 1400 BST, Wed 21 July 2021 at the latest.
 
 ## Recently Resolved Issues
 ### Monday 12th July 2021 10:00 BST 
