@@ -6,8 +6,11 @@ banner: web_banners_03.jpg
 ---
 
 
-## Current Issues
+## Known Issues
+[Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time.
 
+
+## Current Issues
 No current issues.
 
 ## Recently Resolved Issues
@@ -27,8 +30,8 @@ No recent maintenance
 
 
 
-
-
 ## System Status mailings
 If you would like to receive email notifications about system issues and outages, please subscribe to the "System Status Notificiations" mailing list via SAFE <https://epcced.github.io/safe-docs/safe-for-users/#how-to-get-added-to-or-removed-from-the-email-mailing-list>
 
+## FAQ
+* [Frequently asked questions](https://docs.archer2.ac.uk/faq/)
