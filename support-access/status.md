@@ -7,7 +7,7 @@ banner: web_banners_03.jpg
 
 
 ## Known Issues
-[Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time.
+[Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
 
 ## Current Issues
