@@ -12,6 +12,13 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
+### Wednesday 21st July 16:30
+
+Our colleagues at HPE are continuing to work on the issues currently being experienced with the ARCHER2 interconnect.  Unfortunately the issue is taking longer to resolve than hoped.  Work will continue to resolve the issue, and this means that the service will not be available today.
+
+We apologise for the inconvenience caused and will provide a further update tomorrow.
+
+
 ### Wednesday 21st July 09:50
 
 Following the issue that caused jobs to be suspended yesterday, the ARCHER2 hardware vendor (HPE) have identified issues with the interconnect that links the compute nodes and provides access to the /work file system. We are working to resolve these issues this morning and during this work users may see a couple of effects:
