@@ -12,6 +12,15 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
+### Wednesday 21st July 09:50
+
+Following the issue that caused jobs to be suspended yesterday, the ARCHER2 hardware vendor (HPE) have identified issues with the interconnect that links the compute nodes and provides access to the /work file system. We are working to resolve these issues this morning and during this work users may see a couple of effects:
+
+* intermittent access to the /work file system from the login nodes
+* some jobs that are currently running may need to be stopped - we will refund users for any lost CUs
+
+We will let users know once the system has been restored to a fully-working state.
+
 ### Tuesday 20th July 12:00
 
 We are currently seeing an issue with the interconnect on the ARCHER2 service that causes some new jobs to fail on MPI initialisation. We have now prevented new jobs from starting on the system to reduce the impact on users. Some running jobs may also have crashed as a result of this issue but any currently running should be unaffected at this time. We are investigating the issue along with HPE (the system vendor) and will provide further information as soon as it is available.
@@ -19,11 +28,8 @@ We are currently seeing an issue with the interconnect on the ARCHER2 service th
 Apologies for any inconvenience caused by this unplanned downtime. We will provide a further update by 1400 BST, Wed 21 July 2021 at the latest.
 
 ## Recently Resolved Issues
-### Monday 12th July 2021 10:00 BST 
 
-Over the weekend (started on the evening of Friday 9 July 2021) we have seen some issues with the /work file systems on the ARCHER2 system. These were resolved but since the incident there have been ongoing issues accessing some data from the login nodes. 
-
-This has now been mitigated by temporarily routing all logins to user access node 02. We hope to bring UAN01 back in to service in due course.
+No recent issues
 
 ## Upcoming Maintenance Sessions
 
