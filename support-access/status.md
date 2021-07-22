@@ -12,31 +12,15 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-### Wednesday 21st July 16:30
-
-Our colleagues at HPE are continuing to work on the issues currently being experienced with the ARCHER2 interconnect.  Unfortunately the issue is taking longer to resolve than hoped.  Work will continue to resolve the issue, and this means that the service will not be available today.
-
-We apologise for the inconvenience caused and will provide a further update tomorrow.
-
-
-### Wednesday 21st July 09:50
-
-Following the issue that caused jobs to be suspended yesterday, the ARCHER2 hardware vendor (HPE) have identified issues with the interconnect that links the compute nodes and provides access to the /work file system. We are working to resolve these issues this morning and during this work users may see a couple of effects:
-
-* intermittent access to the /work file system from the login nodes
-* some jobs that are currently running may need to be stopped - we will refund users for any lost CUs
-
-We will let users know once the system has been restored to a fully-working state.
-
-### Tuesday 20th July 12:00
-
-We are currently seeing an issue with the interconnect on the ARCHER2 service that causes some new jobs to fail on MPI initialisation. We have now prevented new jobs from starting on the system to reduce the impact on users. Some running jobs may also have crashed as a result of this issue but any currently running should be unaffected at this time. We are investigating the issue along with HPE (the system vendor) and will provide further information as soon as it is available.
-
-Apologies for any inconvenience caused by this unplanned downtime. We will provide a further update by 1400 BST, Wed 21 July 2021 at the latest.
+No current issues
 
 ## Recently Resolved Issues
 
-No recent issues
+### Wednesday 22nd July 11:00
+
+We are pleased to confirm that HPE resolved the issues with the interconnect on the ARCHER2 service yesterday evening.  Jobs were restarted and have been running without issues overnight.
+
+We apologise for the disruption caused by this unplanned outage.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
 
 ## Upcoming Maintenance Sessions
 
