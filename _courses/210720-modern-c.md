@@ -84,20 +84,66 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 					
 
 
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
 
-<h3>Session 1</h3>
+<h3>Day 1</h3>
+
+<h4>Session 1</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XQqu7sMNdLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h4>Session 2</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/24Bsgflmw8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Day 2</h3>
+
+<h4>Session 1</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/cJAf3mj8FNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h4>Session 2</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/OhaOUn6mzoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Day 3</h3>
+
+<h4>Session 1</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/SchIYVbcWE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h4>Session 2</h4>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/jZOMB3BCezM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!--
+<h3>Day 4</h3>
+
+<h4>Session 1</h4>
 
 <div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+<h4>Session 2</h4>
 
-
-
-
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+-->
 
 
 <h2><a name="feedback">Feedback</a></h2>
