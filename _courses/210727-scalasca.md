@@ -34,7 +34,11 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Detailed timetable and materials to follow
+- 09:30-12:30 Presentation/demonstration of tools
+- 12:30-13:30 lunch break
+- 13:30-16:30 Hands-on use of tools with provided example and/or your own code
+- We'll also have a break of 15-30 mins during the morning sessions.
+
 
 <section id="service">
 
