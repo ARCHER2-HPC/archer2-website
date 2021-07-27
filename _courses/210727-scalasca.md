@@ -7,7 +7,7 @@ start_date: 2021-07-27 09:30:00
 end_date: 2021-07-29 16:30:00
 trainers: Scalasca developers
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1238/  
 location: Online
 location_url:
@@ -34,32 +34,33 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-- 09:30-12:30 Presentation/demonstration of tools
-- 12:30-13:30 lunch break
-- 13:30-16:30 Hands-on use of tools with provided example and/or your own code
-- We'll also have a break of 15-30 mins during the morning sessions.
+* 09:30-12:30 Presentation/demonstration of tools
+* 12:30-13:30 lunch break
+* 13:30-16:30 Hands-on use of tools with provided example and/or your own code
+
+We'll also have a break of 15-30 mins during the morning sessions.
 
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href=" https://github.com/EPCCed/archer2-scalasca-2021-07-27  ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/210727-scalasca">
@@ -67,7 +68,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
@@ -89,7 +90,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -108,7 +109,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
