@@ -12,13 +12,16 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-### Wednesday 28th July 12:00
-
-Our systems team and HPE are currently investigating an issue affecting compute nodes and lustre filesystem.
-
-We will provide further information as soon as we can.
+No current issues. 
 
 ## Recently Resolved Issues
+
+### Wednesday 28th July 12:00
+Following a power blip in the Edinburgh area, the compute nodes and lustre filesystem experienced issues. 
+
+The HPE team have now restored the compute nodes and the lustre filesystem is available again. 
+
+We apologise for the disruption caused by the unplanned issues.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
 
 ### Wednesday 22nd July 11:00
 
