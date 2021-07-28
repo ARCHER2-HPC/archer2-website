@@ -16,7 +16,7 @@ No current issues.
 
 ## Recently Resolved Issues
 
-### Wednesday 28th July 12:00
+### Wednesday 28th July 15:00
 There was a power blip in the Edinburgh area at around 1130 today and as a result of this the compute nodes and lustre filesystem experienced issues. 
 
 The HPE team have now restored the compute nodes and the lustre filesystem is available again. 
