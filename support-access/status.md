@@ -12,7 +12,11 @@ banner: web_banners_03.jpg
 
 ## Current Issues
 
-No current issues
+### Wednesday 28th July 12:00
+
+Our systems team and HPE are currently investigating an issue affecting compute nodes and lustre filesystem.
+
+We will provide further information as soon as we can.
 
 ## Recently Resolved Issues
 
