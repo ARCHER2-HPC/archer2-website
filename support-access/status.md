@@ -17,11 +17,11 @@ No current issues.
 ## Recently Resolved Issues
 
 ### Wednesday 28th July 12:00
-Following a power blip in the Edinburgh area, the compute nodes and lustre filesystem experienced issues. 
+There was a power blip in the Edinburgh area at around 1130 today and as a result of this the compute nodes and lustre filesystem experienced issues. 
 
 The HPE team have now restored the compute nodes and the lustre filesystem is available again. 
 
-We apologise for the disruption caused by the unplanned issues.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
+We apologise for the inconvenience caused by the unplanned issues.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
 
 ### Wednesday 22nd July 11:00
 
