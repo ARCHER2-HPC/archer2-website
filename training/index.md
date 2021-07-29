@@ -285,8 +285,6 @@ We normally charge a fee for non-academics. If you are from a commercial organis
 
 
 
-ARCHER2 will be unavailable during the work to prepare the full 23-cabinet system. This is expected to take place during May/June 2021 so no courses are planned during that period.
-
 Provisional schedule of planned courses.  Brief details of the courses can be found on the [Course Descriptions page](courses/).
 
 
