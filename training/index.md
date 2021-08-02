@@ -305,7 +305,7 @@ Mailings will be sent approximately 1-2 times per month, your details will not b
 
 Much of the ARCHER2 training material is available online. In particular, this includes material relevant to the [ARCHER2 Driving Test](driving-test.html).
 
-On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you will be invited to apply for an account on ARCHER2 with 1200 kAUs (80,000 core-hours) to use over 12 months, enabling you to put your skills into practice.
+On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you will be invited to apply for an account on ARCHER2 with a small allocation of core-hours to use over 12 months, enabling you to put your skills into practice.
 
 ## Other Training
 
