@@ -15,8 +15,15 @@ attend the eCSE panel meeting as observers. The aim here is to give
 early career researchers a better insight into this competitive
 selection process to assist in the preparation of funding proposals.
 
+<!--
 The deadline for applying to attend the panel meeting as an observer
 is 16:00 on 6 Oct 2020. Both the application form and the CV should be
+sent to the ARCHER2 service desk:
+[support@archer2.ac.uk](mailto:support@archer2.ac.uk)
+-->
+
+Applications to attend the panel meeting as an observer
+should include both the application form and the CV should be
 sent to the ARCHER2 service desk:
 [support@archer2.ac.uk](mailto:support@archer2.ac.uk)
 
@@ -30,12 +37,18 @@ service desk. Successful applicants will be invited to attend the panel
 meeting. You will need to agree to the same conflict of interest
 process and confidentiality requirements as full panel members.
 
+<!--
 The panel meeting is likely to be held between mid-November and early December 2020. The exact date will be confirmed later whereupon successful candidates will be chosen according to space and availability.
+-->
 
+Candidates will be chosen according to space and availability.
+
+<!--
 ## Call deadline
 
 Deadline for applications: 16:00 on 6 Oct 2020. Applications received
 after the deadline cannot be accepted.
+-->
 
 ## Contact
 
