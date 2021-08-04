@@ -7,7 +7,7 @@ banner: web_banners_02.jpg
 
 Periodic (monthly, quarterly and annual) reports will be published here in due course.
 
-For people wanting to get an overview of the ARCHER service, the Annual Reports and written Quarterly Reports are where you should begin.
+For people wanting to get an overview of the ARCHER2 service, the Annual Reports and written Quarterly Reports are where you should begin.
 
 ## User Survey Reports
 
@@ -29,7 +29,15 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 
 * [Quarter 2 2020](quarterly/2020/2020_Q2/)
 * [Quarter 3 2020](quarterly/2020/2020_Q3/)
+* [Quarter 2 2021](quarterly/2021/2021_Q2/)
 
 ## Monthly Reports
 
 The monthly statistical reports are generated automatically from the SAFE. Please follow the link below to access individual monthly reports.
+
+### 2021
+
+* [April 2021](monthly/2021/apr_21_safe.pdf)
+* [May 2021](monthly/2021/may21_safe.pdf)
+* [June 2021](monthly/2021/june21_safe.pdf)
+* [July 2021](monthly/2021/july21_safe.pdf)
