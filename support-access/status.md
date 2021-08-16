@@ -39,6 +39,8 @@ We expect the outage will be very short, and will take place between 10:00 and 1
 
 During this period, your connection to the User Access Node (UAN) may be lost. Please wait a couple of minutes and then try to reconnect. 
 
+File transfers may be affected.
+
 Jobs running on the compute nodes will not be impacted. 
 
 We will send a user mailing once the work is completed. 
