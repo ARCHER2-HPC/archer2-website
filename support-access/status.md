@@ -31,7 +31,17 @@ We apologise for the disruption caused by this unplanned outage.  Please report 
 
 ## Upcoming Maintenance Sessions
 
-No upcoming maintenance sessions are currently scheduled
+### Wednesday 18th August 
+
+Essential networking work will take place at the Advanced Computing Facility (ACF). 
+
+We expect the outage will be very short, and will take place soon after 10:00. 
+
+During this period, your connection to the User Access Node (UAN) may be lost. Please wait a couple of minutes and then try to reconnect. 
+
+Jobs running on the compute nodes will not be impacted. 
+
+We will send a user mailing once the work is completed. 
 
 ## Completed Maintenance Sessions
 
