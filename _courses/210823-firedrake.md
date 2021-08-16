@@ -7,7 +7,7 @@ start_date: 2021-08-23 13:00:00
 end_date: 2021-08-23 17:00:00
 trainers: Jack Betteridge, David Ham, Koki Sagiyama and Joe Wallwork
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210823-firedrake
 location: Online
 location_url:
