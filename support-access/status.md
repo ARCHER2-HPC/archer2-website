@@ -18,36 +18,32 @@ No current issues.
 
 ### Wednesday 28th July 15:00
 There was a power blip in the Edinburgh area at around 1130 today and as a result of this the compute nodes and lustre filesystem experienced issues. 
-
 The HPE team have now restored the compute nodes and the lustre filesystem is available again. 
 
 We apologise for the inconvenience caused by the unplanned issues.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
 
-### Wednesday 22nd July 11:00
-
-We are pleased to confirm that HPE resolved the issues with the interconnect on the ARCHER2 service yesterday evening.  Jobs were restarted and have been running without issues overnight.
-
-We apologise for the disruption caused by this unplanned outage.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
-
 ## Upcoming Maintenance Sessions
+
+### Wednesday 25th August 
+
+The final phase of the essential network maintenance at the Advanced Computing Facility (ACF) will be on Wednesday 25th August. 
+We expect this change will involve a momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 which we anticipate will not be noticed by users although it may interrupt file transfers. The work will only affect external communications and jobs running on the compute nodes will not be impacted. 
+
+A user mailing will be sent once the work has been completed. 
+
+## Completed Maintenance Sessions
 
 ### Wednesday 18th August 
 
-Essential networking work will take place at the Advanced Computing Facility (ACF). 
-
+The networking maintenance has now been completed successfully at the Advanced Computing Facility (ACF). 
 We expect the outage will be very short, and will take place between 10:00 and 15:00. 
 
 During this period, your connection to the User Access Node (UAN) may be lost. Please wait a couple of minutes and then try to reconnect. 
-
 File transfers may be affected.
 
 Jobs running on the compute nodes will not be impacted. 
 
 We will send a user mailing once the work is completed. 
-
-## Completed Maintenance Sessions
-
-No recent maintenance
 
 
 
