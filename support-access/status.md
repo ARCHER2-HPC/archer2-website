@@ -33,7 +33,7 @@ The queues on the system will start to drain from 1400 on Monday 23rd August to 
 
 Please continue to submit jobs to the batch scheduler and jobs will either run to completion before the start of the maintenance session or if your requested wall time does not allow,  they will run once the service is returned. 
 
-We apologise for the short notice of the maintenance session and any inconvenience caused. 
+We apologise for the short notice and any inconvenience caused by this maintenance session. 
 
 
 #### Networking Maintenance
