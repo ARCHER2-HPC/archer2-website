@@ -158,7 +158,7 @@ mpirun -n ${NCORES} -N ${NCORES_PER_NODE} -wdir ${APP_RUN_PATH} --hostfile ${APP
 The Container Factory
 ---------------------
 
-The details of how the GROMACS container was built without needing root access to ARCHER2 will be the subject of a second blog post.
+The details of how the GROMACS container was built without needing root access to ARCHER2 is the subject of a [second blog post](https://www.archer2.ac.uk/news/2021/08/25/hpc-container-factory.html).
 Essentially, the container is created at a dedicated Container Factory, a Ubuntu 20.04 instance running within the [Eleanor Research Cloud](https://www.ed.ac.uk/information-services/computing/computing-infrastructure/cloud-computing-service/researcher-cloud-service-eleanor) at the
 [University of Edinburgh](https://www.ed.ac.uk/). Initially, the container features an OS (also Ubuntu 20.04) and the GROMACS 2021.1 source code. The container is then
 setup as a writable sandbox on ARCHER2 within which GROMACS is built. Following this, the sandbox is converted back to a container image file and
