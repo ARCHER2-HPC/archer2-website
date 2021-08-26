@@ -56,7 +56,7 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/2021-08-31_intropackage_online   ">
+          href="https://epcced.github.io/2021-08-31_intropackage_online/   ">
           <strong>Course materials</strong>         
         </a>
       </div>
