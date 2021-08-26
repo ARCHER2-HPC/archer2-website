@@ -21,37 +21,33 @@ We apologise for the short notice and any inconvenience caused by this maintenan
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
 
-## Current Issues
+###  Current Issues
 
-No current issues. 
+#### Singularity Issue: Thursday 26th August
+As part of the security patch work we have had to disable the Singularity containers software on the ARCHER2 compute nodes. We will continue to investigate this issue with HPE and plan to re-enable to the functionality on the compute nodes as soon as possible. Singularity containers on the login nodes are unaffected by this issue and continue to work as expected.
 
-## Recently Resolved Issues
 
-### Wednesday 28th July 15:00
+
+### Recently Resolved Issues
+
+#### Power Blip: Wednesday 28th July 15:00
 There was a power blip in the Edinburgh area at around 1130 today and as a result of this the compute nodes and lustre filesystem experienced issues. 
 The HPE team have now restored the compute nodes and the lustre filesystem is available again. 
 
 We apologise for the inconvenience caused by the unplanned issues.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
 
 ## Upcoming Maintenance Sessions
-
-
-
-
-#### Networking Maintenance
-The final phase of the essential network maintenance at the Advanced Computing Facility (ACF) will be on Wednesday 25th August. 
-We expect this change will involve a momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 which we anticipate will not be noticed by users although it may interrupt file transfers. The work will only affect external communications and jobs running on the compute nodes will not be impacted. 
-
-
-
-## Completed Maintenance Sessions
+### Wednesday 25th August 1400 - Friday 27th August 1400
+see above
+ 
+ 
+### Completed Maintenance Sessions
 
 #### Wednesday 25th August: Networking Maintenance
 The final phase of the essential network maintenance at the Advanced Computing Facility (ACF) will be on Wednesday 25th August. 
 We expect this change will involve a momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 which we anticipate will not be noticed by users although it may interrupt file transfers. The work will only affect external communications and jobs running on the compute nodes will not be impacted. 
 
-
-### Wednesday 18th August: Networking Maintenance 
+#### Wednesday 18th August: Networking Maintenance 
 The networking maintenance has now been completed successfully at the Advanced Computing Facility (ACF). 
 We expect the outage will be very short, and will take place between 10:00 and 15:00. 
 
