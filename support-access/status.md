@@ -5,6 +5,15 @@ summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
 
+## Wednesday 25th August 1400 - Friday 27th August 1400: Essential Security Maintenance
+This maintenenace is to allow HPE to apply an essential security patch to the operating system.  
+
+The queues on the system will start to drain from 1400 on Monday 23rd August to ensure that all running jobs will have completed by the start of the maintenance session.  
+
+Please submit jobs to the batch scheduler until the start of the maintenance and jobs will either run to completion before the start of the maintenance session or if your requested wall time does not allow,  they will run once the service is returned. 
+
+We apologise for the short notice and any inconvenience caused by this maintenance session. 
+
 
 ## Known Issues
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
@@ -24,29 +33,23 @@ We apologise for the inconvenience caused by the unplanned issues.  Please repor
 
 ## Upcoming Maintenance Sessions
 
-### Wednesday 25th August 1400 - Friday 27th August 1400 
 
-#### Essential Security Maintenance
-This maintenenace is to allow HPE to apply an essential security patch to the operating system.  
-
-The queues on the system will start to drain from 1400 on Monday 23rd August to ensure that all running jobs will have completed by the start of the maintenance session.  
-
-Please continue to submit jobs to the batch scheduler and jobs will either run to completion before the start of the maintenance session or if your requested wall time does not allow,  they will run once the service is returned. 
-
-We apologise for the short notice and any inconvenience caused by this maintenance session. 
 
 
 #### Networking Maintenance
 The final phase of the essential network maintenance at the Advanced Computing Facility (ACF) will be on Wednesday 25th August. 
 We expect this change will involve a momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 which we anticipate will not be noticed by users although it may interrupt file transfers. The work will only affect external communications and jobs running on the compute nodes will not be impacted. 
 
-A user mailing will be sent once the work has been completed. 
 
 
 ## Completed Maintenance Sessions
 
-### Wednesday 18th August 
+#### Wednesday 25th August: Networking Maintenance
+The final phase of the essential network maintenance at the Advanced Computing Facility (ACF) will be on Wednesday 25th August. 
+We expect this change will involve a momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 which we anticipate will not be noticed by users although it may interrupt file transfers. The work will only affect external communications and jobs running on the compute nodes will not be impacted. 
 
+
+### Wednesday 18th August: Networking Maintenance 
 The networking maintenance has now been completed successfully at the Advanced Computing Facility (ACF). 
 We expect the outage will be very short, and will take place between 10:00 and 15:00. 
 
