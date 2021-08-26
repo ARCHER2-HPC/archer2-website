@@ -6,7 +6,7 @@ banner: web_banners_03.jpg
 ---
 
 ## Wednesday 25th August 1400 - Friday 27th August 1400: Essential Security Maintenance
-This maintenenace is to allow HPE to apply an essential security patch to the operating system.  
+This full service maintenenace is to allow HPE to apply an essential security patch to the operating system.  
 
 The queues on the system will start to drain from 1400 on Monday 23rd August to ensure that all running jobs will have completed by the start of the maintenance session.  
 
