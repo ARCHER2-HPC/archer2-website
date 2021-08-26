@@ -160,12 +160,22 @@ instance to discuss your requirements and plans.
 Access via non-UKRI routes generally require the cost of ARCHER2 resources to be included as a real cost
 (rather than notional costs as on many UKRI routes).
 
-For access via non-UKRI funders, please complete a [Technical Assessment Form](ta/ARCHER2-TA-form.docx)
-and submit this to the ARCHER2 Service Desk to confirm that the proposal is technically suitable for ARCHER2
-and to confirm the costs that are required to include in the application. Once this is completed, the ARCHER2
-Service Desk will send the completed form to UKRI in order to begin discussions with the other funding body.
-Please note that these discussions may take some time, and UKRI cannot guarantee that an agreement will be
-reached.
+For access via non-UKRI funders, please contact the relevant UKRI research council for your research area
+remit in the first instance to discuss your potential application. Please note that these discussions may
+take some time, and UKRI cannot guarantee that an agreement will be reached. **It is the applicant's 
+responsibility to ensure that they contact UKRI early enough to allow these discussions to take place.**
+
+Contact details for research councils:
+
+* EPSRC: [Contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org)
+* NERC: [Follow the guidance on the NERC website](https://nerc.ukri.org/research/sites/facilities/hpc/)
+* BBSRC: [Follow the guidance on the BBSRC website](https://bbsrc.ukri.org/research/facilities/#highperformancecomputing)
+* Other councils: [Contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org)
+
+UKRI may ask you to complete a Technical Assessment (TA) form as part of your application and ask you to send
+this to the ARCHER2 Service Desk for evaluation and approval. **Please do not submit a TA until you have
+discussed your application with UKRI and have approval from them to submit a TA as this may lead to 
+additional delays in processing your proposal.**
 
 <a id="consortia"></a>
 
