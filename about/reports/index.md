@@ -29,6 +29,7 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 
 * [Quarter 2 2020](quarterly/2020/2020_Q2/)
 * [Quarter 3 2020](quarterly/2020/2020_Q3/)
+* [Quarter 4 2020](quarterly/2020/2020_Q4/)
 
 ###  2021
 
