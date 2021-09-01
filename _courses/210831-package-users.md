@@ -7,7 +7,7 @@ start_date: 2021-08-31 10:00:00
 end_date: 2021-08-31 16:00:00
 trainers: Andy Turner (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=210831-package-users
 location: Online
 location_url:
