@@ -47,22 +47,21 @@ Details to follow
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/single-node-optimisation-course/tree/2021-09-07   ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
+
 
 <!--  
       <div class="col-xs-6 col-sm-4">
