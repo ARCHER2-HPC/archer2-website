@@ -7,7 +7,7 @@ start_date: 2021-09-07 09:30:00
 end_date: 2021-09-08 16:00:00
 trainers: Mark Bull (EPCC), Adrian Jackson (EPCC)
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://events.prace-ri.eu/event/1252/registrations/919/
 location: Online
 location_url:
