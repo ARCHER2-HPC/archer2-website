@@ -43,7 +43,7 @@ A timetable of recent, current and upcoming calls can be found [here](calls/time
 
 ## Current Call Information
 
-The 4th ARCHER2 eCSE call (ARCHER2 eCSE04) opened on the **20 Apr 2021**. The deadline for submitting documents for technical evaluations is **16:00 on 18 May 2021**, with the final deadline for proposal submission being **16:00 on 08 Jun 2021**.
+The 5th ARCHER2 eCSE call (ARCHER2 eCSE05) opened on the **7 Sep 2021**. The deadline for submitting documents for technical evaluations is **16:00 on 5 Oct 2021**, with the final deadline for proposal submission being **16:00 on 26 Oct 2021**.
 
 Further details on the [eCSE Calls page](calls/).
 
