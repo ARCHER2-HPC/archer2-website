@@ -27,7 +27,7 @@ The inactive User Access Node (UAN), UAN02 will be moved to the new network. The
 Conenctions to UAN01 will be blocked and all new conenctions will use UAN02. 
 
 #### Thursday 9th September PM, 
-A warning message will be sent to all remaining sessions on UAN01 and then all connections on the UAN01 will be terminated. The UAN01 and the backend “CAN” connections will then be migrated to the new network. The CAN migration will involve a short outage to external DNS lookups for around 5 mins.
+A warning message will be sent to all remaining sessions on UAN01 and then all connections on the UAN01 will be terminated. The UAN01 and the cluster external connections will then be migrated to the new network. The cluster network migration may involve a short outage to external DNS lookups for around 5 minutes.
 
 Once this has completed, the DNS will be changed to make UAN01 the active UAN again.
 
