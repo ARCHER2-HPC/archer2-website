@@ -15,16 +15,24 @@ As part of the security patch work we have had to disable the Singularity contai
 
 
 ### Recently Resolved Issues
-#### Power Blip: Wednesday 28th July 15:00
-There was a power blip in the Edinburgh area at around 1130 today and as a result of this the compute nodes and lustre filesystem experienced issues. 
-The HPE team have now restored the compute nodes and the lustre filesystem is available again. 
+There are no recently resolved issues. 
 
-We apologise for the inconvenience caused by the unplanned issues.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
+### Upcoming Maintenance Sessions: Tuesday 7th - Thursday 9th September
+This week there will be two periods of at-risk maintenance to allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF). 
 
+#### Tuesday 7th September AM, 
+The inactive User Access Node (UAN), UAN02 will be moved to the new network. The Domain Name Server (DNS) will be changed and the UAN02 will be opened and will become an active UAN. Existing sessions on UAN01 will be unaffected.
 
-### Upcoming Maintenance Sessions
-There are no upcoming maintenance sessions scheduled. 
- 
+#### Thursday 9th September AM, 
+Conenctions to UAN01 will be blocked and all new conenctions will use UAN02. 
+
+#### Thursday 9th September PM, 
+A warning message will be sent to all remaining sessions on UAN01 and then all connections on the UAN01 will be terminated. The UAN01 and the backend “CAN” connections will then be migrated to the new network. The CAN migration will involve a short outage to external DNS lookups for around 5 mins.
+
+Once this has completed, the DNS will be changed to make UAN01 the active UAN again.
+
+Please report any issues you may experience to support@archer2.ac.uk. 
+
  
 ### Completed Maintenance Sessions
 #### Wednesday 25th August 1400 - Friday 27th August 1400 : Essential Security Maintenance: 
