@@ -36,7 +36,7 @@ proposals.
 
 The deadline for applying to attend the panel meeting as an observer
 is 16:00 on 5 October 2021 and details of the call are given
-[here](../observers/index.php).
+[here](../observers/index.md).
 
 ### Application process and guidance for the eCSE call
 
