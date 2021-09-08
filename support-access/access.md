@@ -22,12 +22,36 @@ This page has a number of sections:
 
 <a id="archer2-time-calls"></a>
 
-## Calls for ARCHER2 time only
+## EPSRC Remit
 
-These calls only provide access to ARCHER2 resources and not funding for other items (such
+### Access through EPSRC grants
+You can include ARCHER2 on EPSRC funding applicationns when you are applying for funding (if you already have an
+active grant then you should consider applying via one of the calls for ARCHER2 time only that are described
+above).
+
+When submitting proposals to EPSRC that include ARCHER2 resources, you should add ARCHER2 in Je-S. On
+[Je-S,](https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx) access can be requested by choosing ARCHER2 from the
+drop down list in the *Research Council Facilities* section for a standard EPSRC grant application. Please add
+the requested resource in CU as *unit* and the notional cost in £ as *cost*. Reasonable ARCHER2 allocations are
+now awarded for the duration of the EPSRC funding. A completed [Technical Assessment Form](ta/ARCHER2-TA-form.docx)
+must be uploaded through Je-S, selecting the document type "Technical Assessment". 
+
+EPSRC operate a 6-monthly allocation period policy for access on ARCHER2. The total amount of compute resource
+(measured on ARCHER2 as *CU*) awarded is broken down into 6-month periods that span the length of  access to ARCHER2
+that has been requested. Applicants specify the period profile on the TA form when they apply for access.
+EPSRC period allcoations are enforced on ARCHER2 in the following way: 
+
+- Any unused allocation at the end of an allocation period is lost  
+- You cannot move CU between different allocation periods
+
+If you have any questions about accessing ARCHER2 via EPSRC, please see
+[the HPC pages on the EPSRC website](https://epsrc.ukri.org/research/facilities/hpc/) or
+[contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org).
+
+
+### Calls for ARCHER2 time only
+The following calls only provide access to ARCHER2 resources and not funding for other items (such
 as staff time). ARCHER2 costs are notional rather than real costs.
-
-### List of ARCHER2 time calls
 
 A list of any currently open calls through which you can apply for access to ARCHER2 time in particular (rather than applying for ARCHER2 time as part of a wider grant or fellowship application).
 
@@ -70,68 +94,29 @@ A list of any currently open calls through which you can apply for access to ARC
 </table>
 
 ### ARCHER2 Driving Test
-
 A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the full 23 cabinet service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
 
-<a id="pump-priming"></a>
 
+<a id="pump-priming"></a>
 ### ARCHER2 ARCHER2 Pump Priming
 
 EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER Instant Access. Applicants should [complete the ARCHER2 Pump Priming TA form (docx)](ta/ARCHER2-PumpPriming-form.docx) and send to the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk). The ARCHER2 CSE team will review the form and send to EPSRC for a decision on access. We expect decisions to be made in less than 2 weeks (and usually much sooner). A maximum of 800 CU for 6 months are currently available through Pump Priming.
 
-<a id="access-to-hpc"></a>
-
-### Access to HPC
-
-Provides an open and relatively flexible route to computational support for projects in EPSRC remit.
-You can access to EPSRC's HPC systems (both ARCHER2 and most of the Tier-2 services). Projects can be up to 1 year in length. This new call combines what was previously the ARCHER RAP (Resource Allocation Panel) and the Tier-2 Open Access call. It is expected that these calls will open every six months.
 
 <a id="pioneer-projects"></a>
-
 ### ARCHER2 Pioneer Projects
-
 EPSRC remit researchers can apply for large amounts of ARCHER2 compute for ambitious, computationally intensive simulations and calculations in support of an individual project through EPSRC's ARCHER2 Pioneer Projects call.  Projects can be up to 2 years in length.  This is the successor scheme to the ARCHER Leadership Calls.
 
+<a id="access-to-hpc"></a>
+### Access to HPC
+Provides an open and relatively flexible route to computational support for projects in EPSRC remit.
+You can apply for access to EPSRC's HPC systems (both ARCHER2 and most of the Tier-2 services). Projects can be up to 1 year in length. This new call combines what was previously the ARCHER RAP (Resource Allocation Panel) and the Tier-2 Open Access call. It is expected that these calls will open every six months.
+
+
 <a id="topup"></a>
-
 ### ARCHER2 Top Up
-
 Only available for existing EPSRC grant holders with an ARCHER allocation. Provides additional resource for users who already have an allocation from an EPSRC grant, but need more to complete the objectives of their grant. Successor to the ARCHER Top Up process.
 
-<a id="ukri-calls"></a>
-
-## UKRI calls, fellowships and responsive mode
-
-ARCHER2 resources via UKRI EPSRC, BBSRC and NERC awards are included as a notional costs rather than real
-costs. Resources for UKRI awards in other research areas may need to be included as real costs, please
-[contact the ARCHER2 Service Desk](mailto:support@archer2.ac.uk) to discuss further before applying.
-
-We cover the specific mechanisms for different research councils within UKRI below.
-
-### EPSRC
-
-You can include ARCHER2 on EPSRC funding applicationns when you are applying for funding (if you already have an
-active grant then you should consider applying via one of the calls for ARCHER2 time only that are described
-above).
-
-When submitting proposals to EPSRC that include ARCHER2 resources, you should add ARCHER2 in Je-S. On
-[Je-S,](https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx) access can be requested by choosing ARCHER2 from the
-drop down list in the *Research Council Facilities* section for a standard EPSRC grant application. Please add
-the requested resource in CU as *unit* and the notional cost in £ as *cost*. Reasonable ARCHER2 allocations are
-now awarded for the duration of the EPSRC funding. A completed [Technical Assessment Form](ta/ARCHER2-TA-form.docx)
-must be uploaded through Je-S, selecting the document type "Technical Assessment". 
-
-EPSRC operate a 6-monthly allocation period policy for access on ARCHER2. The total amount of compute resource
-(measured on ARCHER2 as *CU*) awarded is broken down into 6-month periods that span the length of  access to ARCHER2
-that has been requested. Applicants specify the period profile on the TA form when they apply for access.
-EPSRC period allcoations are enforced on ARCHER2 in the following way: 
-
-- Any unused allocation at the end of an allocation period is lost  
-- You cannot move CU between different allocation periods
-
-If you have any questions about accessing ARCHER2 via EPSRC, please see
-[the HPC pages on the EPSRC website](https://epsrc.ukri.org/research/facilities/hpc/) or
-[contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org).
 
 ### NERC Remit
 NERC applicants should add ARCHER2 as a facility in Je-S, contact the relevant NERC science area leader and check the
@@ -140,7 +125,26 @@ current NERC policy on access. Full details are on the [NERC website](https://ne
 Applicants within the NERC remit wishing to access ARCHER2 must contact the relevant consortia leader for advice
 ahead of submission. 
 
-### UKRI calls, fellowships and responsive mode
+
+<a id="ukri-calls"></a>
+## UKRI calls, fellowships and responsive mode
+ARCHER2 resources via UKRI EPSRC, BBSRC and NERC awards are included as a notional costs rather than real
+costs. Resources for UKRI awards in other research areas may need to be included as real costs, please
+[contact the ARCHER2 Service Desk](mailto:support@archer2.ac.uk) to discuss further before applying.
+
+We cover the specific mechanisms for different research councils within UKRI below.
+
+
+## NERC Remit
+NERC applicants should add ARCHER2 as a facility in Je-S, contact the relevant NERC science area leader and check the
+current NERC policy on access. Full details are on the [NERC website](https://nerc.ukri.org/research/sites/facilities/hpc/). 
+
+Applicants within the NERC remit wishing to access ARCHER2 must contact the relevant consortia leader for advice
+ahead of submission. 
+
+
+<a id="ukri-calls"></a>
+## UKRI calls, fellowships and responsive mode
 For access as part of applications to other UKRI research councils please
 [contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org) in the first
 instance to discuss your requirements and plans. 
@@ -148,16 +152,16 @@ instance to discuss your requirements and plans.
 ARCHER2 resources via EPSRC and NERC awards are included as a notional costs rather than real costs. Resources for 
 UKRI awards in other research areas may need to be included as real costs. 
 
-<a id="other-calls"></a>
 
+<a id="other-calls"></a>
 ## Access via non-UKRI calls, fellowships and other routes
 
 For access as part of applications from non-UKRI funded researchers please
 [contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org) in the first instance to 
 discuss your requirements and plans. Please note that these discussions may take some time, amd UKRI cannot guarantee that an agreement will be reached. 
 
-<a id="consortia"></a>
 
+<a id="consortia"></a>
 ## Access via the EPSRC High End Computing Consortia
 
 If a researcher's work is within remit of one of the Scientific Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. Each consortium has its own way of applying for access and allocating time. The [ARCHER2 Scientific Consortia](https://www.archer2.ac.uk/research/consortia/) pages have more information on the remit of the individual consortia and their contact details. 
@@ -165,7 +169,6 @@ If a researcher's work is within remit of one of the Scientific Consortia, forme
 <!-- TODO: add industry access details -->
 
 <a id="prace"></a>
-
 ## Access via PRACE
 
 [PRACE](https://prace-ri.eu/) is a pan-European infrastructure that provides access to HPC systems hosted across Europe. PRACE runs a number of different calls through which researchers can gain access to HPC resources. Information on the calls is available on [the PRACE website](https://prace-ri.eu/hpc-access/).
