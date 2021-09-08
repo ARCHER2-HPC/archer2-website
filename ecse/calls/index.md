@@ -36,7 +36,7 @@ proposals.
 
 The deadline for applying to attend the panel meeting as an observer
 is 16:00 on 5 October 2021 and details of the call are given
-[here](../observers/index.md).
+[here](../observers/).
 
 ### Application process and guidance for the eCSE call
 
@@ -200,6 +200,6 @@ The ARCHER2 CSE team can be contacted via the ARCHER2 service desk [support@arch
 
 * [Project Proposal template](ARCHER2_eCSE05_ProposalTemplate.docx)
 
-* [eCSE projects funded](../projects/index.php)
+* [eCSE projects funded](../panels/)
 
 * [eCSE Terms](../Terms/ARCHER2_eCSE_Terms.pdf)
