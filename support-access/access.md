@@ -161,7 +161,7 @@ discuss your requirements and plans. Please note that these discussions may take
 The UK (via EPSRC, STFC and BBSRC) are now paying around £1M a year to be members of PRACE and to get access to the PRACE machines for UK scientists. 
 In order to maximise the amount of time obtained, and to help those thinking of applying, the following guidance has been developed by Sylvain Laizet and Debora Sijacki, 
 who have had a lot of experience and success in applying to PRACE. Thanks to them for their help. If anyone else would like to add anything based on their experiences, 
-please contact the ARCHER2 team [support@archer2.ac.uk](mailto:support@archer2.ac.uk)). 
+please contact the ARCHER2 team [support@archer2.ac.uk]((mailto:support@archer2.ac.uk)). 
 
 First of all, it may be obvious but it is very important to read all the information on the [PRACE website](https://prace-ri.eu/). The main sources of information are the User documentation pages and the Best practice guides on the PRACE website. Make yourself aware of how to apply and what the application procedures are. You might have to apply several time before being successful. The good thing is that you will be able to use the feedback from the referees to improve your application.
 
