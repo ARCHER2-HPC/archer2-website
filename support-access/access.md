@@ -100,7 +100,7 @@ A small allocation for new ARCHER2 users to get them started using the ARCHER2 S
 
 
 <a id="pump-priming"></a>
-### ARCHER2 ARCHER2 Pump Priming
+### ARCHER2 Pump Priming
 
 EPSRC remit researchers can request a small amount of resource awarded through a light-touch process in order to try, test and scale their code on ARCHER2. This is the successor scheme to ARCHER Instant Access. Applicants should [complete the ARCHER2 Pump Priming TA form (docx)](ta/ARCHER2-PumpPriming-form.docx) and send to the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk). The ARCHER2 CSE team will review the form and send to EPSRC for a decision on access. We expect decisions to be made in less than 2 weeks (and usually much sooner). A maximum of 800 CU for 6 months are currently available through Pump Priming.
 
