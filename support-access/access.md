@@ -12,7 +12,8 @@ The ARCHER2 CSE Team can also provide assistance with completing a Technical Ass
 
 This page has a number of sections:
 
-- [Calls for ARCHER2 time only](#archer2-time-calls) - this includes Access to HPC calls, Pioneer Projects, Pump Priming access and Driving Test access
+- EPSRC remit access through [grants](#epsrc-grants) and [Calls for ARCHER2 time only](#archer2-time-calls) - this includes Access to HPC calls, Pioneer Projects, Pump Priming access and Driving Test access
+- [NERC remit access](#nerc) 
 - [UKRI calls, fellowships and responsive mode](#ukri-calls)
 - [Access via non-UKRI calls, fellowships and other routes](#other-calls)
 - [Access via the EPSRC High End Computing Consortia](#consortia)
@@ -20,10 +21,10 @@ This page has a number of sections:
 
 <!-- TODO: add section "Which access route should I choose" -->
 
-<a id="archer2-time-calls"></a>
-
+<a id="epsrc"></a>
 ## EPSRC Remit
 
+<a id="epsrc-grants"></a>
 ### Access through EPSRC grants
 You can include ARCHER2 on EPSRC funding applicationns when you are applying for funding (if you already have an
 active grant then you should consider applying via one of the calls for ARCHER2 time only that are described
@@ -48,7 +49,7 @@ If you have any questions about accessing ARCHER2 via EPSRC, please see
 [the HPC pages on the EPSRC website](https://epsrc.ukri.org/research/facilities/hpc/) or
 [contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org).
 
-
+<a id="archer2-time-calls"></a>
 ### Calls for ARCHER2 time only
 The following calls only provide access to ARCHER2 resources and not funding for other items (such
 as staff time). ARCHER2 costs are notional rather than real costs.
@@ -93,6 +94,7 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 </table>
 
+<a id="driving-test"></a>
 ### ARCHER2 Driving Test
 A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  This scheme will be launched after the full 23 cabinet service has commenced operation and further details will be provided on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
 
@@ -117,7 +119,7 @@ You can apply for access to EPSRC's HPC systems (both ARCHER2 and most of the Ti
 ### ARCHER2 Top Up
 Only available for existing EPSRC grant holders with an ARCHER allocation. Provides additional resource for users who already have an allocation from an EPSRC grant, but need more to complete the objectives of their grant. Successor to the ARCHER Top Up process.
 
-
+<a id="nerc"></a>
 ### NERC Remit
 NERC applicants should add ARCHER2 as a facility in Je-S, contact the relevant NERC science area leader and check the
 current NERC policy on access. Full details are on the [NERC website](https://nerc.ukri.org/research/sites/facilities/hpc/). 
