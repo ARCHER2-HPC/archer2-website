@@ -120,7 +120,7 @@ You can apply for access to EPSRC's HPC systems (both ARCHER2 and most of the Ti
 Only available for existing EPSRC grant holders with an ARCHER allocation. Provides additional resource for users who already have an allocation from an EPSRC grant, but need more to complete the objectives of their grant. Successor to the ARCHER Top Up process.
 
 <a id="consortia"></a>
-## Access via the EPSRC High End Computing Consortia
+### Access via the EPSRC High End Computing Consortia
 If a researcher's work is within remit of one of the Scientific Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. Each consortium has its own way of applying for access and allocating time. The [ARCHER2 Scientific Consortia](https://www.archer2.ac.uk/research/consortia/) pages have more information on the remit of the individual consortia and their contact details. 
 
 <a id="nerc"></a>
