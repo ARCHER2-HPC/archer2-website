@@ -119,24 +119,11 @@ You can apply for access to EPSRC's HPC systems (both ARCHER2 and most of the Ti
 ### ARCHER2 Top Up
 Only available for existing EPSRC grant holders with an ARCHER allocation. Provides additional resource for users who already have an allocation from an EPSRC grant, but need more to complete the objectives of their grant. Successor to the ARCHER Top Up process.
 
+<a id="consortia"></a>
+## Access via the EPSRC High End Computing Consortia
+If a researcher's work is within remit of one of the Scientific Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. Each consortium has its own way of applying for access and allocating time. The [ARCHER2 Scientific Consortia](https://www.archer2.ac.uk/research/consortia/) pages have more information on the remit of the individual consortia and their contact details. 
+
 <a id="nerc"></a>
-### NERC Remit
-NERC applicants should add ARCHER2 as a facility in Je-S, contact the relevant NERC science area leader and check the
-current NERC policy on access. Full details are on the [NERC website](https://nerc.ukri.org/research/sites/facilities/hpc/). 
-
-Applicants within the NERC remit wishing to access ARCHER2 must contact the relevant consortia leader for advice
-ahead of submission. 
-
-
-<a id="ukri-calls"></a>
-## UKRI calls, fellowships and responsive mode
-ARCHER2 resources via UKRI EPSRC, BBSRC and NERC awards are included as a notional costs rather than real
-costs. Resources for UKRI awards in other research areas may need to be included as real costs, please
-[contact the ARCHER2 Service Desk](mailto:support@archer2.ac.uk) to discuss further before applying.
-
-We cover the specific mechanisms for different research councils within UKRI below.
-
-
 ## NERC Remit
 NERC applicants should add ARCHER2 as a facility in Je-S, contact the relevant NERC science area leader and check the
 current NERC policy on access. Full details are on the [NERC website](https://nerc.ukri.org/research/sites/facilities/hpc/). 
@@ -161,12 +148,6 @@ UKRI awards in other research areas may need to be included as real costs.
 For access as part of applications from non-UKRI funded researchers please
 [contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org) in the first instance to 
 discuss your requirements and plans. Please note that these discussions may take some time, amd UKRI cannot guarantee that an agreement will be reached. 
-
-
-<a id="consortia"></a>
-## Access via the EPSRC High End Computing Consortia
-
-If a researcher's work is within remit of one of the Scientific Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. Each consortium has its own way of applying for access and allocating time. The [ARCHER2 Scientific Consortia](https://www.archer2.ac.uk/research/consortia/) pages have more information on the remit of the individual consortia and their contact details. 
 
 <!-- TODO: add industry access details -->
 
