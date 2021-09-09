@@ -467,28 +467,3 @@ before the targeting process can begin. This isn't currently an issue with the A
 that platform is 3.5.3-1, but, the [Tier-2 Cirrus machine](https://www.cirrus.ac.uk/) has Singularity v3.7.2-1. And so, targeting the GROMACS
 container at Cirrus, first requires the creation of the `/lustre`, `/opt/sw` and `/opt/hpe` paths in order to support the use of the various
 bindpaths specified in the accompanying Cirrus `deploy.sh` script. This extra step is handled at the factory by [`target_init.sh`](https://github.com/mbareford/container-factory/blob/main/scripts/fac/singularity/target_init.sh).
-
-
-
-
-
-
-
-
-Blah blah blah
-
-<img src="{{ site.baseurl }}/img/news/210127-IMG_0126.jpg" alt="ARCHER front panels removed" title="ARCHER front panels removed"/>
-
-
-
-![image]({{ site.baseurl }}/img/blog/210412-systems-blog_pic2.jpg)
-{: .img-center style="width: 60%" 
-alt="Advanced Computing Facility - home of ARCHER2" 
-title="Advanced Computing Facility - home of ARCHER2"}
-
-
-<div>
-
-<iframe title="Video"  width="1000" height="560" src="https://www.youtube.com/embed/UXHE7ljmhaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
