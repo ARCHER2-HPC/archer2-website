@@ -46,3 +46,4 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 * [May 2021](monthly/2021/may21_safe.pdf)
 * [June 2021](monthly/2021/june21_safe.pdf)
 * [July 2021](monthly/2021/july21_safe.pdf)
+* [August 2021](monthly/2021/aug21_safe.pdf)
