@@ -17,25 +17,27 @@ As part of the security patch work we have had to disable the Singularity contai
 ### Recently Resolved Issues
 There are no recently resolved issues. 
 
-### Upcoming Maintenance Sessions: Tuesday 7th - Thursday 9th September
-This week there will be two periods of at-risk maintenance to allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF). 
+### Upcoming Maintenance Sessions
+#### Full Maintenance: Wednesday 15th September 0900 - 1700 
 
-#### Tuesday 7th September AM, 
-The inactive User Access Node (UAN), UAN02 will be moved to the new network. The Domain Name Server (DNS) will be changed and the UAN02 will be opened and will become an active UAN. Existing sessions on UAN01 will be unaffected.
+There will be a full service maintenance session to allow a fix to be applied to resolve the Singularity issue and also to allow HPE to perform some remedial tasks.  
+The queues on the system will start to drain from 0900 on Monday 13th September to ensure that all running jobs will have completed by the start of the maintenance session.  
 
-#### Thursday 9th September AM, 
-Conenctions to UAN01 will be blocked and all new conenctions will use UAN02. 
+Please submit jobs to the batch scheduler until the start of the maintenance and jobs will either run to completion before the start of the maintenance session or if your requested wall time does not allow,  they will run once the service is returned. 
 
-#### Thursday 9th September PM, 
-A warning message will be sent to all remaining sessions on UAN01 and then all connections on the UAN01 will be terminated. The UAN01 and the cluster external connections will then be migrated to the new network. The cluster network migration may involve a short outage to external DNS lookups for around 5 minutes.
+Users will not be able to connect to the User Access Nodes (UANs) during the full maintenance and you will be notified once the maintenance has completed. 
 
-Once this has completed, the DNS will be changed to make UAN01 the active UAN again.
+We apologise for the short notice and any inconvenience caused by this maintenance session. 
 
-Please report any issues you may experience to support@archer2.ac.uk. 
 
  
 ### Completed Maintenance Sessions
-#### Wednesday 25th August 1400 - Friday 27th August 1400 : Essential Security Maintenance: 
+
+#### Tuesday 7th - Thursday 9th September
+The network work has now been completed successfully. 
+This week there will be two periods of at-risk maintenance to allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF). 
+
+
 #### Completed and Service returned: Thursday 26th August 1115
 
 A full service maintenenace to allow HPE to apply an essential security patch to the operating system.  
