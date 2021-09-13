@@ -2,7 +2,7 @@
 layout: course
 title: Advanced OpenMP
 banner: web_banners_05.jpg 
-human_dates: 5 and 8 October 2021  09:00 - 17:00  GMT
+human_dates: 5 and 8 October 2021  09:00 - 17:00  BST
 start_date: 2021-10-05 09:00:00
 end_date: 2021-10-08 17:00:00
 trainers: Mark Bull (EPCC)
