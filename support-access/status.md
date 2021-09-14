@@ -10,6 +10,14 @@ banner: web_banners_03.jpg
 
 
 ###  Current Issues
+
+#### Issue Tuesday 14th September 11:00
+
+Power issues in the Edinburgh area have caused ARCHER2 compute nodes to be unavailable.  The filesystems are also affected.  
+
+Further updates will be provided once we know more.
+
+
 #### Singularity Issue: Thursday 26th August
 As part of the security patch work we have had to disable the Singularity containers software on the ARCHER2 compute nodes. We will continue to investigate this issue with HPE and plan to re-enable to the functionality on the compute nodes as soon as possible. Singularity containers on the login nodes are unaffected by this issue and continue to work as expected.
 
