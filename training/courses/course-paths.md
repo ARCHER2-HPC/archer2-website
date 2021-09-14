@@ -58,7 +58,7 @@ Aeronwen is an AI researcher, not at all a computational biologist but rather ap
 
 Anika is a MSc student with experience developing simple serial programs as an undergraduate. Now that she is a master's student, she wants to learn how she can start writing and designing programs more efficiently. Anika has experience in using the command line to navigate through her files, compile and run her programs but has never accessed remote HPC resources, written or executed programs in parallel. First, she wants to learn computing skills to maximise productivity as a researcher before learning how HPC resources and parallelisation of programs can benefit her. She’s not sure she’s ready for systems as large as ARCHER2 but is ready to practice and learn the foundation skills for the future. 
 
-![image](img/Novice-dev-wo-exp.jpg){: style="width: 100%; float:center"}
+![image](img/Novice-dev-wo-exp.jpg){: style="width: 80%; float:center"}
 
 ----------
 
@@ -68,7 +68,7 @@ Anika is a MSc student with experience developing simple serial programs as an u
 Dan is a climate and ocean modeller. He would like to compile the Unstructured Grid Finite Volume Community Ocean Model (FVCOM), both hydrostatic and non-hydrostatic models, and the Weather Research and Forecasting model, and maybe MITgcm. These will be used to develop coastal forecasting systems.
 
 
-![image](img/Novice-dev-with-exp.jpg){: style="width: 100%; float:center"}
+![image](img/Novice-dev-with-exp.jpg){: style="width: 80%; float:center"}
 
 
 ----------
@@ -80,6 +80,6 @@ Dan is a climate and ocean modeller. He would like to compile the Unstructured G
 Dan is a climate and ocean modeller. He would like to compile the Unstructured Grid Finite Volume Community Ocean Model (FVCOM), both hydrostatic and non-hydrostatic models, and the Weather Research and Forecasting model, and maybe MITgcm. These will be used to develop coastal forecasting systems.
 
 
-![image](img/Exp-dev-with-exp.jpg){: style="width: 100%; float:center"}
+![image](img/Exp-dev-with-exp.jpg){: style="width: 80%; float:center"}
 
 ----------
