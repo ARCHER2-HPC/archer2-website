@@ -32,36 +32,6 @@ login access to ARCHER2 system is also unavailable.
 #### Singularity Issue: Wednesday 15th September
 A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
 
-### Maintenance Sessions
-<table>
-	<tr>
-  <th>Status </th> 
-		<th>Type</th>
-		<th>Start</th>
-		<th>End </th>
-		<th>System</th>
-		<th>User Impact</th>
-  <th>Reason</th>
-	</tr>
-	<tr>
-		<td> Completed</td>
-		<td> Full </td>
-		<td> 15/09/21 0900</td>
-		<td> 15/09/21 1700</td>
-		<td> ARCHER2 4Cabinet: User Access and Compute Nodes</td>
-  <td> Users will not be able to connect. Jobs can be queued and will start once the service returns. </td>
-  <td> Apply a fix for Singularity Issue. </td>
-	</tr>
- 	<tr>
-		<td> </td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
-  <td> </td>
-  <td> </td>
-	</tr>
-</table>
 
 ### Upcoming Maintenance Sessions
 #### Full Maintenance: Wednesday 15th September 0900 - 1700 
