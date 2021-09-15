@@ -10,6 +10,15 @@ banner: web_banners_03.jpg
 
 
 ###  Current Issues
+No current issues. 
+
+### Recently Resolved Issues
+
+#### Update: Wednesday 15th September 1600
+ARCHER2 4 Cabinet Service has now been returned to service. 
+The Singularity work which was scheduled to take place today has also been completed. 
+
+We apologise for the inconvenience caused by this unplanned outage and please do report any issues you may experience to support@archer2.ac.uk. 
 
 #### Update: Wednesday 15th September 0800
 HPE continue to work to resolve issues with the management network following the power issues in the Edinburgh area yesterday. 
@@ -20,7 +29,6 @@ Power issues in the Edinburgh area have caused ARCHER2 compute nodes and /work f
 login access to ARCHER2 system is also unavailable.
 
 
-### Recently Resolved Issues
 #### Singularity Issue: Wednesday 15th September
 A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
 
