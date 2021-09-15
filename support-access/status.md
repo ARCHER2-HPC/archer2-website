@@ -11,12 +11,13 @@ banner: web_banners_03.jpg
 
 ###  Current Issues
 
-#### Issue Tuesday 14th September 11:00
+#### Update: Wednesday 15th September 0800
+HPE continue to work to resolve issues with the management network following the power issues in the Edinburgh area yesterday. 
+We will provide more information on timescales for restoration of service as soon as it is available.
 
+#### Issue: Tuesday 14th September 1100
 Power issues in the Edinburgh area have caused ARCHER2 compute nodes and /work file system to be unavailable. This, in turn, means that 
 login access to ARCHER2 system is also unavailable.
-
-We will provide more information on timescales for restoration of service as soon as it is available.
 
 
 #### Singularity Issue: Thursday 26th August
