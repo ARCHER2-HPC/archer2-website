@@ -20,12 +20,9 @@ Power issues in the Edinburgh area have caused ARCHER2 compute nodes and /work f
 login access to ARCHER2 system is also unavailable.
 
 
-#### Singularity Issue: Thursday 26th August
-As part of the security patch work we have had to disable the Singularity containers software on the ARCHER2 compute nodes. We will continue to investigate this issue with HPE and plan to re-enable to the functionality on the compute nodes as soon as possible. Singularity containers on the login nodes are unaffected by this issue and continue to work as expected.
-
-
 ### Recently Resolved Issues
-There are no recently resolved issues. 
+#### Singularity Issue: Wednesday 15th September
+A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
 
 ### Upcoming Maintenance Sessions
 #### Full Maintenance: Wednesday 15th September 0900 - 1700 
