@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210921T140223Z
+DTSTART;TZID=Europe/London:20210929T150000
+DTEND;TZID=Europe/London:20210929T160000
+SUMMARY:ARCHER2 training webinar
+UID:20210921T140223Z-84388699126@fe80:0:0:0:1430:3cff:fe9d:a919ens5
+TZID:Europe/London
+DESCRIPTION:Juan Rodriguez Herrera is inviting you to a scheduled Zoom me
+ eting.\n\nJoin Zoom Meeting\nhttps://ed-ac-uk.zoom.us/j/84388699126\n\nM
+ eeting ID: 843 8869 9126\nPasscode: training21\nOne tap mobile\n+4420390
+ 17895\,\,84388699126# United Kingdom\n+442080806591\,\,84388699126# Unit
+ ed Kingdom\n\nDial by your location\n        +44 203 901 7895 United Kin
+ gdom\n        +44 208 080 6591 United Kingdom\n        +44 208 080 6592 
+ United Kingdom\n        +44 330 088 5830 United Kingdom\n        +44 131
+  460 1196 United Kingdom\n        +44 203 481 5237 United Kingdom\n     
+    +44 203 481 5240 United Kingdom\nMeeting ID: 843 8869 9126\nFind your
+  local number: https://ed-ac-uk.zoom.us/u/kd7pq1s4Rr\n\nJoin by SIP\n843
+ 88699126@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.
+ 36.11 (US East)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.110
+  (Germany)\nMeeting ID: 843 8869 9126\nPasscode: 1933913339\n\nJoin by S
+ kype for Business\nhttps://ed-ac-uk.zoom.us/skype/84388699126\n\n
+LOCATION:https://ed-ac-uk.zoom.us/j/84388699126
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
