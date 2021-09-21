@@ -11,7 +11,7 @@ categories: [news]
 We have all become accustomed to having a wide range of pre and
 post-processing tools available to us on our laptops, which can make
 working on the login nodes of a large HPC system such as ARCHER2
-rather inconvenient if you favourite tools aren't available.
+rather inconvenient if your favourite tools aren't available.
 
 On something fairly standard like an Ubuntu laptop, installing a new
 tool is very simple if a package exists (`sudo apt install new-tool`);
@@ -88,17 +88,17 @@ Assuming you have installed Singularity on your own Linux laptop (or
 in an Ubuntu VM if you have a Windows OS), building the container
 `display.simg` from the recipe is very simple:
 
-`  user@laptop$ sudo singularity build display.simg display.rec`
+`user@laptop$ sudo singularity build display.simg display.rec`
 
 You can then test this works on your laptop, e.g. to view
 `sharpened.pgm` from one of the ARCHER2 courses:
 
-`  user@laptop$ singularity run display.simg sharpened.pgm`
+`user@laptop$ singularity run display.simg sharpened.pgm`
 
 If this works as expected, all you have to do is copy `display.simg`
 to ARCHER2 and execute the same command:
 
-`  user@archer2$ singularity run display.simg sharpened.pgm`
+`user@archer2$ singularity run display.simg sharpened.pgm`
 
 (this assumes that the container is in your current working directory;
 in practice you will have to give the full path to `display.simg`).
@@ -127,7 +127,7 @@ solution was to create a small executable shell script called `cube` that does n
 
 I have to admit that I was previously a bit skeptical about containers - I think their role in achieving true reproducibility in computational science is often overstated - but for the case of installing useful tools on the ARCHER2 login nodes without requiring the intervention of the systems team then I have found them incredibly useful and remarkably easy to use.
 
-Note that we run an ARCHER2 course on containers - all the material from the most recent run in July is available from (https://www.archer2.ac.uk/training/materials/).
+Note that we run an ARCHER2 course on containers - all the material from the most recent run in July is available from (<https://www.archer2.ac.uk/training/materials/>).
 
 
 
