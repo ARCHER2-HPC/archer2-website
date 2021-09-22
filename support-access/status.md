@@ -55,8 +55,23 @@ Users will not be able to connect to the User Access Nodes (UANs) during the ful
 We apologise for the short notice and any inconvenience caused by this maintenance session. 
 
 
- 
 ## Completed Maintenance Sessions
+
+
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Completed | Full | 15/09/21 0900 | 15/09/21 1700 | ARCHER2 4Cabinet: User Access and Compute Nodes | Users will not be able to connect. Jobs can be queued and will start once the service returns | Apply a fix for Singularity Issue. |
+
+<!--
+| Completed | At risk | 7/9/21 | 9/9/21 | ARCHER2 4Cabinet: User Access and Compute Nodes | Interruptions to connections to UANs |  Allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF) |
+| Completed | At risk | 25/8/21 | 25/8/21 | ARCHER2 4Cabinet: User Access and Compute Nodes | Momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 |  Allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF) |
+| Completed | At risk | 25/8/21 | 25/8/21 | ARCHER2 4Cabinet: User Access and Compute Nodes | Connection to the User Access Nodes (UAN) on ARCHER2 may be lost.  File transfers may be affected. Jobs running on the compute nodes will not be impacted |  Allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF) |
+
+-->
+
+
+ 
+
 
 ### Tuesday 7th - Thursday 9th September
 The network work has now been completed successfully. 
