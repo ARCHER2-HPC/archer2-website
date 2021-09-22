@@ -5,6 +5,15 @@ summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
 
+- [Known Issues](#known-issues)
+    - [Current Issues](#current-issues)
+    - [Recently Resolved Issues](#recently-resolved-issues)
+- [Upcoming Maintenance Sessions](#upcoming-maintenance-sessions)
+- [Completed Maintenance Sessions](#completed-maintenance-sessions)
+- [ARCHER2 Node status](#archer2-node-status)
+- [System Status Mailings](#system-status-mailings)
+- [FAQ](#faq)
+
 ## Known Issues
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
@@ -33,8 +42,8 @@ login access to ARCHER2 system is also unavailable.
 A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
 
 
-### Upcoming Maintenance Sessions
-#### Full Maintenance: Wednesday 15th September 0900 - 1700 
+## Upcoming Maintenance Sessions
+### Full Maintenance: Wednesday 15th September 0900 - 1700 
 
 There will be a full service maintenance session to allow a fix to be applied to resolve the Singularity issue and also to allow HPE to perform some remedial tasks.  
 The queues on the system will start to drain from 0900 on Monday 13th September to ensure that all running jobs will have completed by the start of the maintenance session.  
@@ -47,14 +56,14 @@ We apologise for the short notice and any inconvenience caused by this maintenan
 
 
  
-### Completed Maintenance Sessions
+## Completed Maintenance Sessions
 
-#### Tuesday 7th - Thursday 9th September
+### Tuesday 7th - Thursday 9th September
 The network work has now been completed successfully. 
 This week there will be two periods of at-risk maintenance to allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF). 
 
 
-#### Completed and Service returned: Thursday 26th August 1115
+### Completed and Service returned: Thursday 26th August 1115
 
 A full service maintenenace to allow HPE to apply an essential security patch to the operating system.  
 
@@ -65,11 +74,11 @@ Please submit jobs to the batch scheduler until the start of the maintenance and
 We apologise for the short notice and any inconvenience caused by this maintenance session. 
 
 
-#### Wednesday 25th August: Networking Maintenance
+### Wednesday 25th August: Networking Maintenance
 The final phase of the essential network maintenance at the Advanced Computing Facility (ACF) will be on Wednesday 25th August. 
 We expect this change will involve a momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 which we anticipate will not be noticed by users although it may interrupt file transfers. The work will only affect external communications and jobs running on the compute nodes will not be impacted. 
 
-#### Wednesday 18th August: Networking Maintenance 
+### Wednesday 18th August: Networking Maintenance 
 The networking maintenance has now been completed successfully at the Advanced Computing Facility (ACF). 
 We expect the outage will be very short, and will take place between 10:00 and 15:00. 
 
@@ -77,7 +86,12 @@ During this period, your connection to the User Access Node (UAN) may be lost. P
 File transfers may be affected. Jobs running on the compute nodes will not be impacted. 
 
 
+## ARCHER2 Node Status
 
+![image](https://safe.epcc.ed.ac.uk/Graphs/4cab.png)
+{: .img-center style="width: 80%" 
+alt="ARCHER2 Node Status over time" 
+title="ARCHER2 Node Status over time"}
 
 ## System Status mailings
 If you would like to receive email notifications about system issues and outages, please subscribe to the "System Status Notificiations" mailing list via SAFE <https://epcced.github.io/safe-docs/safe-for-users/#how-to-get-added-to-or-removed-from-the-email-mailing-list>
