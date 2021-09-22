@@ -124,7 +124,7 @@ CP2K is a quantum chemistry package for performing atomistic simulations which h
 
 This course is designed to teach attendees how to run basic CP2K calculations and give them the key knowledge required for doing so. It will cover the important options in the CP2K input file and how to set up a CP2K calculation before going through some hands-on practical exercises.
 
-Full details and registration  https://www.archer2.ac.uk/training/#upcoming-training
+Full details and registration  <https://www.archer2.ac.uk/training/#upcoming-training>
 
 
 ## ARCHER2 for Software Developers
