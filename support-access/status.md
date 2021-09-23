@@ -6,7 +6,6 @@ banner: web_banners_03.jpg
 ---
 
 - [Known Issues](#known-issues)
-    - [Current Issues](#current-issues)
     - [Recently Resolved Issues](#recently-resolved-issues)
 - [Upcoming Maintenance Sessions](#upcoming-maintenance-sessions)
 - [Completed Maintenance Sessions](#completed-maintenance-sessions)
