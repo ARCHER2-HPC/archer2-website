@@ -17,17 +17,12 @@ banner: web_banners_03.jpg
 ## Known Issues
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
-
-###  Current Issues
-No current issues. 
-
 ### Recently Resolved Issues
 #### Singularity Issue: Wednesday 15th September
 A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
 
 
 ## Maintenance Sessions
-
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
