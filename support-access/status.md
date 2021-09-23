@@ -4,6 +4,7 @@ title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
+#### ARCHER2 4-Cabinet is Open and fully available to users
 
 - [Known Issues](#known-issues)
 - [Recently Resolved Issues](#recently-resolved-issues)
@@ -20,7 +21,7 @@ banner: web_banners_03.jpg
 A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
 
 
-## Maintenance Sessions
+## Maintenance Sessions: Quarter3 2021 (1st July-30th September 2021)
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
