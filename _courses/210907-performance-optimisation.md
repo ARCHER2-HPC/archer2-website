@@ -7,7 +7,7 @@ start_date: 2021-09-07 09:30:00
 end_date: 2021-09-08 16:00:00
 trainers: Mark Bull (EPCC), Adrian Jackson (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1252/registrations/919/
 location: Online
 location_url:
@@ -47,22 +47,21 @@ Details to follow
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/single-node-optimisation-course/tree/2021-09-07   ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
+
 
 <!--  
       <div class="col-xs-6 col-sm-4">
@@ -79,22 +78,37 @@ Details to follow
 					
 
 
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
 
-<h3>Session 1</h3>
+<h3>Day 1, Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Hczvv9L-BYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+
+<h3>Day 1, Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/LaMGvaWXd98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
+<h3>Day 2, Session 1</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/PqYs3LKzhOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
+<h3>Day 2, Session 2</h3>
 
-<!-- 
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/WClaPNjMLCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -104,7 +118,7 @@ Details to follow
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   https://events.prace-ri.eu/event/1252/surveys/841"
+		   href="https://events.prace-ri.eu/event/1252/surveys/841"
 
 		>
           <strong>Feedback</strong><br/>
@@ -113,7 +127,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>

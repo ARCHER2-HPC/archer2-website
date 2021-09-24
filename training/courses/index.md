@@ -11,20 +11,13 @@ banner: web_banners_05.jpg
 {: style="width: 100%; float:center"}
 
 
-
-
-
-
-
-
 ![image](img/training-paths-key.jpg){: style="width: 200px; float:right"}
 
 
-<!--
 [Some example scenarios and suggested training paths](course-paths).
 
 &nbsp;
--->
+
 
 ##  Outline Course Descriptions
 

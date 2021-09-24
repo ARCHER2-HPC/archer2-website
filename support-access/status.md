@@ -4,6 +4,14 @@ title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
+#### ARCHER2 4-Cabinet is Open and fully available to users
+
+- [Known Issues](#known-issues)
+- [Recently Resolved Issues](#recently-resolved-issues)
+- [Maintenance Sessions](#maintenance-sessions)
+- [ARCHER2 Node status](#archer2-node-status)
+- [System Status Mailings](#system-status-mailings)
+- [FAQ](#faq)
 
 ## Current Load
 
@@ -12,50 +20,29 @@ banner: web_banners_03.jpg
 ## Known Issues
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
-
-###  Current Issues
-#### Singularity Issue: Thursday 26th August
-As part of the security patch work we have had to disable the Singularity containers software on the ARCHER2 compute nodes. We will continue to investigate this issue with HPE and plan to re-enable to the functionality on the compute nodes as soon as possible. Singularity containers on the login nodes are unaffected by this issue and continue to work as expected.
-
-
-### Recently Resolved Issues
-#### Power Blip: Wednesday 28th July 15:00
-There was a power blip in the Edinburgh area at around 1130 today and as a result of this the compute nodes and lustre filesystem experienced issues. 
-The HPE team have now restored the compute nodes and the lustre filesystem is available again. 
-
-We apologise for the inconvenience caused by the unplanned issues.  Please report any further problems to the [Service desk](mailto:support@archer2.ac.uk) as usual.
+## Recently Resolved Issues
+#### Singularity Issue: Wednesday 15th September
+A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
 
 
-### Upcoming Maintenance Sessions
-There are no upcoming maintenance sessions scheduled. 
- 
- 
-### Completed Maintenance Sessions
-#### Wednesday 25th August 1400 - Friday 27th August 1400 : Essential Security Maintenance: 
-#### Completed and Service returned: Thursday 26th August 1115
+## Maintenance Sessions: Quarter3 2021 (1st July-30th September 2021)
 
-A full service maintenenace to allow HPE to apply an essential security patch to the operating system.  
-
-The queues on the system will start to drain from 1400 on Monday 23rd August to ensure that all running jobs will have completed by the start of the maintenance session.  
-
-Please submit jobs to the batch scheduler until the start of the maintenance and jobs will either run to completion before the start of the maintenance session or if your requested wall time does not allow,  they will run once the service is returned. 
-
-We apologise for the short notice and any inconvenience caused by this maintenance session. 
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Completed | Unplanned Full | 14/09/21 1100 | 15/09/21 1600 | ARCHER2 4Cabinet: User Access and Compute Nodes | Users will not be able to connect. | Power Issues within the Edinburgh area |
+| Completed | Full (took place within unplanned outage) | 15/09/21 0900 | 15/09/21 1600 | ARCHER2 4Cabinet: User Access and Compute Nodes | Users will not be able to connect. Jobs can be queued and will start once the service returns | Apply a fix for Singularity Issue. |
+| Completed | At-risk | 7/9/21 | 9/9/21 | ARCHER2 4Cabinet: User Access and Compute Nodes | Momentary interruptions to connections to UANs |  Allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF) |
+| Completed | Full | 25/8/21 1400 | 26/8/21 1115 | ARCHER2 4Cabinet: User Access and Compute Nodes | No access to the UANs and the queues will start to drain on the compute nodes from Monday 23rd August at 1400  |  Allow HPE Systems team to apply an essential security patch to the ARCHER2 4 cabinet system |
+| Completed | At-risk | 25/8/21 | 25/8/21 | ARCHER2 4Cabinet: User Access and Compute Nodes | Momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 |  Allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF) |
+| Completed | At-risk | 18/8/21 1000 | 18/8/21 1500 | ARCHER2 4Cabinet: User Access and Compute Nodes | Connection to the User Access Nodes (UAN) on ARCHER2 may be lost.  File transfers may be affected. Jobs running on the compute nodes will not be impacted |  Allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF) |
 
 
-#### Wednesday 25th August: Networking Maintenance
-The final phase of the essential network maintenance at the Advanced Computing Facility (ACF) will be on Wednesday 25th August. 
-We expect this change will involve a momentary loss of external network traffic to the User Access Nodes (UAN) on ARCHER2 which we anticipate will not be noticed by users although it may interrupt file transfers. The work will only affect external communications and jobs running on the compute nodes will not be impacted. 
+## ARCHER2 Node Status
 
-#### Wednesday 18th August: Networking Maintenance 
-The networking maintenance has now been completed successfully at the Advanced Computing Facility (ACF). 
-We expect the outage will be very short, and will take place between 10:00 and 15:00. 
-
-During this period, your connection to the User Access Node (UAN) may be lost. Please wait a couple of minutes and then try to reconnect. 
-File transfers may be affected. Jobs running on the compute nodes will not be impacted. 
-
-
-
+![image](https://safe.epcc.ed.ac.uk/Graphs/4cab.png)
+{: .img-center style="width: 80%" 
+alt="ARCHER2 Node Status over time" 
+title="ARCHER2 Node Status over time"}
 
 ## System Status mailings
 If you would like to receive email notifications about system issues and outages, please subscribe to the "System Status Notificiations" mailing list via SAFE <https://epcced.github.io/safe-docs/safe-for-users/#how-to-get-added-to-or-removed-from-the-email-mailing-list>

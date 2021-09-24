@@ -141,131 +141,6 @@ Individual links to course provide more details on the content and prerequisites
 Recent courses will be moved to the [Materials repository](materials/) shortly after they have ended.
 
 
-<!--
-
-### ARCHER2 year one planned courses
-
-The following courses are provisionally planned for the first year of the ARCHER2 service and details of dates and locations may be subject to change. Once all details are finalised, the course will be moved up to the confirmed section above and registration opened.
-
-<div class="table-responsive">
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>Course</th>
-        <th>Venue</th>
-        <th>Dates</th>
-      </tr>
-    </thead>
-    <tbody>
-
-      <tr>
-        <td><a href="courses/index.html#package_use">Package Use on ARCHER2</a></td>
-        <td>Online</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#development">Development on ARCHER2</a></td>
-        <td>Online</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#data_science">Data Science on ARCHER2</a></td>
-        <td>Online</td>
-        <td></td>
-      </tr>
-      
-      <tr>
-        <td><a href="courses/index.html#openmp">Shared Memory Programming with OpenMP</a></td>
-        <td>Online</td>
-        <td></td>
-      </tr>
-
-     
-      <tr>
-        <td><a href="courses/index.html#package_use">ARCHER2 for HPC Software Package Users</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Using LAMMPS on ARCHER2</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Using CP2K on ARCHER2</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Using Code_Saturne on ARCHER2</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Using the Met Office UM on ARCHER2</td>
-        <td></td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <td><a href="courses/index.html#development">ARCHER2 for HPC Software Developers</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#data_carpentry">Data Carpentry</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#software_carpentry">Software Carpentry</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#understanding_package_performance">Understanding HPC Software Package Performance</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#data_analysis_using_python">Data Analysis Using Python</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <td><a href="courses/index.html#data_analysis_using_python">Data Analytics with HPC</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <td>Virtual Tutorials</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Advanced use of Package X on ARCHER2</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#efficient_parallel_io">Efficient Parallel I/O</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="courses/index.html#performance_optimisation_on_amd_epyc">Performance Optimisation for AMD EPYC</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-      
-    </tbody>
-  </table>
-</div>
-
--->
-
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.
 
 Details of the software you should have installed, in preparation for any of our courses, is listed on our [software page](training-software.html).
@@ -290,7 +165,7 @@ Provisional schedule of planned courses.  Brief details of the courses can be fo
 
 |  August - October 2021 | November 2021 - January 2022 | February - April 2022 |
 | --- | --- | --- |
-|Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Introduction to Unified Model <br>Introduction to CP2K<br>Data Analytics with HPC <br>Advanced use of LAMMPS <br>Advanced OpenMP <br>Performance Optimisation on AMD EPYC| Data Carpentry<br>HPC Carpentry<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Introduction to GROMACS<br>Reproducible computational environments using containers<br>Scientific Programming with Python<br>Modern Fortran<br>Efficient Parallel IO<br>| Software Carpentry<br>Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Advanced use of Code_Saturne<br>Message Passing Programming with MPI<br>Efficient use of the HPE Cray EX System<br> |
+|ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>Introduction to Unified Model <br>Introduction to CP2K<br>Data Analytics with HPC <br>Advanced use of LAMMPS <br>Advanced OpenMP | Data Carpentry<br>HPC Carpentry<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Introduction to GROMACS<br>Reproducible computational environments using containers<br>Scientific Programming with Python<br>Modern Fortran<br>Efficient Parallel IO<br>| Software Carpentry<br>Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Advanced use of Code_Saturne<br>Message Passing Programming with MPI<br>Efficient use of the HPE Cray EX System<br> |
 
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
