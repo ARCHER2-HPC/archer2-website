@@ -5,6 +5,10 @@ summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
 
+## Current Load
+
+<img style="width: 75%" src="https://safe.epcc.ed.ac.uk/Graphs/4cab.png" />
+
 ## Known Issues
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
