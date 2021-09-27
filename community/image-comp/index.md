@@ -13,7 +13,7 @@ The winning image or video, along with a selection of other entries, will also b
 ### Key Details 
 
 - Competition Opens: 25 August 2021
-- Submission Deadline: 3 October 2021
+- Submission Deadline: **Extended to 17 October 2021**
 - Judging: October/November 2021
 - Prizes:
     - Best image : £150
@@ -60,7 +60,7 @@ The submission form is a PDF form which is editable in ADOBE Acrobat Reader and 
 
 ### Deadline
 
-Submission deadline: 3 October 2021
+Submission deadline: **Extended to 17 October 2021**
 
 Any queries should be directed to [image@archer.ac.uk](mailto: image@archer.ac.uk)
 
