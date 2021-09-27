@@ -45,7 +45,7 @@ A fix has been applied to restore the functionality of the Singularity container
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Sceduled | Compute Nodes | 30/09/21 0830 | 30/09/21 tbc | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A switch within the 4 Cabinet Service requires a reboot |
+| Scheduled | Partial: Compute Nodes | 30/09/21 0830 | 30/09/21 tbc | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A switch within the 4 Cabinet Service requires a reboot |
 | Completed | Unplanned Full | 14/09/21 1100 | 15/09/21 1600 | ARCHER2 4Cabinet: User Access and Compute Nodes | Users will not be able to connect. | Power Issues within the Edinburgh area |
 | Completed | Full (took place within unplanned outage) | 15/09/21 0900 | 15/09/21 1600 | ARCHER2 4Cabinet: User Access and Compute Nodes | Users will not be able to connect. Jobs can be queued and will start once the service returns | Apply a fix for Singularity Issue. |
 | Completed | At-risk | 7/9/21 | 9/9/21 | ARCHER2 4Cabinet: User Access and Compute Nodes | Momentary interruptions to connections to UANs |  Allow our HPC Systems team to move the ARCHER2 4 cabinet system to a new Network at the Advanced Computing Facility (ACF) |
