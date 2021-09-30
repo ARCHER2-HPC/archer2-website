@@ -36,8 +36,10 @@ is used to support small, short jobs with fast turnaround time.
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
 ## Recently Resolved Issues
-#### Singularity Issue: Wednesday 15th September
-A fix has been applied to restore the functionality of the Singularity containers software on the ARCHER2 compute nodes. Please report any issues that you may experience to support@archer2.ac.uk. 
+####  Slow running large jobs.
+
+We were aware of intermittent degraded performance on the High-speed Network, which lead to intermittent slow running of jobs (especially jobs with large node counts). This problem should have been resolved during a maintenance session of Thursday 30th September.
+Please report any issues that you may experience after this to support@archer2.ac.uk. 
 
 
 ## Maintenance Sessions: Quarter3 2021 (1st July-30th September 2021)
