@@ -68,9 +68,6 @@ see the comments following the `module restore` command.
 #SBATCH --qos=standard
 #SBATCH --export=none
 
-# setup module environment
-module -s restore /etc/cray-pe.d/PrgEnv-gnu
-
 # set USER_ROOT, the path off /work pertinent to the user (e.g., /work/z19/z19/mrb4cab/)
 # create the folder, APP_RUN_PATH, from where the benchmark will be run
 # set APP_OUTPUT, the output file
@@ -120,13 +117,16 @@ MPI library and compiler. The environment file `env.sh` sets the `LD_LIBRARY_PAT
 
 ```
 MPI_ROOT=/opt/cray/pe/mpich/8.0.16/ofi/gnu/9.1
-LIBSCI_ROOT=/opt/cray/pe/libsci/20.10.1.2/GNU/9.1/x86_64
+...
 FFTW_ROOT=/opt/cray/pe/fftw/3.3.8.8/x86_rome
+LIBSCI_ROOT=/opt/cray/pe/libsci/20.10.1.2/GNU/9.1/x86_64
 BLAS_LIBRARIES=${LIBSCI_ROOT}/lib/libsci_gnu_82_mpi_mp.so
 LAPACK_LIBRARIES=${BLAS_LIBRARIES}
 LD_LIBRARY_PATH=${FFTW_ROOT}/lib:${LIBSCI_ROOT}/lib:${MPI_ROOT}/lib
 LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/opt/cray/pe/lib64:/opt/cray/libfabric/1.11.0.0.233/lib64
-LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/lib64/host:/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu/libibverbs:/.singularity.d/libs
+LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/lib64/host:/usr/lib64/host/libibverbs
+LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu/libibverbs:/.singularity.d/libs
+...
 ```
 
 Notice that the paths starting `/opt/cray` are pertinent to the host (ARCHER2); that's because the containerized GROMACS is run according to the
