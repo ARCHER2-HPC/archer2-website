@@ -20,6 +20,8 @@ The ARCHER2 training service started in April 2020 with an online programme of c
 
 <section id="service">
 
+
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -44,19 +46,19 @@ The ARCHER2 training service started in April 2020 with an online programme of c
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/KDAuo2b7Ao0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 <!--
 
