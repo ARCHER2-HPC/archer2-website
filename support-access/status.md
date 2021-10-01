@@ -4,7 +4,7 @@ title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
-#### ARCHER2 4-Cabinet is Open and fully available to users
+#### ARCHER2 4-Cabinet is Open and login nodes are available to users.  Compute nodes are currently unavailable following a power issue.  Our team are working to restore as soon as possible.
 
 - [Current System Load](#current-system-load)
 - [Known Issues](#known-issues)
