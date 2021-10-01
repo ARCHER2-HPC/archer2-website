@@ -42,7 +42,7 @@ We were aware of intermittent degraded performance on the High-speed Network, wh
 Please report any issues that you may experience after this to support@archer2.ac.uk. 
 
 
-## Maintenance Sessions: Quarter 3 2021 (1st July-30th September 2021)
+## Maintenance Sessions:Quarter 3 2021 (1st July-30th September 2021)
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Unplanned | Partial: Compute Nodes | 01/10/21 0952 | TBA | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A power issue at the Advanced Computing Facility (ACF) |
