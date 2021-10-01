@@ -46,6 +46,7 @@ Please report any issues that you may experience after this to support@archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Unplanned | Partial: Compute Nodes | 01/10/21 0952 | TBA | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A power issue at the Advanced Computing Facility (ACF) |
 | Completed | Partial: Compute Nodes | 30/09/21 0830 | 30/09/21 1130 | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A switch within the 4 Cabinet Service requires a reboot |
 | Completed | Unplanned Full | 14/09/21 1100 | 15/09/21 1600 | ARCHER2 4Cabinet: User Access and Compute Nodes | Users will not be able to connect. | Power Issues within the Edinburgh area |
 | Completed | Full (took place within unplanned outage) | 15/09/21 0900 | 15/09/21 1600 | ARCHER2 4Cabinet: User Access and Compute Nodes | Users will not be able to connect. Jobs can be queued and will start once the service returns | Apply a fix for Singularity Issue. |
