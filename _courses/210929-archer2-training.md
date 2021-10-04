@@ -60,13 +60,13 @@ The ARCHER2 training service started in April 2020 with an online programme of c
 
 
 
-<!--
+
 
 <section id="service">
   <div class="container">
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -75,17 +75,17 @@ The ARCHER2 training service started in April 2020 with an online programme of c
         </a>
       </div>
 
-
+-->	
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+           href="ARCHER2_Training_2021_VT.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
       </div>
-										
+									
     </div>
   </div>
 </section>
--->
+
