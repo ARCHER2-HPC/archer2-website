@@ -4,9 +4,6 @@ title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
-#### ARCHER2 4-Cabinet is Open and login and compute nodes are available to users.
-#### We have some indications that the 4cab lustre filesystem has some stability issues since the Thursday maintenance. This would manifest as a general slowdown and potentially as errors writing files. HPE are investigating. Please report any issues to support@archer2.ac.uk.
-
 
 - [Current System Load](#current-system-load)
 - [Known Issues](#known-issues)
@@ -35,6 +32,11 @@ Note: the long running reservation visible in the plot corresponds to the *short
 is used to support small, short jobs with fast turnaround time.
 
 ## Known Issues
+
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Ongoing | Issue | 2021-10-04 0930 | | Slowdown of work file system on ARCHER2 4-cabinet system and IO errors | Under investigation | 
+
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
 ## Recently Resolved Issues
