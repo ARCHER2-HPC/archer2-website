@@ -35,7 +35,7 @@ is used to support small, short jobs with fast turnaround time.
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-10-04 0930 | | Slowdown of work file system on ARCHER2 4-cabinet system and IO errors | Under investigation | 
+| Ongoing | Issue | 2021-10-04 0930 |  | ARCHER2 4-cabinet: work file system | Slowdown of work file system and IO errors | Under investigation | 
 
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
