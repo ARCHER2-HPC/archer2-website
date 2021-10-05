@@ -7,7 +7,7 @@ start_date: 2021-10-05 09:00:00
 end_date: 2021-10-08 17:00:00
 trainers: Mark Bull (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1258/registrations/924/
 location: Online
 location_url:
@@ -88,7 +88,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -98,7 +98,7 @@ Details to follow
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://events.prace-ri.eu/event/1258/surveys/845/"
+		   href="https://events.prace-ri.eu/event/1258/surveys/845"
 
 		>
           <strong>Feedback</strong><br/>
@@ -107,7 +107,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
