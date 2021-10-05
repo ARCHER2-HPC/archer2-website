@@ -2,17 +2,21 @@
 layout: course
 title: ARCHER2 for Software Developers
 banner: web_banners_05.jpg 
-human_dates: 18 - 19 October 2021  10:00 - 16:00  BST
-start_date: 2021-10-18 10:00:00
-end_date: 2021-10-19 16:00:00
+human_dates: 29 - 30 November 2021 10:00 - 16:00  BST
+start_date: 2021-11-29 10:00:00
+end_date: 2021-11-30 16:00:00
 trainers: William Lucas EPCC
 course_type: course
 registration_status: open
-registration_url: https://www.archer2.ac.uk/training/register/?course=211018-software-developers
+registration_url: https://www.archer2.ac.uk/training/register/?course=211129-software-developers
 location: Online
 location_url:
 prace_course: false
 ---
+
+
+Note - this course was postponed from 18 - 19 October 2021
+
 
 #### Description:
 
@@ -72,7 +76,7 @@ Details to follow
 <!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/211018-software-developers">
+          href="https://pad.archer2.ac.uk/p/211129-software-developers">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -108,7 +112,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=211018-software-developers" 
+           href="../../feedback/?course=211129-software-developers" 
   
 
 		>
