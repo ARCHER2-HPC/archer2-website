@@ -163,9 +163,9 @@ We normally charge a fee for non-academics. If you are from a commercial organis
 Provisional schedule of planned courses.  Brief details of the courses can be found on the [Course Descriptions page](courses/).
 
 
-|  August - October 2021 | November 2021 - January 2022 | February - April 2022 |
+| November 2021 - January 2022 | February - April 2022 |
 | --- | --- | --- |
-|ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>Introduction to Unified Model <br>Introduction to CP2K<br>Data Analytics with HPC <br>Advanced use of LAMMPS <br>Advanced OpenMP | Data Carpentry<br>HPC Carpentry<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Introduction to GROMACS<br>Reproducible computational environments using containers<br>Scientific Programming with Python<br>Modern Fortran<br>Efficient Parallel IO<br>| Software Carpentry<br>Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Advanced use of Code_Saturne<br>Message Passing Programming with MPI<br>Efficient use of the HPE Cray EX System<br> |
+| Introduction to Unified Model <br>ARCHER2 for Data Scientists<br> Data Carpentry<br>HPC Carpentry<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Introduction to GROMACS<br>Reproducible computational environments using containers<br>Scientific Programming with Python<br>Modern Fortran<br>Efficient Parallel IO<br>| Advanced use of LAMMPS <br> Data Analytics with HPC <br> Software Carpentry<br>Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Advanced use of Code_Saturne<br>Message Passing Programming with MPI<br>Efficient use of the HPE Cray EX System<br> |
 
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
