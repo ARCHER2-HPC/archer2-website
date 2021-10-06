@@ -7,7 +7,7 @@ start_date: 2021-10-11 13:00:00
 end_date: 2021-10-12 16:00:00
 trainers: Holly Judge EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://www.archer2.ac.uk/training/register/?course=211011-intro-cp2k
 location: Online
 location_url:
