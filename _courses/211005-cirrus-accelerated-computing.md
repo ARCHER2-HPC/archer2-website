@@ -64,6 +64,15 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 
+<h2><a name="video">Video Session 1</a></h2>
+
+<div>
+
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/frbzz-Nh-iE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
 
 <!--
 <h2><a name="video">Video</a></h2>
@@ -76,7 +85,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 -->
 
-<!--
+
 
 <section id="service">
   <div class="container">
@@ -84,19 +93,12 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
-        </a>
-      </div>
-
 
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
-          <strong>Slides</strong><br/>
+           href="Cirrus_HPC.pdf">
+          <strong>Session 1 Slides</strong><br/>
           Download pdf of the presentation.
         </a>
       </div>
@@ -104,4 +106,4 @@ This online session is open to all. It will use the Blackboard Collaborate platf
     </div>
   </div>
 </section>
--->
+
