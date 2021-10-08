@@ -25,7 +25,7 @@ categories: [news]
 The name for the ARCHER2 4 Cabinet service is being changed to login-4c.archer2.ac.uk.
 
 This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet service when the service opens. 
-login.archer2.ac.uk will soon cease to function for the 4 cabinet service so please change to using login-4c-archer2.ac.uk now. 
+login.archer2.ac.uk will soon cease to function for the 4 cabinet service so please change to using login-4c.archer2.ac.uk now. 
 
 - login-4c.archer2.ac.uk -  ARCHER2 4 Cabinet Service 
 - login.archer2.ac.uk – Full ARCHER2 Service (when the service opens)
