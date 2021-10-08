@@ -48,24 +48,23 @@ Details to follow
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://git.ecdf.ed.ac.uk/htetlow/intro_to_cp2k/   ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/211011-intro-cp2k">
@@ -73,7 +72,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
