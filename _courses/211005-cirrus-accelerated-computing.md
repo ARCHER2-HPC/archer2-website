@@ -35,36 +35,17 @@ This session will highlight the GPU accelerated frameworks available for a broad
 
 
 
-This online session is open to all. It will use the Blackboard Collaborate platform.
+
 
 
 
 <section id="service">
 
-  <div class="row ">	
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://eu.bbcollab.com/guest/66065d74ce9d40909466371e5153c076">
-          <strong>Join Session</strong><br/>
-          Join this online session in your browser<br><i>This link works for both sessions</i>
-        </a>
-      </div>
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="myevents.ics">
-          <strong>Add to Calendar</strong><br/>
-          Download ICS file to add this event to your calendar complete with join link
-        </a>
-      </div>
-
-											
-    </div>
 
 
 
-<h2><a name="video">Video Session 1</a></h2>
+
+<h2><a name="video">Video Session 1: Making efficient use of GPUs for High Performance Computing</a></h2>
 
 <div>
 
@@ -74,16 +55,16 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 
-<!--
-<h2><a name="video">Video</a></h2>
+
+<h2><a name="video">Video Session 2: AI & Data Science – tools and frameworks</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/EWQxjqPPHTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 
 
@@ -97,8 +78,16 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="Cirrus_HPC.pdf">
+           href="https://www.cirrus.ac.uk/events/files/211005-Cirrus_HPC.pdf">
           <strong>Session 1 Slides</strong><br/>
+          Download pdf of the presentation.
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="https://www.cirrus.ac.uk/events/files/211012-Cirrus_AI.pdf">
+          <strong>Session 2 Slides</strong><br/>
           Download pdf of the presentation.
         </a>
       </div>
