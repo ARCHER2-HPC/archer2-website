@@ -88,8 +88,11 @@ Details within Course materials
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/4JPNNcyPu2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<h3>Session </h3>
 
-
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/MiYM01W7_RY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
