@@ -62,7 +62,7 @@ Please report any issues that you may experience after this to support@archer2.a
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Unplanned | Partial: Compute Nodes | 01/10/21 0952 | 01/10/21 1544 | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A power issue at a substation local to the Advanced Computing Facility (ACF) |
 | Planned | Partial: RDFaaS | 18/10/21 0900 | 18/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. /epsrc and /general filesystems. | Upgrade and reconfiguration of high speed switches |
-| Planned | Partial: RDFaaS | 20/10/21 0900 | 20/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. the /epsrc and /general filesystems. | Software upgrade of E1000 System which hosts the RDFaaS |
+| Planned | Partial: RDFaaS | 21/10/21 0900 | 21/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. the /epsrc and /general filesystems. | Software upgrade of E1000 System which hosts the RDFaaS |
 
 
 ## Maintenance Logs for previous periods
