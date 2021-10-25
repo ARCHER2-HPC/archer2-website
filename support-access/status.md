@@ -44,8 +44,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-10-25 0930 | 2021-10-26 TBC | No new jobs can start | Global links on interconnect have failed and restart required to resolve |  
-| Ongoing | Issue | 2021-10-04 0930 |  | ARCHER2 4-cabinet: work file system | Slowdown of work file system and IO errors | Under investigation | 
+| Ongoing | Issue | 2021-10-25 0930 BST | 2021-10-26 1700 BST | No new jobs can start | Global links on interconnect have failed and restart required to resolve |   
 
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
