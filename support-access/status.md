@@ -44,17 +44,12 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Ongoing | Issue | 2021-10-25 0930 | 2021-10-26 TBC | No new jobs can start | Global links on interconnect have failed and restart required to resolve |  
 | Ongoing | Issue | 2021-10-04 0930 |  | ARCHER2 4-cabinet: work file system | Slowdown of work file system and IO errors | Under investigation | 
 
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
 ## Recently Resolved Issues
-
-####  Slow running large jobs.
-
-We were aware of intermittent degraded performance on the High-speed Network, which lead to intermittent slow running of jobs (especially jobs with large node counts). This problem should have been resolved during a maintenance session of Thursday 30th September.
-Please report any issues that you may experience after this to support@archer2.ac.uk. 
-
 
 ## Maintenance Sessions:Quarter 4 2021 (1st Oct - 31st December 2021)
 
