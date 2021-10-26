@@ -44,7 +44,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-10-25 0930 BST | 2021-10-26 1700 BST | ARCHER2 4-cabinet | No new jobs can start | Global links on interconnect have failed and restart required to resolve |   
+| Resolved | Issue | 2021-10-25 0930 BST | 2021-10-26 1700 BST | ARCHER2 4-cabinet | No new jobs can start | Global links on interconnect have failed and restart required to resolve |   
 
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
@@ -54,7 +54,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Planned | Full  | 26/10/21 0900 BST | 26/10/21 1700 BST | ARCHER2 4-cabinet | Users will be unable to connect to the 4-cabinet system | Reboot of the High Speed Network (HSN) and move the 4Cabinet filesystem to a new protected power supply.  |
+| Planned | Full  | 26/10/21 0900 BST | 26/10/21 1700 BST | ARCHER2 4-cabinet | Users will be unable to run jobs and the /work filesystem will not be available | Reboot of the High Speed Network (HSN) and move the 4Cabinet filesystem to a new protected power supply. |
 | Planned | Partial: RDFaaS | 21/10/21 0900 | 21/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. the /epsrc and /general filesystems. | Software upgrade of E1000 System which hosts the RDFaaS |
 | Planned | Partial: RDFaaS | 18/10/21 0900 | 18/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. /epsrc and /general filesystems. | Upgrade and reconfiguration of high speed switches |
 | Unplanned | Partial: Compute Nodes | 01/10/21 0952 | 01/10/21 1544 | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A power issue at a substation local to the Advanced Computing Facility (ACF) |
