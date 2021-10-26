@@ -7,7 +7,7 @@ start_date: 2021-12-06 09:30:00
 end_date: 2021-12-07 16:30:00
 trainers: Juan Herrera EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://www.archer2.ac.uk/training/register/?course=211206-data-carpentry
 location: Online
 location_url:
