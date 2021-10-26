@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Data Carpentry
+title: Data Carpentry (full)
 banner: web_banners_05.jpg 
 human_dates: 6 - 7 December 2021  9:30 - 16:30  GMT
 start_date: 2021-12-06 09:30:00
