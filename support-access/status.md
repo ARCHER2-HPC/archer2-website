@@ -50,6 +50,11 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Recently Resolved Issues
 
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Resolved | Issue | 2021-10-25 0930 BST | 2021-10-26 1700 BST | ARCHER2 4-cabinet | No new jobs can start | Global links on interconnect have failed and restart required to resolve |   
+
+
 ## Maintenance Sessions:Quarter 4 2021 (1st Oct - 31st December 2021)
 
 | Status | Type | Start | End | System | User Impact | Reason |
