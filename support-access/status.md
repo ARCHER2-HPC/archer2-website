@@ -42,6 +42,10 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Known Issues
 
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Ongoing | Issue | 2021-10-28 1130 BST | 2021-10-28 tbc | ARCHER2 4-cabinet | Some external connections are unavailable such as git pull, pushes | Network changes at the ACF have caused issues. The University network team are working to resolve these. |   
+
 [Known Issues](https://docs.archer2.ac.uk/known-issues/) that our team are working to resolve but which may take some time to fix.
 
 ## Recently Resolved Issues
