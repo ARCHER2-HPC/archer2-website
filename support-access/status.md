@@ -42,9 +42,13 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Known Issues
 
+No current issues
+
+## Recently resolved Issues
+
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-11-01 0930 | 2021-11-01 1130 | ARCHER2 4-cabinet | There were 285 nodes down so queue times may be longer. The nodes have now been returned to service.  | A user job hit a known bug and brought down 256 nodes. The bug has been fixed in Shasta 1.5 which will be available on the full service. |   
+| Resolved | Issue | 2021-11-01 0930 | 2021-11-01 1130 | ARCHER2 4-cabinet | There were 285 nodes down so queue times may be longer. The nodes have now been returned to service.  | A user job hit a known bug and brought down 256 nodes. The bug has been fixed in Shasta 1.5 which will be available on the full service. |   
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
@@ -52,11 +56,11 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Planned | Full  | 26/10/21 0900 BST | 26/10/21 1700 BST | ARCHER2 4-cabinet | Users will be unable to run jobs and the /work filesystem will not be available | Reboot of the High Speed Network (HSN). The River (support) rack was moved to a new protected power supply. The 4cabinet filesystem move to a protected power supply will be completed next week when additional power supplies are available. |
-| Planned | Partial: RDFaaS | 21/10/21 0900 | 21/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. the /epsrc and /general filesystems. | Software upgrade of E1000 System which hosts the RDFaaS |
-| Planned | Partial: RDFaaS | 18/10/21 0900 | 18/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. /epsrc and /general filesystems. | Upgrade and reconfiguration of high speed switches |
-| Unplanned | Partial: Compute Nodes | 01/10/21 0952 | 01/10/21 1544 | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A power issue at a substation local to the Advanced Computing Facility (ACF) |
-| Planned | Partial: RDFaaS | 18/10/21 0900 | 18/10/21 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. /epsrc and /general filesystems. | Upgrade and reconfiguration of high speed switches |
+| Planned | Full  |2021-10-26 0900  |2021-10-26  1700  | ARCHER2 4-cabinet | Users will be unable to run jobs and the /work filesystem will not be available | Reboot of the High Speed Network (HSN). The River (support) rack was moved to a new protected power supply. The 4cabinet filesystem move to a protected power supply will be completed next week when additional power supplies are available. |
+| Planned | Partial: RDFaaS |2021-10-21  0900 | 2021-10-21  1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. the /epsrc and /general filesystems. | Software upgrade of E1000 System which hosts the RDFaaS |
+| Planned | Partial: RDFaaS | 2021-10-18 0900 | 2021-10-18 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. /epsrc and /general filesystems. | Upgrade and reconfiguration of high speed switches |
+| Unplanned | Partial: Compute Nodes | 2021-10-01 0952 | 2021-10-01 1544 | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A power issue at a substation local to the Advanced Computing Facility (ACF) |
+| Planned | Partial: RDFaaS | 2021-10-18 0900 | 2021-10-18 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. /epsrc and /general filesystems. | Upgrade and reconfiguration of high speed switches |
 
 
 
