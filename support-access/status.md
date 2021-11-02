@@ -50,6 +50,7 @@ No current issues
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Resolved | Issue | 2021-11-01 0930 | 2021-11-01 1130 | ARCHER2 4-cabinet | There were 285 nodes down so queue times may be longer. The nodes have now been returned to service.  | A user job hit a known bug and brought down 256 nodes. The bug has been fixed in Shasta 1.5 which will be available on the full service. |   
 
+
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
 ## Maintenance Sessions:Quarter 4 2021 (1st Oct - 31st December 2021)
