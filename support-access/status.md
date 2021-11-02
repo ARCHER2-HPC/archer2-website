@@ -44,7 +44,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-11-01 0930 | 2021-11-01 1130 | ARCHER2 4-cabinet | There were 285 nodes down so queue times may be longer. The nodes have now been returned to service.  | A user job hit a known bug and brought down 256 nodes. The bug has been fixed in Shasta 1.5 which will be available on the full service. |   
+| Resolved | Issue | 2021-11-01 09:30 GMT | 2021-11-01 11:30 GMT | ARCHER2 4-cabinet | There were 285 nodes down so queue times may be longer. The nodes have now been returned to service.  | A user job hit a known bug and brought down 256 nodes. The bug has been fixed in Shasta 1.5 which will be available on the full service. |   
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
