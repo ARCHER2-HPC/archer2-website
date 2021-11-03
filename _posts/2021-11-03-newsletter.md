@@ -30,7 +30,6 @@ Deadline for submission of TAs is 17 November 2021 16:00 and the closing date fo
 <https://www.archer2.ac.uk/news/2021/10/07/access-to-hpc.html>
 
 
-
 ## ARCHER2 for Software Developers
 
 Online 	29 - 30 November 2021 10:00 - 16:00 GMT 
