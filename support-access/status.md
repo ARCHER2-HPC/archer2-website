@@ -44,12 +44,13 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-11-03 1445 | TBC | ARCHER2 4-cabinet | The login-4c.archer2.ac.uk address is unreachable so logins via this address will fail. Users can use the address 193.62.216.1 instead.  | A network outage at the University of Edinburgh has caused issues with resolving the ARCHER2 login host names. |  
+
 
 ## Recently resolved Issues
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Resolved | Issue | 2021-11-03 1445 | 2021-11-03 1445 | ARCHER2 4-cabinet | The login-4c.archer2.ac.uk address is unreachable so logins via this address will fail. Users can use the address 193.62.216.1 instead.  | A short network outage at the University of Edinburgh caused issues with resolving the ARCHER2 login host names. |  
 | Resolved | Issue | 2021-11-01 0930 | 2021-11-01 1130 | ARCHER2 4-cabinet | There were 285 nodes down so queue times may be longer. The nodes have now been returned to service.  | A user job hit a known bug and brought down 256 nodes. The bug has been fixed in Shasta 1.5 which will be available on the full service. |   
 
 
