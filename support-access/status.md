@@ -44,7 +44,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-11-03 1445 | TBC | ARCHER2 4-cabinet | The login-4c.archer2.ac.uk address is unreachableso logins via this address will fail. Users can use the address 193.62.216.1 instead.  | A network outage at the University of Edinburgh has caused issues with resolving the ARCHER2 login host names. |  
+| Ongoing | Issue | 2021-11-03 1445 | TBC | ARCHER2 4-cabinet | The login-4c.archer2.ac.uk address is unreachable so logins via this address will fail. Users can use the address 193.62.216.1 instead.  | A network outage at the University of Edinburgh has caused issues with resolving the ARCHER2 login host names. |  
 
 ## Recently resolved Issues
 
