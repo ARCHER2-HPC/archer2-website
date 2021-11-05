@@ -42,7 +42,9 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Service Alerts
 
-No current alerts
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Ongoing | Issue | 2021-11-05 0800 |  | ARCHER2 4-cabinet: compute nodes | A large number of compute nodes are unavailable for jobs.  | A power incident in the Edinburgh area has caused a number of cabinets to lose power. |  
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
