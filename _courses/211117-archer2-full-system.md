@@ -2,7 +2,7 @@
 layout: course
 title: Introduction to the full ARCHER2 system 
 banner: web_banners_05.jpg
-human_dates: Wednesday 17th November 2021  15:00 - 16:00 BST
+human_dates: Wednesday 17th November 2021  15:00 - 16:00 
 start_date: 2021-11-17 15:00:00
 end_date: 2021-11-17 16:00:00
 trainers: Josephine Beech-Brandt EPCC and Andy Turner EPCC
