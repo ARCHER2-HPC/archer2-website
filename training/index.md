@@ -91,7 +91,8 @@ Individual links to course provide more details on the content and prerequisites
     </thead>
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date >= site.time" %}
-      {% for course in filtered_courses %}
+			{% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
+      {% for course in nothidden_courses %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
