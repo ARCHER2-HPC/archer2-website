@@ -15,7 +15,7 @@ Note that the full ARCHER2 system is not yet available to users. The current ARC
 
 ### Compute nodes
 
-| Nodes | 5,860 nodes: 5,568 standard memory, 292 high memory |
+| Nodes | 5,860 nodes: 5,276 standard memory, 584 high memory |
 | Processor | 2&times; AMD Zen2 7742, 2.25 GHz, 64-core |
 | Cores per node | 128 (2&times; 64-core processors) |
 | NUMA structure | 8 NUMA regions per node (16 cores per NUMA region) |
