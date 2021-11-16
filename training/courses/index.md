@@ -123,7 +123,7 @@ This introductory course aims to give a practical introduction to using GROMACS 
 
 *Course length: 1 day. Course level: introductory.*
 
-This introductory course aims to give a practical introduction to using GROMACS on HPC systems. GROMACS is a molecular dynamics package mainly designed for simulations of proteins, lipids, and nucleic acids. Lectures introducing the theory implemented in GROMACS will be interspersed by tutored practical sessions, with access to ARCHER2.
+This course is delivered in conjunction with NERC, with support from the ARCHER2 CSE team.
 
 #### Data Science on ARCHER2
 
