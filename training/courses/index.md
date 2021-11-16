@@ -123,7 +123,7 @@ This introductory course aims to give a practical introduction to using GROMACS 
 
 *Course length: 1 day. Course level: introductory.*
 
-This course is delivered in conjunction with NERC, with support from the ARCHER2 CSE team.
+The Met Office Unified Model is used for weather and climate prediction by forecasting centres worldwide. The Introduction to Unified Model course provides practical support for setting up and running experiments on this model, through a series of short lectures and hands-on workshops. This course is delivered in conjunction with NERC, with support from the ARCHER2 CSE team.
 
 #### Data Science on ARCHER2
 
