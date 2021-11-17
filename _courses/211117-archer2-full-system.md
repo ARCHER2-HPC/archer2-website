@@ -4,7 +4,7 @@ title: Introduction to the full ARCHER2 system
 banner: web_banners_05.jpg
 human_dates: Wednesday 17th November 2021  15:00 - 16:00 
 start_date: 2021-11-17 15:00:00
-end_date: 2021-11-17 16:00:00
+end_date: 2021-11-18 16:00:00
 trainers: Josephine Beech-Brandt EPCC and Andy Turner EPCC
 course_type: vt
 registration_status: 
@@ -25,6 +25,8 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 <section id="service">
+
+<!--
 
   <div class="row ">	
 
@@ -47,21 +49,22 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/Qy4irLLy00o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
 
-<!--
+
+
+
 
 <section id="service">
   <div class="container">
@@ -70,13 +73,13 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
+        <a class="ar2_linkbox ar2_linkbox-teal" href="https://docs.archer2.ac.uk/  ">
+          <strong>Documentation</strong><br/>
+          Differences between the 4-cabinet and full ARCHER2 systems, and full ARCHER2 User Documentation.
         </a>
       </div>
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
@@ -85,8 +88,8 @@ This online session is open to all. It will use the Blackboard Collaborate platf
           Download pdf of the presentation.
         </a>
       </div>
-										
+-->										
     </div>
   </div>
 </section>
--->
+
