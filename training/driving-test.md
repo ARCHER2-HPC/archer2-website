@@ -19,7 +19,7 @@ The Driving Test is intended for academics and non-academic researchers working 
 
 ## Take the ARCHER2 Driving Test
 
-The test will be available after the full ARCHER2 system becomes available.
+The test will be available early 2022 after the full ARCHER2 system becomes available.
 
 
 
