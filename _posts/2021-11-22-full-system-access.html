@@ -1,0 +1,79 @@
+---
+layout: post
+title: Introducing the ARCHER2 full system
+date: 2021-11-22 10:00:00
+author: Andy Turner (EPCC)
+tags: [blog] 
+categories: [news]
+---
+
+<p>The ARCHER2 full system was opened to users on the morning of Monday 22 November 2022. In this blog post I introduce the full system and its capabilities, and look forward to additional developments on the service in the future.</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<img src="/img/blog/2021-11-22_cabs1.jpg" alt="ARCHER2 cabinets" style="width: 50%; float: right;" />
+
+<p>For those who just want to get stuck in on the full system, here are the key points:</p>
+<ul>
+    <li>The full system has over 5× more nodes than the 4-cabinet system; some of these nodes have twice the amount of memory compared to standard nodes. This makes ARCHER2 one of the largest CPU-based supercomputers in the world.</li>
+    <li>The full system has data analysis nodes accessed via the Slurm scheduler; these can be used for serial processes, transferring and analysing data, long-running compilations, etc.</li>
+    <li>The software module system is slightly different on the full system and you may need to make some minor changes to workflows and job submission scripts from the 4-cabinet system.</li>
+    <li>The scheduler configuration is more flexible has more features; many job submission options will not need to be changed from the 4-cabinet system but it is worth reviewing the new limits and features as they might help you.</li>
+</ul>
+<p>In terms of accounts and resources:</p>
+<ul>
+    <li>You use the same username, password and SSH keys to access both the 4-cabinet and full systems, if you change your password or key, it changes on both systems.</li>
+    <li>Home and RDFaaS file systems are shared across both systems, work file systems are separate and not shared.</li>
+    <li>You have at least 30 days from the start of user access to the full system to copy your data from the 4-cabinet work file system to the full ARCHER2 work file systems.</li>
+    <li>Initially, usage on the full system will be uncharged.</li>
+    <li>Login to the full system at; <code>login.archer2.ac.uk</code>.</li>
+</ul>
+<p>We have prepared <a href="https://docs.archer2.ac.uk/archer2-migration/">a migration guide</a> to help users moving from the 4-cabinet system to the full system.</p>
+
+<h2 id="archer2-full-system-hardware">ARCHER2 full system hardware</h2>
+
+<p>The most obvious difference between the 4-cabinet system and the full system are the number of compute nodes available, the full system has a total of 5,860 compute nodes compared to 1,024 compute nodes on the 4-cabinet system. As there are 128 cores per node, this leads to just over a quarter of a million compute cores (750,080) cores on the system. This sounds like a large number because it is! ARCHER2 is currently #22 in the <a href="https://www.top500.org/lists/top500/list/2021/11/">Top500 list of supercomputers</a> in the world and the fifth largest CPU-based supercomputer in the world in terms of the Top500 performance measure, <a href="https://www.top500.org/project/linpack/">LINPACK</a>.</p>
+<p>The ARCHER2 full system uses the same processors that are on the 4-cabinet system: AMD EPYC<sup>TM</sup> 7742, 64-core, 2.25 Ghz. There are two of these processors per compute node.</p>
+<p>The interconnect is provided by the HPE Slingshot technology. There are two 100 Gbps interfaces per compute node and 16 nodes are connected to each switch with each node connected to two different switches. A dragonfly topology is used to connect the nodes together. This topology provides all-to-all electrical connections between all compute nodes in a group (the Rank-0 network); with each group comprising of 128 nodes (8 switches). There are two groups per cabinet and the full system has 23 cabinets (46 groups). Groups are connected together in an all-to-all way by active optical network (the Rank-1 network)
+    
+<img width="200" alt="Exploded view of HPE Cray EX" src="/img/blog/2021-11-22_exploded.jpg" style="width: 65%; display: block;" /></p>
+
+<p>In terms of storage, the ARCHER2 full system shares the four home file systems (1 PB total) with the 4-cabinet system. The working storage for the calculations running on ARCHER2 is provided by three separate Lustre parallel file systems (each 3.6 PB). Each project (and, hence, user account) has access to one of these file systems. The default striping is set to 1 on these file systems as experience has shown that this is the best setting for the many use cases on the system. However, if you are performing large parallel IO operations (e.g. via parallel HDF5, NetCDF or via MPIIO) or you are working with very large files then you may see performance benefits in increasing the stripe count to a higher number. For information on tuning the IO performance on Lustre see the <a href="https://docs.archer2.ac.uk/user-guide/io/">IO</a> section of the User Guide.</p>
+
+<p>More information on the ARCHER2 storage can be found in the <a href="https://docs.archer2.ac.uk/user-guide/data/">Data management and transfer</a> section of the User Guide.</p>
+
+<h2 id="software-on-archer2">Software on ARCHER2</h2>
+
+<p>The software on the full system represents a large upgrade to that available on the 4-cabinet system, particularly in terms of system software. The underlying system software is provided by Shasta 1.4 (compared to 1.3 on the 4-cabinet system) and the interconnect software version is Slingshot 1.6 (compared to 1.3 on the 4-cabinet system). Although this looks like a small number of minor version upgrades, both of these updates represent a huge amount of work by the HPE and EPCC teams over the past year to investigate issues, feedback results and implement improvements. In addition to these changes to the system software, the local HPE and EPCC teams in Edinburgh have made a large number of improvements to the local configuration on top of the base software to make sure the ARCHER2 full system meets the requirements of the user community and allow us to offer a high-quality service.</p>
+<p>As well as the base software that supports the system, the full system offers more recent versions of the HPE Cray Programming Environment (CPE) than are currently available on the 4-cabinet system. The default version of the CPE on the full system is 21.04 (April 2021) which is a close as possible to the versions available on the 4-cabinet system to smooth the user transition process but the much more recent 21.09 CPE is also available on the full system which offers a number of potential improvements in terms of bug fixes and performance so we do recommend that users use the most recent version where possible. You can find information on switching to the more recent 21.09 CPE 
+<a href="https://docs.archer2.ac.uk/user-guide/dev-environment/#switching-to-a-different-hpe-cray-programming-environment-release">in the ARCHER2 User Guide</a>
+</p>
+
+<p>You may also notice that the software module environment has changed on the full system. It is now provided using <a href="https://lmod.readthedocs.io/">Lmod</a> rather than TCL Environment Modules. The Lmod system provides more flexibility and a more structured approach to providing software than the TCL Environment Modules. Most of the <code>module</code> commands in Lmod are the same as you are used to from the 4-cabinet system but there are some changes, particularly around how you load different compiler environments and how you access libraries that are dependent on other libraries (e.g. NetCDF is dependent on HDF5 and you cannot even see the NetCDF modules using <code>module avail</code> until you have loaded appropriate the HDF module). More information on using Lmod can be found in the <a href="https://docs.archer2.ac.uk/user-guide/sw-environment/">Software environment</a> and <a href="https://docs.archer2.ac.uk/user-guide/dev-environment/">Application development environment</a> sections of the ARCHER2 User Guide.</p>
+
+<p>Finally, in this section, the ARCHER2 Computational Science and Engineering (CSE) team at EPCC have been working hard over the past few weeks to install, test and setup the modelling/simulation software and software libraries on the full system. You may find that some older versions of these software and libraries that are available on the 4-cabinet system are not available on the full system. As always, we have documented the compilation/installation steps for this <a href="https://github.com/hpc-uk/build-instructions">in a Github repository</a>.</p>
+
+<h2 id="scheduler-layout">Scheduler layout</h2>
+
+<p>With the larger number of compute nodes available and the addition of the large memory nodes and data analysis nodes the Slurm scheduler configuration has been updated to allow users to access the new features and to provide more flexibility in the way people can use the higher number of compute nodes available.</p>
+
+<p>We have added the <code>highmem</code> partition and QoS to allow users to request the high memory nodes. However, we do want to allow users to be able to run up to the full node count on the system, so the <code>standard</code> partition contains both the standard memory nodes and the high memory nodes. Jobs that request the <code>standard</code> partition are setup to preferentially select standard memory nodes where at all possible to leave the high memory nodes free for jobs that request them through the <code>highmem</code> partition but to still allow jobs to run up to the full size of the system if requested.</p>
+
+<p>The scheduler now supports a wider range of job sizes (from 1 to 5860 compute nodes, 128 to 750,080 compute cores). The new <code>taskfarm</code> QoS aims to meet the requirement for some workflows that want to make use of the capacity of the full system to run larger numbers of smaller jobs. The <code>short</code> QoS for development and testing has been expanded to allow jobs up to 32 nodes. Further details of the scheduler layout can be found in the <a href="https://docs.archer2.ac.uk/user-guide/scheduler/">Running jobs on ARCHER2</a> section of the User Guide.</p>
+<p>The scheduler configuration and layout will be kept under continual review by the service along with usage statistics of various features. We have already received and incorporated feedback from the user community in the design of the initial layout and will be continually looking for opportunities to improve the setup to meet the needs of the community.</p>
+
+<p>The other new feature of the scheduler setup is the <code>serial</code> partition and QoS that allows users to run on the data analysis nodes. These nodes are intended to be used for tasks that require more compute and/or more memory than are available on the login nodes to users or that need to run for such a long time that keeping an interactive terminal open is impractical. Some examples of use include: memory/compute intensive data analysis and data transformation, long running data transfer from external systems and long running compilations. Unlike compute nodes, these nodes can be shared by multiple users at any one time and have all file systems available (home, work and RDFaaS). The shared nature of these nodes mean that users can request cores <em>and</em> memory in their job submission scripts. For more information see the <a href="https://docs.archer2.ac.uk/user-guide/analysis/">Data analysis</a> section of the User Guide.</p>
+
+<h2 id="future-features">Future features</h2>
+
+<p>The major future feature that has yet to be enabled on the ARCHER2 system is the solid state storage system that provides a parallel file system with different performance characteristics to the standard work file systems which are based on spinning disks. Further work is needed with this component in order to integrate it with the Slurm scheduler and make it available to users. Making this storage available is one of the high priority tasks for HPE supported by EPCC following the start of service.</p>
+
+<p>In addition to this additional hardware we are also expecting further releases of the Shasta system software, the Slingshot software and CPE that will provide significant new features to the ARCHER2 service. We are also working with HPE to evaluate the provision of CPE in a containerised environment to simplify the process of evaluating new CPE releases by users and to enable different research workflows. We have also started to look closely at the use of <a href="https://spack.readthedocs.io/">Spack</a> to provision software on ARCHER2 as this is expected to work much better with the new CPE setup on the full system compared to the 4-cabinet system.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The full ARCHER2 system provides new capabilities for the user community due to its sheer size. In addition to the increase in resource available, a number of changes to software and system configuration make the system more performant and flexible for users.</p>
+
+<p>As always, if you have any questions on ARCHER2, please do not hesitate to get in touch with us via the <a href="/support-access/servicedesk.html">service desk</a>.</p>
+
+<img src="/img/blog/2021-11-22_cabs2.jpg" alt="ARCHER2 cabinets" />
