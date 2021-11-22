@@ -4,13 +4,38 @@ title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
+## The full system is scheduled to open at 1000 on Monday 22nd November
 
-- [Current System Load](#current-system-load)
+- [Current System Load - Full System](#current-system-load---full-system)
+- [Current System Load - 4-cabinet](#current-system-load---4-cabinet)
 - [Known Issues](#known-issues)
 - [Recently Resolved Issues](#recently-resolved-issues)
 - [Maintenance Sessions](#maintenance-sessions)
 - [System Status Mailings](#system-status-mailings)
 - [FAQ](#faq)
+
+
+
+
+## Current System Load - Full System
+
+The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
+of the status types is provided below the plot.
+
+![image](https://safe.epcc.ed.ac.uk/Graphs/archer2.png)
+{: .img-center style="width: 80%" 
+alt="ARCHER2 Node Status over time" 
+title="ARCHER2 Node Status over time"}
+
+- *alloc*: Nodes running user jobs
+- *idle*: Nodes available for user jobs
+- *resv*: Nodes in reservation and not available for standard user jobs
+- *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
+- *mix*: Nodes in multiple states 
+
+Note: the long running reservation visible in the plot corresponds to the *short* QoS which
+is used to support small, short jobs with fast turnaround time.
+
 
 ## Current System Load - 4-cabinet
 
@@ -31,26 +56,7 @@ title="ARCHER2 Node Status over time"}
 Note: the long running reservation visible in the plot corresponds to the *short* QoS which
 is used to support small, short jobs with fast turnaround time.
 
-<!--
-## Current System Load - Full System
 
-The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
-of the status types is provided below the plot.
-
-![image](https://safe.epcc.ed.ac.uk/Graphs/archer2.png)
-{: .img-center style="width: 80%" 
-alt="ARCHER2 Node Status over time" 
-title="ARCHER2 Node Status over time"}
-
-- *alloc*: Nodes running user jobs
-- *idle*: Nodes available for user jobs
-- *resv*: Nodes in reservation and not available for standard user jobs
-- *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
-- *mix*: Nodes in multiple states 
-
-Note: the long running reservation visible in the plot corresponds to the *short* QoS which
-is used to support small, short jobs with fast turnaround time.
--->
 
 ## Name change for ARCHER2 4 Cabinet System
 
