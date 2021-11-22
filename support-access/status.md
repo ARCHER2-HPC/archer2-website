@@ -4,7 +4,7 @@ title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
-## The full system is scheduled to open at 1000 on Monday 22nd November
+## The full system opened at 1000 on Monday 22nd November
 
 - [Current System Load - Full System](#current-system-load---full-system)
 - [Current System Load - 4-cabinet](#current-system-load---4-cabinet)
