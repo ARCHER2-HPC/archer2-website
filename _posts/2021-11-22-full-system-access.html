@@ -36,7 +36,8 @@ categories: [news]
 
 <p>The interconnect is provided by the HPE Slingshot technology. There are two 100 Gbps interfaces per compute node and 16 nodes are connected to each switch with each node connected to two different switches. A dragonfly topology is used to connect the nodes together. This topology provides all-to-all electrical connections between all compute nodes in a group (the Rank-0 network); with each group comprising of 128 nodes (8 switches). There are two groups per cabinet and the full system has 23 cabinets (46 groups). Groups are connected together in an all-to-all way by active optical network (the Rank-1 network)
     
-<img width="200" alt="Exploded view of HPE Cray EX" src="/img/blog/2021-11-22_exploded.jpg" style="width: 65%; display: block;" /></p>
+<img width="200" alt="Exploded view of HPE Cray EX (image credit HPE)" src="/img/blog/2021-11-22_exploded.jpg" style="width: 65%; display: block;" /><br />
+(Image credit: HPE)</p>
 
 <p>In terms of storage, the ARCHER2 full system shares the four home file systems (1 PB total) with the 4-cabinet system. The working storage for the calculations running on ARCHER2 is provided by three separate Lustre parallel file systems (each 3.6 PB). Each project (and, hence, user account) has access to one of these file systems. The default striping is set to 1 on these file systems as experience has shown that this is the best setting for the many use cases on the system. However, if you are performing large parallel IO operations (e.g. via parallel HDF5, NetCDF or via MPIIO) or you are working with very large files then you may see performance benefits in increasing the stripe count to a higher number. For information on tuning the IO performance on Lustre see the <a href="https://docs.archer2.ac.uk/user-guide/io/">IO</a> section of the User Guide.</p>
 
