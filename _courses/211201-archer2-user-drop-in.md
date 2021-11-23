@@ -7,7 +7,7 @@ start_date: 2021-12-01 14:00:00
 end_date: 2021-12-01 16:00:00
 trainers: Julien Sindt, Juan Rodriguez Herrera
 course_type: vt
-registration_status: hidden
+registration_status: 
 registration_url:
 location: Online
 location_url:
@@ -16,7 +16,7 @@ prace_course: false
 
 We ran a webinar last week to introduce the [ARCHER2 full system](https://www.archer2.ac.uk/training/courses/211117-archer2-full-system/) and the recording and slides from that webinar are available. 
 
-Now that users have access to the ARCHER2 full service, we will be running a drop-in session on Wednesday 1st December from 14:00-16:00, where members of the ARCHER2 support team will be at hand to answer questions about the ARCHER2 full system and transferring data from the 4-cabinet system to the full system. 
+Now that users have access to the ARCHER2 full service, we will be running a drop-in session on Wednesday 1st December from 14:00-16:00, where members of the ARCHER2 support team will be on hand to answer questions about the ARCHER2 full system and transferring data from the 4-cabinet system to the full system. 
 
 We're aware that switching to a new system can be complicated, and we will be on-hand throughout this webinar to answer questions, provide advice, and hear feedback from the ARCHER2 community about this process.
 
