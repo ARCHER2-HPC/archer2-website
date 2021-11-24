@@ -133,8 +133,8 @@ Full details and registration  <https://www.archer2.ac.uk/training/#upcoming-tra
 
 ## Upcoming ARCHER2 Training
 
-- Introduction to the full ARCHER2 system, Webinar, Wednesday 17th November 2021 15:00 - 16:00 
 - ARCHER2 for Software Developers, Online, 29 - 30 November 2021 10:00 - 16:00 
+- ARCHER2 user drop-in session, Online VT, Wednesday 1st December 2021 14:00 - 16:00 
 - ARCHER2 for Package Users, Online, 2 December 2021 10:00 - 16:00
 - Message-passing Programming with MPI, Online,  always-open self-service course  
 - Shared Memory Programming with OpenMP, Online, always-open self-service course
