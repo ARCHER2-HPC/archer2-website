@@ -27,6 +27,8 @@ If your ARCHER2 budget is zero or negative you will see an error:
 
 You can check which budgets you have available and whether they have a positive value, either by checking in SAFE or on ARCHER2 - see <https://docs.archer2.ac.uk/faq/#checking-budgets> for details.
 
+Please contact [support@archer2.ac.uk](mailto:support@archer2.ac.uk) if you require any assistance
+
 
 ## Computing Insight UK 2021
 
