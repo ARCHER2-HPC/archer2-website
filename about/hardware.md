@@ -5,7 +5,7 @@ summary: Information on ARCHER2 hardware and software
 banner: web_banners_02.jpg
 ---
 
-The full ARCHER2 system is an HPE Cray EX supercomputing system with an estimated peak performance of 28 Pflop/s. The machine has 5,860 compute nodes, each with dual AMD EPYC<sup>TM</sup> 7742 64-core processors at 2.2GHz, giving 750,080 cores in total. 
+The full ARCHER2 system is an HPE Cray EX supercomputing system with an estimated peak performance of 28 Pflop/s. The machine has 5,860 compute nodes, each with dual AMD EPYC<sup>TM</sup> 7742 64-core processors at 2.25GHz, giving 750,080 cores in total. 
 
 ARCHER2 is capable, on average, of over eleven times the science throughput of its predecessor, [ARCHER](http://www.archer.ac.uk). This estimate is based on benchmarks of five of the most heavily used research software packages on ARCHER. As with all new systems, the relative speedups over ARCHER vary by software and problem size. The research software applications used for the benchmarking evaluation were to improve science throughput by the following factors: 8.7x for CP2K, 9.5x for OpenSBLI, 11.3x for CASTEP, 12.9x for GROMACS, and 18.0x for the HadGEM3 climate model.
 
@@ -43,7 +43,7 @@ The 4-cabinet ARCHER2 system has been available to users since early 2021.
 ### Compute nodes
 
 | Nodes | 1,024 nodes |
-| Processor | 2&times; AMD Zen2 7742, 2.25 GHz, 64-core |
+| Processor | 2&times; AMD EPYC<sup>TM</sup> 7742, 2.25 GHz, 64-core |
 | Cores per node | 128 (2&times; 64-core processors) |
 | NUMA structure | 8 NUMA regions per node (16 cores per NUMA region) |
 | Memory per node | 256 GiB |
@@ -52,7 +52,7 @@ The 4-cabinet ARCHER2 system has been available to users since early 2021.
 
 ### Login nodes
 
-| Processor | 2&times; AMD Zen2 7742, 2.25 GHz, 64-core |
+| Processor | 2&times; AMD EPYC<sup>TM</sup> 7742, 2.25 GHz, 64-core |
 | Cores per node | 128 (2&times; 64-core processors) |
 | NUMA structure | 8 NUMA regions per node (16 cores per NUMA region) |
 | Memory per node | 512 GiB |
