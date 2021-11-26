@@ -67,6 +67,11 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 - login-4c.archer2.ac.uk - ARCHER2 4 Cabinet Service 
 - login.archer2.ac.uk – Full ARCHER2 Service (when the service opens)
 
+## Thursday 25th November: Default Module change for cp2k
+
+The default module for cp2k was changed from 8.1 to 8.2 inadvertently. We have now restored 8.1 as the default. 
+Please contact the Service Desk, support@archer2.ac.uk if you require any assistance. 
+
 ## Service Alerts
 
 No current service alerts.
