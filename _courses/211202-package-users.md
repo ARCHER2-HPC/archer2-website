@@ -40,7 +40,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+The timetable can be found on the *Course materials* website linked below.
 
 <section id="service">
 
