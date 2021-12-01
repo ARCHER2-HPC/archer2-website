@@ -147,7 +147,7 @@ UKRI awards in other research areas may need to be included as real costs.
 
 For access as part of applications from non-UKRI funded researchers please
 [contact the EPSRC Research Infrastructure team](mailto:researchinfrastructure@epsrc.ukri.org) in the first instance to 
-discuss your requirements and plans. Please note that these discussions may take some time, amd UKRI cannot guarantee that an agreement will be reached. 
+discuss your requirements and plans. Please note that these discussions may take some time, and UKRI cannot guarantee that an agreement will be reached. 
 
 <!-- TODO: add industry access details -->
 
