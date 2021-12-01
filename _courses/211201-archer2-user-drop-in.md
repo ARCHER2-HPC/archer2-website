@@ -25,6 +25,59 @@ Drop in at any point during the session - it is not expected to attend the full 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
+## Summary of the Questions asked and Answers given
+
+Q. I have an issue using `module restore PrgEnv-gnu`
+
+A.  On the full system you should use `module load PrgEnv-gnu` instead
+
+More info: <https://docs.archer2.ac.uk/user-guide/sw-environment/>
+
+---
+
+Q.  How do I run on the full system while it is uncharged - my budget was all used on the 4-cab
+
+A.  Ask the PI for enough extra CUs to give your budget a positive balance and then you can run on the full system during the uncharged period using your usual account code.
+
+More info: <https://docs.archer2.ac.uk/archer2-migration/account-migration/#how-much-resource-will-my-project-have-on-archer2-full-system>
+
+---
+
+Q.  I have an issue using the PETSc version I compiled on the 4-cab - I have copied it to the /home directory on the full system
+
+A.  You must have it on your /work directory as only the /work directory is visible to the compute nodes.  
+You may need to recompile on the full system.
+If possible, use the centrally installed version `module load petsc`
+
+More info: <https://docs.archer2.ac.uk/software-libraries/petsc/>
+	
+---
+
+Q.  My code used to take just a few minutes to write the output on ARCHER.  It takes several hours on ARCHER2 - why is file-per-process IO so much slower, and how can I fix this?
+
+A. ARCHER2 nodes are much bigger than on ARCHER1 so file-per-process will generate a *lot* of files very quickly
+
+This, in turn, can overload the filesystem
+
+It would be difficult to diagnose this without seeing the code. If the problem persists, I would recommend submitting a query to support@archer2.ac.uk to ask one of the support team to have a look at your code.
+
+More info: <https://docs.archer2.ac.uk/user-guide/io/>
+
+---
+
+Q.  Is it possible to obtain a greater quota on /work for some large runs
+
+A.  Email the service desk explaining why you need the extra quota, how much you need, and for how long, and we will do our best to accommodate you.
+
+Contact the desk: [support@archer2.ac.uk](mailto: support@archer2.ac.uk)
+
+---
+
+Thanks to all who took part in the session
+
+
+
+<!--
 
 <section id="service">
 
@@ -49,7 +102,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
-
+-->
 
 
 <!--
