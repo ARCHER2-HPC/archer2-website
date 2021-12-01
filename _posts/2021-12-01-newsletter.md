@@ -10,7 +10,7 @@ categories: [news]
 
 
 - [ARCHER2 User drop-in session, Online, 1 December 2021 14:00 - 16:00](#archer2-user-drop-in-session)
-- [Invitation to request a copy of the ARCHER2 Calander 2022](#invitation-to-request-a-copy-of-the-archer2-calander-2022)
+- [Invitation to request a copy of the ARCHER2 Calendar 2022](#invitation-to-request-a-copy-of-the-archer2-calendar-2022)
 - [Efficient Parallel IO on ARCHER2, Online 11 January 2022 09:30 - 17:00](#efficient-parallel-io-on-archer2)
 - [ARCHER2 for Package Users, Online, 2 December 2021 10:00 - 16:00](#archer2-for-package-users)
 - [Data Transfer of /work - a reminder](#data-transfer-of-work---a-reminder)
@@ -33,11 +33,11 @@ Drop in at any point during the session - it is not expected to attend the full 
 Full details and join link <https://www.archer2.ac.uk/training/#upcoming-training>
 
 
-## Invitation to request a copy of the ARCHER2 Calander 2022
+## Invitation to request a copy of the ARCHER2 Calendar 2022
 
 <a href="https://forms.office.com/r/6Ketkyjq0m"><img src="/img/blog/211201-calendar.jpg" alt="ARCHER2 calendar" style="width: 30%; float: right;" /></a>
 
-We are delighted to announce the return of the ARCHER2 Calander for 2022 after we were unable to produce one last year. If you would like to receive a copy, posted right to your desk, please just fill in the [request form](https://forms.office.com/r/6Ketkyjq0m)
+We are delighted to announce the return of the ARCHER2 Calendar for 2022 after we were unable to produce one last year. If you would like to receive a copy, posted right to your desk, please just fill in the [request form](https://forms.office.com/r/6Ketkyjq0m)
 
 Copies are limited so do please sign up soon to avoid disappointment.
 
