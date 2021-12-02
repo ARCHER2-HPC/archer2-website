@@ -7,7 +7,7 @@ start_date: 2021-12-02 10:00:00
 end_date: 2021-12-02 16:00:00
 trainers: Andy Turner EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=211202-package-users 
 location: Online
 location_url:
@@ -91,7 +91,7 @@ The timetable can be found on the *Course materials* website linked below.
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -110,7 +110,7 @@ The timetable can be found on the *Course materials* website linked below.
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
