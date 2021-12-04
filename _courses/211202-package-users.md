@@ -74,19 +74,33 @@ The timetable can be found on the *Course materials* website linked below.
 		
 		
 					
-
-
-<!-- 		
+ 		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/tdVjbgNS_js" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+<h3>Session 2</h3>
 
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Wz9LOkTmpM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/RRapyyg8m14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Session 4</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/d6-hQZsdmOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
