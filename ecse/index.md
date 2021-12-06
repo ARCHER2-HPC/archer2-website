@@ -38,12 +38,14 @@ Through a series of regular calls, Embedded CSE (eCSE) support provides funding 
 
 The RSE may be based at the institution of the PI, at a third party institution, or can include staff from the centralised CSE support team, or the project may use a mixture of the above.
 
+## Upcoming eCSE Calls
+
 A timetable of recent, current and upcoming calls can be found [here](calls/timetable.html).
 
 
 ## Current Call Information
 
-The 5th ARCHER2 eCSE call (ARCHER2 eCSE05) opened on the **7 Sep 2021**. The deadline for submitting documents for technical evaluations is **16:00 on 5 Oct 2021**, with the final deadline for proposal submission being **16:00 on 26 Oct 2021**.
+The 6th ARCHER2 eCSE call (ARCHER2 eCSE06) opened on the **7 Dec 2022**. The deadline for submitting documents for technical evaluations is **16:00 on 22 Feb 2022**, with the final deadline for proposal submission being **16:00 on 15 Mar 2022**.
 
 Further details on the [eCSE Calls page](calls/).
 
