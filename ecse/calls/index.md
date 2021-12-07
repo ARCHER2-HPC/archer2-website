@@ -5,14 +5,14 @@ summary: Details of open calls
 banner: web_banners_06.jpg
 ---
 
-<img src="eCSE05-timeline.png" alt="eCSE05 Timeline"
-	title="eCSE05 Timeline" width="925"/>
+<img src="eCSE06-timeline.png" alt="eCSE06 Timeline"
+	title="eCSE06 Timeline" width="925"/>
 	
 A timetable of recent, current and upcoming calls can be found [here](timetable.html).
 
-### The 5th ARCHER2 eCSE call
+### The 6th ARCHER2 eCSE call
 
-The 5th ARCHER2 eCSE call (ARCHER2 eCSE05) opened on the 7 September 2021. The deadline for submitting documents for technical evaluations is **16:00 on 5 October 2021**, with the final deadline for proposal submission being **16:00 on 26 October 2021**.
+The 6th ARCHER2 eCSE call (ARCHER2 eCSE06) opened on the 7 December 2021. The deadline for submitting documents for technical evaluations is **16:00 on 22 February 2022**, with the final deadline for proposal submission being **16:00 on 15 March 2022**.
 
 Through a series of regular calls, Embedded CSE (eCSE) support
 provides funding to the ARCHER2 user community to develop software in
@@ -22,21 +22,6 @@ Funding will enable the employment of a Research Software Engineer
 (RSE) to work specifically on the relevant software to enable new
 features or improve the performance of the code. Proposals may request
 effort from between 1 and 12 person months (inclusive).
-
-### ARCHER2 Early Career eCSE Panel Observers call
-
-The eCSE Panel Meeting is the meeting where eCSE proposals are
-reviewed and decisions are made on which proposals to fund. As part of
-our commitment to encouraging and developing Early Career Researchers,
-we are offering a small number of places to such researchers to attend
-the eCSE panel meeting as Early Career Observers. The aim is to give
-Early Career Researchers a better insight into this competitive
-selection process, to assist them in the preparation of future funding
-proposals.
-
-The deadline for applying to attend the panel meeting as an observer
-is 16:00 on 5 October 2021 and details of the call are given
-[here](../observers/).
 
 ### Application process and guidance for the eCSE call
 
@@ -61,10 +46,10 @@ is made clear in the proposal. Please see the guidance document for
 further information about this.
 
 Please follow the links here for [the guidance for submitting a
-proposal](ARCHER2_eCSE05_ApplicationGuidance.pdf) to this call, along
+proposal](ARCHER2_eCSE06_ApplicationGuidance.pdf) to this call, along
 with [the technical evaluation
-form](ARCHER2_eCSE05_TechnicalEvaluation.docx) and [the project
-proposal template](ARCHER2_eCSE05_ProposalTemplate.docx). Each call
+form](ARCHER2_eCSE06_TechnicalEvaluation.docx) and [the project
+proposal template](ARCHER2_eCSE06_ProposalTemplate.docx). Each call
 has its own guidance document and associated forms. Please ensure that the
 correct guidance and forms are used for this call.
 
@@ -138,7 +123,7 @@ upcoming training course can be found [here](../../training/).
 ### Application and Review Process
 
 Information and guidelines on how to apply for eCSE funding can be
-found [here](ARCHER2_eCSE05_ApplicationGuidance.pdf). Proposals
+found [here](ARCHER2_eCSE06_ApplicationGuidance.pdf). Proposals
 undergo a two-stage process. A technical evaluation is performed first
 with completed forms being passed back to applicants in time for
 including in the final submission. After final submission, all
@@ -147,10 +132,10 @@ forms, will then be passed to the review panel who will make decisions
 on ranking and any award of funding.
 
 The eCSE technical evaluation form can be found
-[here](ARCHER2_eCSE05_TechnicalEvaluation.docx) and should be
+[here](ARCHER2_eCSE06_TechnicalEvaluation.docx) and should be
 submitted to the ARCHER service desk
 [support@archer2.ac.uk](mailto:support@archer2.ac.uk). The proposal
-template can be found [here](ARCHER2_eCSE05_ProposalTemplate.docx) and
+template can be found [here](ARCHER2_eCSE06_ProposalTemplate.docx) and
 should be submitted via the [ARCHER2
 SAFE](https://safe.epcc.ed.ac.uk/) together with the completed
 Technical Evaluation document.
@@ -194,11 +179,11 @@ The ARCHER2 CSE team can be contacted via the ARCHER2 service desk [support@arch
 
 ### Links and documents
 
-* [Application Guidance](ARCHER2_eCSE05_ApplicationGuidance.pdf)
+* [Application Guidance](ARCHER2_eCSE06_ApplicationGuidance.pdf)
 
-* [Technical evaluation form](ARCHER2_eCSE05_TechnicalEvaluation.docx)
+* [Technical evaluation form](ARCHER2_eCSE06_TechnicalEvaluation.docx)
 
-* [Project Proposal template](ARCHER2_eCSE05_ProposalTemplate.docx)
+* [Project Proposal template](ARCHER2_eCSE06_ProposalTemplate.docx)
 
 * [eCSE projects funded](../panels/)
 
