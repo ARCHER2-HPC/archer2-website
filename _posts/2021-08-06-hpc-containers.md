@@ -109,7 +109,7 @@ There are however a couple of preparatory steps. The first of these obtains the 
 ARCHER2, the `bindpaths.lst` file contains the following paths.
 
 ```
-/work/y07/shared,/opt/cray,/usr/lib64:/usr/lib64/host
+/work/y07/shared,/opt/cray,/usr/lib64:/usr/lib64/host,/etc/libibverbs.d
 ```
 
 The second step gathers the environment settings, again, held within the container; these are specific to particular combination of HPC host,
@@ -125,7 +125,7 @@ LAPACK_LIBRARIES=${BLAS_LIBRARIES}
 LD_LIBRARY_PATH=${FFTW_ROOT}/lib:${LIBSCI_ROOT}/lib:${MPI_ROOT}/lib
 LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/opt/cray/pe/lib64:/opt/cray/libfabric/1.11.0.0.233/lib64
 LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/lib64/host:/usr/lib64/host/libibverbs
-LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu/libibverbs:/.singularity.d/libs
+LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/lib/x86_64-linux-gnu:/.singularity.d/libs
 ...
 ```
 
