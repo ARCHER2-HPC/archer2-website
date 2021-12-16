@@ -69,7 +69,9 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Service Alerts
 
-No current service alerts.
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Ongoing | Issue | 2021-12-16 0400 |  | ARCHER2 full system: Slurm and outgoing SSH | Slurm commands will not work. Outgoing SSH connections will not work. | Slurm and DNS failures on the system are under investigation. |
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
