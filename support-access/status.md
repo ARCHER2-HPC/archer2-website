@@ -69,9 +69,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Service Alerts
 
-| Status | Type | Start | End | System | User Impact | Reason |
-| ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-12-16 0400 |  | ARCHER2 full system: Slurm and outgoing SSH | Slurm commands will not work. Outgoing SSH connections will not work. | Slurm and DNS failures on the system are under investigation. |
+No current service alerts.
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
@@ -79,6 +77,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Resolved | Issue | 2021-12-16 0405 | 2021-12-16 0941 | ARCHER2 full system: Slurm and outgoing SSH | Slurm commands did not work. Outgoing SSH connections did not work. Running jobs continued without issue. | The ARCHER2 spine switch network became unresponsive. |
 | Resolved | Issue | 2021-11-14 0800 | 2021-11-15 0940 | ARCHER2 4-cabinet: status monitoring | The load chart on the website is missing some historical data. | An issue on one of the login nodes caused usage data to not be collected. |
 | Resolved | Issue | 2021-11-05 0800 | 2021-11-05 1130 | ARCHER2 4-cabinet: compute nodes | A large number of compute nodes were unavailable for jobs.  | A power incident in the Edinburgh area caused a number of cabinets to lose power. |  
 | Resolved | Issue | 2021-11-03 1445 | 2021-11-03 1445 | ARCHER2 4-cabinet | The login-4c.archer2.ac.uk address is unreachable so logins via this address will fail. Users can use the address 193.62.216.1 instead.  | A short network outage at the University of Edinburgh caused issues with resolving the ARCHER2 login host names. |  
