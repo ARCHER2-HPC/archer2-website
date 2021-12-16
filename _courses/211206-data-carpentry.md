@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Data Carpentry (full)
+title: Data Carpentry 
 banner: web_banners_05.jpg 
 human_dates: 6 - 7 December 2021  9:30 - 16:30  GMT
 start_date: 2021-12-06 09:30:00
@@ -65,22 +65,39 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  	</div>
 		
 		
-					
+			
 
 
-<!-- 		
+ 		
 <h2><a name="videos">Videos</a></h2>
 
-<h3>Session 1</h3>
+<h3>Day 1 Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/nse7wXZTqlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+
+<h3>Day 1 Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/JcK19kp4y8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
+<h3>Day 2 Session 1</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/i0g13Z24Tc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Day 2 Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/t_8dcr12fK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
  
