@@ -69,9 +69,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Service Alerts
 
-| Status | Type | Start | End | System | User Impact | Reason |
-| ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2021-12-20 13:00 | - | ARCHER2 4-cabinet: Slurm  | Slurm slowdown - slurm being rebooted at 14:00 | Slurm slowdown |
+No current alerts.
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
@@ -79,6 +77,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Resolved | Issue | 2021-12-20 13:00 | 2021-12-20 14:12 | ARCHER2 4-cabinet: Slurm  | Slurm slowdown - slurm rebooted at 14:00. Running jobs continued without issue. | Slurm slowdown |
 | Resolved | Issue | 2021-12-16 0405 | 2021-12-16 0941 | ARCHER2 full system: Slurm and outgoing SSH | Slurm commands did not work. Outgoing SSH connections did not work. Running jobs continued without issue. | The ARCHER2 spine switch network became unresponsive. |
 | Resolved | Issue | 2021-11-14 0800 | 2021-11-15 0940 | ARCHER2 4-cabinet: status monitoring | The load chart on the website is missing some historical data. | An issue on one of the login nodes caused usage data to not be collected. |
 | Resolved | Issue | 2021-11-05 0800 | 2021-11-05 1130 | ARCHER2 4-cabinet: compute nodes | A large number of compute nodes were unavailable for jobs.  | A power incident in the Edinburgh area caused a number of cabinets to lose power. |  
