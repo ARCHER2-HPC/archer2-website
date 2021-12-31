@@ -69,7 +69,7 @@ This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet 
 
 ## Service Alerts
 
-No current alerts.
+2021-12-31 10:00 Hardware issue has caused some nodes to be downed. This will cause jobs running on those nodes to fail. The hardware issue is being investigated and refunds will be issued for any jobs that have failed.
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
