@@ -4,7 +4,7 @@ title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 ---
-## Tuesday 4th January 1000: Charging is now in place on ARCHER2 full system 
+## Tuesday 4th January: All jobs that finish after 10:00 GMT will be charged on ARCHER2 full system 
 
 - [Current System Load - Full System](#current-system-load---full-system)
 - [Current System Load - 4-cabinet](#current-system-load---4-cabinet)
