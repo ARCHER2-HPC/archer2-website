@@ -6,6 +6,8 @@ banner: web_banners_03.jpg
 ---
 ## Tuesday 4th January: All jobs that finish after 10:00 GMT will be charged on ARCHER2 full system 
 
+## Monday 10th January: ARCHER2 4 Cabinet will be removed from service at 12:00 GMT. Please ensure you remove all require data from /work before this time.  
+
 - [Current System Load - Full System](#current-system-load---full-system)
 - [Current System Load - 4-cabinet](#current-system-load---4-cabinet)
 - [Known Issues](#known-issues)
