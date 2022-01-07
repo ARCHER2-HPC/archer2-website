@@ -77,6 +77,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 ## Recent Service Alerts
 
+
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Open | Issue | 2021-12-31 10:00 |  | ARCHER2 Full System: Downed nodes  | A number of nodes downed due to hardware issue, running jobs on downed nodes failed  | hardware issue |
