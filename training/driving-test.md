@@ -8,7 +8,8 @@ banner: web_banners_05.jpg
 
 The ARCHER2 Driving Test is an online assessment tool which allows those new to ARCHER2 to demonstrate that they are sufficiently familiar with ARCHER2 and HPC to start making use of it.  This scheme will be launched after the full 23 cabinet service has commenced operation.
 
-It is suitable for anyone who has completed an Introduction to ARCHER2 training course (or followed the material online), or for users of other HPC systems who have familiarised themselves with the specifics of running jobs on ARCHER2 by reading up the appropriate preparation material resources.
+It is suitable for anyone who has completed an Introduction to ARCHER2 training course (or [followed the material online](#online-introductory-course-materials)), or for users of other HPC systems who have familiarised themselves with the specifics of running jobs on ARCHER2 by reading up the appropriate preparation material resources.
+
 
 On successful completion of the Driving Test, you will be invited to apply for an account on ARCHER2 and awarded a small allowance to use to run jobs over a period of up to 12 months.
 
@@ -16,6 +17,11 @@ This scheme is intended to promote access to HPC to new users and communities wh
 
 The Driving Test is intended for academics and non-academic researchers working in UK based research institutions within sectors related to the remits of the ARCHER2 partner research councils for pre-competitive computational research runs. The final decision on awarding access to ARCHER2 remains with the service. 
 
+## Online Introductory Course Materials
+
+Recent course runs with videos and materials available which will provide appropriate preparation for taking the Driving Test:
+- [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/211202-package-users/#materials)
+- [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/211129-software-developers/#materials)
 
 ## Take the ARCHER2 Driving Test
 
