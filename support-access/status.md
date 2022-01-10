@@ -73,13 +73,13 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2022-01-10 10:00 |  | ARCHER2 full system, ARCHER2 4-cabinet system, SAFE  | Outgoing network access from ARCHER2 systems to external sites is not currently working. SAFE response is slow or degraded.  | DNS issue at datacentre |
 | Ongoing | Issue | 2021-12-31 10:00 |  | ARCHER2 Full System: Downed nodes  | A number of nodes downed due to hardware issue, running jobs on downed nodes failed  | Hardware issue |
 
 ## Recent Service Alerts
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Resolved | Issue | 2022-01-09 10:00 | 2022-01-10 10:30 | ARCHER2 full system, ARCHER2 4-cabinet system, SAFE  | Outgoing network access from ARCHER2 systems to external sites was not working. SAFE response was slow or degraded.  | DNS issue at datacentre |
 | Resolved | Issue | 2021-12-20 13:00 | 2021-12-20 14:12 | ARCHER2 4-cabinet: Slurm  | Slurm slowdown - slurm rebooted at 14:00. Running jobs continued without issue. | Slurm slowdown |
 | Resolved | Issue | 2021-12-16 0405 | 2021-12-16 0941 | ARCHER2 full system: Slurm and outgoing SSH | Slurm commands did not work. Outgoing SSH connections did not work. Running jobs continued without issue. | The ARCHER2 spine switch network became unresponsive. |
 | Resolved | Issue | 2021-11-14 0800 | 2021-11-15 0940 | ARCHER2 4-cabinet: status monitoring | The load chart on the website is missing some historical data. | An issue on one of the login nodes caused usage data to not be collected. |
