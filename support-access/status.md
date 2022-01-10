@@ -3,14 +3,9 @@ layout: section
 title: Service Status
 summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
----
-
-## Tuesday 4th January: All jobs that finish after 10:00 GMT will be charged on ARCHER2 full system 
-
-## Monday 10th January: ARCHER2 4 Cabinet will be removed from service at 12:00 GMT. Please ensure you remove all required data from /work before this time.  
+--- 
 
 - [Current System Load - Full System](#current-system-load---full-system)
-- [Current System Load - 4-cabinet](#current-system-load---4-cabinet)
 - [Known Issues](#known-issues)
 - [Recently Resolved Issues](#recently-resolved-issues)
 - [Maintenance Sessions](#maintenance-sessions)
@@ -36,6 +31,7 @@ title="ARCHER2 Node Status over time"}
 Note: the long running reservation visible in the plot corresponds to the *short* QoS which
 is used to support small, short jobs with fast turnaround time.
 
+<!--
 
 ## Current System Load - 4-cabinet
 
@@ -56,16 +52,8 @@ title="ARCHER2 Node Status over time"}
 Note: the long running reservation visible in the plot corresponds to the *short* QoS which
 is used to support small, short jobs with fast turnaround time.
 
+-->
 
-
-## Name change for ARCHER2 4 Cabinet System
-
-The name for the ARCHER2 4 Cabinet service is being changed to **login-4c.archer2.ac.uk** from Wednesday 6th October
-
-This is to allow login.archer2.ac.uk to be used for the full ARCHER2 23 Cabinet service when the service opens. login.archer2.ac.uk will no longer function for the 4 cabinet service so please change to using login-4c.archer2.ac.uk now.
-
-- login-4c.archer2.ac.uk - ARCHER2 4 Cabinet Service 
-- login.archer2.ac.uk – Full ARCHER2 Service (when the service opens)
 
 ## Service Alerts
 
@@ -79,6 +67,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Resolved | Notice | 2022-01-10 12:00 | 2022-01-10 12:00 | ARCHER2 4-cabinet system  | Users can no longer use the 4-cabinet ARCHER2 system | The ARCHER2 4-cabinet system was removed from service as planned |
 | Resolved | Issue | 2022-01-09 10:00 | 2022-01-10 10:30 | ARCHER2 full system, ARCHER2 4-cabinet system, SAFE  | Outgoing network access from ARCHER2 systems to external sites was not working. SAFE response was slow or degraded.  | DNS issue at datacentre |
 | Resolved | Issue | 2021-12-20 13:00 | 2021-12-20 14:12 | ARCHER2 4-cabinet: Slurm  | Slurm slowdown - slurm rebooted at 14:00. Running jobs continued without issue. | Slurm slowdown |
 | Resolved | Issue | 2021-12-16 0405 | 2021-12-16 0941 | ARCHER2 full system: Slurm and outgoing SSH | Slurm commands did not work. Outgoing SSH connections did not work. Running jobs continued without issue. | The ARCHER2 spine switch network became unresponsive. |
