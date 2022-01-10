@@ -73,7 +73,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Ongoing | Issue | 2022-01-10 10:00 |  | ARCHER2 full system, ARCHER2 4-cabinet system, SAFE  | Outgoing network access from ARCHER2 systems to external sites is not currently working. SAFE response is slow or degraded.  | DNS issue at the University of Edinburgh |
+| Ongoing | Issue | 2022-01-10 10:00 |  | ARCHER2 full system, ARCHER2 4-cabinet system, SAFE  | Outgoing network access from ARCHER2 systems to external sites is not currently working. SAFE response is slow or degraded.  | DNS issue at datacentre |
 | Ongoing | Issue | 2021-12-31 10:00 |  | ARCHER2 Full System: Downed nodes  | A number of nodes downed due to hardware issue, running jobs on downed nodes failed  | Hardware issue |
 
 ## Recent Service Alerts
