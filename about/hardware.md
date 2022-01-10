@@ -36,36 +36,7 @@ The full ARCHER2 system has been available to users since 22 November 2021.
 | home File Systems | 1 PB NetApp NFS | Available on login and data analysis nodes |
 | work File Systems | 14.5 PB HPE Cray ClusterStor | Available on login, data analysis and compute nodes |
 
-## Hardware details: 4-cabinet ARCHER2 system
-
-The 4-cabinet ARCHER2 system has been available to users since early 2021.
-
-### Compute nodes
-
-| Nodes | 1,024 nodes |
-| Processor | 2&times; AMD EPYC<sup>TM</sup> 7742, 2.25 GHz, 64-core |
-| Cores per node | 128 (2&times; 64-core processors) |
-| NUMA structure | 8 NUMA regions per node (16 cores per NUMA region) |
-| Memory per node | 256 GiB |
-| Memory per core | 2 GiB |
-| Interconnect | HPE Cray Slingshot, 2&times; 100 Gbps bi-directional per node |
-
-### Login nodes
-
-| Processor | 2&times; AMD EPYC<sup>TM</sup> 7742, 2.25 GHz, 64-core |
-| Cores per node | 128 (2&times; 64-core processors) |
-| NUMA structure | 8 NUMA regions per node (16 cores per NUMA region) |
-| Memory per node | 512 GiB |
-| Memory per core | 4 GiB |
-
-### Storage
-
-| home File Systems | 1 PB NetApp NFS | Available on login and data analysis nodes |
-| work File System | 3.6 PB HPE Cray ClusterStor | Available on login and compute nodes |
-
 ## Software details
-
-The software available is the similar on both the ARCHER2 preview 4 cabinet system and the full ARCHER2 system.
 
 * Operating system: HPE Cray Linux Environment (based on SLES 15)
 * Scheduler: Slurm configured to be node exclusive (smallest unit of resource is a full node)
