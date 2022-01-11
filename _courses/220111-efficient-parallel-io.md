@@ -7,7 +7,7 @@ start_date: 2022-01-11 09:30:00
 end_date: 2022-01-11 17:00:00
 trainers: David Henty EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1299/
 location: Online
 location_url:
@@ -102,7 +102,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -121,7 +121,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
