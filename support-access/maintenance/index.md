@@ -5,9 +5,23 @@ summary: Log of ARCHER2 Service Maintenance
 banner: web_banners_03.jpg
 ---
 
+- [Q4 2021](#maintenance-sessions-quarter-4-2021-1st-october---31st-december-2021)
 - [Q3 2021](#maintenance-sessions-quarter3-2021-1st-july---30th-september-2021)
 - [Q2 2021](#maintenance-sessions-quarter2-2021-1st-april---30th-june-2021)
 - [Q1 2021](#maintenance-sessions-quarter1-2021-1st-january---31st-march-2021)
+
+
+
+## Maintenance Sessions: Quarter 4 2021 (1st October - 31st December 2021)
+
+| Status | Type | Start | End | System | User Impact | Reason |
+| ---    | ---  | ---   | --- | ---    | ---         | ---    |
+| Complete | Full  |2021-10-26 0900  |2021-10-26  1700  | ARCHER2 4-cabinet | Users will be unable to run jobs and the /work filesystem will not be available | Reboot of the High Speed Network (HSN). The River (support) rack was moved to a new protected power supply. The 4cabinet filesystem move to a protected power supply will be completed next week when additional power supplies are available. |
+| Complete | Partial: RDFaaS |2021-10-21  0900 | 2021-10-21  1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. the /epsrc and /general filesystems. | Software upgrade of E1000 System which hosts the RDFaaS |
+| Complete | Partial: RDFaaS | 2021-10-18 0900 | 2021-10-18 1700 | RDFaaS: /epsrc and /general | Users will be unable to access their files on the RDFaaS i.e. /epsrc and /general filesystems. | Upgrade and reconfiguration of high speed switches |
+| Complete | Partial: Compute Nodes | 2021-10-01 0952 | 2021-10-01 1544 | ARCHER2 4Cabinet: Compute Nodes | Users will be able to connect to User Access Nodes and will be able to submit jobs to the compute nodes. The queued jobs will start once the compute nodes are returned to service. | A power issue at a substation local to the Advanced Computing Facility (ACF). |
+
+
 
 ## Maintenance Sessions: Quarter3 2021 (1st July - 30th September 2021)
 
