@@ -80,7 +80,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="220113-archer2-eCSE">
+           href="220113-archer2-eCSE.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
