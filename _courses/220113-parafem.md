@@ -85,6 +85,17 @@ This online session is open to all. It will use the Blackboard Collaborate platf
           Download pdf of the presentation.
         </a>
       </div>
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+            href="https://www.sciencedirect.com/science/article/abs/pii/S0020768321004212?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer" tabindex="-1" >
+          <strong>Maths paper</strong><br/>
+          Reference by Pieter in the Q&A at the end
+        </a>
+      </div>
+
+
 										
     </div>
   </div>
