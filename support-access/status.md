@@ -79,7 +79,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Planned: RFC0093 | Partial : UANs and Serial| 2022-01-26 10:00|2022-01-26 12:00 | ARCHER2 UANs and Serial Nodes | Users will be unable to connect to ARCHER2 and no jobs will run on the serial nodes.  | To attach the ARCHER2 /home filesystem to a new network at the Advanced Computing Facility   |
+| Planned: RFC0093 | Partial : Login and Serial Nodes| 2022-01-26 10:00|2022-01-26 12:00 | ARCHER2 Login and Serial Nodes | Users will be unable to connect to ARCHER2 and no jobs will run on the serial nodes.  | To attach the ARCHER2 /home filesystem to a new network at the Advanced Computing Facility   |
 
 
 ### Maintenance Logs for previous periods
