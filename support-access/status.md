@@ -6,8 +6,7 @@ banner: web_banners_03.jpg
 --- 
 
 - [Current System Load - Full System](#current-system-load---full-system)
-- [Known Issues](#known-issues)
-- [Recently Resolved Issues](#recently-resolved-issues)
+- [Service Alerts](#service-alerts)
 - [Maintenance Sessions](#maintenance-sessions)
 - [System Status Mailings](#system-status-mailings)
 - [FAQ](#faq)
@@ -63,27 +62,29 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Ongoing | Issue | 2021-12-31 10:00 |  | ARCHER2 Full System: Downed nodes  | A number of nodes downed due to hardware issue, running jobs on downed nodes failed  | Hardware issue |
 
-## Recent Service Alerts
+### Recent Service Alerts
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Resolved | Notice | 2022-01-10 12:00 | 2022-01-10 12:00 | ARCHER2 4-cabinet system  | Users can no longer use the 4-cabinet ARCHER2 system | The ARCHER2 4-cabinet system was removed from service as planned |
 | Resolved | Issue | 2022-01-09 10:00 | 2022-01-10 10:30 | ARCHER2 full system, ARCHER2 4-cabinet system, SAFE  | Outgoing network access from ARCHER2 systems to external sites was not working. SAFE response was slow or degraded.  | DNS issue at datacentre |
 
-## Service Alerts for previous periods
+### Service Alerts for previous periods
 
-[Previous service alerts](maintenance/alerts)
+[Previous service alerts](history/alerts)
 
-## Maintenance Sessions: Quarter 1 2022 (1st January - 31st March 2022)
+## Maintenance Sessions 
+
+###Quarter 1 2022 (1st January - 31st March 2022)
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Planned: RFC0093 | Partial : UANs and Serial| 2022-01-26 10:00|2022-01-26 12:00 | ARCHER2 UANs and Serial Nodes | Users will be unable to connect to ARCHER2 and no jobs will run on the serial nodes.  | To attach the ARCHER2 /home filesystem to a new network at the Advanced Computing Facility   |
 
 
-## Maintenance Logs for previous periods
+### Maintenance Logs for previous periods
 
-[Previous maintenance logs](maintenance/)
+[Previous maintenance logs](history/maintenance)
 
 ## System Status mailings
 If you would like to receive email notifications about system issues and outages, [please subscribe to the *System Status Notifications* mailing list via SAFE](https://epcced.github.io/safe-docs/safe-for-users/#how-to-get-added-to-or-removed-from-the-email-mailing-list)
