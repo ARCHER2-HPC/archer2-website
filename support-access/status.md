@@ -75,12 +75,11 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 ## Maintenance Sessions 
 
-###Quarter 1 2022 (1st January - 31st March 2022)
+### Quarter 1 2022 (1st January - 31st March 2022)
 
 | Status | Type | Start | End | System | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
 | Planned: RFC0093 | Partial : Login and Serial Nodes| 2022-01-26 10:00|2022-01-26 12:00 | ARCHER2 Login and Serial Nodes | Users will be unable to connect to ARCHER2 and no jobs will run on the serial nodes.  | To attach the ARCHER2 /home filesystem to a new network at the Advanced Computing Facility   |
-
 
 ### Maintenance Logs for previous periods
 
