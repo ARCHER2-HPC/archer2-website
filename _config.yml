@@ -39,6 +39,9 @@ descriptions:
 collections:
   courses:
     output: true
-    permalink: /training/courses/:path/    
+    permalink: /training/courses/:path/
+  alerts:
+    output: false
+    
 
 future: true
