@@ -36,6 +36,7 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 * [Quarter 1 2021](quarterly/2021/2021_Q1/)
 * [Quarter 2 2021](quarterly/2021/2021_Q2/)
 * [Quarter 3 2021](quarterly/2021/2021_Q3/)
+* [Quarter 4 2021](quarterly/2021/2021_Q4/)
 
 ## Monthly Reports
 
