@@ -7,7 +7,7 @@ start_date: 2022-01-27 09:30:00
 end_date: 2022-01-28 16:00:00
 trainers: Tony Haldane
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://events.prace-ri.eu/event/1313/registrations/972/
 location: Online
 location_url:
