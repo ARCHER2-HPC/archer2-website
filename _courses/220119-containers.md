@@ -7,7 +7,7 @@ start_date: 2022-01-19 10:00:00
 end_date: 2022-01-20 16:00:00
 trainers: Andy Turner EPCC and Jeremy Cohen
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1315/registrations/974/
 location: Online
 location_url:
@@ -110,7 +110,7 @@ Day 2 Timetable: <https://epcced.github.io/2022-01-20_containers_online/#schedul
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -129,7 +129,7 @@ Day 2 Timetable: <https://epcced.github.io/2022-01-20_containers_online/#schedul
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
