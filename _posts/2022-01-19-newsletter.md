@@ -81,6 +81,7 @@ which includes a walk through of the submission of a proposal.
 
 ## Upcoming ARCHER2 Training
 
+- High-performance materials modelling using CASTEP on ARCHER2 	Online 	Wednesday 19th January 2022 15:00 - 16:00 
 - Introduction to ARCHER2 for Software Developers, Online, 31 January - 1 February 2022 10:00 - 16:00 GMT 
 - Message-passing Programming with MPI, Online, always-open self-service course
 - Shared Memory Programming with OpenMP, Online, always-open self-service course
