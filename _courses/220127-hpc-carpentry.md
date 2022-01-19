@@ -1,6 +1,6 @@
 ---
 layout: course
-title: HPC Carpentry - *fully booked with long waiting list*
+title: HPC Carpentry - fully booked with long waiting list
 banner: web_banners_05.jpg 
 human_dates: 27 - 28 January 2022  9:30 - 16:00  GMT
 start_date: 2022-01-27 09:30:00
