@@ -85,10 +85,10 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
         {{ alert.type }}
       </td>
       <td>
-        {{ alert.start_date }}
+        {{ alert.start_date | date: "%Y-%m-%d %H:%M" }}
       </td>
       <td>
-        {{ alert.end_date }}
+        {{ alert.end_date | date: "%Y-%m-%d %H:%M" }}
       </td>
       <td>
         {{ alert.scope }}
@@ -145,10 +145,10 @@ This table lists resolved service alerts from the past month.
         {{ alert.type }}
       </td>
       <td>
-        {{ alert.start_date }}
+        {{ alert.start_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
-        {{ alert.end_date }}
+        {{ alert.end_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
         {{ alert.scope }}
