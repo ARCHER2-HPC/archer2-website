@@ -5,6 +5,9 @@ summary: Research publications covering work enabled by the ARCHER and ARCHER2 s
 banner: web_banners_08.jpg
 ---
 
+To acknowledge the use of ARCHER2 and add your publications to the ARCHER2 publication
+database please see the [information in the ARCHER2 documentation](https://docs.archer2.ac.uk/publish/).
+
 <script>
 const safe_publications = "https://safe.epcc.ed.ac.uk/servlet/PublicationsServlet?machine=archer&machine=archer2";
 function compare( a, b ) {
