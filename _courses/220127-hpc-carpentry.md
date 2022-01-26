@@ -102,7 +102,7 @@ If you are confident using the bash shell but have any issues with connecting to
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -111,9 +111,8 @@ If you are confident using the bash shell but have any issues with connecting to
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=XXXX" 
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+ 
+		   href="https://events.prace-ri.eu/event/1313/surveys/892"
 
 		>
           <strong>Feedback</strong><br/>
@@ -122,7 +121,7 @@ If you are confident using the bash shell but have any issues with connecting to
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
