@@ -109,7 +109,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 <p>No current service alerts</p>
 {% endfor %}
 
-### Pervious Service Alerts
+### Previous Service Alerts
 
 This table lists resolved service alerts from the past month. 
 [A full list of historical resolved service alerts is available](history/alerts).
