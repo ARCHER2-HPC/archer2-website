@@ -177,7 +177,7 @@ This table lists resolved service alerts from the past month.
 
 | Status | Type | Start | End | Scope | User Impact | Reason |
 | ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Planned: RFC0093 | Partial : Login and Serial Nodes | 2022-01-26 10:00 | 2022-01-26 12:00 <br> Currently over-running - expect to restore access by around 13:00 | ARCHER2 Login and Serial Nodes | Users will be unable to connect to ARCHER2 and no jobs will run on the serial nodes  | To attach the ARCHER2 /home filesystem to a new network at the Advanced Computing Facility data centre |
+| Completed: RFC0093 | Partial : Login and Serial Nodes | 2022-01-26 10:00 | 2022-01-26 12:20 | ARCHER2 Login and Serial Nodes | Users will be unable to connect to ARCHER2 and no jobs will run on the serial nodes  | To attach the ARCHER2 /home filesystem to a new network at the Advanced Computing Facility data centre |
 
 ### Maintenance Logs for previous periods
 
