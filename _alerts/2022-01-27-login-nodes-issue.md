@@ -1,5 +1,5 @@
 ---
-status: Open
+status: Ongoing
 type: Issue
 start_date: 2022-01-27 14:30:00
 end_date: 
