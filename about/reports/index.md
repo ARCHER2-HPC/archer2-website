@@ -49,8 +49,12 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 * [June 2021](monthly/2021/june21_safe.pdf)
 * [July 2021](monthly/2021/july21_safe.pdf)
 * [August 2021](monthly/2021/aug21_safe.pdf)
-* September 2021
-* October 2021
-* November 2021 - 4-cabinet system
+* [September 2021](monthly/2021/sep21_safe.pdf)
+* [October 2021](monthly/2021/oct21_safe.pdf)
+* [November 2021 - 4-cabinet system](monthly/2021/nov21-4cab_safe.pdf)
 * [November 2021 - full system](monthly/2021/nov21_full_safe.pdf)
 * [December 2021](monthly/2021/dec21_safe.pdf)
+
+### 2022
+
+* [January 2022](monthly/2022/jan22_safe.pdf)
