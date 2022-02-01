@@ -25,36 +25,36 @@ Quarterly reports include both a written report summarising work done in the qua
 
 Quarterly reports cover the Service Provision (SP) and Computational Science and Engineering (CSE) parts of the service.
 
-###  2020
-
-* [Quarter 2 2020](quarterly/2020/2020_Q2/)
-* [Quarter 3 2020](quarterly/2020/2020_Q3/)
-* [Quarter 4 2020](quarterly/2020/2020_Q4/)
-
 ###  2021
 
-* [Quarter 1 2021](quarterly/2021/2021_Q1/)
-* [Quarter 2 2021](quarterly/2021/2021_Q2/)
-* [Quarter 3 2021](quarterly/2021/2021_Q3/)
 * [Quarter 4 2021](quarterly/2021/2021_Q4/)
+* [Quarter 3 2021](quarterly/2021/2021_Q3/)
+* [Quarter 2 2021](quarterly/2021/2021_Q2/)
+* [Quarter 1 2021](quarterly/2021/2021_Q1/)
+
+###  2020
+
+* [Quarter 4 2020](quarterly/2020/2020_Q4/)
+* [Quarter 3 2020](quarterly/2020/2020_Q3/)
+* [Quarter 2 2020](quarterly/2020/2020_Q2/)
 
 ## Monthly Reports
 
 The monthly statistical reports are generated automatically from the SAFE. Please follow the link below to access individual monthly reports.
 
-### 2021
-
-* [April 2021](monthly/2021/apr_21_safe.pdf)
-* [May 2021](monthly/2021/may21_safe.pdf)
-* [June 2021](monthly/2021/june21_safe.pdf)
-* [July 2021](monthly/2021/july21_safe.pdf)
-* [August 2021](monthly/2021/aug21_safe.pdf)
-* [September 2021](monthly/2021/sep21_safe.pdf)
-* [October 2021](monthly/2021/oct21_safe.pdf)
-* [November 2021 - 4-cabinet system](monthly/2021/nov21-4cab_safe.pdf)
-* [November 2021 - full system](monthly/2021/nov21_full_safe.pdf)
-* [December 2021](monthly/2021/dec21_safe.pdf)
-
 ### 2022
 
 * [January 2022](monthly/2022/jan22_safe.pdf)
+
+### 2021
+
+* [December 2021](monthly/2021/dec21_safe.pdf)
+* [November 2021 - full system](monthly/2021/nov21_full_safe.pdf)
+* [November 2021 - 4-cabinet system](monthly/2021/nov21-4cab_safe.pdf)
+* [October 2021](monthly/2021/oct21_safe.pdf)
+* [September 2021](monthly/2021/sep21_safe.pdf)
+* [August 2021](monthly/2021/aug21_safe.pdf)
+* [July 2021](monthly/2021/july21_safe.pdf)
+* [June 2021](monthly/2021/june21_safe.pdf)
+* [May 2021](monthly/2021/may21_safe.pdf)
+* [April 2021](monthly/2021/apr_21_safe.pdf)
