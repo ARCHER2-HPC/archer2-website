@@ -1,11 +1,11 @@
 ---
 layout: course
-title: HPC Carpentry - fully booked with long waiting list
+title: HPC Carpentry 
 banner: web_banners_05.jpg 
 human_dates: 27 - 28 January 2022  9:30 - 16:00  GMT
 start_date: 2022-01-27 09:30:00
 end_date: 2022-01-28 16:00:00
-trainers: Tony Haldane
+trainers: Tony Hallam
 course_type: course
 registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1313/registrations/972/
