@@ -18,7 +18,11 @@ layout: default
                     <p>{{ page.trainers }}</p>
                     <p>{{ page.human_dates }}</p>
                     {% if page.location %}
-                    <p>{{ page.location }}</p>
+                        {% if page.location != "Online" %}
+                            <p><a href="{{ page.location_url }}">{{ page.location }}</a></p>
+                        {% else %}
+                            <p>{{ page.location }}</p>
+                        {% endif %}
                     {% endif %}
                 </div>
             </div>
