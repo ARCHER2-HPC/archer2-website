@@ -9,16 +9,16 @@ trainers: Evgenij Belikov (EPCC), Juan Rodriguez Herrera (EPCC)
 course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=220321-software-carpentry
-location: Heriot-Watt Riccarton Campus
+location: Heriot-Watt Riccarton Campus, Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/hw-riccarton
 prace_course: false
 ---
 
 #### Location:
 
-This course will take place face-to-face at the Heriot-Watt University campus, Riccarton Edinburgh
+This course will take place face-to-face at  [{{ page.location }}]({{ page.location_url }})
 
-<a href="{{ course.location_url }}">{{ course.location }}</a>
+This course will not be streamed online and a recording will not be made.
 
 #### Target Audience:
 
