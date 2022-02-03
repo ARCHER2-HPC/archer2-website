@@ -24,7 +24,7 @@ This course will not be streamed online and a recording will not be made.
 
 Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including:
 
-- [Program design (Python)](https://swcarpentry.github.io/git-novice/)
+- [Program design (Python)](http://swcarpentry.github.io/python-novice-inflammation)
 - [Version control (Git)](https://swcarpentry.github.io/git-novice/)
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 

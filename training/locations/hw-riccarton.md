@@ -5,7 +5,7 @@ summary:
 banner: web_banners_06.jpg
 ---
 
-# Heriow-Watt University Riccarton Campus Edinburgh
+# Heriot-Watt University Riccarton Campus Edinburgh
 
 
 
