@@ -192,16 +192,73 @@ If you would like to receive email notifications about system issues and outages
 
 ## Usage statistics
 
-{% for period in site.usage reversed limit:1 %}
+{% assign period = site.usage.last %}
 
-Usage statistics for {{ period.date | date: "%b %Y"  }}
+This section contains data on ARCHER2 usage for {{ period.date | date: "%b %Y"  }}. Access to historical usage data
+is available at the end of the section.
+
+- [Usage by job size and length](#usage-by-job-size-and-length)
+- [Queue length data](#queue-length-data)
+- [Software usage data](#software-usage-data)
+- [Historical usage data](#historical-usage-data)
+
+### Usage by job size and length
 
 <img width="60%" src="{{ period.base_url }}/{{ period.usage_heatmap }}" alt="Heatmap of usage job size versus job length" />
+
+### Queue length data
+
+The colour indicates scheduling coefficient which is computed as [run time] divided by [run time + queue time]. A scheduling
+coefficient of 0 indicates that there was zero time queuing, a scheduling coefficient of 0.5 means that the job spent as long
+queuing as it did running.
+
 <img width="60%" src="{{ period.base_url }}/{{ period.sc_heatmap }}" alt="Heatmap of scheduling coefficient job size versus job length" />
+
+### Software usage data
+
+Plot and table of % use and job size statistics for different software on ARCHER2 for {{ period.date | date: "%b %Y" }}.
+This data is also [available as a CSV file]({{ period.base_url }}/{{ period.code_usage_data }}).
+
 <img width="60%" src="{{ period.base_url }}/{{ period.code_usage_plot }}" alt="Plot of usage by different software" />
 
-[CSV file of software use and job size data]({{ period.base_url }}/{{ period.code_usage_data }})
+This table shows job size statistics weighted by usage, total number of job steps and percent usage broken
+down by different software for {{ period.date | date: "%b %Y" }}.
 
+{% include_relative size-tables/{{ period.code_usage_table }} %}
 
+### Historical usage data
+
+{% for period in site.usage reversed %}
+  {% if forloop.first %}
+<div class="table-responsive">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Period</th>
+        <th>Usage Heatmap</th>
+        <th>Queue Heatmap</th>
+        <th>Software usage plot</th>
+        <th>Software usage data</th>
+      </tr>
+    </thead>
+    <tbody>
+  {% endif %}
+      <tr>
+      <td>
+        {{ period.date | date: "%b %Y" }}
+      </td>
+      <td>
+        <a href="{{ period.base_url }}/{{ period.usage_heatmap }}">Usage heatmap (PNG)</a>
+      </td>
+      <td>
+        <a href="{{ period.base_url }}/{{ period.sc_heatmap }}">Queue heatmap (PNG)</a>
+      </td>
+      <td>
+        <a href="{{ period.base_url }}/{{ period.code_usage_plot }}">Software usage plot (PNG)</a>
+      </td>
+      <td>
+        <a href="{{ period.base_url }}/{{ period.code_usage_data }}">Software usage and size data (CSV)</a>
+      </td>
+      </tr>
 {% endfor %}
 
