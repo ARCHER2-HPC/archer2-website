@@ -10,6 +10,7 @@ banner: web_banners_03.jpg
 - [Maintenance Sessions](#maintenance-sessions)
 - [System Status Mailings](#system-status-mailings)
 - [FAQ](#faq)
+- [Usage statistics](#usage-statistics)
 
 ## Current System Load - Full System
 
@@ -188,3 +189,19 @@ If you would like to receive email notifications about system issues and outages
 
 ## FAQ
 * [Frequently asked questions](https://docs.archer2.ac.uk/faq/)
+
+## Usage statistics
+
+{% for period in site.usage reversed limit:1 %}
+
+Usage statistics for {{ period.date | date: "%b %Y"  }}
+
+<img width="60%" src="{{ period.base_url }}/{{ period.usage_heatmap }}" alt="Heatmap of usage job size versus job length" />
+<img width="60%" src="{{ period.base_url }}/{{ period.sc_heatmap }}" alt="Heatmap of scheduling coefficient job size versus job length" />
+<img width="60%" src="{{ period.base_url }}/{{ period.code_usage_plot }}" alt="Plot of usage by different software" />
+
+[CSV file of software use and job size data]({{ period.base_url }}/{{ period.code_usage_data }})
+
+
+{% endfor %}
+
