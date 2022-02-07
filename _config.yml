@@ -42,6 +42,8 @@ collections:
     permalink: /training/courses/:path/
   alerts:
     output: false
+  usage:
+    output: false
     
 
 future: true
