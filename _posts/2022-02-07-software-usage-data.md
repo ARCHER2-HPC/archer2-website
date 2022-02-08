@@ -7,7 +7,6 @@ tags: [blog]
 categories: [news]
 ---
 
-# Software usage data on ARCHER2
 
 In this blog, I will introduce how we collect software usage data from Slurm on ARCHER2,
 introduce the sharing of this data on the ARCHER2 public website and then have a 
