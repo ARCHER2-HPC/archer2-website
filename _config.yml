@@ -44,6 +44,8 @@ collections:
     output: false
   usage:
     output: false
+  casestudies:
+    output: false
     
 
 future: true
