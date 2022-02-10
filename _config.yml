@@ -46,6 +46,7 @@ collections:
     output: false
   casestudies:
     output: false
-    
+  imagecomp:
+    output: false
 
 future: true
