@@ -96,6 +96,17 @@ banner: web_banners_02.jpg
 </div>
 
 
+
+#### 2020 Entry 12    &nbsp; &nbsp; &nbsp; (1616x808)
+
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/d-btK1ANpt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
 ----------
 
 
