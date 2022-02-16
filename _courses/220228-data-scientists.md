@@ -14,9 +14,7 @@ location_url:
 prace_course: false
 ---
 
-This one-day introductory course will cover the essentials of ARCHER2, the basic use of core data science packages (e.g., R, Pandas), and data handling best practice.
-
-Further details available soon.
+This course covers the basics of ARCHER2 for data scientists. We will cover ARCHER2 hardware, software, and configurations, discuss how to install software and use containers on the system, and then look in more detail at how to ensure data science workflows are efficiently exploiting ARCHER2. We will cover both R and Python topics, looking at potential methods for parallelising data science workflows across the ARCHER2 hardware, and ensuring efficient use of the compute nodes ARCHER2 provides. 
 
 ### Requirements:
 
