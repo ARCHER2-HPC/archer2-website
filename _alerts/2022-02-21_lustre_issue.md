@@ -1,6 +1,6 @@
 ---
-status: Ongoing
-type: Resolved
+status: Resolved
+type: Downtime
 start_date: 2022-02-21 15:00:00
 end_date: 2022-02-22 09:30:00
 scope: Work (/work) Lustre file systems. Compute nodes.
