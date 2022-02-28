@@ -2,9 +2,9 @@
 layout: course
 title: ARCHER2 for Data Scientists
 banner: web_banners_05.jpg 
-human_dates: 28 February 2022  10:00 - 17:00  GMT
+human_dates: 28 February 2022  10:00 - 17:30  GMT
 start_date: 2022-02-28 10:00:00
-end_date: 2022-02-28 17:00:00
+end_date: 2022-02-28 17:30:00
 trainers: Adrian Jackson (EPCC)
 course_type: course
 registration_status: open
@@ -25,9 +25,21 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-10:00 - 17:00  (provisional)
-
-Details to follow
+<ul>
+<li>10:00 - Registration and check connections</li>
+<li>10:10 - L01: Introduction to ARCHER2</li>
+<li>10:30 - L02: Containers and installing software</li>
+<li>11:15 - Break</li>
+<li>11:30 - Exercise: Containers</li>
+<li>12:30 - L03: Parallel Python on ARCHER2</li>
+<li>13:00 - Lunch</li>
+<li>14:00 - Exercise: Parallel Python</li>
+<li>14:30 - L04: Dask</li>
+<li>15:30 - Break</li>
+<li>16:00 - L05: Parallel R on ARCHER2</li>
+<li>17:00 - Exercise: Parallel R</li>
+<li>17:30 - END</li>
+</ul>
 
 <section id="service">
 
@@ -39,24 +51,21 @@ Details to follow
 
     <div class="row ">	
 
-<!-- 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/archer2-data-science">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/220228-data-scientists">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
- -->
  	</div>
 		
 		
@@ -78,7 +87,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -97,7 +106,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+ 		
 
  
 </section>
