@@ -7,7 +7,7 @@ start_date: 2022-02-28 10:00:00
 end_date: 2022-02-28 17:30:00
 trainers: Adrian Jackson (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=220228-data-scientists
 location: Online
 location_url:
@@ -43,10 +43,10 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
