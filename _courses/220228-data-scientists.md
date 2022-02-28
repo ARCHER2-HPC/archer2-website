@@ -2,9 +2,9 @@
 layout: course
 title: ARCHER2 for Data Scientists
 banner: web_banners_05.jpg 
-human_dates: 28 February 2022  10:00 - 17:00  GMT
+human_dates: 28 February 2022  10:00 - 17:30  GMT
 start_date: 2022-02-28 10:00:00
-end_date: 2022-02-28 17:00:00
+end_date: 2022-02-28 17:30:00
 trainers: Adrian Jackson (EPCC)
 course_type: course
 registration_status: open
@@ -25,9 +25,19 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-10:00 - 17:00  (provisional)
-
-Details to follow
+10:00 - Registration and check connections
+10:10 - L01: Introduction to ARCHER2
+10:30 - L02: Containers and installing software
+11:15 - Break
+11:30 - Exercise: Containers
+12:30 - L03: Parallel Python on ARCHER2
+13:00 - Lunch
+14:00 - Exercise: Parallel Python
+14:30 - L04: Dask 
+15:30 - Break
+16:00 - L05: Parallel R on ARCHER2
+17:00 - Exercise: Parallel R
+17:30 - END
 
 <section id="service">
 
@@ -39,24 +49,21 @@ Details to follow
 
     <div class="row ">	
 
-<!-- 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/archer2-data-science">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/220228-data-scientists">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
- -->
  	</div>
 		
 		
