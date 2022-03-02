@@ -19,7 +19,7 @@ This lesson provides an introduction to using GROMACS. GROMACS is a free molecul
 For this lesson, attendees will learn how to prepare, run, and analyse GROMACS simulations on the ARCHER2 high-performance computing facility. Attendees will learn:
 
 - How to login to ARCHER2, load modules, and run jobs.
-- How to use GROMACS functions to take generate a fully-solvated, charge-neutral GROMACS structure file from a protein database file.
+- How to use GROMACS functions to generate a fully-solvated, charge-neutral GROMACS structure file from a protein database file.
 - How to prepare and run a GROMACS simulation of this structure file.
 - How to analyse and visualise GROMACS simulations once they’ve run.
 - How to determine whether your GROMACS simulations are running optimally.
