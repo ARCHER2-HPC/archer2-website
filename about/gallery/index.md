@@ -52,7 +52,7 @@ banner: web_banners_02.jpg
                   </li>	
 
                   <li class="mix 2019">
-                    <a href="http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2019/index.php" target="_blank">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2019-image-comp/" target="_blank">
                       <img src="img/2019.jpg" alt="2019 Winner">
                       <div class="overly">
                         <div class="position-center">
@@ -64,7 +64,7 @@ banner: web_banners_02.jpg
                   </li>		
 															
                   <li class="mix 2018">
-                    <a href="http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2018/index.php" target="_blank">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2018-image-comp/" target="_blank">
                       <img src="img/2018.jpg" alt="2018 Winner">
                       <div class="overly">
                         <div class="position-center">
@@ -76,7 +76,7 @@ banner: web_banners_02.jpg
                   </li>	
 
                   <li class="mix 2017">
-                    <a href="http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2017/index.php" target="_blank">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2017-image-comp/" target="_blank">
                       <img src="img/2017.jpg" alt="2017 Winner">
                       <div class="overly">
                         <div class="position-center">
@@ -88,7 +88,7 @@ banner: web_banners_02.jpg
                   </li>	
 									
                   <li class="mix 2016">
-                    <a href="http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2016/index.php" target="_blank">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2016-image-comp/" target="_blank">
                       <img src="img/2016.jpg" alt="2016 Winner">
                       <div class="overly">
                         <div class="position-center">
@@ -100,7 +100,7 @@ banner: web_banners_02.jpg
                   </li>								
 									
                   <li class="mix 2015">
-                    <a href="http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2015/index.php" target="_blank">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2015-image-comp/" target="_blank">
                       <img src="img/2015.jpg" alt="2015 Winner">
                       <div class="overly">
                         <div class="position-center">
@@ -112,7 +112,7 @@ banner: web_banners_02.jpg
                   </li>	
 									
                   <li class="mix 2014">
-                    <a href="http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2014/index.php" target="_blank">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2014-image-comp/" target="_blank">
                       <img src="img/2014.jpg" alt="2014 Winner">
                       <div class="overly">
                         <div class="position-center">
