@@ -19,6 +19,8 @@ The Driving Test is intended for academics and non-academic researchers working 
 
 ## Online Introductory Course Materials
 
+- [The Hitchhikers' Guide to ARCHER2](https://www.archer2.ac.uk/training/courses/220302-hitchhikers-guide/) - a one-hour webinar video and slides, which provides an overview of the system's hardware and software and covers basic usage such as logging in, compiling code, and running jobs.
+
 Recent course runs with videos and materials available which will provide appropriate preparation for taking the Driving Test:
 - [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/211202-package-users/#materials)
 - [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/211129-software-developers/#materials)
