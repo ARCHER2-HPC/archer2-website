@@ -10,8 +10,6 @@ categories: [news]
 
 All ARCHER2 users are encouraged to take part in the first UK wide Research and Innovation (R&I) Workforce Survey which is currently open for submissions (see below).
 
-This survey was commissioned by BEIS, the department that funds UKRI and ARCHER2. Clearly, the more people that complete the survey, the better the data will be - so please take the time to complete it (the estimate of 20 minutes seems about right).
-
 --------
 
 ## The first UK wide survey of the Research and Innovation workforce:
