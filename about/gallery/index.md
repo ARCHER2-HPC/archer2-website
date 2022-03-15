@@ -17,7 +17,7 @@ banner: web_banners_02.jpg
 
   <div class="col-md-6">
     <div class="block">
-      <a href="./winners/"><img style="width: 75%" src="img/2021.jpg" alt="Competition Winners" title="Competition Winners" /></a> 
+      <a href="./winners"><img style="width: 75%" src="img/2021.jpg" alt="Competition Winners" title="Competition Winners" /></a> 
     </div>
   </div>
 </div>
