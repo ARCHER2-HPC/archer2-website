@@ -4,12 +4,20 @@ title: Gallery
 banner: web_banners_02.jpg
 ---
 
-## Gallery of front-page News banners
+## Gallery of front-page News banners  and Competition Winners
 
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-6">
     <div class="block">
-      <a href="news-gallery.html"><img style="width: 35%" src="img/news-splash.jpg" alt="a2 news banner" /></a> 
+      <a href="news-gallery.html"><img style="width: 85%" src="img/news-banners.jpg" alt="a2 news banner" title="News banners" /></a> 
+    </div>
+
+
+  </div>
+
+  <div class="col-md-6">
+    <div class="block">
+      <a href="./winners/"><img style="width: 75%" src="img/2021.jpg" alt="Competition Winners" title="Competition Winners" /></a> 
     </div>
   </div>
 </div>
@@ -25,9 +33,11 @@ banner: web_banners_02.jpg
             <div class="block">
 
               <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
+
+                <ul id="portfolio-contant-active">	
+
 								
-								   <li class="mix 2021">
+				  <li class="mix 2021">
                     <a href="https://www.archer2.ac.uk/about/gallery/2021-image-comp/" target="_blank">
                       <img src="img/2021.jpg" alt="2021 Winner">
                       <div class="overly">
@@ -38,6 +48,7 @@ banner: web_banners_02.jpg
                       </div>
                     </a>
                   </li>	
+
 
                   <li class="mix 2020">
                     <a href="https://www.archer2.ac.uk/about/gallery/2020-image-comp/" target="_blank">
