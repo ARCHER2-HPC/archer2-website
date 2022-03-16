@@ -2,7 +2,7 @@
 layout: course
 title: HPC for CFD using Code_Saturne
 banner: web_banners_05.jpg 
-human_dates: 27 - 28 April 2022 (27th pm, 28th am)
+human_dates: 27 - 28 April 2022 (27th 13:15-17:30, 28th 9:00-12:30  BST)
 start_date: 2022-04-27 13:15:00
 end_date: 2022-04-28 12:30:00
 trainers: Charles Moulinec (STFC,DL,SC), Juan Uribe (EDF)
