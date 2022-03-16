@@ -12,8 +12,8 @@ banner: web_banners_06.jpg
 
 ## Address
 
-Scott Suite,
-Edinburgh Business School,
+Scott Suite,<br> 
+Edinburgh Business School,<br> 
 Heriot-Watt University,<br> 
 Gait 11,<br> 
 The Avenue,<br> 
