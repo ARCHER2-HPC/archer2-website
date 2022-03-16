@@ -20,7 +20,7 @@ The course will run for 2 half days split over 2 days comprising a mixture of le
 
 ### Target audience:
 
-The course is suitable for PhD students, postdocs and engineers who have limited knowledge in HPC/Nuclear thermal hydraulics but are interested in gaining experience in this area.
+The course is suitable for PhD students, postdocs and engineers who have limited knowledge in HPC, CFD and Nuclear thermal hydraulics but are interested in gaining experience in these areas.
 
 The course is free to attend, but spaces are limited.
 
