@@ -10,7 +10,16 @@ We have a long history of working alongside academia, industrial and commercial 
 
 We have worked across a varied range of sectors including aeronautical, engineering, manufacturing, astronomy, retail, finance, medical, agricultural, oil and gas. 
 
-There are variety of methods for commercial organisations to gain access to ARCHER2, whether as part of a research collaboration or working within a larger established consortia or even asking for assistance on a consultancy basis. If you wish to make use of ARCHER2 then please get in touch and we can then direct your interest appropriately. Please contact us via the [ARCHER2 Service Desk](../../support-access/servicedesk.html).
+There are variety of methods for commercial organisations to gain access to ARCHER2, whether as part of a research collaboration or working within a larger established consortia or even asking for assistance on a consultancy basis. 
+
+If you wish to make use of ARCHER2 then please get in touch and we can then direct your interest appropriately. 
+
+Please 
+
+- contact us via the [ARCHER2 Service Desk](../../support-access/servicedesk.html)
+- to discuss how we can collaborate to meet your business goals, please contact our Commercial Manager, [Thomas Blyth](mailto:t.blyth@epcc.ed.ac.uk).
+- or see our brochure to learn more about how our unrivalled mix of HPC facilities and expertise supports business: [EPCC Commercial brochure (PDF)](https://www.epcc.ed.ac.uk/sites/default/files/newsletters/EPCC_BROCHURE_2020_AW_LOW.pdf).
+
 
 
 
