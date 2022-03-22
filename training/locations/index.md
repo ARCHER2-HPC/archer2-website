@@ -5,7 +5,7 @@ summary:
 banner: web_banners_05.jpg
 ---
 
-# Training Locations
+
 
 * [EPCC](epcc.html)
 * [Alan Turing Institute London](ati.html)

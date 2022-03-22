@@ -1,13 +1,11 @@
 ---
 layout: section
-title: ARCHER2 Training Locations
+title: Heriot-Watt University Riccarton Campus Edinburgh
 summary: 
 banner: web_banners_06.jpg
 ---
 
-# Heriot-Watt University Riccarton Campus Edinburgh
 
- 
 
 
 ## Address

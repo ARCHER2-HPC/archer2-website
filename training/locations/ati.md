@@ -1,11 +1,11 @@
 ---
 layout: section
-title: ARCHER2 Training Locations
-summary: ARCHER2 Training Locations
+title: The Alan Turing Institute London
+summary: 
 banner: web_banners_06.jpg
 ---
 
-# The Alan Turing Institute London
+
 
 
 The Alan Turing Institute is located on the first floor of the British Library.
