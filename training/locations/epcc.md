@@ -1,11 +1,11 @@
 ---
 layout: section
-title: ARCHER2 Training Locations
-summary: ARCHER2 Training Locations
+title: EPCC
+summary: 
 banner: web_banners_05.jpg
 ---
 
-# EPCC
+
 
 EPCC is located in the Bayes Centre in the George Square area of the University of Edinburgh.
 
