@@ -9,7 +9,7 @@ banner: web_banners_06.jpg
 - [2nd ARCHER2 eCSE call (eCSE02)](#2nd-archer2-ecse-call-ecse02)
 - [3rd ARCHER2 eCSE call (eCSE03)](#3rd-archer2-ecse-call-ecse03)
 - [4th ARCHER2 eCSE call (eCSE04)](#4th-archer2-ecse-call-ecse04)
-
+- [5th ARCHER2 eCSE call (eCSE05)](#5th-archer2-ecse-call-ecse05)
 
 ## 1st ARCHER2 eCSE call (eCSE01)
 
@@ -235,3 +235,53 @@ Panel meeting 29 June 2021 (virtual meeting)
 - *ARCHER2-eCSE04-7 PI: Prof Simon Tett (University of Edinburgh) Porting OptClim Optimisation system to ARCHER2* (5 months)
 
 - *ARCHER2-eCSE04-8 PI: Dr William J Brown (British Geological Survey) Enabling a better global view of the magnetic field of Earth's rocks* (9 months)
+
+
+## 5th ARCHER2 eCSE call (eCSE05)
+
+Panel meeting 23 November 2021 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- Charles Laughton (University of Nottingham)
+- Jonathan Flynn (University of Southampton)
+- Nicholas Hine (University of Warwick)
+- Sergio Campobasso (Lancaster University)
+- Rupert Ford (STFC)
+
+### eCSE Team
+
+- Chris Johnson
+- Lorna Smith
+- Xu Guo
+- Catherine Inglis
+
+### ARCHER2 Service Representatives
+
+- William Lucas (EPCC)
+- Kevin Stratford (EPCC)
+
+### UKRI
+
+- Richard Bailey (EPSRC)
+
+### Early Career Observers
+
+- Peter Byrne (University of York)
+- Joseph Prentice (University of Oxford)
+- Oleksandr Zhdanov (University of Glasgow)
+- Jack Betteridge (Imperial College)
+
+### Projects funded from the 5th eCSE call
+
+- *ARCHER2-eCSE05-3 PI: Dr Maarten van Reeuwijk "uDALES: towards exa-scale simulation of air quality and microclimate in urban environments"* (7 months)  [[UKTC](https://www.ukturbulence.co.uk/)]
+
+- *ARCHER2-eCSE05-4 PI: Prof Chris-Kriton cks Skylaris "Scaling up and coupling adaptive kinetic Monte Carlo with large-scale DFT"* (12 months) 
+
+- *ARCHER2-eCSE05-6 PI: Dr Wenqiang Zhang (6 months) "Acceleration of a 3D multiphase flow solver for icing simulation"* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
+- *ARCHER2-eCSE05-8 PI: Dr Ian J Bush "Introducing Spin-Orbit Coupling into MPPCRYSTAL"* (12 months)  [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+
+- *ARCHER2-eCSE05-9 PI: Dr Jianping Meng "Implementation of the Discrete Unified Gas Kinetic Scheme in Code_Saturne targeting Exascale"* (10 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
+
