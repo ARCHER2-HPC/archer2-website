@@ -226,7 +226,8 @@ This table lists resolved service alerts from the past month.
   </table>
 </div>
     {% endif %}
-
+{% else %}
+<p>No scheduled maintenance</p>
 
 {% endfor %}
 
