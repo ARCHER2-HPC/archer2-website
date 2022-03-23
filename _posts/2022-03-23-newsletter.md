@@ -8,15 +8,15 @@ categories: [news]
 ---
 
 
-
 - [Slurm Maintenance, Wednesday 30th March](#slurm-maintenance)
 - [Advanced use of LAMMPS](#advanced-use-of-lammps)
 - [Efficient use of the HPE Cray EX Supercomputer ARCHER2](#efficient-use-of-the-hpe-cray-ex-supercomputer-archer2)
 - [Introduction to ARCHER2 for Software Developers](#introduction-to-archer2-for-software-developers) 
--  [Recently added Known Issues](#recently-added-known-issues)
-- [Upcoming ARCHER2 training](#upcoming-archer2-training) 
+- [Recently added Known Issues](#recently-added-known-issues)
+- [Upcoming ARCHER2 training](#upcoming-archer2-training)
 
-  
+
+ 
 ## Slurm Maintenance
  
 Wednesday 30th March
