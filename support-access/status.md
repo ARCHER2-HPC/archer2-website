@@ -174,12 +174,65 @@ This table lists resolved service alerts from the past month.
 
 ## Maintenance Sessions 
 
+
+
+{% assign maintenance_2022_q1 = site.maintenance | where_exp: "maintenance", "maintenance.quarter >= '2022_q1'" %}
+{% for maintenance in maintenance_2022_q1 reversed %}
+
+    {% if forloop.first == true %}
 ### Quarter 1 2022 (1st January - 31st March 2022)
 
-| Status | Type | Start | End | Scope | User Impact | Reason |
-| ---    | ---  | ---   | --- | ---    | ---         | ---    |
-| Completed: RFC0093 | Partial : Login and Serial Nodes | 2022-01-26 10:00 | 2022-01-26 12:20 | ARCHER2 Login and Serial Nodes | Users will be unable to connect to ARCHER2 and no jobs will run on the serial nodes  | To attach the ARCHER2 /home filesystem to a new network at the Advanced Computing Facility data centre |
-| Not Required | Full  | 2022-03-30 | 2022-03-30 | Scheduled maintenance  | Not Required  | Not Required |
+<div class="table-responsive">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Status</th>
+        <th>Type</th>
+        <th>Start</th>
+        <th>End</th>
+        <th>System</th>
+        <th>User Impact</th>
+        <th>Reason</th>
+      </tr>
+    </thead>
+
+    <tbody>
+    {% endif %}
+      <tr>
+      <td>
+        {{ maintenance.status }}
+      </td>
+      <td>
+        {{ maintenance.type }}
+      </td>
+      <td>
+        {{ maintenance.start_date }}
+      </td>
+      <td>
+        {{ maintenance.end_date }}
+      </td>
+      <td>
+        {{ maintenance.system }}
+      </td>
+      <td>
+        {{ maintenance.impact }}
+      </td>
+      <td>
+        {{ maintenance.reason }}
+      </td>
+      </tr>
+    {% if forloop.last == true %}
+    </tbody>
+  </table>
+</div>
+    {% endif %}
+{% else %}
+<p>No scheduled maintenance</p>
+
+{% endfor %}
+
+
+
 
 ### Maintenance Logs for previous periods
 
