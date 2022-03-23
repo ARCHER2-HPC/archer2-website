@@ -112,7 +112,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 ### Previous Service Alerts
 
-This table lists resolved service alerts from the past month. 
+This table lists resolved service alerts from the past 30 days. 
 [A full list of historical resolved service alerts is available](history/alerts).
 
 {% assign resolved_alerts = site.alerts | where_exp: "alert", "alert.status == 'Resolved'" %}
