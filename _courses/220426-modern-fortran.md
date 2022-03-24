@@ -16,9 +16,9 @@ prace_course: true
 
 #### Location:
 
-This course will take place face-to-face at  [{{ page.location }}]({{ page.location_url }})
+This course will take place **face-to-face** at  [{{ page.location }}]({{ page.location_url }})
 
-This course will not be streamed online and a recording will not be made.
+**This course will not be streamed online and a recording will not be made.**
 
 #### Target Audience:
 
