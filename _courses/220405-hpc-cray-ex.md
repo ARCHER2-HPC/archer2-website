@@ -41,11 +41,28 @@ This course is open to users of ARCHER2.
 
 This course will not be recorded and the materials will be shared only with the participants.
 
-#### Timetable:
+### Timetable:
 
-- **Day 1**: Introduction to the ARCHER2 architecture and software.
-- **Day 2**: Deep dive on compilation and profiling.
-- **Day 3**: Deep dive on MPI and IO. You will also have the opportunity to compile your code on ARCHER2.
+
+
+#### Day 1: Introduction to the ARCHER2 architecture and software.
+
+- Introduction to the Cray Hardware and Programming Environment.
+-  Overview of compilers and libraries
+- Advanced Job Launching
+
+#### Day 2: Deep dive on compilation and profiling.
+
+- Introduction to Perftools
+- Advanced performance analysis
+- Performance Optimization: Improving single-core efficiency
+- Debugging at scale
+
+#### Day 3: Deep dive on MPI and IO. You will also have the opportunity to compile your code on ARCHER2.
+
+- Understanding Cray MPI
+- Rank reordering and MPMD application launch
+- IO Optimization -- Parallel I/O
 
 There will be morning, lunch, and afternoon breaks. 
 There will be a mixture between lessons and hands-on exercises.
