@@ -62,7 +62,7 @@ This course will not be recorded and the materials will be shared only with the 
 
 - Understanding Cray MPI
 - Rank reordering and MPMD application launch
-- IO Optimization -- Parallel I/O
+- IO Optimization - Parallel I/O
 
 There will be morning, lunch, and afternoon breaks. 
 There will be a mixture between lessons and hands-on exercises.
