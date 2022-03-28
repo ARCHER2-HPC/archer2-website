@@ -48,7 +48,7 @@ This course will not be recorded and the materials will be shared only with the 
 #### Day 1: Introduction to the ARCHER2 architecture and software.
 
 - Introduction to the Cray Hardware and Programming Environment.
--  Overview of compilers and libraries
+- Overview of compilers and libraries
 - Advanced Job Launching
 
 #### Day 2: Deep dive on compilation and profiling.
