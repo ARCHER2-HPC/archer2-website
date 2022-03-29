@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Scalasca
+title: Performance Analysis Workshop (Scalasca)
 banner: web_banners_05.jpg 
 human_dates: 9 - 10 May 2022  09:30 - 16:30  BST
 start_date: 2022-05-09 09:30:00
