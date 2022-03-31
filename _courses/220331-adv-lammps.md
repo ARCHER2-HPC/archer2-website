@@ -7,7 +7,7 @@ start_date: 2022-03-31 10:00:00
 end_date: 2022-03-31 16:00:00
 trainers: Julien Sindt & Stephen Farr
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1361/registrations/1008/
 location: Online
 location_url:
