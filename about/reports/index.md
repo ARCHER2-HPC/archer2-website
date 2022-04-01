@@ -25,6 +25,10 @@ Quarterly reports include both a written report summarising work done in the qua
 
 Quarterly reports cover the Service Provision (SP) and Computational Science and Engineering (CSE) parts of the service.
 
+###  2022
+
+* [Quarter 1 2022](quarterly/2022/2022_Q1/)
+
 ###  2021
 
 * [Quarter 4 2021](quarterly/2021/2021_Q4/)
@@ -44,6 +48,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2022
 
+* [March 2022](monthly/2022/mar22_safe.pdf)
 * [February 2022](monthly/2022/feb22_safe.pdf)
 * [January 2022](monthly/2022/jan22_safe.pdf)
 
