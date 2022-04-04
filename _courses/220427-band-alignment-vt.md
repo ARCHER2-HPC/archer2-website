@@ -1,6 +1,6 @@
 ---
 layout: course
-title: HPC-Europa3 project – assessing the nature and role of band alignment of coper oxides heterostructures
+title: HPC-Europa3 project – assessing the nature and role of band alignment of copper oxides heterostructures
 banner: web_banners_05.jpg
 human_dates: Wednesday 27th April 2022  15:00 - 16:00 
 start_date: 2022-04-27 15:00:00
