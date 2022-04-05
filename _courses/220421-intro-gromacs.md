@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 21 April 2022  10:00 - 16:00  BST
 start_date: 2022-04-21 10:00:00
 end_date: 2022-04-21 16:00:00
-trainers: Holly Judge & Julien Sindt
+trainers: Holly Judge, Julien Sindt and Stephen Farr
 course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=220421-intro-gromacs
@@ -13,6 +13,8 @@ location: Online
 location_url:
 prace_course: false
 ---
+
+This course is being delivered in collaboration with the UK's EuroCC National Competence Centre  **EuroCC@UK**
 
 This lesson provides an introduction to using GROMACS. GROMACS is a free molecular dynamics package primarily used for simulating biochemical molecules like proteins, lipids, and nucleic acids. The program is widely used, and a large number of publications based on work simulated using GROMACS is published every year.
 
