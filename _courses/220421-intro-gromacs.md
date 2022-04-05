@@ -14,7 +14,11 @@ location_url:
 prace_course: false
 ---
 
+<img src="{{ site.baseurl }}/img/logos/euro-cc.jpg" alt="EuroCC" title="EuroCC" align="right" width="10%" />
+
 This course is being delivered in collaboration with the UK's EuroCC National Competence Centre  **EuroCC@UK**
+
+
 
 This lesson provides an introduction to using GROMACS. GROMACS is a free molecular dynamics package primarily used for simulating biochemical molecules like proteins, lipids, and nucleic acids. The program is widely used, and a large number of publications based on work simulated using GROMACS is published every year.
 
