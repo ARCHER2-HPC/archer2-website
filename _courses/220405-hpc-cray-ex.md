@@ -7,7 +7,7 @@ start_date: 2022-04-05 09:00:00
 end_date: 2022-04-07 17:00:00
 trainers: Harvey Richardson HPE Cray
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1372/registrations/1017/
 location: Online
 location_url:
@@ -123,7 +123,7 @@ Please ensure you enter your **ARCHER2 Username and Project code** in the "Reaso
 
 
 
-<!--
+
  
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -143,7 +143,7 @@ Please ensure you enter your **ARCHER2 Username and Project code** in the "Reaso
       </div>
     </div>
 		
--->
+
  
 </section>
 
