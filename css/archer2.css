@@ -43,13 +43,13 @@ p {
 }
 
 ol  {
-  padding: 20px 0px 20px 15px;
+  padding: 5px 0px 15px 15px;
   margin: 0;
-  list-style: square;
+  list-style: decimal;
 }
 
 ul  {
-  padding: 20px 0px 20px 15px;
+  padding: 5px 0px 15px 15px;
   margin: 0;
   list-style: square;
 }
