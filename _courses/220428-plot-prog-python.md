@@ -29,10 +29,10 @@ How do I…
 
 #### Prerequisites:
 
-1.     Learners need to understand what files and directories are, what a working directory is, and how to start a Python interpreter.
-1.     Learners must install Python before the class starts.
-1.     Learners must get the gapminder data before class starts: please download and unzip the file [python-novice-gapminder-data.zip](https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip).
-1.     Please see [the setup instructions](https://swcarpentry.github.io/python-novice-gapminder/setup.html) for details.
+1. Learners need to understand what files and directories are, what a working directory is, and how to start a Python interpreter.
+1. Learners must install Python before the class starts.
+1. Learners must get the gapminder data before class starts: please download and unzip the file [python-novice-gapminder-data.zip](https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip).
+1. Please see [the setup instructions](https://swcarpentry.github.io/python-novice-gapminder/setup.html) for details.
 
 
 ### Requirements:
