@@ -4,15 +4,8 @@ _site/
 .jekyll-metadata
 _courses/course materials chat page and join links for courses.txt
 _courses/video transcript and slides links.txt
-about/policies/accessibility-new-start-point.md
-about/policies/accessibility-new.md
 Gemfile.lock
-_courses/20xxxx-archer2-webinar-skeleton.txt
-_courses/200000-skeleton.md
-_courses/20xxxx-webinar-skeleton.md
-_courses/21xxxx-webinar-skeleton.md
-_courses/21xxxx-archer2-webinar-skeleton.txt
-_posts/2021-00-00-skeleton.md
-_posts/2021-99-99-skeleton.md
 .DS_Store
 _courses/220000-skeleton.md
+_posts/2022-99-99-skeleton.md
+_courses/22xxxx-webinar-skeleton.md
