@@ -13,7 +13,7 @@ categories: [news]
 - [Recently added Known Issues](#recently-added-known-issues)
 - [Upcoming ARCHER2 training](#upcoming-archer2-training)
 
-
+<!--more-->
  
 
 ## Efficient use of the HPE Cray EX Supercomputer ARCHER2
