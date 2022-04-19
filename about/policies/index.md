@@ -17,3 +17,4 @@ These policies form an integrated whole, based on the Terms and Conditions of Ac
 * [Diversity and Inclusion Policy](diversity-inclusion.html)
 * [Code of Conduct](code-of-conduct.html)
 * [Training Privacy Statement](../../training/code-of-conduct/training-privacy.html)
+* [Face-to-face Training Policy](f2f-training)
