@@ -5,21 +5,20 @@ summary: Details of open calls
 banner: web_banners_06.jpg
 ---
 
-<img src="eCSE06-timeline.png" alt="eCSE06 Timeline"
-	title="eCSE06 Timeline" width="925"/>
+<img src="eCSE07-timeline.png" alt="eCSE07 Timeline"
+	title="eCSE07 Timeline" width="925"/>
 	
 A timetable of recent, current and upcoming calls can be found [here](timetable.html).
 
-### The 6th ARCHER2 eCSE call
+### The 7th ARCHER2 eCSE call
 
-The 6th ARCHER2 eCSE call (ARCHER2 eCSE06) opened on the 7 December 2021. The deadline for submitting documents for technical evaluations was **16:00 on 22 February 2022**, with the final deadline for proposal submission being **16:00 on 15 March 2022**.
+The 7th ARCHER2 eCSE call (ARCHER2 eCSE07) opened on the 19 April 2022. The deadline for submitting documents for technical evaluations iss **16:00 on 24 May 2022**, with the final deadline for proposal submission being **16:00 on 14 June 2022**.
 
 Through a series of regular calls, Embedded CSE (eCSE) support
 provides funding to the ARCHER2 user community to develop software in
 a sustainable manner, to run on the ARCHER2 system.
 
-Funding will enable the employment of a Research Software Engineer
-(RSE) to work specifically on the relevant software to enable new
+Funding will enable the employment of an RSE (a Research Software Engineer, postdoc or equivalent) to work specifically on the relevant software to enable new
 features or improve the performance of the code. Proposals may request
 effort from between 1 and 12 person months (inclusive).
 
@@ -46,10 +45,10 @@ is made clear in the proposal. Please see the guidance document for
 further information about this.
 
 Please follow the links here for [the guidance for submitting a
-proposal](ARCHER2_eCSE06_ApplicationGuidance.pdf) to this call, along
+proposal](ARCHER2_eCSE07_ApplicationGuidance.pdf) to this call, along
 with [the technical evaluation
-form](ARCHER2_eCSE06_TechnicalEvaluation.docx) and [the project
-proposal template](ARCHER2_eCSE06_ProposalTemplate.docx). Each call
+form](ARCHER2_eCSE07_TechnicalEvaluation.docx) and [the project
+proposal template](ARCHER2_eCSE07_ProposalTemplate.docx). Each call
 has its own guidance document and associated forms. Please ensure that the
 correct guidance and forms are used for this call.
 
@@ -123,7 +122,7 @@ upcoming training course can be found [here](../../training/).
 ### Application and Review Process
 
 Information and guidelines on how to apply for eCSE funding can be
-found [here](ARCHER2_eCSE06_ApplicationGuidance.pdf). Proposals
+found [here](ARCHER2_eCSE07_ApplicationGuidance.pdf). Proposals
 undergo a two-stage process. A technical evaluation is performed first
 with completed forms being passed back to applicants in time for
 including in the final submission. After final submission, all
@@ -132,10 +131,10 @@ forms, will then be passed to the review panel who will make decisions
 on ranking and any award of funding.
 
 The eCSE technical evaluation form can be found
-[here](ARCHER2_eCSE06_TechnicalEvaluation.docx) and should be
+[here](ARCHER2_eCSE07_TechnicalEvaluation.docx) and should be
 submitted to the ARCHER service desk
 [support@archer2.ac.uk](mailto:support@archer2.ac.uk). The proposal
-template can be found [here](ARCHER2_eCSE06_ProposalTemplate.docx) and
+template can be found [here](ARCHER2_eCSE07_ProposalTemplate.docx) and
 should be submitted via the [ARCHER2
 SAFE](https://safe.epcc.ed.ac.uk/) together with the completed
 Technical Evaluation document.
@@ -179,11 +178,11 @@ The ARCHER2 CSE team can be contacted via the ARCHER2 service desk [support@arch
 
 ### Links and documents
 
-* [Application Guidance](ARCHER2_eCSE06_ApplicationGuidance.pdf)
+* [Application Guidance](ARCHER2_eCSE07_ApplicationGuidance.pdf)
 
-* [Technical evaluation form](ARCHER2_eCSE06_TechnicalEvaluation.docx)
+* [Technical evaluation form](ARCHER2_eCSE07_TechnicalEvaluation.docx)
 
-* [Project Proposal template](ARCHER2_eCSE06_ProposalTemplate.docx)
+* [Project Proposal template](ARCHER2_eCSE07_ProposalTemplate.docx)
 
 * [eCSE projects funded](../panels/)
 
