@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: Thursday 28th April 2022  15:00 - 16:00 BST
 start_date: 2022-04-28 15:00:00
 end_date: 2022-04-28 16:00:00
-trainers: Chris Johnston
+trainers: Chris Johnson
 course_type: vt
 registration_status:
 registration_url:
