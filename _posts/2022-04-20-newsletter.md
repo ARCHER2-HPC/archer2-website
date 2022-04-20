@@ -67,7 +67,7 @@ Further details <https://www.archer2.ac.uk/training/#upcoming-training>
 
 The [FHI-aims](https://fhi-aims.org) electronic structure theory code is now available on ARCHER2. Version 210716.3 has been installed and can be accessed by using the command:
 
-` module load fhiaims`
+    module load fhiaims
 
 Note, you will need to [request access to FHI-aims through SAFE](https://epcced.github.io/safe-docs/safe-for-users/#how-to-request-access-to-a-package-group) as its use is restricted to users who have been approved for access by the developers. See the [FHI-aims website](https://fhi-aims.org) for information on how to register for access.
  
