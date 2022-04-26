@@ -18,13 +18,13 @@ In addition to the eCSE webinar, we would like to invite you to this workshop wh
 
 ## Timetable
 
-- 09:30 – 10:00 Welcome and Overview of proposal form in the SAFE
-- 10:00 – 10:20 Project staffing, costings and travel
-- 10:20 – 10:40 Technical Evaluation document
-- 10:40 – 11:00 Proposal document
-- 11:00 – 11:30 Break
-- 11:30 – 11:45 Examples of projects
-- 11:45 – 12:30 Tips, Summary, Questions
+- 09:30 – 10:00 Welcome and Overview of proposal form in the SAFE 
+- 10:00 - 10:20 Examples of projects 
+- 10:20 – 10:40 Technical Evaluation document 
+- 10:40 – 11:00 Project staffing, costings and travel 
+- 11:00 – 11:30 Break 
+- 11:30 – 11:50 Proposal document 
+- 11:50 – 12:30 Tips, Summary, Questions
 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
