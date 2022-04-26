@@ -14,13 +14,11 @@ location_url:
 prace_course: false
 ---
 
- Please note the later-than-usual start time of **16:00 BST**
-
 
 EPCC has been dealing with things related to HPC for 32 years. In preparation for this talk, I have been pestering my EPCC colleagues for their best tips and advice for using HPC facilities and have collated them into a nice list of O(10) tips to share with you. I've tried to cover both "tips we'd wished we knew when starting" and more advanced and obscure tips.
 
 
-
+<!--
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
@@ -48,27 +46,27 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/Siy-_XY9Y9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
 
-<!--
+
+
 
 <section id="service">
   <div class="container">
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -77,11 +75,11 @@ This online session is open to all. It will use the Blackboard Collaborate platf
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+           href="Top_10_HPC_Tips.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
@@ -90,4 +88,4 @@ This online session is open to all. It will use the Blackboard Collaborate platf
     </div>
   </div>
 </section>
--->
+
