@@ -7,7 +7,7 @@ start_date: 2022-04-26 09:30:00
 end_date: 2022-04-27 16:30:00
 trainers: Kevin Stratford EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1369/  
 location: EPCC, Bayes Centre, University of Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/epcc
@@ -156,7 +156,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -175,7 +175,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
