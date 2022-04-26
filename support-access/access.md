@@ -96,7 +96,8 @@ A list of any currently open calls through which you can apply for access to ARC
 
 <a id="driving-test"></a>
 ### ARCHER2 Driving Test
-A small allocation for new ARCHER2 users to get them started using the ARCHER2 Service.  Further details on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
+
+A small allocation (800 CU) for new ARCHER2 users to get them started using the ARCHER2 Service.  Further details on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
 
 
 <a id="pump-priming"></a>
