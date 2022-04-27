@@ -14,7 +14,7 @@ location_url:
 prace_course: false
 ---
 
-Through a series of regular calls, Embedded CSE (eCSE) support provides funding to the ARCHER2 user community to develop software in a sustainable manner to improve research on the ARCHER2 service. The funding allows the employment of a Research Software Engineer (RSE) to carry out software development of ARCHER2 software within the EPSRC remits. Calls are issued 3 times per year.
+Through a series of regular calls, [Embedded CSE (eCSE) support](https://www.archer2.ac.uk/ecse/calls/) provides funding to the ARCHER2 user community to develop software in a sustainable manner to improve research on the ARCHER2 service. The funding allows the employment of a Research Software Engineer (RSE) to carry out software development of ARCHER2 software within the EPSRC remits. Calls are issued 3 times per year.
 
 The [seventh eCSE call](https://www.archer2.ac.uk/ecse/calls/) is presently open and closes at 16:00 on 14th June 2022 with technical evaluation documents due to the service desk by 16:00 on 24th May 2022.
 
