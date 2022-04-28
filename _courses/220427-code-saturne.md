@@ -7,7 +7,7 @@ start_date: 2022-04-27 13:15:00
 end_date: 2022-04-28 12:30:00
 trainers: Charles Moulinec (STFC,DL,SC), Juan Uribe (EDF)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1371/registrations/1016/
 location: Online
 location_url:
@@ -106,7 +106,7 @@ This course is organised by CCP-NTH/UKTC in association with ARCHER2 and PRACE.
 
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -125,7 +125,7 @@ This course is organised by CCP-NTH/UKTC in association with ARCHER2 and PRACE.
       </div>
     </div>
 		
- -->		
+ 		
 
  
 </section>
