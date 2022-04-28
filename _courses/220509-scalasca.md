@@ -30,7 +30,33 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+#### Monday 9 May
+
+**09:30 - 12:30 BST**                                                                                                                                                                                                            
+
+- Introduction to parallel performance engineering
+- Instrumentation & measurement with Score-P
+- Execution profile examination with CUBE
+- Analysis refinement via scoring and measurement filtering
+
+**13:30 - 16:30 BST**
+
+- Guided assistance to apply tools to provided examples or your own application code(s) on Archer2
+
+#### Tuesday 10 May
+
+**09:30 - 12:30 BST**                                                                                                                                                                                                  
+
+- Automated trace collection & analysis with Scalasca
+
+- Score-P specialised measurements & analyses
+
+- Case studies
+
+**13:30 - 16:30 BST**
+
+- Guided assistance to apply tools to provided examples or your own application code(s) on Archer2
+
 
 <section id="service">
 
