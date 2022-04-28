@@ -44,7 +44,15 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+
+- 10:00 - Python
+- 11:30 - Morning break
+- 11:45 - Python
+- 13:00 - Lunch break
+- 14:00 - Python
+- 15:30 - Afternoon break
+- 15:45 - Python
+- 17:00 - END
 
 <section id="service">
 
