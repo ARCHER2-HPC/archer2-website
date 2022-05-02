@@ -2,7 +2,7 @@
 layout: course
 title:  eCSE Tutorial - Preparing an eCSE Proposal
 banner: web_banners_05.jpg
-human_dates: Wednesday 10th May 2022  09:30-12:30 BST 
+human_dates: Tuesday 10th May 2022  09:30-12:30 BST 
 start_date: 2022-05-10 09:30:00
 end_date: 2022-05-10 12:30:00
 trainers: Chris Johnson and Lorna Smith EPCC
