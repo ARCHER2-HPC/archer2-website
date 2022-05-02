@@ -165,7 +165,7 @@ lists all current open known issues including a description of the issue, its sy
 - Plotting and Programming with Python, Online, 28 April 2022 10:00 - 17:00 BST
 - eCSE Webinar, Online, Thursday 28th April 2022 15:00 - 16:00 BST 
 - Performance Analysis Workshop (Scalasca), Online, 9 - 10 May 2022 09:30 - 16:30 BST
-- eCSE Tutorial - Preparing an eCSE Proposal , Online, Wednesday 10th May 2022 09:30-12:30 BST
+- eCSE Tutorial - Preparing an eCSE Proposal , Online, Tuesday 10th May 2022 09:30-12:30 BST
 
 
 Further details [https://www.archer2.ac.uk/training/#upcoming-training](https://www.archer2.ac.uk/training/#upcoming-training)
