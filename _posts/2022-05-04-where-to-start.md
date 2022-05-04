@@ -2,14 +2,14 @@
 layout: post
 title:  Getting started using ARCHER2 and HPC
 date: 2022-05-04 10:00:00
-author: Clair Barrass EPCC
+author: EPCC
 tags: [blog] 
 categories: [news]
 ---
 
 
 
-As a member of the [Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html) team, I'm pleased to say that I've helped more than a few people get from 'zero' to 'HPC whizz', so here I summarise some of the Frequently Asked Questions and helpful hints that have passed across my screen.
+The [Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html) team have helped more than a few people get from 'zero' to 'HPC whizz', so here we summarise some of the Frequently Asked Questions and helpful hints that have passed through the desk.
 
 <!--more-->
 
