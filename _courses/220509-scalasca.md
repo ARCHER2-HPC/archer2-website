@@ -28,7 +28,9 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 They are also required to abide by the [ARCHER2  Code of Conduct](../../../about/policies/code-of-conduct.html). 
 
 
-#### Timetable:
+### Timetable:
+
+
 
 #### Monday 9 May
 
@@ -143,7 +145,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -162,7 +164,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
