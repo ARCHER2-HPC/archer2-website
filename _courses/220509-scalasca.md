@@ -7,7 +7,7 @@ start_date: 2022-05-09 09:30:00
 end_date: 2022-05-10 16:30:00
 trainers: Brian Wylie and Christian Feld (Juelich)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1384/registrations/1029/
 location: Online
 location_url:
@@ -34,10 +34,10 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 **09:30 - 12:30 BST**                                                                                                                                                                                                            
 
-- Introduction to parallel performance engineering
-- Instrumentation & measurement with Score-P
-- Execution profile examination with CUBE
-- Analysis refinement via scoring and measurement filtering
+- [Introduction to parallel performance engineering](Intro.pdf)
+- [Instrumentation & measurement with Score-P](Score-P_basic.pdf)
+- [Execution profile examination with CUBE](Cube.pdf)
+- [Analysis refinement via scoring and measurement filtering](Score-P_filtering.pdf)
 
 **13:30 - 16:30 BST**
 
@@ -47,9 +47,9 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 **09:30 - 12:30 BST**                                                                                                                                                                                                  
 
-- Automated trace collection & analysis with Scalasca
+- [Automated trace collection & analysis with Scalasca](Scalasca.pdf)
 
-- Score-P specialised measurements & analyses
+- [Score-P specialised measurements & analyses](Score-P_special.pdf)
 
 - Case studies
 
@@ -60,22 +60,58 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-scalasca-2022-05-09">
-          <strong>Course materials</strong>         
+          href="Intro.pdf">
+          <strong>Introduction to parallel performance engineering</strong>         
         </a>
       </div>
- -->
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Score-P_basic.pdf">
+          <strong>Instrumentation & measurement with Score-P</strong>         
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Cube.pdf">
+          <strong>Execution profile examination with CUBEs</strong>         
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Score-P_filtering.pdf">
+          <strong>Analysis refinement via scoring and measurement filtering</strong>         
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Scalasca.pdf">
+          <strong>Automated trace collection & analysis with Scalasca</strong>         
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Score-P_special.pdf">
+          <strong>Score-P specialised measurements & analyses</strong>         
+        </a>
+      </div>
+
+
+
 
 <!--  
       <div class="col-xs-6 col-sm-4">
