@@ -18,6 +18,7 @@ In addition to the [eCSE webinar](https://www.archer2.ac.uk/training/courses/220
 
 Full details of the call: <https://www.archer2.ac.uk/ecse/calls/>
 
+<!--
 ## Timetable
 
 - 09:30 – 10:00 Welcome and Overview of proposal form in the SAFE 
@@ -27,13 +28,15 @@ Full details of the call: <https://www.archer2.ac.uk/ecse/calls/>
 - 11:00 – 11:30 Break 
 - 11:30 – 11:50 Proposal document 
 - 11:50 – 12:30 Tips, Summary, Questions
-
+-->
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
 
 <section id="service">
+
+<!--
 
   <div class="row ">	
 
@@ -56,19 +59,19 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/G-Jc1G9HKrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 <!--
 
