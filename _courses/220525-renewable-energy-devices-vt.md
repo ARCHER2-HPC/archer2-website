@@ -2,7 +2,7 @@
 layout: course
 title: A CFD tool for the simulation of renewable energy devices using GPU accelerated hardware
 banner: web_banners_05.jpg
-human_dates: Wednesday 25th May 2022  15:00 - 16:00 
+human_dates: Wednesday 25th May 2022  15:00 - 16:00 BST
 start_date: 2022-05-25 15:00:00
 end_date: 2022-05-25 16:00:00
 trainers: Bonaventura Tagliafierro, University of Salerno 
