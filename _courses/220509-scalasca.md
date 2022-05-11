@@ -114,6 +114,15 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+          href="">
+          <strong>Course material and code</strong><br>
+			Available to download from <br>
+			ARCHER2 /work/y23/shared/tutorial/         
+        </a>
+      </div>
+
 
 <!--  
       <div class="col-xs-6 col-sm-4">
