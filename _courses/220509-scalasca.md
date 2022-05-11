@@ -159,14 +159,12 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 <h3>Day 2 Session 2</h3>
 
-To follow
 
-<!--
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/bCWD77uKzQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
--->
+
 
 
 
