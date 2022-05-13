@@ -6,8 +6,18 @@ banner: web_banners_05.jpg
 ---
 
 
+## Directions
 
-The training room is in the hospital outpatients building.
+The training room is in the Western General Hospital Outpatients Building.
+
+Turn right on the 3rd floor and go through the double doors, it's straight ahead.
+
+Computing Lab 1<br>
+Medical Education Centre<br>
+3rd Floor Outpatients Building<br>
+Western General Hospital
+
+
 
 
 ## Address
