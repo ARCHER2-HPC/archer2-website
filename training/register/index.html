@@ -171,6 +171,37 @@ appropriate registration link in the table on the
 <input type="text" id="organisation" name="organisation" value="" maxlength="80" size="40" onchange="javascript:formChange()"  />
 </p>
 
+
+<p>
+<label for="city"><strong>City *</strong> <i>Name of city where your institution/organisation is located</i></label><br />
+<input required type="text" id="city" name="city" value="" maxlength="80" size="40" onchange="javascript:formChange()"  />
+</p>
+
+
+<p><label for="region"><strong>Please select the <a href="https://simple.wikipedia.org/wiki/Regions_of_England" title="UK Regions map" alt="UK Regions map" target="_blank">region</a> where your institution/organisation is located: *</strong></label><br />
+<select required id="region" name="region">
+  <option value="Not selected">Please select:</option>
+  <option value="L">London UK</option>
+	<option value="SE">South East UK</option>
+	<option value="SW">South West UK</option>	
+	<option value="WM">West Midlands UK</option>
+	<option value="NW">North West UK</option>
+	<option value="NE">North East UK</option>
+	<option value="YH">Yorkshire and the Humber UK</option>
+	<option value="EM">East Midlands UK</option>
+	<option value="EE">East of England UK</option>
+	<option value="Wales">Wales UK</option>
+	<option value="Scot">Scotland UK</option>
+	<option value="NI">Northern Ireland UK</option>
+	<option value="EU">Europe (Not UK)</option>
+	<option value="World">Rest of world (Not UK or Europe)</option>
+</select>
+</p>
+
+
+
+
+
 <p><label for="sector"><strong>Please select your Institution sector:</strong></label><br />
 <select id="sector" name="sector">
   <option value="Not selected">Please select:</option>
