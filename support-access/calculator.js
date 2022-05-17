@@ -162,12 +162,10 @@ function calculateCUs(set) {
    // Calculate the number of CUs this job will use
    var cus = nnode * time * cuRate;
    search = "#cus" + set;
-   $(search).text(cus.toFixed(0));
+   $(search).text(cus.toFixed(2));
 
    // Calculate the notional cost of this job
    var cost = cus * cuCost;
-   console.log(cus)
-   console.log(cuCost)
    search = "#cost" + set;
    $(search).text(cost.toFixed(2));
 

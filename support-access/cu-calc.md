@@ -115,7 +115,7 @@ of the ARCHER Technical Assessment Form and also for the cost associated with AR
 use in the Je-S submission system.</p>
 
 <div style="padding: 10px; border: 3px double black;">
-<p>Total 'Computing Resource (CU)' for these jobs = <strong id="totCUs"></strong></p>
+<p>Total 'Computing Resource (CU)' for these jobs = <strong id="totCUs"></strong> (rounded to whole CU)</p>
 <p>Total 'Notional Costs' for these jobs = &pound;<strong id="totCost"></strong></p>
 </div>
 
