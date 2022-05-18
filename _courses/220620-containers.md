@@ -54,28 +54,38 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+- [Day 1 Timetable](https://epcced.github.io/2022-06-20_docker_edi-wg/#schedule)
+- [Day 2 Timetable](https://epcced.github.io/2022-06-21_singularity_edi-wg/#schedule)
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
-          <strong>Course materials</strong>         
+          href=" https://epcced.github.io/2022-06-20_docker_edi-wg/  ">
+          <strong>Course materials</strong><br> Day 1 <br> Introduction to Docker       
         </a>
       </div>
- -->
 
-<!--  
+		
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="https://epcced.github.io/2022-06-21_singularity_edi-wg/ ">
+          <strong>Course materials</strong>  <br> Day 2  <br> Introduction to Singularity      
+        </a>
+      </div>
+
+
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/220620-containers">
@@ -83,7 +93,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
