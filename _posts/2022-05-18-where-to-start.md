@@ -58,18 +58,15 @@ https://docs.archer2.ac.uk/user-guide/scheduler/)
 
 ## Further help
 
-We have recorded some useful webinars and training courses which cover different uses of ARCHER2; you can work through the materials and watch the videos:
+We have recorded some introductory training courses which cover different uses of ARCHER2 and a couple of useful webinars; you can work through the materials and watch the videos:
 
-- [The Hitchhikers' Guide to ARCHER2](https://www.archer2.ac.uk/training/courses/220302-hitchhikers-guide/): An hour-long guided walk through ARCHER2, what it is and how to use it
+
 - [ARCHER2 for Package users](https://www.archer2.ac.uk/training/courses/211202-package-users/): A day-long course on how to use ARCHER2 and use software packages
 - [ARCHER2 for Data Scientists](https://www.archer2.ac.uk/training/courses/220228-data-scientists/): A day-long course on how to use ARCHER2 and use data tools
-- [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/220131-software-developers/): A day-long course on writing and maintaining your own software code
+- [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/220131-software-developers/): A day-long course on writing and maintaining your own software code<br><br>
+- [The Hitchhikers' Guide to ARCHER2](https://www.archer2.ac.uk/training/courses/220302-hitchhikers-guide/): An hour-long guided walk through ARCHER2, what it is and how to use it
 - [Top 10* tips for using HPC](https://www.archer2.ac.uk/training/courses/220426-top-10-tips-vt/): A short webinar of top tips from the EPCC CSE team
 
-
-## Other training available
-
-We offer a comprehensive range of HPC related training throughout the year and you can see our [available upcoming courses](https://www.archer2.ac.uk/training/#upcoming-training), and also make use of any of the [materials and recordings of previous courses](https://www.archer2.ac.uk/training/materials/). There is also an [overview of our training curriculum](https://www.archer2.ac.uk/training/courses/).
 
 ## ARCHER2 Driving Test
 
@@ -77,9 +74,16 @@ The [ARCHER2 Driving Test](https://www.archer2.ac.uk/training/driving-test.html)
 
 Many PI's encourage new users to take the [Driving Test](https://www.archer2.ac.uk/training/driving-test.html) including working through some of the above information, to prepare for using the machine.  And once you have passed the test, you may be eligible to apply for a machine account on ARCHER2 to put your knowledge into practice.
 
+
 ## Other Access routes to obtain time on ARCHER2
 
 For those who are proposing a project using HPC and wish to apply for time on ARCHER2 we summarise all the access routes and publicise open calls on our [Access page](https://www.archer2.ac.uk/support-access/access.html)
+
+
+## Other training available
+
+We offer a comprehensive range of HPC related training throughout the year and you can see our [available upcoming courses](https://www.archer2.ac.uk/training/#upcoming-training), and also make use of any of the [materials and recordings of previous courses](https://www.archer2.ac.uk/training/materials/). There is also an [overview of our training curriculum](https://www.archer2.ac.uk/training/courses/).
+
 
 ## Flow-chart summary of links to help and support
 
