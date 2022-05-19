@@ -7,7 +7,7 @@ start_date: 2022-06-29 09:30:00
 end_date: 2022-06-30 17:00:00
 trainers: David Henty EPCC
 course_type: course
-registration_status: open
+registration_status: hidden
 registration_url: https://events.prace-ri.eu/event/1403/registrations/1044/
 location: Online
 location_url:
