@@ -270,12 +270,12 @@ queuing as it did running.
 
 ### Software usage data
 
-Plot and table of % use and job size statistics for different software on ARCHER2 for {{ period.date | date: "%b %Y" }}.
+Plot and table of % use and job step size statistics for different software on ARCHER2 for {{ period.date | date: "%b %Y" }}.
 This data is also [available as a CSV file]({{ period.base_url }}/{{ period.code_usage_data }}).
 
 <img width="60%" src="{{ period.base_url }}/{{ period.code_usage_plot }}" alt="Plot of usage by different software" />
 
-This table shows job size statistics weighted by usage, total number of job steps and percent usage broken
+This table shows job step size statistics in cores weighted by usage, total number of job steps and percent usage broken
 down by different software for {{ period.date | date: "%b %Y" }}.
 
 {% include_relative size-tables/{{ period.code_usage_table }} %}
