@@ -263,7 +263,7 @@ is available at the end of the section.
 ### Queue length data
 
 The colour indicates scheduling coefficient which is computed as [run time] divided by [run time + queue time]. A scheduling
-coefficient of 0 indicates that there was zero time queuing, a scheduling coefficient of 0.5 means that the job spent as long
+coefficient of 1 indicates that there was zero time queuing, a scheduling coefficient of 0.5 means that the job spent as long
 queuing as it did running.
 
 <img width="60%" src="{{ period.base_url }}/{{ period.sc_heatmap }}" alt="Heatmap of scheduling coefficient job size versus job length" />
