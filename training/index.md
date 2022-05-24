@@ -161,14 +161,14 @@ Courses marked ![PRACE](img/prace_25.jpg) are also funded by
 
 We normally charge a fee for non-academics. If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
 
-## ARCHER2 year two planned courses
+## ARCHER2 year three planned courses
 
 
 Provisional schedule of planned courses.  Brief details of the courses can be found on the [Course Descriptions page](courses/).
 
-| November 2021 - January 2022 | February - April 2022 |
-| --- | --- |
-| ARCHER2 for Data Scientists<br> Data Carpentry<br>HPC Carpentry<br>ARCHER2 for Developers<br>Introduction to GROMACS<br>Reproducible computational environments using containers<br>Scientific Programming with Python<br>Modern Fortran<br>Efficient Parallel IO<br> | Advanced use of LAMMPS <br> Data Analytics with HPC <br> Software Carpentry<br>Understanding Package Performance<br>ARCHER2 for Data Scientists<br>ARCHER2 for Developers<br>ARCHER2 for Package Users<br>Advanced use of Code_Saturne<br>Message Passing Programming with MPI<br>Efficient use of the HPE Cray EX System<br> |
+| May - July 2022 | August - October 2022 | November 2022 - January 2023 |
+| --- | --- | --- |
+| Reproducible computational environments using containers <br>  Data Carpentry<br>Plotting and Programming in Python <br>HPC Carpentry <br> | Modern C++ for Computational Scientists <br>Software Carpentry <br>ARCHER2 for Data Scientists <br>ARCHER2 for Developers <br>ARCHER2 for Package Users <br>Parallel Python for Data Analysis <br>Introduction to Package (tbc) <br>Introduction to OpenMP  <br>Efficient Parallel IO <br>Performance Optimisation on AMD EPYC | Data Carpentry	 <br>HPC Carpentry	 <br>Introduction to package (tbc)	 <br>Reproducible computational environments using containers	 <br>Advanced OpenMP	 <br>Advanced use of package (tbc)	 <br>Scientific Programming with Python	 <br>Modern Fortran |
 
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
