@@ -19,12 +19,13 @@ A CFD tool for the simulation of renewable energy devices using GPU accelerated 
 
 Dr. Madjid Karimirad (Queen’s University Belfast, UK) and I are carrying out a research project that will contribute to the improvement of design guidelines for the numerical modelling of offshore moored structures to produce renewable energy. We have been simulating an emblematic structure, a tension-leg platform (TLP) wind turbine. The paper proposes the results of the numerical testing campaign that has been performed to validate the numerical model as designed with the open-source DualSPHysics code. The Smoothed Particle Hydrodynamics (SPH) solver implementation that is used to simulate the TLP wind turbine comprises a highly parallelized structure that can leverage the high number of CUDA cores that are embedded in Nvidia GPU cards. The validation campaign is designed with this feature in mind since the allocated resources comprised the use of GPU-accelerated computing nodes available in Cirrus UK National Tier-2 HPC Service at EPCC (36 nodes × 4 NVIDIA V100s (16 GB RAM)). 
 
-This online session is open to all. It will use the Blackboard Collaborate platform.
+
 
 
 
 <section id="service">
 
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -46,19 +47,19 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/6ijmOC6UXp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 <!--
 
