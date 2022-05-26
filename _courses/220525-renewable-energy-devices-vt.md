@@ -61,13 +61,13 @@ Dr. Madjid Karimirad (Queen’s University Belfast, UK) and I are carrying out a
 
 
 
-<!--
+
 
 <section id="service">
   <div class="container">
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -76,11 +76,11 @@ Dr. Madjid Karimirad (Queen’s University Belfast, UK) and I are carrying out a
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+           href="Presentation_Archer2.pdf.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
@@ -89,4 +89,4 @@ Dr. Madjid Karimirad (Queen’s University Belfast, UK) and I are carrying out a
     </div>
   </div>
 </section>
--->
+
