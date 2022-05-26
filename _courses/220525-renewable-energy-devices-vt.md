@@ -80,7 +80,7 @@ Dr. Madjid Karimirad (Queen’s University Belfast, UK) and I are carrying out a
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="Presentation_Archer2.pdf.pdf">
+           href="Presentation_Archer2.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
