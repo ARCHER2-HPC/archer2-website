@@ -7,6 +7,7 @@ tags: [newsletters]
 categories: [news]
 ---
 
+- [ARCHER2 Platinum Jublilee Holiday](#archer2-platinum-jublilee-holiday)
 - [ARCHER2 Reservations via SAFE](#archer2-reservations-via-safe)
 - [ARCHER2 Changes to default versions of CASTEP, ONETEP, VASP6](#changes-to-default-versions-of-castep-onetep-vasp6)
 - [ARCHER2 Annual User Survey 2021-22](#archer2-annual-user-survey-2021-22)
@@ -16,6 +17,11 @@ categories: [news]
 
 <!--more-->
  
+ 
+## ARCHER2 Platinum Jubilee Holidays
+ 
+The ARCHER2 Service Desk will be closed on Thursday 2nd June and Friday 3rd June for the Platinum Jublilee holidays. 
+We will reopen on Monday 6th June at 0800. 
 
 
 ## ARCHER2 Reservations via SAFE
