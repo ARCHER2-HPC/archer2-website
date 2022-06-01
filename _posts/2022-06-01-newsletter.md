@@ -8,7 +8,7 @@ categories: [news]
 ---
 
 - [ARCHER2 Reservations via SAFE](#archer2-reservations-via-safe)
-- [ARCHER2 Changes to default versions of CASTEP, ONETEP, VASP6: Wed 15 June 2022](#changes-to-default-versions-of-castep-onetep-vasp6:-Wed-15-June-2022)
+- [ARCHER2 Changes to default versions of CASTEP, ONETEP, VASP6](#changes-to-default-versions-of-castep-onetep-vasp6)
 - [ARCHER2 Annual User Survey 2021-22](#archer2-annual-user-survey-2021-22)
 - [ARCHER2 Embedded CSE (eCSE) call](#archer2-embedded-cse-ecse-call)
 - [Recently added Known Issues](#recently-added-known-issues)
@@ -27,9 +27,9 @@ Reservations will be charged at 1.5 times the usual CU rate and they will be cha
  
 For more information on reservations, including how to request them through SAFE, see the ARCHER2 User Guide:
  
-## Changes to default versions of CASTEP, ONETEP and VASP 6: Wed 15 June 2022
+## Changes to default versions of CASTEP, ONETEP and VASP 6
  
-We will be updating the default versions of CASTEP, ONETEP and VASP 6 on ARCHER2 to more recent versions:
+On Wednesday 15th June, we will be updating the default versions of CASTEP, ONETEP and VASP 6 on ARCHER2 to more recent versions:
 
 * CASTEP: new default will be 21.1.1 (current default is 20.1.1)
 * ONETEP: new default will be 6.1.9.0-CCE-LibSci (current default is 6.1.3.7)
