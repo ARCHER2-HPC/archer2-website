@@ -8,7 +8,7 @@ categories: [news]
 ---
 
 - [ARCHER2 Reservations via SAFE](#archer2-reservations-via-safe)
-- [ARCHER2 Annual User Survey 2021-22](#changes-to-default-versions-of-castep-onetep-vasp6:-Wed-15-June-2022)
+- [ARCHER2 Changes to default versions of CASTEP, ONETEP, VASP6: Wed 15 June 2022](#changes-to-default-versions-of-castep-onetep-vasp6:-Wed-15-June-2022)
 - [ARCHER2 Annual User Survey 2021-22](#archer2-annual-user-survey-2021-22)
 - [ARCHER2 Embedded CSE (eCSE) call](#archer2-embedded-cse-ecse-call)
 - [Recently added Known Issues](#recently-added-known-issues)
