@@ -48,6 +48,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2022
 
+* [May 2022](monthly/2022/may22_safe.pdf)
 * [April 2022](monthly/2022/apr22_safe.pdf)
 * [March 2022](monthly/2022/mar22_safe.pdf)
 * [February 2022](monthly/2022/feb22_safe.pdf)
