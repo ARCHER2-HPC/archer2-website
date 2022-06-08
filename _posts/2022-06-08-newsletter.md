@@ -71,7 +71,7 @@ lists all current open known issues including a description of the issue, its sy
 - Reproducible computational environments using containers, Western General Campus, Edinburgh, 20 - 21 June 2022 10:00 - 16:00 BST 
 - GPU Programming with CUDA, The Open University, Milton Keynes, 27 June 2022 10:00 - 17:00 BST 
 - Advanced Message-Passing Programming, Online, 29 - 30 June 2022 09:30 - 17:00 GMT
-- Performance of different routing protocols on ARCHER2: OpenFabrics and UCX, Online, Wednesday 17th July 2022 15:00 - 16:00 BST 
+- Performance of different routing protocols on ARCHER2: OpenFabrics and UCX, Online, Wednesday 27th July 2022 15:00 - 16:00 BST 
 
 
 Further details [https://www.archer2.ac.uk/training/#upcoming-training](https://www.archer2.ac.uk/training/#upcoming-training)
