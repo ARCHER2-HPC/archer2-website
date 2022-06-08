@@ -2,7 +2,7 @@
 layout: course
 title: Performance of different routing protocols on ARCHER2&colon; OpenFabrics and UCX
 banner: web_banners_05.jpg
-human_dates: Wednesday 17th July 2022  15:00 - 16:00 BST
+human_dates: Wednesday 27th July 2022  15:00 - 16:00 BST
 start_date: 2022-07-27 15:00:00
 end_date: 2022-07-27 16:00:00
 trainers: Andy Turner EPCC
