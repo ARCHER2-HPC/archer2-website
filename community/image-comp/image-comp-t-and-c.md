@@ -24,8 +24,8 @@ banner: web_banners_07.jpg
       attaching your image and/or including the url where we can download your video.</li>
     <li>Entrants may submit up to five entries.</li>
     <li>All entries must demonstrate <strong>"ARCHER/ARCHER2 enabling research"</strong>.</li>
-    <li>Images must be in a digital format (for example jpg).  Ideally 	images should be at a minimum of 300dpi and between a minimum file 		size of 5MB and a maximum file size of 25MB. Images can be downsized   		for submission but winners will be required to provide a   		high-resolution version of their submitted image. Images that   		are nominated for a prize in any other major photo competition   		are not eligible.</li>
-    <li>Videos must be in digital format (for example mp4 or animated .gif).  They should be <b>no more than   		one minute long</b>.  Please also include one still image from the video for use as a cover image. Videos that are nominated for a prize in any other major competition are not eligible.</li>
+    <li>Images must be in a digital format (for example jpg).  Ideally 	images should be at a minimum of 300dpi and between a minimum file 		size of 5MB and a maximum file size of 25MB. Images can be downsized   		for submission but winners will be required to provide a   		high-resolution version of their submitted image. Images that   		are selected for a prize in any other major photo competition   		are not eligible.</li>
+    <li>Videos must be in digital format (for example mp4 or animated .gif).  They should be <b>no more than   		one minute long</b>.  Please also include one still image from the video for use as a cover image. Videos that are selected for a prize in any other major competition are not eligible.</li>
     <li>Winner will be chosen and announced in November 2021 and prizes 	will be awarded thereafter. Winner will be contacted directly by email.</li>
     <li>Winning entrant will be required to supply their image or video in a high-resolution format for print and publicity purposes.</li>
     <li>Entries submitted by disc are not permitted.</li>
