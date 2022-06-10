@@ -2,17 +2,18 @@
 layout: course
 title: Plotting and Programming with Python
 banner: web_banners_05.jpg 
-human_dates: 28 April 2022  10:00 - 17:00  BST
-start_date: 2022-04-28 10:00:00
-end_date: 2022-04-28 17:00:00
-trainers: Juan Herrera
+human_dates: 25 July 2022  10:00 - 17:00  BST
+start_date: 2022-07-25 10:00:00
+end_date: 2022-07-25 17:00:00
+trainers: Michael Bareford EPCC
 course_type: course
-registration_status: closed
-registration_url: https://events.prace-ri.eu/event/1389/ 
+registration_status: open
+registration_url:  https://www.archer2.ac.uk/training/register/?course=220725-plog-prog-python
 location: Online
 location_url:
-prace_course: true
+prace_course: false
 ---
+
 
 **This lesson is an introduction to programming in Python for people with little or no previous programming experience.** It uses plotting as its motivating example. Please note that this lesson uses Python 3.
 
@@ -54,12 +55,13 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 - 15:45 - Python
 - 17:00 - END
 
+
 <section id="service">
 
-
+<!-- 
 
 <h2><a name="materials">Course materials</a></h2>
-
+ -->
 
 
     <div class="row ">	
@@ -71,12 +73,12 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
           <strong>Course materials</strong>         
         </a>
       </div>
-
-
  
+
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/220428-plot-prog-python">
+          href="https://pad.archer2.ac.uk/p/220725-plog-prog-python">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -85,28 +87,25 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  	</div>
 		
 		
-				
+					
 
 
-		
+<!-- 		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/NyiOIWV2WAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-<h3>Session 2</h3>
-
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/nA8y7Sp_hTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+ -->
 
 
 
 
+
+<!-- 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -115,8 +114,8 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-
-		   href="https://events.prace-ri.eu/event/1389/surveys/949"
+           href="../../feedback/?course=220725-plog-prog-python" 
+ 
 
 		>
           <strong>Feedback</strong><br/>
@@ -125,7 +124,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
-		
+ -->		
 
  
 </section>
