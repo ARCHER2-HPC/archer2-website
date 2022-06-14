@@ -30,6 +30,8 @@ This course will not be streamed online and a recording will not be made.
 
 This short course will provide an introduction to GPU computing with CUDA aimed at scientific application programmers. The course will give a background on the difference between CPU and GPU architectures as a prelude to introductory exercises in CUDA programming. The course will discuss the execution of kernels, memory management, and shared memory operations. Common performance issues are discussed and their solution addressed. The course will also cover some of the alternatives to CUDA commonly available (OpenCL, OpenACC, and Kokkos) at the current time.
 
+Templates will be provided to do the practical examples in Python using PyCUDA, although this still requires the computational kernels to be written in C.
+
 > **Note**: this course will not address machine learning or any machine learning frameworks.
 
 #### Learning Outcomes
@@ -68,24 +70,24 @@ Provisional
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/archer-gpu-course   ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/220627-gpu-cuda">
@@ -93,7 +95,7 @@ Provisional
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
