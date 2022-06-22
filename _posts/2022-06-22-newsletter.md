@@ -104,7 +104,7 @@ lists all current open known issues including a description of the issue, its sy
 - Data Carpentry, Online, 18 - 21 July 2022 09:30 - 13:00 BST
 - Plotting and Programming with Python, Online, 25 July 2022 10:00 - 17:00 BST
 - HPC Carpentry, Online, 26 - 27 July 2022 09:30 - 16:00 BST
-- Performance of different routing protocols on ARCHER2: OpenFabrics and UCX, Online, Wednesday 27th July 2022 15:00 - 16:00 BST 
+- Performance of different routing protocols on ARCHER2: OpenFabrics and UCX, Online, Wednesday 20th July 2022 15:00 - 16:00 BST (Note change of date)
 
 
 Further details [https://www.archer2.ac.uk/training/#upcoming-training](https://www.archer2.ac.uk/training/#upcoming-training)
