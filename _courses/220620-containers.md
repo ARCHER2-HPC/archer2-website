@@ -7,7 +7,7 @@ start_date: 2022-06-20 10:00:00
 end_date: 2022-06-21 16:00:00
 trainers: Andrew Turner, EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=220620-containers
 location: Western General Campus, Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/western-general
