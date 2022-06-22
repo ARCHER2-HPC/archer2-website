@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20220608T091846Z
+DTSTAMP:20220622T095921Z
 UID:1654679910017-52546@ical.marudot.com
-DTSTART;TZID=Europe/London:20220727T150000
-DTEND;TZID=Europe/London:20220727T160000
+DTSTART;TZID=Europe/London:20220720T150000
+DTEND;TZID=Europe/London:20220720T160000
 SUMMARY:ARCHER2 Webinar: Performance of different routing protocols on ARCHER2: OpenFabrics and UCX
-DESCRIPTION:Join link: https://eu.bbcollab.com/guest/cdeb4fe773e54f95af870cdd90e73f2a\n\nEvent page: https://www.archer2.ac.uk/training/courses/220727-routing-protocols-vt/
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/cdeb4fe773e54f95af870cdd90e73f2a\n\nEvent page: https://www.archer2.ac.uk/training/courses/220720-routing-protocols-vt/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ARCHER2 Webinar: Performance of different routing protocols on ARCHER2: OpenFabrics and UCX
