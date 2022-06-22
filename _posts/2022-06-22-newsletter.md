@@ -67,6 +67,7 @@ The workshop will cover:
 - Continuation of R: Data analysis and Visualization.
 - Data Management with SQL.
 
+Full details and registration: <https://www.archer2.ac.uk/training/courses/220718-data-carpentry/>
 
 
 ## ARCHER2 Annual User Survey 2021-22
