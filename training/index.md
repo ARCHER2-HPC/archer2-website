@@ -168,7 +168,7 @@ Provisional schedule of planned courses.  Brief details of the courses can be fo
 
 | May - July 2022 | August - October 2022 | November 2022 - January 2023 |
 | --- | --- | --- |
-| Reproducible computational environments using containers <br>  Data Carpentry<br>Plotting and Programming in Python <br>HPC Carpentry <br> | Modern C++ for Computational Scientists <br>Software Carpentry <br>ARCHER2 for Data Scientists <br>ARCHER2 for Developers <br>ARCHER2 for Package Users <br>Parallel Python for Data Analysis <br>Introduction to Package (tbc) <br>Introduction to OpenMP  <br>Efficient Parallel IO <br>Performance Optimisation on AMD EPYC | Data Carpentry	 <br>HPC Carpentry	 <br>Introduction to package (tbc)	 <br>Reproducible computational environments using containers	 <br>Advanced OpenMP	 <br>Advanced use of package (tbc)	 <br>Scientific Programming with Python	 <br>Modern Fortran |
+| Reproducible computational environments using containers  | Modern C++ for Computational Scientists <br>Software Carpentry <br>ARCHER2 for Data Scientists <br>ARCHER2 for Developers <br>ARCHER2 for Package Users <br>Parallel Python for Data Analysis <br>Introduction to Package (tbc) <br>Introduction to OpenMP  <br>Efficient Parallel IO <br>Performance Optimisation on AMD EPYC | Data Carpentry	 <br>HPC Carpentry	 <br>Introduction to package (tbc)	 <br>Reproducible computational environments using containers	 <br>Advanced OpenMP	 <br>Advanced use of package (tbc)	 <br>Scientific Programming with Python	 <br>Modern Fortran |
 
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
