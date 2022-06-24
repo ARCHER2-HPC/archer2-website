@@ -23,9 +23,10 @@ Travel directions to the Open University Campus in Milton Keynes can be found he
 
 <https://www.open.ac.uk/about/estates/travel-advice/directions-walton-hall-campus>
 	
-Directions to Walton Hall | Estates
+Directions to Walton Hall / Estates
 
 The University has its headquarters at Walton Hall, in Milton Keynes, which is 50 miles north of Central London and just off the M1 motorway, linking to the north of England. Please visit Milton Keynes Council to view an interactive map of Milton Keynes.
+
 <www.open.ac.uk>
 
 
