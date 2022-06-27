@@ -7,7 +7,7 @@ start_date: 2022-06-27 10:00:00
 end_date: 2022-06-27 17:00:00
 trainers: Kevin Stratford EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1401/registrations/1042/  
 location: The Open University, Milton Keynes
 location_url: https://www.archer2.ac.uk/training/locations/open-mk
@@ -117,7 +117,7 @@ Provisional
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -136,7 +136,7 @@ Provisional
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
