@@ -90,7 +90,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
   
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/220629-advanced-mpi">
           <strong>Course Chat</strong>       
         </a>
       </div>
