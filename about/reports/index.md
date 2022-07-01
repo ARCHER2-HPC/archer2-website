@@ -27,6 +27,7 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 
 ###  2022
 
+* [Quarter 2 2022](quarterly/2022/2022_Q2/)
 * [Quarter 1 2022](quarterly/2022/2022_Q1/)
 
 ###  2021
@@ -48,6 +49,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2022
 
+* [June 2022](monthly/2022/jun22_safe.pdf)
 * [May 2022](monthly/2022/may22_safe.pdf)
 * [April 2022](monthly/2022/apr22_safe.pdf)
 * [March 2022](monthly/2022/mar22_safe.pdf)
