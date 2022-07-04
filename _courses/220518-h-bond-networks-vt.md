@@ -28,6 +28,11 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 <section id="service">
 
   <div class="row ">	
+    This session was not recorded.
+  </div>
+
+<!--
+  <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -48,7 +53,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
-
+-->
 
 
 <!--

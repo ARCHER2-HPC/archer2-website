@@ -41,28 +41,39 @@ If you are confident using the bash shell but have any issues with connecting to
 
 #### Timetable:
 
-Details to follow
+[Day 1](https://epcced.github.io/2022-07-26-hpc-shell-online/#schedule)
+
+[Day 2](https://epcced.github.io/2022-07-27-hpc-intro-online/#schedule)
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
-          <strong>Course materials</strong>         
+          href="https://epcced.github.io/2022-07-26-hpc-shell-online/index.html">
+          <strong>Course materials</strong><br> 
+			Day 1: Introduction to the Shell        
         </a>
       </div>
- -->
 
-<!--  
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="  https://epcced.github.io/2022-07-27-hpc-intro-online/ ">
+          <strong>Course materials</strong> <br>
+			Day 2: Introduction to HPC        
+        </a>
+      </div>
+
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/220726-hpc-carpentry">
@@ -70,7 +81,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
