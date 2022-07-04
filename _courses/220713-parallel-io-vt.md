@@ -33,7 +33,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="hhttps://eu.bbcollab.com/guest/c8ac04f82b3840c59db657aed98ca407">
+          href="https://eu.bbcollab.com/guest/c8ac04f82b3840c59db657aed98ca407">
           <strong>Join Session</strong><br/>
           Join this online session in your browser
         </a>
