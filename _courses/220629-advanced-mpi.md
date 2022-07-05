@@ -99,21 +99,52 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  	</div>
 		
 		
-					
+			
 
 
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/QnyCJXsNzdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/gtpPlbtrykw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/cRW0dW4WR6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 4</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/_0oZp2Ck22A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 5</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/-xwDfSY96Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 6</h3>
+
+<div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
-
-
+<h3>Session 7</h3>
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/jqlvogl7RAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
