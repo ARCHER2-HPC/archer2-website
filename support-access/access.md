@@ -80,9 +80,11 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
-		<td>No call currently open.</td>
-		<td> </td>
-		<td>EPSRC remit only. <br/> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. <br> </td>
+		<td>18 October 2022 at 16:00 UK time</td>
+		<td>20 September 2022 at 16:00 UK time </td>
+		<td>EPSRC remit only. <br/> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. <br>
+		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Current call opened 4th July 2022</a>
+		 </td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
 	<tr>
