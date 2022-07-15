@@ -5,5 +5,5 @@ start_date: 2022-07-14 22:00
 end_date: 
 scope: Full ARCHER2 system
 impact: No access to system
-reason: A full power outage affecting large areas of Edinburgh and the Lothians caused ARCHER2 to shut down.  Our team are investigating and will provide updates and restore service as soon as possible.
+reason: A significant power outage affecting large areas of the Lothians caused ARCHER2 to shut down around 10pm on 14th July. <br>Our team are on site and working to restore service as soon as possible. 
 ---
