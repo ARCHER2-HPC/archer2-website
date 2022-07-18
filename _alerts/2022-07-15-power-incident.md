@@ -1,6 +1,6 @@
 ---
 status: Resolved
-type: Unplanned
+type: Issue
 start_date: 2022-07-14 22:00
 end_date: 2022-07-15 13:50
 scope: Full ARCHER2 system
