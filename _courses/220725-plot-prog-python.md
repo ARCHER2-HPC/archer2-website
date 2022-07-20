@@ -7,7 +7,7 @@ start_date: 2022-07-25 10:00:00
 end_date: 2022-07-25 17:00:00
 trainers: Michael Bareford EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url:  https://www.archer2.ac.uk/training/register/?course=220725-plot-prog-python
 location: Online
 location_url:
