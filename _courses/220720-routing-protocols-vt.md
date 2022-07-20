@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Performance of different routing protocols on ARCHER2&colon; OpenFabrics and UCX
+title: Performance of different routing protocols on ARCHER2&colon; OpenFabrics and UCX - POSTPONED - NEW DATE tbc
 banner: web_banners_05.jpg
 human_dates: Wednesday 20th July 2022  15:00 - 16:00 BST <br>(Please note date changed)
 start_date: 2022-07-20 15:00:00
