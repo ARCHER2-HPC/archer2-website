@@ -38,7 +38,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-
+[Schedule](https://github.com/EPCCed/archer2-parallelIO-2022-08-23#timetable-all-times-are-in-bst-gmt1)
 
 <section id="service">
 
