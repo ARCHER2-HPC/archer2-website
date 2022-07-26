@@ -38,28 +38,28 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23   ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/220823-efficient-parallel-io">
@@ -67,7 +67,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
