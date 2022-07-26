@@ -58,10 +58,10 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
@@ -87,21 +87,25 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  	</div>
 		
 		
-					
+				
 
 
-<!-- 		
+ 		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/zGkuiBWTGa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
 
 
+<h3>Session 1</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/VnfYCsQ6OeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
