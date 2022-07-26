@@ -7,7 +7,7 @@ start_date: 2022-07-26 10:00:00
 end_date: 2022-07-27 16:00:00
 trainers: Andy Turner (EPCC), Jeremy Cohen (IC)
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=220726-containers
 location: Imperial College London
 location_url: https://www.archer2.ac.uk/training/locations/imperial
@@ -112,7 +112,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -131,7 +131,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>

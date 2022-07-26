@@ -103,7 +103,6 @@ If you are confident using the bash shell but have any issues with connecting to
 
 
 
-<!-- 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -122,7 +121,7 @@ If you are confident using the bash shell but have any issues with connecting to
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
