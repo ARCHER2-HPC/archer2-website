@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2 for Software Developers
 banner: web_banners_05.jpg 
-human_dates: 1 - 2 September 2022  10:00 - 16:00  GMT
+human_dates: 1 - 2 September 2022  10:00 - 16:00  BST
 start_date: 2022-09-01 10:00:00
 end_date: 2022-09-02 16:00:00
 trainers: William Lucas EPCC
