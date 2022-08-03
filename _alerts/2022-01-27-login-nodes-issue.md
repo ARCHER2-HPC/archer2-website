@@ -1,6 +1,6 @@
 ---
 status: Resolved
-type: Downtime
+type: Issue
 start_date: 2022-01-27 14:30:00
 end_date: 2022-01-27 15:50:00
 scope: Login and data analysis nodes

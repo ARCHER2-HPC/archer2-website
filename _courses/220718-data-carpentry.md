@@ -7,7 +7,7 @@ start_date: 2022-07-18 09:30:00
 end_date: 2022-07-21 13:00:00
 trainers: Juan Herrera EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://events.prace-ri.eu/event/1406/registrations/1046/
 location: Online
 location_url:
@@ -67,25 +67,51 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  	</div>
 		
 		
-					
+			
+https://youtu.be/8zrpR2L3_B4
 
-
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
+
+
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/bU3qnJN8BP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+
+
+<h3>Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ywg6CXCG4sA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/8zrpR2L3_B4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<h3>Session 4</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/hHzviMhHwho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
 
 
-<!-- 
+
+
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -104,7 +130,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>

@@ -7,7 +7,7 @@ start_date: 2022-07-26 10:00:00
 end_date: 2022-07-27 16:00:00
 trainers: Andy Turner (EPCC), Jeremy Cohen (IC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=220726-containers
 location: Imperial College London
 location_url: https://www.archer2.ac.uk/training/locations/imperial
@@ -54,28 +54,35 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+- [Day 1 - Docker](https://imperialcollegelondon.github.io/2022-07-26-containers-docker-Imperial/#schedule) 
+- [Day 2 - Singularity](https://imperialcollegelondon.github.io/2022-07-27-containers-singularity-Imperial/#schedule)
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
-          <strong>Course materials</strong>         
+          href="https://imperialcollegelondon.github.io/2022-07-26-containers-docker-Imperial/   ">
+          <strong>Course materials</strong><br>  Day 1 - Docker       
         </a>
       </div>
- -->
 
-<!--  
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="https://imperialcollegelondon.github.io/2022-07-27-containers-singularity-Imperial/   ">
+          <strong>Course materials</strong><br> Day 2 - Singularity            
+        </a>
+      </div>
+
+
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/220726-containers">
@@ -83,7 +90,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+ 
  	</div>
 		
 		
@@ -105,7 +112,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -124,7 +131,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
