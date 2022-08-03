@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How to prepare a successful Technical Assessment
-date: 2022-07-14 11:00:00
+date: 2022-08-03 14:00:00
 author: Alexei Borissov EPCC
 tags: [blog] 
 categories: [news]
