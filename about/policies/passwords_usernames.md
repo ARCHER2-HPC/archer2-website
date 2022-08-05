@@ -32,8 +32,8 @@ Additionally:
 ## Usernames
 
 Usernames are standardised and the rules governing them are:
-* Must be a maximum of 8 characters in length
-* Only alpha-numeric charcters allowed (no special charcters eg $,@)
+* Must be a maximum of 31 characters in length
+* Only alpha-numeric characters, underscore and hyphen allowed (no special charcters eg $,@)
 * Lowercase only
 * Must start with a letter
 * Must not be the same as a groupname on ARCHER2
