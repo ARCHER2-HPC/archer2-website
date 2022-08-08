@@ -96,7 +96,7 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 </table>
 
-[How to prepare a successful Technical Assessment](https://www.archer2.ac.uk/news/2022/08/03/technical-assessments.html) - a blog with lots of helpful advice on how to complete TA forms.
+[How to prepare a successful Technical Assessment](https://www.archer2.ac.uk/news/2022/08/03/technical-assessments.html) - a blog post with lots of helpful advice on how to complete TA forms.
 
 <a id="driving-test"></a>
 ### ARCHER2 Driving Test
