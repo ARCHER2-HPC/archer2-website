@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 Image and Video Competition 2021
+title: ARCHER2 Image and Video Competition 2022
 summary: Terms and Conditions
 banner: web_banners_07.jpg
 ---
@@ -14,19 +14,19 @@ banner: web_banners_07.jpg
     <li>All entrants are required to provide their ARCHER or ARCHER2 username for 
 			validation purposes.</li>
     <li>Entry to the competition is free.</li>
-    <li>The competition opens on 25 August 2021. The closing date is extended to 17 October 2021. The ARCHER2 CSE Team reserves the right to 		extend the duration of the competition if necessary.</li>
+    <li>The competition opens on 8 August 2022. The closing date is 16 September 2022. The ARCHER2 CSE Team reserves the right to 		extend the duration of the competition if necessary.</li>
     <li>The total prize fund is &pound;550.</li>
     <li>Entries will be judged on their visual impact, public appeal  		and ability to convey the impact of ARCHER and ARCHER2 on scientific research. 
   	The entries will be judged alongside the extended caption putting  		the image into context. Judges appointed by ARCHER2 CSE Team will   		nominate the winning entries and their decision is final.</li>
-    <li>Please complete the <a href="ARCHER2_Image_Competition_2021_-_submission_form.pdf">
-      ARCHER2 Image Competition 2021 submission form</a> and then send
+    <li>Please complete the <a href="ARCHER2_Image_Competition_2022_-_submission_form.pdf">
+      ARCHER2 Image Competition 2022 submission form</a> and then send
       in your entry by email       to <a href="mailto:image@archer.ac.uk?subject=ARCHER Image Competition submission" >image@archer.ac.uk</a>, 
       attaching your image and/or including the url where we can download your video.</li>
     <li>Entrants may submit up to five entries.</li>
     <li>All entries must demonstrate <strong>"ARCHER/ARCHER2 enabling research"</strong>.</li>
     <li>Images must be in a digital format (for example jpg).  Ideally 	images should be at a minimum of 300dpi and between a minimum file 		size of 5MB and a maximum file size of 25MB. Images can be downsized   		for submission but winners will be required to provide a   		high-resolution version of their submitted image. Images that   		are selected for a prize in any other major photo competition   		are not eligible.</li>
     <li>Videos must be in digital format (for example mp4 or animated .gif).  They should be <b>no more than   		one minute long</b>.  Please also include one still image from the video for use as a cover image. Videos that are selected for a prize in any other major competition are not eligible.</li>
-    <li>Winner will be chosen and announced in November 2021 and prizes 	will be awarded thereafter. Winner will be contacted directly by email.</li>
+    <li>Winner will be chosen and announced in October/November 2022 and prizes 	will be awarded thereafter. Winner will be contacted directly by email.</li>
     <li>Winning entrant will be required to supply their image or video in a high-resolution format for print and publicity purposes.</li>
     <li>Entries submitted by disc are not permitted.</li>
     <li>Submissions that, 
