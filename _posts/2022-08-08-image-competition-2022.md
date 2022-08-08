@@ -13,6 +13,8 @@ The winner of the competition will be awarded £250.
 
 The winning image or video, along with a selection of other entries, will also be featured on the ARCHER2 website and in EPCC and ARCHER2 publications. Credit will be given to the entrant in all cases.
 
+<!--more-->
+
 ### Key Details 
 
 - Competition Opens: 8th August 2022
