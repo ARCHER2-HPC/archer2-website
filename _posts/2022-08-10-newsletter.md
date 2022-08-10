@@ -103,6 +103,7 @@ lists all current open known issues including a description of the issue, its sy
 
 - Message-passing Programming with MPI, Online, always-open self-service course
 - Shared Memory Programming with OpenMP, Online, always-open self-service course
+- QM/MM with GROMACS + CP2K, Online, Always open - self-service course
 - Performance of different routing protocols on ARCHER2: OpenFabrics and UCX - (Postponed from 20th July), Online webinar, Wednesday date 17th August 2022 15:00 - 16:00 BST 
 - Efficient Parallel IO, Online, 23 August 2022 09:30 - 16:30 BST
 - Introduction to OpenMP, Online, 30th & 31st August, 6th September 2022 09:00 - 17:00 BST 
