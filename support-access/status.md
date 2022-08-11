@@ -111,6 +111,60 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 <p>No current service alerts</p>
 {% endfor %}
 
+
+#### Planned sessions
+
+
+{% assign current_alerts = site.alerts | where_exp: "alert", "alert.status == 'Planned'" %}
+{% for alert in current_alerts reversed %}
+    {% if forloop.first == true %}
+<div class="table-responsive">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Status</th>
+        <th>Type</th>
+        <th>Start</th>
+        <th>End</th>
+        <th>Scope</th>
+        <th>User Impact</th>
+        <th>Reason</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% endif %}
+      <tr>
+      <td>
+        {{ alert.status }}
+      </td>
+      <td>
+        {{ alert.type }}
+      </td>
+      <td>
+        {{ alert.start_date | date: "%Y-%m-%d %H:%M" }}
+      </td>
+      <td>
+        {{ alert.end_date | date: "%Y-%m-%d %H:%M" }}
+      </td>
+      <td>
+        {{ alert.scope }}
+      </td>
+      <td>
+        {{ alert.impact }}
+      </td>
+      <td>
+        {{ alert.reason }}
+      </td>
+     </tr>
+    {% if forloop.last == true %}
+    </tbody>
+  </table>
+</div>
+    {% endif %}
+{% else %}
+<p>No current service alerts</p>
+{% endfor %}
+
 ### Previous Service Alerts
 
 This table lists resolved service alerts from the past 30 days. 
