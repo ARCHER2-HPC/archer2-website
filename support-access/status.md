@@ -112,12 +112,13 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 {% endfor %}
 
 
-#### Planned sessions
+
 
 
 {% assign current_alerts = site.alerts | where_exp: "alert", "alert.status == 'Planned'" %}
 {% for alert in current_alerts reversed %}
     {% if forloop.first == true %}
+#### Planned sessions
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
@@ -162,7 +163,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 </div>
     {% endif %}
 {% else %}
-<p>No current service alerts</p>
+<p> </p>
 {% endfor %}
 
 ### Previous Service Alerts
