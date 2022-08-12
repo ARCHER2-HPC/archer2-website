@@ -1,10 +1,10 @@
 ---
-status: Ongoing
+status: Resolved
 type: Service Alert
 start_date: 2022-08-11 12:30
-end_date: 
+end_date: 2022-08-12 11:30
 scope: Compute nodes
 impact: Increased queue times and reduced node availability
-reason: Due to high temperatures in the Edinburgh area we are reducing the number of nodes available to ease the load on the cooling system. Users can connect to ARCHER2, access data and submit jobs to the batch system. We are continuing to monitor the temperature and updates will be provided. 
+reason: All nodes now returned to service. Due to high temperatures in the Edinburgh area and to ease the load on the cooling system some nodes were removed from service. Users could connect to ARCHER2, access data and submit jobs to the batch system.  
 ---
 
