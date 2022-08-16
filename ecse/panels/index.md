@@ -10,6 +10,7 @@ banner: web_banners_06.jpg
 - [3rd ARCHER2 eCSE call (eCSE03)](#3rd-archer2-ecse-call-ecse03)
 - [4th ARCHER2 eCSE call (eCSE04)](#4th-archer2-ecse-call-ecse04)
 - [5th ARCHER2 eCSE call (eCSE05)](#5th-archer2-ecse-call-ecse05)
+- [6th ARCHER2 eCSE call (eCSE06)](#6th-archer2-ecse-call-ecse06)
 
 ## 1st ARCHER2 eCSE call (eCSE01)
 
@@ -228,7 +229,7 @@ Panel meeting 29 June 2021 (virtual meeting)
 
 - *ARCHER2-eCSE04-3 PI: Dr Reinhard Maurer (University of Warwick) Relativistic all-electron orbital-constrained Density Functional Theory to simulate x-ray photoemission and absorption spectroscopy* (11 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 
-- *ARCHER2-eCSE04-5 PI: Dr David A Ham (Imperial College) Scalable and robust Firedrake deployment on ARCHER2 and beyond* (6 months)
+- *ARCHER2-eCSE04-5 PI: Dr David A Ham (Imperial College London) Scalable and robust Firedrake deployment on ARCHER2 and beyond* (6 months)
 
 - *ARCHER2-eCSE04-6 PI: Mr Jerry Blackford (Plymouth Marine Laboratory) Optimising NEMO-ERSEM for High Resolution* (8 months)
 
@@ -275,13 +276,101 @@ Panel meeting 23 November 2021 (virtual meeting)
 
 ### Projects funded from the 5th eCSE call
 
-- *ARCHER2-eCSE05-3 PI: Dr Maarten van Reeuwijk "uDALES: towards exa-scale simulation of air quality and microclimate in urban environments"* (7 months)  [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE05-3 PI: Dr Maarten van Reeuwijk (Imperial College London) "uDALES: towards exa-scale simulation of air quality and microclimate in urban environments"* (7 months)  [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *ARCHER2-eCSE05-4 PI: Prof Chris-Kriton cks Skylaris "Scaling up and coupling adaptive kinetic Monte Carlo with large-scale DFT"* (12 months) 
+- *ARCHER2-eCSE05-4 PI: Prof Chris-Kriton cks Skylaris (University of Southampton) "Scaling up and coupling adaptive kinetic Monte Carlo with large-scale DFT"* (12 months) 
 
-- *ARCHER2-eCSE05-6 PI: Dr Wenqiang Zhang (6 months) "Acceleration of a 3D multiphase flow solver for icing simulation"* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE05-6 PI: Dr Wenqiang Zhang (University of Nottingham) "Acceleration of a 3D multiphase flow solver for icing simulation"* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *ARCHER2-eCSE05-8 PI: Dr Ian J Bush "Introducing Spin-Orbit Coupling into MPPCRYSTAL"* (12 months)  [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+- *ARCHER2-eCSE05-8 PI: Dr Ian J Bush (STFC) "Introducing Spin-Orbit Coupling into MPPCRYSTAL"* (12 months)  [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 
-- *ARCHER2-eCSE05-9 PI: Dr Jianping Meng "Implementation of the Discrete Unified Gas Kinetic Scheme in Code_Saturne targeting Exascale"* (10 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
+- *ARCHER2-eCSE05-9 PI: Dr Jianping Meng (STFC) "Implementation of the Discrete Unified Gas Kinetic Scheme in Code_Saturne targeting Exascale"* (10 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
+
+
+## 6th ARCHER2 eCSE call (eCSE06)
+
+Panel meeting 6 April 2022 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- Ash Vadgama (AWE)
+- Stewart Cant (University of Cambridge)
+- Joanna Leng (University of Leeds)
+
+### eCSE Team
+
+- Chris Johnson
+- Xu Guo
+- Catherine Inglis
+
+### ARCHER2 Service Representatives
+
+- Kevin Stratford (EPCC)
+
+### UKRI
+
+- Richard Bailey (EPSRC)
+
+### Early Career Observers
+
+- Ryan Hunt (Lancaster University)
+- Rui Apostolo (University of Edinburgh)
+- Osama Maklad (University of Greenwich)
+- Pavel Stishenko (Cardiff University)
+
+### Projects funded from the 6th eCSE call
+
+- *ARCHER2-eCSE06-1 PI: Dr Mirco Magnini (University of Nottingham) "Hybrid Atomistic-Continuum Simulations of Boiling Across Scales"* (12 months)
+- *ARCHER2-eCSE06-2 PI: Dr. Michele Sergio Campobasso (Lancaster University) "Streamlined parallel I/O and fluid/structure interaction functionalities in Navier-Stokes ARCTIC and COSA codes for renewable energy and propulsion applications"* (7 months)
+- *ARCHER2-eCSE06-3 PI: Prof Prashant Valluri (University of Edinburgh) "Enhancing TPLS: Incorporating Boiling and Technical Improvements"* (6 months)
+- *ARCHER2-eCSE06-4 PI: Dr Sylvain Laizet (Imperial College) "3decomp: Towards Adaptive Mesh Refinement in the high-order CFD code Xcompact3d"* (12 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE06-6 PI: Dr Richard F L Evans (University of York) "Implementing spin-lattice dynamics within the VAMPIRE software package"* (12 months)
+
+## 7th ARCHER2 eCSE call (eCSE07)
+
+Panel meeting 12 July 2022 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- James Grant (AWS)
+- Jonathan Flynn (University of Southampton)
+- Sergio Campobasso (Lancaster University)
+- Catherine O'Sullivan (Imperial College London)
+- Nicholas Hine (University of Warwick)
+
+### eCSE Team
+
+- Chris Johnson (EPCC)
+- Xu Guo (EPCC)
+- Catherine Inglis (EPCC)
+- Lorna Smith (EPCC)
+
+### ARCHER2 Service Representatives
+
+- Kevin Stratford (EPCC)
+- William Lucas (EPCC)
+- Harvey Richardson (Cray HPE)
+
+### UKRI
+
+- Richard Bailey (EPSRC)
+
+### Early Career Observers
+
+- Robin Corey (University of Oxford)
+- Xiaosheng Chen (University of Oxford)
+- Jialin Su (Loughborough University)
+- Stefano Cipolla (University of Edinburgh)
+
+### Projects funded from the 7th eCSE call
+
+- *ARCHER2-eCSE07-1 PI: Dr Timo Betcke (University College London) Towards exascale sparse linear algebra in Rust* (3 months) 
+- *ARCHER2-eCSE07-2 PI: Dr Laura Ratcliff (University of Bristol) Improving the Performance of Linear-Scaling BigDFT for ARCHER2 and Beyond* (9 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *ARCHER2-eCSE07-3 PI: Dr Alex Skillen (University of Manchester) Extending the capabilities of the DNS code Xcompact3D by incorporating Magnetohydrodynamics (MHD), for large scale turbulent flows on ARCHER2* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE07-6 PI: Dr Elisabetta Boella (Lancaster University) Improving parallel performances of the semi-implicit Particle-In-Cell code ECsim* (7 months) [[Plasma HEC Consortium](https://plasma-ccp-hec.uk/)]
+- *ARCHER2-eCSE07-7 PI: Prof Ling Qian (Manchester Metropolitan University) Optimising the OpenFOAM overset mesh solver for complex wave structure interaction simulations* (12 months) 
+- *ARCHER2-eCSE07-8 PI: Dr Fang Jian (STFC) Implementation of a DNS capability for hypersonic turbulent flows in the high-altitude atmosphere* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE07-9 PI: Dr Dermot Green (Queen's University Belfast) Many-body theory of antimatter interactions with molecules* (12 months)
 
