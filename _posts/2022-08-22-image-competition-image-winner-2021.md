@@ -14,7 +14,7 @@ categories: [news]
 <!--more-->
 
 
-<img src="https://live.staticflickr.com/65535/51601072652_e91e7d7d90_c_d.jpg" alt="Image Competition winner 2021"  align="center" width="80%" />
+<img src="https://live.staticflickr.com/65535/51601072652_e91e7d7d90_c_d.jpg" alt="Image Competition winner 2021"  align="center" width="60%" />
 
 The image reveals the interactions of jet turbulence and acoustic waves when the former is subject to a thin plate - a scenario often known as "installed" jets. High-frequency tones (yellow) as well as low-frequencies (blue) can be seen in the 3D rendering of the contour in the background. Jet turbulence is highlighted in red iso-surfaces in the foreground.
 
