@@ -7,6 +7,10 @@ tags: [blog ]
 categories: [news]
 ---
 
+The [ARCHER2 Image competition is currently open for 2022](https://www.archer2.ac.uk/community/image-comp/). 
+
+Last years winning image was:
+
 **Acoustic field (yellow and blue) with overlapped velocity isosurface (red) obtained with a coupled LES-High order Acoustic coupled solver of an installed jet case**
 
 *Dr Miguel Moratilla-Vega, Loughborough University/Aeronautical and Automotive Engineering Department*
