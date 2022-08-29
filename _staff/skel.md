@@ -1,6 +1,6 @@
 ---
 forename: Joe
-surname: Blogs
+surname: Bloggs
 title: Dr
 role: Applications Group 
 image_src: null.jpg
