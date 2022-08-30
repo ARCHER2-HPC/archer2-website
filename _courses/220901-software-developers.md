@@ -7,7 +7,7 @@ start_date: 2022-09-01 10:00:00
 end_date: 2022-09-02 16:00:00
 trainers: William Lucas EPCC
 course_type: course
-registration_status: open
+registration_status: hidden
 registration_url:  https://www.archer2.ac.uk/training/register/?course=220901-software-developers
 location: Online
 location_url:
