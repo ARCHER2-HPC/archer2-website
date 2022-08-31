@@ -43,7 +43,7 @@ Please see also the 2nd webinar in this short series:
 
 
 <section id="service">
-
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -65,12 +65,15 @@ Please see also the 2nd webinar in this short series:
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
+Video will be available soon.
+
+<!--
 <div>
 
 <iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -79,7 +82,7 @@ Please see also the 2nd webinar in this short series:
 
 -->
 
-<!--
+
 
 <section id="service">
   <div class="container">
@@ -87,14 +90,8 @@ Please see also the 2nd webinar in this short series:
 
 
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
-        </a>
-      </div>
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
@@ -103,8 +100,18 @@ Please see also the 2nd webinar in this short series:
           Download pdf of the presentation.
         </a>
       </div>
+
+-->
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="ForgePresentationFollowup.doc">
+          <strong>Follow up materials</strong><br/>
+            Download in .doc format.
+        </a>
+      </div>
 										
     </div>
   </div>
 </section>
--->
+
