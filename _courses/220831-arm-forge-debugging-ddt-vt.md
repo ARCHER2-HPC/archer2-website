@@ -103,7 +103,7 @@ Please see also the 2nd webinar in this short series:
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ForgePresentationFollowup.doc">
+           href="ForgePresentationFollowup.docx">
           <strong>Follow up materials</strong><br/>
             Download in .doc format.
         </a>
