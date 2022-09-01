@@ -71,16 +71,14 @@ Please see also the 2nd webinar in this short series:
 
 <h2><a name="video">Video</a></h2>
 
-Video will be available soon.
 
-<!--
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/FEqYrmPTdhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 
 
@@ -108,6 +106,14 @@ Video will be available soon.
            href="ForgePresentationFollowup.doc">
           <strong>Follow up materials</strong><br/>
             Download in .doc format.
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="https://docs.archer2.ac.uk/data-tools/arm-forge/">
+          <strong>Arm Forge docs</strong><br/>
+            On ARCHER2 Documentation site
         </a>
       </div>
 										
