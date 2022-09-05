@@ -5,5 +5,5 @@ title: Dr
 role: Senior Research Fellow
 image_src: null.jpg
 bio: 
-tags: [servicedesk, indepth,  training,  ] 
+tags: [servicedesk, cse,  training,  ] 
 ---

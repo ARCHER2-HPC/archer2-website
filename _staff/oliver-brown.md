@@ -5,5 +5,5 @@ title: Dr
 role: Architect
 image_src: Oliver Brown.jpg
 bio: 
-tags: [servicedesk, uadmin, indepth,   training,  ] 
+tags: [servicedesk, uadmin, cse,   training, quality  ] 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: section
-title: ARCHER2 CSE Staff
-summary: The Computational Science and Engineering provide technical support to users.
+title: ARCHER2 CSE Staff 
+summary: The CSE team are responsible for providing expert technical advice to users and prospective users of ARCHER2 so that they can get the most benefit from the service for their work. Typical work for the In Depth team includes helping people to port their software and workflows to ARCHER2, get the best performance from the service, write and improve the documentation and provide technical advice to people applying for access to ARCHER2. The In Depth team includes experts from EPCC and HPE working closely together.
 banner: web_banners_02.jpg
 ---
 
-Filter staff by teams :  <a href="/about/staff/sp"><code class="highligher-rouge"><nobr>SP Group</nobr></code>&nbsp;</a>    <a href="/about/staff/cse"><code class="highligher-rouge"><nobr><i>CSE Group</i></nobr></code>&nbsp;</a>           <a href="/about/staff/servicedesk"><code class="highligher-rouge"><nobr>Servicedesk Operators</nobr></code>&nbsp;</a>    <a href="/about/staff/uadmin"><code class="highligher-rouge"><nobr>User Admin </nobr></code>&nbsp;</a>     <a href="/about/staff/training"><code class="highligher-rouge"><nobr>Training</nobr></code>&nbsp;</a>            <a href="/about/staff/ecse"><code class="highligher-rouge"><nobr>eCSE</nobr></code>&nbsp;</a>       <a href="/about/staff/"><code class="highligher-rouge"><nobr>All staff</nobr></code>&nbsp;</a>  
+Filter staff by teams :  <a href="/about/staff/servicedesk"><code class="highligher-rouge"><nobr>Servicedesk Operators</nobr></code>&nbsp;</a>          <a href="/about/staff/uadmin"><code class="highligher-rouge"><nobr>User Admin </nobr></code>&nbsp;</a>           <a href="/about/staff/cse"><code class="highligher-rouge"><nobr><i>CSE</i></nobr></code>&nbsp;</a>            <a href="/about/staff/systems"><code class="highligher-rouge"><nobr>Systems</nobr></code></a> &nbsp;          <a href="/about/staff/ecse"><code class="highligher-rouge"><nobr>eCSE</nobr></code>&nbsp;</a>          <a href="/about/staff/training"><code class="highligher-rouge"><nobr>Training</nobr></code>&nbsp;</a>          <a href="/about/staff/outreach"><code class="highligher-rouge"><nobr>Outreach</nobr></code>&nbsp;</a>          <a href="/about/staff/quality"><code class="highligher-rouge"><nobr>Quality &amp; Feedback</nobr></code>&nbsp;</a>          <a href="/about/staff/web"><code class="highligher-rouge"><nobr>Web &amp; Docs</nobr></code>&nbsp;</a>                  <a href="/about/staff/coordination"><code class="highligher-rouge"><nobr>Coordination</nobr></code>&nbsp;</a>          <a href="/about/staff/"><code class="highligher-rouge"><nobr>All staff</nobr></code>&nbsp;</a>
 
 {% assign sorted_staff = site.staff | sort:"surname" %}
 {% for staff in sorted_staff  %}

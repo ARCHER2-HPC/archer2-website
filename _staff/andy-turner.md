@@ -5,5 +5,5 @@ title: Dr
 role: Principal Architect
 image_src: Andy Turner.jpg
 bio: 
-tags: [servicedesk, uadmin, indepth,   training,  ] 
+tags: [servicedesk, uadmin, cse,   training, web+docs ] 
 ---

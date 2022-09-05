@@ -5,5 +5,5 @@ title: Dr
 role: Applications Consultant
 image_src: null.jpg
 bio: 
-tags: [ indepth,  training,  ] 
+tags: [ cse,  training,  ] 
 ---

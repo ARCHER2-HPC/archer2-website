@@ -5,5 +5,5 @@ title: D
 role: HPC Systems Specialist - Senior Systems Administrator
 image_src: null.jpg
 bio: 
-tags: [technical,     ] 
+tags: [systems,     ] 
 ---

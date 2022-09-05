@@ -5,5 +5,5 @@ title: D
 role: Director of HPC Systems
 image_src: null.jpg
 bio: 
-tags: [technical,   management,  ] 
+tags: [systems,   coordination,  ] 
 ---

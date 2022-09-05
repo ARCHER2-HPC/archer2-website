@@ -5,5 +5,5 @@ title: Dr
 role: Director of HPC Services
 image_src: null.jpg
 bio: 
-tags: [  indepth,  management] 
+tags: [  cse,  coordination ] 
 ---
