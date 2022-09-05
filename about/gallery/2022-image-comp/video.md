@@ -1,8 +1,8 @@
 ---
 layout: section
 title: Image Competition Gallery
-summary: Video Entries from 2021 Competition
-banner: ../../img/splash/old/210825-image-competition-2021-w.jpg
+summary: Video Entries from 2022 Competition
+banner: ../../img/splash/old/220808-image-comp-2022-w.jpg
 ---
 
 
@@ -12,7 +12,7 @@ banner: ../../img/splash/old/210825-image-competition-2021-w.jpg
 	
     {% assign video_imagecomp = site.imagecomp | where_exp: "imagecomp", "imagecomp.type == 'video'" %}
 		
-    {% assign current_imagecomp = video_imagecomp | where_exp: "imagecomp", "imagecomp.year == 2021 " %}
+    {% assign current_imagecomp = video_imagecomp | where_exp: "imagecomp", "imagecomp.year == 2022 " %}
 
     {% for imagecomp in current_imagecomp  %}
 
