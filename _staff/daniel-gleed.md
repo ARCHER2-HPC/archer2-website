@@ -2,7 +2,7 @@
 forename: Daniel
 surname: Gleed
 title: D
-role: HPC Systems Specialist
+role: Systems Operation function lead
 image_src: null.jpg
 bio: 
 tags: [systems,     ] 

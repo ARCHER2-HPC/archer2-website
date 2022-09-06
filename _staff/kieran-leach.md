@@ -2,7 +2,7 @@
 forename: Kieran
 surname: Leach
 title: D
-role: HPC Systems Specialist
+role: Systems Development function lead
 image_src: null.jpg
 bio: 
 tags: [systems,     ] 

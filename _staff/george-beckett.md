@@ -2,8 +2,8 @@
 forename: George
 surname: Beckett
 title: Dr
-role:  Group/Programme Manager
+role:  CSE Technical Operations function lead. In Depth function lead.
 image_src: null.jpg
 bio: 
-tags: [ cse,   training] 
+tags: [ cse,   training,  ] 
 ---
