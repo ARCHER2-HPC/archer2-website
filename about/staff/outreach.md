@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Outreach Staff
-summary: The Outreach team.
+summary: The outreach team carries out outreach and public engagement activities around HPC, provide an engaging, innovative and diverse programme of activities. The team has two main focus. The first is to deliver outreach activities targeted at young people, with an aim of explaining the relevance and benefit of HPC to society and of encouraging young people to consider a career in STEM. The second is focused on lifelong learning, recognising the benefits this can bring for social inclusion, employability and wellbeing. 
 banner: web_banners_02.jpg
 ---
 

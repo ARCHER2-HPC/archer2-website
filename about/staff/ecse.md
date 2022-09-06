@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 eCSE Staff
-summary: The Embedded CSE (eCSE) team work with users to improve software on ARCHER2.
+summary: The Embedded Computational Science and Engineering (eCSE) team coordinate the eCSE programme, a programme that provides funding to the ARCHER2 user community to develop software in a sustainable manner to improve research on the ARCHER2 service. The team organise the regular calls, working with panel members to deliver a fair and objective funding programme. They support successful projects and arrange for final reports to be published and disseminated. 
 banner: web_banners_02.jpg
 ---
 

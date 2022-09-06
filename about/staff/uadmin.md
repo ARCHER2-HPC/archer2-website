@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 User Administration Staff
-summary: The user administration team deal with all aspects of project and user resources on the service along with managing the service desk and coordinating user communications. They are responsible for setting up projects that are granted resources on ARCHER2 and act as the primary liaison between the service and research funders such as UKRI..
+summary: The user administration team deal with all aspects of project and user resources on the service along with managing the service desk and coordinating user communications. They are responsible for setting up projects that are granted resources on ARCHER2 and are able to liaise between users and research funders such as UKRI.
 banner: web_banners_02.jpg
 ---
 
