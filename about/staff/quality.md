@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Quality, Impact, Feedback, and Improvement Staff
-summary: The Quality team 
+summary: This team spans all our CSE activities and covers feedback, quality, improvement and data security. These are vital to ensure we provide continual improvement over the lifetime of the Service. This team is also responsible for the delivery of impact, producing outputs that showcase the research on and impact of the Service.
 banner: web_banners_02.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Training Staff
-summary: The training team provide a wide range on online and face-to-face HPC training.
+summary: The training team provides a rich, diverse programme of training for our user community, supporting online and face-to-face courses across a wide range of geographical regions. Courses support a wide variety of scientific disciplines, technology platforms and delivery mechanisms. 
 banner: web_banners_02.jpg
 ---
 

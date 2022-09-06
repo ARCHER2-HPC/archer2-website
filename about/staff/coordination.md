@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Coordination Staff
-summary: The Coordination team for the ARCHER2 Service.
+summary: This team has overall responsibility for the delivery of the ARCHER2 Service Provision (SP) and Computational Science and Engineers (CSE) services.
 banner: web_banners_02.jpg
 ---
 

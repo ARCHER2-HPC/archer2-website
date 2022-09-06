@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Systems Support Staff
-summary: Includes HPC Systems team and HPE Systems
+summary: Members of this team are responsible for the deployment, configuration, maintenance and upgrades of the system software, system administration tools and user environments on ARCHER2.
 banner: web_banners_02.jpg
 ---
 

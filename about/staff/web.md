@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Web site and Documentation
-summary: The Web + Docs team 
+summary: This team is responsible for the website, ensuring this is appropriately developed and maintained to provide users with an easily accessible portal showing current information. This team is also responsible for ensuring all components of the Service are comprehensively documented and available on the website.  
 banner: web_banners_02.jpg
 ---
 
