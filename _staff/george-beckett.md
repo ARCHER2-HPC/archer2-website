@@ -5,5 +5,5 @@ title: Dr
 role:  Group/Programme Manager
 image_src: null.jpg
 bio: 
-tags: [ cse,   training,  coordination] 
+tags: [ cse,   training] 
 ---

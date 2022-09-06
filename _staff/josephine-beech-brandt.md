@@ -3,7 +3,7 @@ forename: Josephine
 surname: Beech-Brandt
 title: .
 role: Project Manager
-image_src: Jo Beech-Brandt.jpg
+image_src: null.jpg
 bio: 
-tags: [servicedesk, uadmin,      coordination] 
+tags: [servicedesk, uadmin   ] 
 ---
