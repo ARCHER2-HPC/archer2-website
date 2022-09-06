@@ -1,7 +1,7 @@
 ---
-forename: Caoimhin
+forename: Caoimhín
 surname: Laoide-Kemp
-title: Dr
+title: .
 role: Applications Developer 
 image_src: null.jpg
 bio: 
