@@ -73,13 +73,13 @@ Please see also the 1st webinar in this short series:
 
 -->
 
-<!--
+
 
 <section id="service">
-  <div class="container">
+
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -97,8 +97,17 @@ Please see also the 1st webinar in this short series:
           Download pdf of the presentation.
         </a>
       </div>
+
+-->
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="https://docs.archer2.ac.uk/data-tools/arm-forge/">
+          <strong>Arm Forge docs</strong><br/>
+            On ARCHER2 Documentation site
+        </a>
+      </div>
 										
     </div>
-  </div>
+
 </section>
--->
+
