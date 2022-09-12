@@ -13,7 +13,7 @@ The winning image or video, along with a selection of other entries, will also b
 ### Key Details 
 
 - Competition Opens: 8 August 2022
-- Submission Deadline: 16 September 2022
+- Submission Deadline: **Extended to 30 September 2022**
 - Judging: October/November 2022
 - Prizes:
     - Best image : £150
@@ -59,7 +59,7 @@ The submission form is a PDF form which is editable in ADOBE Acrobat Reader and 
 
 ### Deadline
 
-Submission deadline: 16 September 2022
+Submission deadline: **Extended to 30 September 2022**
 
 Any queries should be directed to [image@archer.ac.uk](mailto: image@archer.ac.uk)
 
