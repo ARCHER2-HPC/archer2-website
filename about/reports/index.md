@@ -5,9 +5,15 @@ summary: These are the public reports of the ARCHER2 service.
 banner: web_banners_02.jpg
 ---
 
+
 Periodic (monthly, quarterly and annual) reports will be published here in due course.
 
+<img src="{{ site.baseurl }}/img/certificates/ISO_9001_2015_COL.jpg" alt="Iso 9001" title="Iso 9001" align="right" width="15%"  /> <br>
+
+
 For people wanting to get an overview of the ARCHER2 service, the Annual Reports and written Quarterly Reports are where you should begin.
+
+
 
 ## User Survey Reports
 
@@ -18,6 +24,7 @@ The User Survey runs annually. Reports contain both the numerical satisfaction s
 
 Annual reports give a high-level overview of the highlights of the whole service in the reporting period.
 
+<img src="{{ site.baseurl }}/img/certificates/ISO_IEC_27001_COL.jpg" alt="Iso 27001" title="Iso 27001" align="right" width="15%"  />
 
 ## Quarterly Reports
 
