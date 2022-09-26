@@ -166,9 +166,9 @@ We normally charge a fee for non-academics. If you are from a commercial organis
 
 Provisional schedule of planned courses.  Brief details of the courses can be found on the [Course Descriptions page](courses/).
 
- | August - October 2022 | November 2022 - January 2023 |
- | --- | --- |
- | Modern C++ for Computational Scientists <br>Software Carpentry <br>ARCHER2 for Data Scientists <br>ARCHER2 for Developers <br>ARCHER2 for Package Users <br>Parallel Python for Data Analysis <br>Introduction to Package (tbc) <br>Introduction to OpenMP  <br>Efficient Parallel IO <br>Performance Optimisation on AMD EPYC | Data Carpentry	 <br>HPC Carpentry	 <br>Introduction to package (tbc)	 <br>Reproducible computational environments using containers	 <br>Advanced OpenMP	 <br>Advanced use of package (tbc)	 <br>Scientific Programming with Python	 <br>Modern Fortran |
+ | August - October 2022 | November 2022 - January 2023 | February 2023 - April 2023
+ | --- | --- | --- |
+ |ARCHER2 for Data Scientists <br>ARCHER2 for Package Users <br>  Performance Optimisation on AMD EPYC | Software Carpentry <br> ARCHER2 for Developers <br>  Modern C++ for Computational Scientists <br>Data Carpentry	 <br>HPC Carpentry	 <br>Reproducible computational environments using containers	 <br>Advanced OpenMP	 <br> Introduction to package (tbc)<br>	Advanced use of package (tbc)	 <br>Scientific Programming with Python	 <br>Modern Fortran |Software/Data carpentry <br> Understanding Package Performance  <br> ARCHER2 for Data Scientists  <br> ARCHER2 for Software Developers  <br> ARCHER2 for Package Users  <br> Message Passing Programming with MPI  <br> Efficient use of the HPE Cray EX System 
 
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
