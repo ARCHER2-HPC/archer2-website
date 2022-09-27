@@ -61,9 +61,15 @@ is used to support small, short jobs with fast turnaround time.
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
 
-{% assign current_alerts = site.alerts | where_exp: "alert", "alert.status == 'Ongoing'" %}
+
+{% assign current_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
+{% assign date_now = "now" | date: "%s" %}
+{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
+{% assign count = 0 %}
 {% for alert in current_alerts reversed %}
-    {% if forloop.first == true %}
+    {% assign sd = alert.start_date | date: "%s" %}
+    {% if sd <= date_now %}
+        {% if count == 0 %}
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
@@ -78,7 +84,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
       </tr>
     </thead>
     <tbody>
-    {% endif %}
+        {% endif %}
       <tr>
       <td>
         {{ alert.status }}
@@ -87,10 +93,10 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
         {{ alert.type }}
       </td>
       <td>
-        {{ alert.start_date | date: "%Y-%m-%d %H:%M" }}
+        {{ alert.start_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
-        {{ alert.end_date | date: "%Y-%m-%d %H:%M" }}
+        {{ alert.end_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
         {{ alert.scope }}
@@ -101,24 +107,29 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
       <td>
         {{ alert.reason }}
       </td>
-     </tr>
-    {% if forloop.last == true %}
+      </tr>
+        {% assign count = count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+{% if count > 0 %}
     </tbody>
   </table>
 </div>
-    {% endif %}
 {% else %}
 <p>No current service alerts</p>
-{% endfor %}
+{% endif %}
 
 
 
-
-
-{% assign current_alerts = site.alerts | where_exp: "alert", "alert.status == 'Planned'" %}
-{% for alert in current_alerts reversed %}
-    {% if forloop.first == true %}
-#### Planned sessions
+{% assign future_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
+{% assign date_now = "now" | date: "%s" %}
+{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
+{% assign count = 0 %}
+{% for alert in future_alerts reversed %}
+    {% assign sd = alert.start_date | date: "%s" %}
+    {% if sd > date_now %}
+        {% if count == 0 %}
+#### Planned Sessions
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
@@ -133,19 +144,19 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
       </tr>
     </thead>
     <tbody>
-    {% endif %}
+        {% endif %}
       <tr>
       <td>
-        {{ alert.status }}
+        Planned
       </td>
       <td>
         {{ alert.type }}
       </td>
       <td>
-        {{ alert.start_date | date: "%Y-%m-%d %H:%M" }}
+        {{ alert.start_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
-        {{ alert.end_date | date: "%Y-%m-%d %H:%M" }}
+        {{ alert.end_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
         {{ alert.scope }}
@@ -156,15 +167,20 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
       <td>
         {{ alert.reason }}
       </td>
-     </tr>
-    {% if forloop.last == true %}
+      </tr>
+        {% assign count = count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+{% if count > 0 %}
     </tbody>
   </table>
 </div>
-    {% endif %}
 {% else %}
-<p> </p>
-{% endfor %}
+<p></p>
+{% endif %}
+
+
+
 
 ### Previous Service Alerts
 
