@@ -55,5 +55,8 @@ collections:
   staff:
     output: true
     permalink: /about/staff/:path/
+  ecse:
+    output: true
+    permalink: /ecse/reports/:path/
 
 future: true
