@@ -1,0 +1,36 @@
+---
+layout: page
+---
+
+<div class="post">
+  <!-- Wrapper Start -->
+  <section id="intro" style="border: 1px dotted #ddd;">
+    <div class="container">
+      <div class="row">
+        <div>
+          <div class="block">
+            <h1>{{ page.title }}</h1>
+			<h2>ARCHER2-{{ page.ecse }}</h2>
+            <div class="post-info-wrapper">
+             </span></p>
+							<p><b>PI: </b> {{ page.pi }}<br>
+							       <b>Co-Is: </b>{{ page.cois }} <br>
+								   <b>Technical staff: </b>{{ page.tech }}
+							</p>	   
+			 
+			 
+							<p> <span>
+                  {% for tag in page.tags %}
+                    {% capture tag_name %}{{ tag }}{% endcapture %}
+                    <a href="/about/news/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                  {% endfor %}
+                </span></p>			
+            </div>
+            <hr />
+            {{ content }}
+          </div>
+        </div><!-- .col-md-7 close -->
+      </div>
+    </div>
+  </section>
+</div>
