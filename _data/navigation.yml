@@ -86,6 +86,8 @@
     url: "/ecse/calls"
   - title: "Funded eCSE projects"
     url: "/ecse/panels"
+  - title: "eCSE projects reports"
+    url: "/ecse/reports"
     
     
 - title: "Community"
