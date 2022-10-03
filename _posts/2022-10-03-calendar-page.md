@@ -8,6 +8,11 @@ categories: [news]
 ---
 
 
+
+
+<!--more-->
+
+
 <section id="service">
   <div class="container">
 	
