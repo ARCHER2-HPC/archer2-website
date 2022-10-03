@@ -26,13 +26,17 @@ banner: web_banners_10.jpg
 		</h3>
 
 		<b>
-			ARCHER2-{{ ecse.ecse }}
+			ARCHER2-{{ ecse.ecse }} 
 		</b>
+
+ 		&colon; {{ ecse.pi }} <br><br>
+
+
 
 		<p>
           {{ ecse.summary }}
 		 
-			<a href="{{ ecse.ecse }}">Read more...</a>
+			<a href="{{ ecse.ecse }}"> Read more...</a>
 		</p>
 
 	</div>
