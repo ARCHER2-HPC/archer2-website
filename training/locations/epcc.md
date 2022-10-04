@@ -9,7 +9,7 @@ banner: web_banners_05.jpg
 
 EPCC is located in the Bayes Centre in the George Square area of the University of Edinburgh.
 
-The EPCC website can be found at <http://www.epcc.ed.ac.uk.>
+The EPCC website can be found at <https://www.epcc.ed.ac.uk>.
 
 ## Address
 
