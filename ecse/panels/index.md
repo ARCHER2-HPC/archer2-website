@@ -62,15 +62,15 @@ Panel meeting 19 August 2020 (virtual meeting)
 
 - *ARCHER2-eCSE01-14 PI: Dr Tom Goffrey (University of Warwick) Performance Improvements and New Features for the Plasma Physics Code EPOCH* (12 months) [[Plasma HEC Consortium](https://plasma-ccp-hec.uk/)]
 
-- *ARCHER2-eCSE01-16 PI: Dr Reinhard Maurer (University of Warwick) Achieving the sustainability and scalability of numeric-atomic-orbital-based linear response and electron-phonon functionality in FHI-aims* (12 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+- *[ARCHER2-eCSE01-16](../reports/eCSE01-16) PI: Dr Reinhard Maurer (University of Warwick) Achieving the sustainability and scalability of numeric-atomic-orbital-based linear response and electron-phonon functionality in FHI-aims* (12 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 
 - *ARCHER2-eCSE01-19 PI: Prof Steve Parker (University of Bath) Improving the performance of DL_MONTE for large-scale simulations* (12 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 
-- *ARCHER2-eCSE01-20 PI: Dr David A Ham (Imperial College) Scalable I/O and checkpointing for Firedrake* (10 months)
+- *[ARCHER2-eCSE01-20](../reports/eCSE01-20) PI: Dr David A Ham (Imperial College) Scalable I/O and checkpointing for Firedrake* (10 months)
 
 - *ARCHER2-eCSE01-21 PI: Dr Steven A Niederer (King's College London) Scaling 4 Chamber Cardiac Electrophysiology-Mechanics-Hemodynamics Models for Patient Specific Procedure Guidance and Digital Twins* (6 months)
 
-- *ARCHER2-eCSE01-22 PI: Dr Alex S Skillen (Science and Technology Facilities Council) A Partitioned Fluid-Structure Interaction Framework for Exascale* (9 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *[ARCHER2-eCSE01-22](../reports/eCSE01-22) PI: Dr Alex S Skillen (Science and Technology Facilities Council) A Partitioned Fluid-Structure Interaction Framework for Exascale* (9 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
 - *ARCHER2-eCSE01-26 PI: Dr Davide Marenduzzo (University of Edinburgh) Ludwig on Archer2: task-based execution* (12 months)
 
@@ -122,7 +122,7 @@ Panel meeting 24 November 2020 (virtual meeting)
 
 - *ARCHER2-eCSE02-3 PI: Dr Xuerui Mao (University of Nottingham) Parallel computing of flexible structures in fluid flow based on OpenFOAM* (12 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *ARCHER2-eCSE02-4 PI: Dr James R Kermode (University of Warwick) Support for advanced transition state search techniques in CASTEP* (3 months)
+- *[ARCHER2-eCSE02-4](../reports/eCSE02-04) PI: Dr James R Kermode (University of Warwick) Support for advanced transition state search techniques in CASTEP* (3 months)
 
 - *ARCHER2-eCSE02-6 PI: Dr Emma JD Boland (British Antarctic Survey) Optimising MITgcm on ARCHER2: efficient numerical simulation and data assimilation tools for studying the ocean, atmosphere, and cryosphere.* (4 months)
 
