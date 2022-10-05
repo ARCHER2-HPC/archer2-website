@@ -38,7 +38,8 @@ Filter staff by teams :  <a href="/about/staff/servicedesk"><code class="highlig
 		<p><b>{{ staff.role }}</b><br>
 			<i>[
 			{% for tag in staff.tags %}
-				{{ tag }},
+				{{ tag }}
+				{% if forloop.last %}{% else %},{% endif %}
 			{% endfor %}
 			]</i>
 		</p>
