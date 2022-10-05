@@ -1,6 +1,6 @@
 ---
 layout: section
-title: eCSE Reports
+title: eCSE Reports - Engeneering and Energy
 banner: web_banners_10.jpg
 tags: [Engineering and Energy, Chemistry and Materials, Mathematics and Computer Science]
 ---
@@ -13,12 +13,12 @@ Subject Areas:
 {% endfor %} 
 <a href="/ecse/reports/" ><code  style="font-size:15px;"><nobr>All</nobr></code>&nbsp;</a>   
 </div>
- 
-
 
 
 {% assign current_ecse = site.ecse | where_exp: "ecse", "ecse.status != 'hidden'" %}
-{% for ecse in current_ecse reversed %}
+{% assign ee_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Engineering and Energy'" %}
+
+{% for ecse in ee_ecse reversed %}
 
 
 

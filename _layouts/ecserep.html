@@ -20,6 +20,8 @@ layout: page
 			 
 			 
 							<p> <span>
+					Subject Area: <a href="/ecse/reports/{{ page.subject }}"><code class="highligher-rouge"><nobr>{{ page.subject }}</nobr></code>&nbsp;</a>		
+							
                   {% for tag in page.tags %}
                     {% capture tag_name %}{{ tag }}{% endcapture %}
                     <a href="/about/news/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
