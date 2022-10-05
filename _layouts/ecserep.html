@@ -21,6 +21,9 @@ layout: page
 			 
 							<p> <span>
 					Subject Area: <a href="/ecse/reports/{{ page.subject }}"><code class="highligher-rouge"><nobr>{{ page.subject }}</nobr></code>&nbsp;</a>		
+				   {% assign pd = page.pub_date | date: "%Y-%m-%d" %}
+		           &nbsp; &nbsp; &nbsp; &nbsp;
+		           Published &colon; {{ pd }}
 							
                   {% for tag in page.tags %}
                     {% capture tag_name %}{{ tag }}{% endcapture %}

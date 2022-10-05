@@ -1,6 +1,6 @@
 ---
 layout: section
-title: eCSE Reports - Engeneering and Energy
+title: eCSE Reports by Publication Date
 banner: web_banners_10.jpg
 tags: [Chemistry and Materials, Earth Sciences and Environment, Engineering and Energy,  Mathematics and Computer Science]
 ---
@@ -13,12 +13,12 @@ Subject Areas:
 {% endfor %} 
 <a href="/ecse/reports/" ><code  style="font-size:15px;"><nobr>All</nobr></code>&nbsp;</a>   
 </div>
+ 
 
 
-{% assign current_ecse = site.ecse | where_exp: "ecse", "ecse.status != 'hidden'" %}
-{% assign ee_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Engineering and Energy'" %}
 
-{% for ecse in ee_ecse reversed %}
+{% assign current_ecse = site.ecse | sort: 'pub_date' | reverse | where_exp: "ecse", "ecse.status != 'hidden'" %}
+{% for ecse in current_ecse  %}
 
 
 
@@ -41,7 +41,11 @@ Subject Areas:
 
  		&colon; {{ ecse.pi }} <br><br>
 
-		Subject Area: <a href="/ecse/reports/{{ ecse.subject }}"><code class="highligher-rouge"><nobr>{{ ecse.subject }}</nobr></code>&nbsp;</a> <br><br>	
+		Subject Area: <a href="/ecse/reports/{{ ecse.subject }}"><code class="highligher-rouge"><nobr>{{ ecse.subject }}</nobr></code>&nbsp;</a>
+        {% assign pd = ecse.pub_date | date: "%Y-%m-%d" %}
+		&nbsp; &nbsp; &nbsp; &nbsp;
+		Published &colon; {{ pd }}
+		 <br><br>	
 
 		<p>
           {{ ecse.summary }}

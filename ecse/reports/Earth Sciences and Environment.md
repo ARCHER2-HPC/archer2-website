@@ -1,6 +1,6 @@
 ---
 layout: section
-title: eCSE Reports - Engeneering and Energy
+title: eCSE Reports - Earth Sciences and Environment
 banner: web_banners_10.jpg
 tags: [Chemistry and Materials, Earth Sciences and Environment, Engineering and Energy,  Mathematics and Computer Science]
 ---
@@ -16,7 +16,7 @@ Subject Areas:
 
 
 {% assign current_ecse = site.ecse | where_exp: "ecse", "ecse.status != 'hidden'" %}
-{% assign ee_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Engineering and Energy'" %}
+{% assign ee_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Earth Sciences and Environment'" %}
 
 {% for ecse in ee_ecse reversed %}
 
