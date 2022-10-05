@@ -2,7 +2,7 @@
 layout: section
 title: eCSE Reports
 banner: web_banners_10.jpg
-tags: [Engineering and Energy, Chemistry and Materials, Mathematics and Computer Science]
+tags: [Chemistry and Materials, Earth Sciences and Environment, Engineering and Energy,  Mathematics and Computer Science]
 ---
 
   
@@ -11,7 +11,8 @@ Subject Areas:
 {% for tag in page.tags %}
 <a href="/ecse/reports/{{ tag }}" ><code  style="font-size:15px;"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
 {% endfor %} 
-<a href="/ecse/reports/" ><code  style="font-size:15px;"><nobr>All</nobr></code>&nbsp;</a>   
+<a href="/ecse/reports/" ><code  style="font-size:15px;"><nobr>All</nobr></code>&nbsp;</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/ecse/reports/date" ><code  style="font-size:15px;"><nobr><i>All by publication date</i></nobr></code>&nbsp;</a> 
 </div>
  
 
