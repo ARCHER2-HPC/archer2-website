@@ -44,8 +44,7 @@ Subject Areas:
 		Subject Area: <a href="/ecse/reports/{{ ecse.subject }}"><code class="highligher-rouge"><nobr>{{ ecse.subject }}</nobr></code>&nbsp;</a>
         {% assign pd = ecse.pub_date | date: "%Y-%m-%d" %}
 		&nbsp; &nbsp; &nbsp; &nbsp;
-		Published &colon; {{ pd }}
-		 <br><br>	
+		Published &colon; {{ pd }}   <br><br>	
 
 		<p>
           {{ ecse.summary }}
