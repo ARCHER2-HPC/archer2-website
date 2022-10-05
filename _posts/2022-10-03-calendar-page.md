@@ -53,7 +53,7 @@ categories: [news]
 		
 	
 		
-	<p><i>This image was published on the October page of the ARCHER2 2022 printed calendar.  Watch out for your invitation to sign up to receive your own copy of the 2023 calendar later this year</i></p>
+	<p><i>This image was published on the October page of the ARCHER2 2022 printed calendar.  If you would like to receive your own copy of the 2023 calendar later this year <a href="https://bit.ly/ARCHER2-Calendar-2023">please sign up now</a></i></p>
 			
 		
   </div>
