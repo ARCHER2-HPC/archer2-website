@@ -3,13 +3,23 @@ layout: section
 title: ARCHER2 User Administration Staff
 summary: The user administration team deal with all aspects of project and user resources on the service along with managing the service desk and coordinating user communications. They are responsible for setting up projects that are granted resources on ARCHER2 and are able to liaise between users and research funders such as UKRI.
 banner: web_banners_02.jpg
+teams:  [Servicedesk, User Admin, CSE, Systems, eCSE, Training, Outreach,  Quality & Feedback, Web & Docs, Coordination]
 ---
 
-Filter staff by teams :  <a href="/about/staff/servicedesk"><code class="highligher-rouge"><nobr>Servicedesk</nobr></code>&nbsp;</a>          <a href="/about/staff/uadmin"><code class="highligher-rouge"><nobr><i>User Admin</i> </nobr></code>&nbsp;</a>           <a href="/about/staff/cse"><code class="highligher-rouge"><nobr>CSE</nobr></code>&nbsp;</a>            <a href="/about/staff/systems"><code class="highligher-rouge"><nobr>Systems</nobr></code></a> &nbsp;          <a href="/about/staff/ecse"><code class="highligher-rouge"><nobr>eCSE</nobr></code>&nbsp;</a>          <a href="/about/staff/training"><code class="highligher-rouge"><nobr>Training</nobr></code>&nbsp;</a>          <a href="/about/staff/outreach"><code class="highligher-rouge"><nobr>Outreach</nobr></code>&nbsp;</a>          <a href="/about/staff/quality"><code class="highligher-rouge"><nobr>Quality &amp; Feedback</nobr></code>&nbsp;</a>          <a href="/about/staff/web"><code class="highligher-rouge"><nobr>Web &amp; Docs</nobr></code>&nbsp;</a>                  <a href="/about/staff/coordination"><code class="highligher-rouge"><nobr>Coordination</nobr></code>&nbsp;</a>          <a href="/about/staff/"><code class="highligher-rouge"><nobr>All staff</nobr></code>&nbsp;</a>
+
+<div>
+Filter staff by teams :
+{% for team in page.teams %}
+<a href="/about/staff/{{ team | slugify }}" ><code  style="font-size:15px;"><nobr>{{ team }}</nobr></code>&nbsp;</a>
+{% endfor %} 
+<a href="/about/staff/" ><code  style="font-size:15px;"><nobr>All Staff</nobr></code>&nbsp;</a>   
+</div>
+
+
 
 {% assign sorted_staff = site.staff | sort:"surname" %}
 {% for staff in sorted_staff  %}
-{% if staff.tags contains 'uadmin' %}
+{% if staff.tags contains 'User Admin' %}
 
 
 

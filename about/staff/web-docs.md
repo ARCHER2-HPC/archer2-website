@@ -1,7 +1,7 @@
 ---
 layout: section
-title: ARCHER2 CSE Staff 
-summary: The Computational Science and Engineering (CSE) team are responsible for providing expert technical advice to users and prospective users of ARCHER2 so that they can get the most benefit from the service for their work. Typical work for the team includes helping people to port their software and workflows to ARCHER2, getting the best performance from the service, writing and improving the documentation and providing technical advice to people applying for access to ARCHER2. The team includes experts from EPCC and HPE working closely together.
+title: ARCHER2 Web site and Documentation
+summary: This team is responsible for the website, ensuring this is appropriately developed and maintained to provide users with an easily accessible portal showing current information. This team is also responsible for ensuring all components of the Service are comprehensively documented and available on the website.  
 banner: web_banners_02.jpg
 teams:  [Servicedesk, User Admin, CSE, Systems, eCSE, Training, Outreach,  Quality & Feedback, Web & Docs, Coordination]
 ---
@@ -14,12 +14,12 @@ Filter staff by teams :
 {% endfor %} 
 <a href="/about/staff/" ><code  style="font-size:15px;"><nobr>All Staff</nobr></code>&nbsp;</a>   
 </div>
- 
+
 
 
 {% assign sorted_staff = site.staff | sort:"surname" %}
 {% for staff in sorted_staff  %}
-{% if staff.tags contains 'CSE' %}
+{% if staff.tags contains 'Web & Docs' %}
 
 
 

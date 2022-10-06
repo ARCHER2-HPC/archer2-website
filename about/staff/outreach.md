@@ -3,13 +3,23 @@ layout: section
 title: ARCHER2 Outreach Staff
 summary: The outreach team carries out outreach and public engagement activities around HPC, provide an engaging, innovative and diverse programme of activities. The team has two main focus. The first is to deliver outreach activities targeted at young people, with an aim of explaining the relevance and benefit of HPC to society and of encouraging young people to consider a career in STEM. The second is focused on lifelong learning, recognising the benefits this can bring for social inclusion, employability and wellbeing. 
 banner: web_banners_02.jpg
+teams:  [Servicedesk, User Admin, CSE, Systems, eCSE, Training, Outreach,  Quality & Feedback, Web & Docs, Coordination]
 ---
 
-Filter staff by teams :  <a href="/about/staff/servicedesk"><code class="highligher-rouge"><nobr>Servicedesk</nobr></code>&nbsp;</a>          <a href="/about/staff/uadmin"><code class="highligher-rouge"><nobr>User Admin </nobr></code>&nbsp;</a>           <a href="/about/staff/cse"><code class="highligher-rouge"><nobr>CSE</nobr></code>&nbsp;</a>            <a href="/about/staff/systems"><code class="highligher-rouge"><nobr>Systems</nobr></code></a> &nbsp;          <a href="/about/staff/ecse"><code class="highligher-rouge"><nobr>eCSE</nobr></code>&nbsp;</a>          <a href="/about/staff/training"><code class="highligher-rouge"><nobr>Training</nobr></code>&nbsp;</a>          <a href="/about/staff/outreach"><code class="highligher-rouge"><nobr><i>Outreach</i></nobr></code>&nbsp;</a>          <a href="/about/staff/quality"><code class="highligher-rouge"><nobr>Quality &amp; Feedback</nobr></code>&nbsp;</a>          <a href="/about/staff/web"><code class="highligher-rouge"><nobr>Web &amp; Docs</nobr></code>&nbsp;</a>                  <a href="/about/staff/coordination"><code class="highligher-rouge"><nobr>Coordination</nobr></code>&nbsp;</a>          <a href="/about/staff/"><code class="highligher-rouge"><nobr>All staff</nobr></code>&nbsp;</a>
+
+<div>
+Filter staff by teams :
+{% for team in page.teams %}
+<a href="/about/staff/{{ team | slugify }}" ><code  style="font-size:15px;"><nobr>{{ team }}</nobr></code>&nbsp;</a>
+{% endfor %} 
+<a href="/about/staff/" ><code  style="font-size:15px;"><nobr>All Staff</nobr></code>&nbsp;</a>   
+</div>
+
+
 
 {% assign sorted_staff = site.staff | sort:"surname" %}
 {% for staff in sorted_staff  %}
-{% if staff.tags contains 'outreach' %}
+{% if staff.tags contains 'Outreach' %}
 
 
 
