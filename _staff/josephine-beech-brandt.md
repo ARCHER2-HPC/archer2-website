@@ -5,5 +5,5 @@ title: .
 role: Service Desk function lead
 image_src: null.jpg
 bio: 
-tags: [servicedesk, uadmin   ] 
+tags: [Servicedesk, User Admin   ] 
 ---
