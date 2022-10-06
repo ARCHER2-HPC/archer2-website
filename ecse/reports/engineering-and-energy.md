@@ -1,24 +1,24 @@
 ---
 layout: section
-title: eCSE Reports - Mathematics and Computer Science 
+title: eCSE Reports - Engeneering and Energy
 banner: web_banners_10.jpg
-tags: [Earth Sciences and Environment, Engineering and Energy, Chemistry and Materials, Mathematics and Computer Science]
+tags: [Chemistry and Materials, Earth Sciences and Environment, Engineering and Energy,  Mathematics and Computer Science]
 ---
 
   
 <div>
 Subject Areas:
 {% for tag in page.tags %}
-<a href="/ecse/reports/{{ tag }}" ><code  style="font-size:15px;"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
+<a href="/ecse/reports/{{ tag | slugify  }}" ><code  style="font-size:15px;"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
 {% endfor %} 
 <a href="/ecse/reports/" ><code  style="font-size:15px;"><nobr>All</nobr></code>&nbsp;</a>   
 </div>
 
 
 {% assign current_ecse = site.ecse | where_exp: "ecse", "ecse.status != 'hidden'" %}
-{% assign mcs_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Mathematics and Computer Science'" %}
+{% assign ee_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Engineering and Energy'" %}
 
-{% for ecse in mcs_ecse reversed %}
+{% for ecse in ee_ecse reversed %}
 
 
 
