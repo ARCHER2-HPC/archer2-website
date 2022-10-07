@@ -8,6 +8,8 @@
     url: "/about/hardware.html"    
   - title: "Partners"
     url: "/about/partners.html"   
+  - title: "Staff"
+    url: "/about/staff/"      
   - title: "News &amp; Announcements"
     url: "/about/news/"
   - title: "Blog"
