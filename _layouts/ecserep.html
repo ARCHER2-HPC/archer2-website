@@ -14,7 +14,9 @@ layout: page
             <div class="post-info-wrapper">
              </span></p>
 							<p><b>PI: </b> {{ page.pi }}<br>
-							       <b>Co-Is: </b>{{ page.cois }} <br>
+							       {% if page.cois.size > 1 %}
+							           <b>Co-Is: </b>{{ page.cois }} <br>
+								   {% endif %}
 								   <b>Technical staff: </b>{{ page.tech }}
 							</p>	   
 			 
