@@ -10,7 +10,7 @@ layout: page
         <div>
           <div class="block">
             <h1>{{ page.title }}</h1>
-			<h2>ARCHER2-{{ page.ecse }}</h2>
+			<h2>ARCHER2-{{ page.ecseid }}</h2>
             <div class="post-info-wrapper">
              </span></p>
 							<p><b>PI: </b> {{ page.pi }}<br>
@@ -20,7 +20,7 @@ layout: page
 			 
 			 
 							<p> <span>
-					Subject Area: <a href="/ecse/reports/{{ page.subject }}"><code class="highligher-rouge"><nobr>{{ page.subject }}</nobr></code>&nbsp;</a>		
+					Subject Area: <a href="/ecse/reports/{{ page.subject | slugify }}"><code class="highligher-rouge"><nobr>{{ page.subject }}</nobr></code>&nbsp;</a>		
 				   {% assign pd = page.pub_date | date: "%Y-%m-%d" %}
 		           &nbsp; &nbsp; &nbsp; &nbsp;
 		           Published &colon; {{ pd }}

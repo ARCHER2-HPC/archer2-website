@@ -25,23 +25,23 @@ Subject Areas:
 <div class="casestudy">
 
 	<div class="csimage">
-		<a href="{{ ecse.ecse }}"><img
+		<a href="{{ ecse.ecseid }}"><img
 			src="{{ ecse.image_src }}" alt="{{ ecse.image_alt }}" title="{{ ecse.image_alt }}" style="width: 200px;" /></a>
 	</div>
 
 	<div class="cstext">
 
 		<h3>
-			<a href="{{ ecse.ecse }}">{{ ecse.title }}</a>
+			<a href="{{ ecse.ecseid }}">{{ ecse.title }}</a>
 		</h3>
 
 		<b>
-			ARCHER2-{{ ecse.ecse }} 
+			ARCHER2-{{ ecse.ecseid }} 
 		</b>
 
  		&colon; {{ ecse.pi }} <br><br>
 
-		Subject Area: <a href="/ecse/reports/{{ ecse.subject }}"><code class="highligher-rouge"><nobr>{{ ecse.subject }}</nobr></code>&nbsp;</a>
+		Subject Area: <a href="/ecse/reports/{{ ecse.subject | slugify }}"><code class="highligher-rouge"><nobr>{{ ecse.subject }}</nobr></code>&nbsp;</a>
         {% assign pd = ecse.pub_date | date: "%Y-%m-%d" %}
 		&nbsp; &nbsp; &nbsp; &nbsp;
 		Published &colon; {{ pd }}    <br><br>	
@@ -49,7 +49,7 @@ Subject Areas:
 		<p>
           {{ ecse.summary }}
 		 
-			<a href="{{ ecse.ecse }}"> Read more...</a>
+			<a href="{{ ecse.ecseid }}"> Read more...</a>
 		</p>
 
 	</div>
