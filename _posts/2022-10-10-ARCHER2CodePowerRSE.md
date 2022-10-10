@@ -7,9 +7,11 @@ tags: [blog,]
 categories: [news]
 ---
 
-One of the big benefits of being a research software engineer (RSE) providing general support for a compared to a researcher or being focussed on a specific project is the ability to take a step back from the specific aspects of particular software and look at the more global view of software. I really enjoy that an RSE role gives me the ability to have a holistic view of software use patterns and how such data can be used to improve the service for researchers and - for the case I am going to discuss below - how we can use the data to try and make the service more efficient environmentally.
+One of the big benefits of being a research software engineer (RSE) providing general support for a compared to a researcher or being focussed on a specific project is the ability to take a step back from the specific aspects of particular software and look at the more global view of software.
 
 <!--more-->
+
+I really enjoy that an RSE role gives me the ability to have a holistic view of software use patterns and how such data can be used to improve the service for researchers and - for the case I am going to discuss below - how we can use the data to try and make the service more efficient environmentally.
 
 I think one of the key benefits that RSEs bring to the research community is this ability to have a wider view of the research and software landscape than is possible for researchers who are necessarily focussed on their particular research problem. They can bring lessons learned and ideas from other research areas to help the researchers they are currently working with. For me, this breadth of experience is also one of the best parts of being an RSE - the diversity of work and the feeling that you are creating links between different researchers are some of the things I find most satisfying about my RSE role.
 
