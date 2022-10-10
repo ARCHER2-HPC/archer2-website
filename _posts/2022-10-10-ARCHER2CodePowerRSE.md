@@ -9,6 +9,8 @@ categories: [news]
 
 One of the big benefits of being a research software engineer (RSE) providing general support for a compared to a researcher or being focussed on a specific project is the ability to take a step back from the specific aspects of particular software and look at the more global view of software. I really enjoy that an RSE role gives me the ability to have a holistic view of software use patterns and how such data can be used to improve the service for researchers and - for the case I am going to discuss below - how we can use the data to try and make the service more efficient environmentally.
 
+<!--more-->
+
 I think one of the key benefits that RSEs bring to the research community is this ability to have a wider view of the research and software landscape than is possible for researchers who are necessarily focussed on their particular research problem. They can bring lessons learned and ideas from other research areas to help the researchers they are currently working with. For me, this breadth of experience is also one of the best parts of being an RSE - the diversity of work and the feeling that you are creating links between different researchers are some of the things I find most satisfying about my RSE role.
 
 One of the projects I have been working on over the past few months that has allowed me to take this high-level view of software on the ARCHER2 UK national supercomputing service is the [HPC-JEEP]() project funded by the [UKRI DRI Net Zero Scoping Project](https://net-zero-dri.ceda.ac.uk/). The idea behind HPC-JEEP is to look at what energy usage data we can extract on a per job basis from HPC facilities and what types of analyses this energy data can currently support. This information can then be used to plan future activities about how you might optimise an HPC service in terms of minimising emissions per unit of research. The HPC-JEEP project includes two HPC services as testbeds for this analysis: [ARCHER2](https://www.archer2.ac.uk/) (supported by [EPCC](https://www.epcc.ed.ac.uk) at the [University of Edinburgh](https://www.ed.ac.uk)) and [DiRAC COSMA](https://www.dur.ac.uk/icc/cosma/) (supported by the [ICC](https://www.dur.ac.uk/icc/) at [Durham University](https://www.durham.ac.uk/homepage/)).
@@ -16,12 +18,14 @@ One of the projects I have been working on over the past few months that has all
 The initial report from HPC-JEEP on how we extract energy data and some initial exploratory analysis of energy use by different research areas and software on the HPC systems has [recently been published on Zenodo](https://doi.org/10.5281/zenodo.7128628) along with the [dataset](https://doi.org/10.5281/zenodo.7128645) that includes the raw and analysed per job data from ARCHER2 and DiRAC COSMA along with the analysis scripts used for the report. This plot from the report compares the percentage energy use and percentage node hour use broken down by research areas on ARCHER2. The labels above the bars show the percent difference between the energy use and node hour use columns.
 
 ![Bar chart comparing energy use and node hour use by research area](/img/blog/2022_area_combined.png)
+{:  style="width: 70%" alt="Bar chart comparing energy use and node hour use by research area" }
 
 If all software on ARCHER2 consistently drew the same amount of compute node power we would expect to see no difference between the percentage energy use and the percentage node hour use. Where the differences are large, some behaviour of the users (e.g. not using all compute cores on a node) or some aspect of the application (e.g. it is IO-bound so is not using compute cores consistently) is leading to these discrepancies.
 
 As part of HPC-JEEP we have recently been able to extract per-job mean node power draw statistics and then break these down by research area and software. The plot and table below show the distribution of node power draw on ARCHER2 weighted by the number of node hours used for each job and broken down by research area for July 2022. (We only list areas that have greater than 1% use in the period.)
 
 ![Violin plots of the distribution of node power draw by research area for July 2022](/img/blog/2022-07-area_power_violin.png)
+{:  style="width: 70%" alt="Mean node power draw plot" }
 
 Distribution of node power draw (in W) weighted by usage and broken down by research area (July 2022, areas greater than 1% use):
 
@@ -52,6 +56,7 @@ There is also the outlier of the astrophysics and cosmology area which has extre
 We can gain a different perspective on node power draw by breaking down the distribution by the software used in the job rather than research area. The plot and table below show this breakdown. Again, the per job node power draw is weighted by node hour use to give proper weight to the applications and jobs according to their usage on ARCHER2. (We only list software that have greater than 1% use in the period.)
 
 ![Violin plots of the distribution of node power draw by software for July 2022](/img/blog/2022-07-code_power_violin.png)
+{:  style="width: 70%" alt="Distribution of node power draw" }
 
 Distribution of node power draw (in W) weighted by usage and broken down by software (July 2022, software greater than 1% use):
 
