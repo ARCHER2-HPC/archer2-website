@@ -31,7 +31,7 @@ Subject Areas:
 
 {% assign date_now = "now" | date: "%s" %}
 {% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
-{% assign date_thresh = date_now | minus: 087000 | date: "%s" %}
+<!-- threshold is within last 30 days -->
 
 {% assign current_ecse = site.ecse | sort: 'pub_date' | reverse | where_exp: "ecse", "ecse.status != 'hidden'" %}
 {% for ecse in current_ecse limit:1 %}
