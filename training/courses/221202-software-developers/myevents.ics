@@ -23,17 +23,16 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20220802T120804Z
+DTSTAMP:20221011T135539Z
 UID:1659440778062-78598@ical.marudot.com
-DTSTART;TZID=Europe/London:20220901T100000
-RRULE:FREQ=DAILY;COUNT=2
-DTEND;TZID=Europe/London:20220901T160000
+DTSTART;TZID=Europe/London:20221202T100000
+DTEND;TZID=Europe/London:20221205T160000
 SUMMARY:ARCHER2 Training: ARCHER2 for Software Developers
-DESCRIPTION:Join link :  https://eu.bbcollab.com/guest/bcf4af7a029c40919d8a851f9bb85a2c\n\nARCHER2 course page : https://www.archer2.ac.uk/training/courses/220901-software-developers
+DESCRIPTION:Join link :  https://eu.bbcollab.com/guest/bcf4af7a029c40919d8a851f9bb85a2c\n\nARCHER2 course page : https://www.archer2.ac.uk/training/courses/221202-software-developers
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ARCHER2 Training: ARCHER2 for Software Developers
-TRIGGER:-PT5M
+TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
