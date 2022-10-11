@@ -27,7 +27,7 @@ We are very pleased to announce that for this call eCSE projects can be requeste
 
 The eCSE Panel Meeting is the meeting where eCSE proposals are reviewed and decisions are made on which proposals to fund. As part of our commitment to encouraging and developing Early Career Researchers, we are offering a small number of places to such researchers to attend the eCSE panel meeting as Early Career Observers. The aim is to give Early Career Researchers a better insight into this competitive selection process, to assist them in the preparation of future funding proposals.
 
-The deadline for applying to attend the panel meeting as an observer is **16:00 on 4 October 2022** and details of the call are given [here](../observers/).
+The deadline for applying to attend the panel meeting as an observer is **16:00 on 4 October 2022** -  [read more about the details of the call](../observers/).
 
 ### Application process and guidance for the eCSE call
 
@@ -60,8 +60,8 @@ has its own guidance document and associated forms. Please ensure that the
 correct guidance and forms are used for this call.
 
 If your eCSE proposal is selected for funding, you will be provided
-with an award letter and will be asked to agree to the eCSE
-Terms. Please view [the Terms here](../Terms/ARCHER2_eCSE_Terms.pdf)
+with an award letter and will be asked to agree to the [eCSE
+Terms.](../Terms/ARCHER2_eCSE_Terms.pdf)
 in advance of submitting your eCSE proposal. Please get in touch via
 the ARCHER2 service desk if you have any questions about this. 
 
@@ -124,12 +124,12 @@ resources per 6 months of eCSE person month awarded.
 ### Training
 
 Regular training will be provided via the CSE team. Details of
-upcoming training course can be found [here](../../training/).
+upcoming training courses can be found on the [Training page](../../training/).
 
 ### Application and Review Process
 
 Information and guidelines on how to apply for eCSE funding can be
-found [here](ARCHER2_eCSE08_ApplicationGuidance.pdf). Proposals
+found [in our Application Guidance document](ARCHER2_eCSE08_ApplicationGuidance.pdf). Proposals
 undergo a two-stage process. A technical evaluation is performed first
 with completed forms being passed back to applicants in time for
 including in the final submission. After final submission, all
@@ -137,19 +137,16 @@ proposal documents, including the completed technical evaluation
 forms, will then be passed to the review panel who will make decisions
 on ranking and any award of funding.
 
-The eCSE technical evaluation form can be found
-[here](ARCHER2_eCSE08_TechnicalEvaluation.docx) and should be
+The [eCSE technical evaluation form](ARCHER2_eCSE08_TechnicalEvaluation.docx) should be
 submitted to the ARCHER service desk
-[support@archer2.ac.uk](mailto:support@archer2.ac.uk). The proposal
-template can be found [here](ARCHER2_eCSE08_ProposalTemplate.docx) and
+[support@archer2.ac.uk](mailto:support@archer2.ac.uk). The [proposal
+template](ARCHER2_eCSE08_ProposalTemplate.docx) 
 should be submitted via the [ARCHER2
 SAFE](https://safe.epcc.ed.ac.uk/) together with the completed
 Technical Evaluation document.
 
 The eCSE team recently presented a webinar giving an overview of the eCSE scheme and application 
-process, including a walk-through of completing the application form. Full details 
-and video of this presentation are 
-available [here](https://www.archer2.ac.uk/training/courses/220428-ecse-webinar/).
+process, including a [walk-through of completing the application form](https://www.archer2.ac.uk/training/courses/220428-ecse-webinar/).
 
 ### Reports and eCSE staff requirements
 
