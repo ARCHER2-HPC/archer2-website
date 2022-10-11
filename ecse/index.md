@@ -40,7 +40,7 @@ The RSE may be based at the institution of the PI, at a third party institution,
 
 ## Upcoming eCSE Calls
 
-A timetable of recent, current and upcoming calls can be found [here](calls/timetable.html).
+[A timetable of recent, current and upcoming calls](calls/timetable.html).
 
 
 ## Current Call Information
