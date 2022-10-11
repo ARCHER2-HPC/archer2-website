@@ -2,13 +2,13 @@
 layout: course
 title: ARCHER2 for Package Users
 banner: web_banners_05.jpg 
-human_dates: 13 October 2022  10:00 - 16:00  BST
-start_date: 2022-10-13 10:00:00
-end_date: 2022-10-13 16:00:00
+human_dates: 24 November 2022  10:00 - 16:00  BST <br> (Rescheduled from 13th October)
+start_date: 2022-11-24 10:00:00
+end_date: 2022-11-24 16:00:00
 trainers: Andy Turner EPCC
 course_type: course
 registration_status: open
-registration_url:  https://www.archer2.ac.uk/training/register/?course=221013-package-users
+registration_url:  https://www.archer2.ac.uk/training/register/?course=221124-package-users
 location: Online
 location_url:
 prace_course: false
@@ -65,7 +65,7 @@ Details to follow
 <!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/221013-package-users">
+          href="https://pad.archer2.ac.uk/p/221124-package-users">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -101,7 +101,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=221013-package-users" 
+           href="../../feedback/?course=221124-package-users" 
 
 
 		>
