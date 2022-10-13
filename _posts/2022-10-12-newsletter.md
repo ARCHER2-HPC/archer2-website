@@ -75,7 +75,7 @@ Full details and registration: https://www.archer2.ac.uk/training/#upcoming-trai
 
 ## Access to HPC Call 
 
-Reminder that the Submit Deadline is this Friday, 18th October 16:00
+Reminder that the Submit Deadline is Tuesday, 18th October 16:00
 
 [More details an application forms](https://www.archer2.ac.uk/support-access/access#calls-for-archer2-time-only)
 
