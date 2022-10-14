@@ -88,19 +88,19 @@ These pages provide information on the consortia funded on ARCHER2, including de
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://www.noc.ac.uk/">National Oceanography Centre (NOC)</a></td>
+        <td>Oceanography and Shelf Seas Consortium</a></td>
         <td>Dr. Andrew Coward (University of Southampton)</td>
         <td>Michael Bareford</td>
         <td>n01</td>
       </tr>
       <tr>
-        <td><a href="https://www.ncas.ac.uk/en/">National Centre for Atmospheric Science (NCAS)</a></td>
+        <td>Atmospheric and Polar Sciences Consortium</td>
         <td>Dr. Grenville Lister (University of Reading)</td>
         <td>Michael Bareford</td>
         <td>n02</td>
       </tr>
       <tr>
-        <td>Mineral Physics Consortium</td>
+        <td>Mineral and Geophysics Consortium</td>
         <td>Prof. John Brodholt (UCL)</td>
         <td>Andy Turner</td>
         <td>n03</td>
