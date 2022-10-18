@@ -58,5 +58,7 @@ collections:
   ecse:
     output: true
     permalink: /ecse/reports/:path/
+  postcards:
+    output: false
 
 future: true
