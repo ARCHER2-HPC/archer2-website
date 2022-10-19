@@ -2,7 +2,7 @@
 layout: course
 title: Debugging on ARCHER2&colon; Introduction to the gdb4hpc and ccdb debugging tools on ARCHER2.
 banner: web_banners_05.jpg
-human_dates: Wednesday 2nd November 2022  15:00 - 16:00 BST
+human_dates: Wednesday 2nd November 2022  15:00 - 16:00 
 start_date: 2022-11-02 15:00:00
 end_date: 2022-11-02 16:00:00
 trainers: Harvey Richardson, Douglas Shanks HPE Cray
