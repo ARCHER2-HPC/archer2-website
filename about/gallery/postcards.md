@@ -1,6 +1,7 @@
 ---
 layout: section
 title: Postcards
+summary: Postcards highlighting ARCHER2 research - all downloadable as PDF
 banner: ../../img/banners/web_banners_02_800.jpg
 ---
 
