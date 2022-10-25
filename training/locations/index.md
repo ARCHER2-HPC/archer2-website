@@ -11,3 +11,4 @@ banner: web_banners_05.jpg
 * [Alan Turing Institute London](ati.html)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
 * [The Open University, Milton Keynes](open-mk)
+* [Queen's University, Belfast](qub)
