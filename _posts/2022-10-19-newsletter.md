@@ -22,7 +22,7 @@ categories: [news]
 Free online webinar, Wednesday 2nd November 2022 15:00 - 16:00 BST<br>
 Harvey Richardson, Douglas Shanks HPE Cray
 
-This webinar, delivered by the HPE Centre of Excellence, will be an introduction to the gdb4hpc and ccdb debugging tools on ARCHER2.<br>
+This webinar, delivered by the HPE Centre of Excellence, will be an introduction to the [gdb4hpc](https://docs.archer2.ac.uk/user-guide/debug/#gdb4hpc) and [ccdb](https://docs.archer2.ac.uk/user-guide/debug/) debugging tools on ARCHER2.<br>
 More details will be posted soon.
 
 [Details and join link](https://www.archer2.ac.uk/training/courses/221102-hpe-debugging-vt/)
