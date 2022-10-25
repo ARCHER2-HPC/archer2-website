@@ -24,15 +24,11 @@ This course will not be streamed online and a recording will not be made.
 
 Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including:
 
-Program design (Python)
-
-Version control with Git
-
-The Unix Shell
-
-Automation and Make
-
-Using databases and SQL
+- [Program design (Python)](http://swcarpentry.github.io/python-novice-inflammation)
+- [Version control with Git](https://swcarpentry.github.io/git-novice/)
+- [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+- [Automation and Make](http://swcarpentry.github.io/make-novice)
+- [Using databases and SQL](http://swcarpentry.github.io/sql-novice-survey)
 
 
 Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
@@ -59,32 +55,32 @@ Dec 5-8, 2022
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="  https://epcced.github.io/2022-12-05-belfast/  ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/221205-software-carpentry ">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
- -->
+ 
  	</div>
 		
 		
