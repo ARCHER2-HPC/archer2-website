@@ -16,7 +16,19 @@ prace_course: false
 
 This webinar, delivered by the HPE Centre of Excellence, will be an introduction to the [gdb4hpc](https://docs.archer2.ac.uk/user-guide/debug/#gdb4hpc) and [ccdb](https://docs.archer2.ac.uk/user-guide/debug/) debugging tools on ARCHER2.
 
-More details will be posted soon.
+This webinar introduces the debugging tools that are provided in the HPE Cray Programming Environment on ARCHER2.
+
+The webinar aims to answer the following questions:
+-	What debugging tools are available on ARCHER2?
+-	What is gdb?
+-	How do I use gdb and what are its capabilities?
+-	What does gdb4hpc add to gdb?
+-	How do I use gdb4hpc on ARCHER2?
+-	How would I debug a hanging/crashing application with gdb4hpc?
+-	What is the Cray Comparative Debugger (ccdb)?
+-	When and how would I use ccdb?
+-	How would I create an assertion script and compare two programs with ccdb?
+
 
 
 
