@@ -15,8 +15,8 @@ summary: ARCHER2 Embedded CSE (eCSE) support to improve software on ARCHER2.
       </div>
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="projects/">
-          <strong>ARCHER2 eCSE Projects</strong><br/>
+        <a class="ar2_linkbox ar2_linkbox-green" href="reports/">
+          <strong>ARCHER2 eCSE Project Reports</strong><br/>
           Details and reports from previously funded eCSE projects on the ARCHER2 service.
         </a>
       </div>
