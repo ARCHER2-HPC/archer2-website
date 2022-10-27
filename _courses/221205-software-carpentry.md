@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 5 - 8 December 2022  09:30 - 17:00  GMT
 start_date: 2022-12-05 09:30:00
 end_date: 2022-12-08 12:30:00
-trainers: Juan EPCC
+trainers: Juan Herrera EPCC
 course_type: course
 registration_status: hidden
 registration_url: https://events.prace-ri.eu/event/1463/registrations/1079/
