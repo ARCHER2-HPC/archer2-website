@@ -10,7 +10,7 @@ course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=221207-containers
 location: Newcastle University
-location_url: ../../locations/newcastle
+location_url: /training/locations/newcastle
 prace_course: false
 ---
 
