@@ -10,5 +10,7 @@ banner: web_banners_05.jpg
 * [EPCC](epcc.html)
 * [Alan Turing Institute London](ati.html)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
+* [Newcastle University](newcastle)
 * [The Open University, Milton Keynes](open-mk)
+* [Oxford e-Science Research Centre](oxford)
 * [Queen's University, Belfast](qub)
