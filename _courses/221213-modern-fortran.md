@@ -36,7 +36,7 @@ Attendees must be familiar with the basic concepts of programming: variables, lo
 
 The course requires a Fortran compiler, for which a local machine or laptop may be appropriate [1]. If you do not have access to a Fortran compiler, course training accounts on ARCHER2 will be available which provide access to various compilers. Use of a text editor will be required (some may prefer an IDE, but we do not intend to consider or support IDEs).
 
-[1] This may typically be gfortran, freely available as part of Gnu Compiler Collection (GCC). See e.g., https://gcc.gnu.org/wiki/GFortranBinaries
+[1] This may typically be gfortran, freely available as part of Gnu Compiler Collection (GCC). See e.g., <https://gcc.gnu.org/wiki/GFortranBinaries>
 
 
 ### Requirements:
