@@ -25,7 +25,7 @@ Participants must have attended ARCHER2 for Software Developers or be familiar w
 
 This course is targeted at users interested in optimising the performance of their own applications, e.g. through compiler options or code changes.
 
-Users interested in efficient use of centrally installed packages should consider attending Understanding Package Performance instead
+Users interested in efficient use of centrally installed packages should consider attending [Understanding Package Performance](https://www.archer2.ac.uk/training/courses/#understanding-package-performance) instead
 
 
 ### Requirements:
