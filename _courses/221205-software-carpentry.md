@@ -7,7 +7,7 @@ start_date: 2022-12-05 09:30:00
 end_date: 2022-12-08 12:30:00
 trainers: Juan Herrera EPCC
 course_type: course
-registration_status: hidden
+registration_status: open
 registration_url: https://events.prace-ri.eu/event/1463/registrations/1079/
 location: Queen's University, Belfast
 location_url: ../../locations/qub
