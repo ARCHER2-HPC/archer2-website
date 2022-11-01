@@ -26,19 +26,19 @@ banner: ../../img/splash/old/220808-image-comp-2022-w.jpg
 	       <img style="width: 95%; padding: 15px" src="{{ imagecomp.image_src }}" alt="{{ casestudies.entry_id }}" />
 			{% endif %}
 			
-      </div>
+	  </div>
 			
-			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         
-       <br /><br />
+        <br /><br />
   
-  		 <b>{{ imagecomp.entry_no }}. {{ imagecomp.title }}  </b><br /><br />
+  		<b>{{ imagecomp.entry_no }}. {{ imagecomp.title }}  </b><br /><br />
 			 
-			     {% if imagecomp.winner  %}
-					   <strong>* * * {{ imagecomp.winner }} * * *</strong><br /><br />
-					 {% endif %}
-<!--			     <i><strong>{{ imagecomp.name }}, {{ imagecomp.institution }}</strong></i><br /><br />   -->
-  		 		 {{ imagecomp.description }}
+		{% if imagecomp.winner  %}
+			<strong>* * * {{ imagecomp.winner }} * * *</strong><br /><br />
+		{% endif %}
+		<i><strong>{{ imagecomp.name }}, {{ imagecomp.institution }}</strong></i><br /><br />  
+  		{{ imagecomp.description }}
  
 
       </div>
@@ -46,10 +46,10 @@ banner: ../../img/splash/old/220808-image-comp-2022-w.jpg
     </div>	
 	
 	
-		<hr />
+	<hr />
 		
 		
-		{% endfor %}
+	{% endfor %}
 		
 	
 		
