@@ -10,7 +10,7 @@ course_type: course
 registration_status: open
 registration_url: https://events.prace-ri.eu/event/1463/registrations/1079/
 location: Queen's University, Belfast
-location_url: ../../locations/qub
+location_url: /training/locations/qub
 prace_course: true
 ---
 

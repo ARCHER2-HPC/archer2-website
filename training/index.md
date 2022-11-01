@@ -99,7 +99,7 @@ Individual links to course provide more details on the content and prerequisites
       </td>
       <td>
         {% if course.location != "Online" %}
-          <a href="{{ course.location_url }}">{{ course.location }}</a>
+          <a href="{{ site.baseurl }}{{ course.location_url }}">{{ course.location }}</a>
         {% else %}
           {{ course.location }}
         {% endif %}
