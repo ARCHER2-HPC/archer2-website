@@ -32,7 +32,7 @@ banner: ../../img/splash/old/220808-image-comp-2022-w.jpg
 			     {% if imagecomp.winner  %}
 					   <strong>* * * {{ imagecomp.winner }} * * *</strong><br /><br />
 					 {% endif %}
-<!--			     <i><strong>{{ imagecomp.name }}, {{ imagecomp.institution }}</strong></i><br /><br /> --> 
+			     <i><strong>{{ imagecomp.name }}, {{ imagecomp.institution }}</strong></i><br /><br />  
  		 		 {{ imagecomp.description }}
  
 
