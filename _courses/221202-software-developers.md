@@ -11,7 +11,7 @@ registration_status: open
 registration_url:  https://events.prace-ri.eu/event/1454/registrations/1072/
 location: Online
 location_url:
-prace_course: false
+prace_course: true
 ---
 
 #### Description:
