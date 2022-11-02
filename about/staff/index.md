@@ -48,7 +48,7 @@ Filter staff by teams :
 		<p><b>{{ staff.role }}</b><br>
 			<i>[
 			{% for tag in staff.tags %}
-				{{ tag }}
+				<a href="/about/staff/{{ tag | slugify }}" >{{ tag }}</a>
 				{% if forloop.last %}{% else %},{% endif %}
 			{% endfor %}
 			]</i>
