@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 24 November 2022  10:00 - 16:00  GMT <br> (Rescheduled from 13th October)
 start_date: 2022-11-24 10:00:00
 end_date: 2022-11-24 16:00:00
-trainers: Andy Turner EPCC
+trainers: Michael Bareford EPCC
 course_type: course
 registration_status: open
 registration_url:  https://www.archer2.ac.uk/training/register/?course=221124-package-users
