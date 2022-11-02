@@ -3,7 +3,7 @@ layout: post
 title: ARCHER2 Image and Video Competition 2022 Results
 date: 2022-11-02 10:00:00
 author: ARCHER2 Image and Video Competition
-tags: [event] 
+tags: [events] 
 categories: [news]
 ---
 
