@@ -13,7 +13,7 @@ banner: ../../img/banners/web_banners_02_800.jpg
     {% assign current_imagecomp = site.imagecomp | where_exp: "imagecomp", "imagecomp.winner" %}
 	
  
-    {% for imagecomp in current_imagecomp  %}
+    {% for imagecomp in current_imagecomp reversed %}
 	
 		<div class="row ">	
 
