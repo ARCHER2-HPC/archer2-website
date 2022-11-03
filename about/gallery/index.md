@@ -36,6 +36,22 @@ banner: web_banners_02.jpg
 
                 <ul id="portfolio-contant-active">	
 
+
+
+				  <li class="mix 2022">
+                    <a href="https://www.archer2.ac.uk/about/gallery/2022-image-comp/" target="_blank">
+                      <img src="img/2022.jpg" alt="2022 Winner">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>2022 Gallery</h2>
+                          <p></p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>	
+
+
+
 								
 				  <li class="mix 2021">
                     <a href="https://www.archer2.ac.uk/about/gallery/2021-image-comp/" target="_blank">
