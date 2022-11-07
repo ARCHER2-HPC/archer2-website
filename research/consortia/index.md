@@ -24,7 +24,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
     <tbody>
       <tr>
         <td><a href="https://www.ukturbulence.co.uk/">UK Turbulence Consortium (UKTC)</a></td>
-        <td>Prof. Sylvain Lazait (Imperial College)</td>
+        <td>Prof. Sylvain Laizet (Imperial College)</td>
         <td>William Lucas</td>
         <td>e01</td>
       </tr>
