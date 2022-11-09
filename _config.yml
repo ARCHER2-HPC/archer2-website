@@ -60,5 +60,8 @@ collections:
     permalink: /ecse/reports/:path/
   postcards:
     output: false
+  techreports:
+    output: false
+    permalink: /research/technical-reports/:path/    
 
 future: true
