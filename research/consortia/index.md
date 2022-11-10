@@ -31,7 +31,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       <tr>
         <td><a href="https://www.ucl.ac.uk/klmc/mcc/">Materials Chemistry Consortium (MCC)</a></td>
         <td>Prof. Scott Woodley (UCL)</td>
-        <td>Holly Judge</td>
+        <td>William Lucas</td>
         <td>e05</td>
       </tr>
       <tr>
