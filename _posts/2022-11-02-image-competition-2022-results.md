@@ -27,6 +27,16 @@ View the [gallery of all the submitted images and videos](https://www.archer2.ac
 
 Thanks to the entrants, judges and all involved in making the competition such a great success.  We hope you will take a few moments to enjoy looking at the gallery.
 
+
+
+<a href="https://bit.ly/ARCHER2-Calendar-2023">
+![[image]]({{ site.baseurl }}/img/splash/221117-calendar.jpg)</a>
+{: .img-center style="width: 30%" 
+alt="ARCHER2 calendar 2023" 
+title="ARCHER2 calendar 2023" }
+
+
+
 As in previous years, we plan to produce a printed calendar featuring some of the images from the competition – you are most warmly invited to [sign up to receive a copy](https://bit.ly/ARCHER2-Calendar-2023), and these will be posted out in time for the new year.
 
 
