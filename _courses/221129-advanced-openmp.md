@@ -38,24 +38,24 @@ Details to follow
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
-          <strong>Course materials</strong>         
+          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2021-10-05   ">
+          <strong>Course materials</strong> <br> from previous run of this course - this run will be very similar        
         </a>
       </div>
- -->
 
-<!--  
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/221129-advanced-openmp ">
@@ -63,7 +63,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
