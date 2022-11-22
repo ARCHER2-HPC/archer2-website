@@ -120,7 +120,9 @@
   - title: "Case Studies"
     url: "/research/case-studies"   
   - title: "Publications"
-    url: "/research/publications"    
+    url: "/research/publications"   
+  - title: "CSE Technical Reports"
+    url: "/research/technical-reports"     
   - title: "Research Consortia"
     url: "/research/consortia"   
 

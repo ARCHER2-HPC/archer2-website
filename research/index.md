@@ -23,7 +23,14 @@ banner: web_banners_08.jpg
       </div>
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="consortia/">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="technical-reports/">
+          <strong>CSE Technical Reports</strong><br/>
+          Reports highlighting some of the research carried out on ARCHER and ARCHER2 by the ARCHER2 CSE Team.
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="consortia/">
           <strong>Research Consortia</strong><br/>
           The consortia bring together researchers working in a particular research domain to make better use of advanced computing facilities such as ARCHER2.
         </a>
