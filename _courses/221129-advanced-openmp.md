@@ -49,8 +49,8 @@ Details to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2021-10-05   ">
-          <strong>Course materials</strong> <br> from previous run of this course - this run will be very similar        
+          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2022-11-29   ">
+          <strong>Course materials</strong> 
         </a>
       </div>
 
