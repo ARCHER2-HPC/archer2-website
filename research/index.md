@@ -24,8 +24,8 @@ banner: web_banners_08.jpg
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="technical-reports/">
-          <strong>CSE Technical Reports</strong><br/>
-          Reports highlighting some of the research carried out on ARCHER and ARCHER2 by the ARCHER2 CSE Team.
+          <strong>Technical Reports</strong><br/>
+          Reports highlighting some of the research carried out on ARCHER and ARCHER2 by the ARCHER2 Teams.
         </a>
       </div>
 
