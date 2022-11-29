@@ -9,16 +9,22 @@ trainers: Kevin Stratford EPCC
 course_type: course
 registration_status: open
 registration_url: https://events.prace-ri.eu/event/1467/registrations/1083/
-location: Oxford e-Science Research Centre
-location_url: /training/locations/oxford
+location: Online 
+location_url: 
 prace_course: true
 ---
 
 #### Location:
 
+This course will take place online due to travel disruption issues.
+
+(was to be Oxford e-Science Research Centre)
+
+<!--
 This course will take place face-to-face at  [{{ page.location }}]({{ page.location_url }})
 
 This course will not be streamed online and a recording will not be made.
+-->
 
 #### Target Audience:
 
