@@ -1,6 +1,6 @@
 ---
 layout: section
-title: CSE Technical Reports
+title: Technical Reports
 banner: web_banners_16.jpg
 ---
 
