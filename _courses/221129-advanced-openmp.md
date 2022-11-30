@@ -111,12 +111,8 @@ Details to follow
 <h3>Day 2 Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/2dhiJKN0mfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/IgGWmaNPXEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
-
-
 
 
 
