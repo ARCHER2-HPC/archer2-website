@@ -7,7 +7,7 @@ start_date: 2022-12-13 09:30:00
 end_date: 2022-12-14 16:30:00
 trainers: Kevin Stratford EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://events.prace-ri.eu/event/1467/registrations/1083/
 location: Online 
 location_url: 
