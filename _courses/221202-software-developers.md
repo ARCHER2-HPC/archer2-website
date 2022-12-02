@@ -64,7 +64,7 @@ Details to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://epcced.github.io/archer2-intro-develop/  ">
+          href=" https://epcced.github.io/2022-12-02-archer2-intro-devs/">
           <strong>Course materials</strong>         
         </a>
       </div>
