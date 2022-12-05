@@ -7,7 +7,7 @@ start_date: 2022-12-02 10:00:00
 end_date: 2022-12-05 16:00:00
 trainers: William Lucas EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://events.prace-ri.eu/event/1454/registrations/1072/
 location: Online
 location_url:
@@ -100,7 +100,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -119,7 +119,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
