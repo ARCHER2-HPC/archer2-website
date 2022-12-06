@@ -63,6 +63,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2022
 
+* [November 2022](monthly/2022/nov22_safe.pdf)
 * [October 2022](monthly/2022/oct22_safe.pdf)
 * [September 2022](monthly/2022/sep22_safe.pdf)
 * [August 2022](monthly/2022/aug22_safe.pdf)
