@@ -45,7 +45,7 @@ The RSE may be based at the institution of the PI, at a third party institution,
 
 ## Current Call Information
 
-The 8th ARCHER2 eCSE call (ARCHER2 eCSE08) opened on the **6 September 2022**. The deadline for submitting documents for technical evaluations is **16:00 on 4 October 2022**, with the final deadline for proposal submission being **16:00 on 25 October 2022**.
+The 9th ARCHER2 eCSE call (ARCHER2 eCSE09) opened on the **6 December 2022**. The deadline for submitting documents for technical evaluations is **16:00 on 21 February 2023**, with the final deadline for proposal submission being **16:00 on 14 March 2023**.
 
 Further details on the [eCSE Calls page](calls/).
 

@@ -28,6 +28,7 @@ The following table shows the planned timetable of eCSE calls for the coming few
    <tr><td>6th: ARCHER2 eCSE06</td><td>7 Dec 2021</td><td>16:00 on 22 Feb 2022</td><td>16:00 on 15 Mar 2022</td></tr>
    <tr><td>7th: ARCHER2 eCSE07</td><td>19 Apr 2022</td><td>16:00 on 24 May 2022</td><td>16:00 on 14 Jun 2022</td></tr>
    <tr><td>8th: ARCHER2 eCSE08</td><td>6 Sep 2022</td><td>16:00 on 4 Oct 2022</td><td>16:00 on 25 Oct 2022</td></tr>
+   <tr><td>9th: ARCHER2 eCSE09</td><td>6 Dec 2022</td><td>16:00 on 21 Feb 2023</td><td>16:00 on 14 Mar 2023</td></tr>
    </tbody>
   </table>
 </div>

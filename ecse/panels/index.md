@@ -11,6 +11,7 @@ banner: web_banners_06.jpg
 - [4th ARCHER2 eCSE call (eCSE04)](#4th-archer2-ecse-call-ecse04)
 - [5th ARCHER2 eCSE call (eCSE05)](#5th-archer2-ecse-call-ecse05)
 - [6th ARCHER2 eCSE call (eCSE06)](#6th-archer2-ecse-call-ecse06)
+- [7th ARCHER2 eCSE call (eCSE06)](#7th-archer2-ecse-call-ecse07)
 
 ## 1st ARCHER2 eCSE call (eCSE01)
 
