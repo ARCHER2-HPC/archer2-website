@@ -8,10 +8,10 @@ categories: [news]
 ---
 
 - [Application programming interface for density functional theory software](#application-programming-interface-for-density-functional-theory-software), webinar, Wednesday 7th December 2022 15:00 - 16:00 
-- Change to default CPU frequency for compute nodes on 12 Dec 2022
-- CASTEP 22.1.1 available
+- [Change to default CPU frequency for compute nodes ](#change-to-default-cpu-frequency-for-compute-nodes-on-12-dec-2022)on 12 Dec 2022
+- [CASTEP 22.1.1 available](#castep-2211-available)
 - [ARCHER2 2023 calendar](#archer2-2023-calendar) - sign up for your copy now
-- ARCHER2 9th Embedded CSE (eCSE)  call
+- [ARCHER2 9th Embedded CSE (eCSE) call](#archer2-9th-embedded-cse-ecse--call)
 - [Recently added Known Issues](#recently-added-known-issues)
 - [Upcoming ARCHER2 training](#upcoming-archer2-training)
 
@@ -25,10 +25,9 @@ Pavel Stishenko, University of Cardiff
 
 The density functional theory (DFT) is a workhorse of modern computational chemistry and materials science. It has brought practically useful accuracy to models of catalysis, electrochemistry, photonics, etc. Computing power growth along with emergence of machine learning (ML) methods raised the demand of complex simulation workflows that include DFT codes. Efficient data exchange with DFT software is challenging due to size of arrays that describe electronic structure of simulated systems. Aiming to provide a fast and portable way to import and export large data structures of DFT codes we have developed a new applications programming interface, Atomic Simulation Interface (ASI), and implemented it in established electronic structure software packages. ASI offers a set of functions that are of utility for interoperation with ML models and for embedding in multi scale simulation frameworks. ASI is designed to be easily and efficiently implemented in existing DFT codes. A Python wrapper is provided to simplify ASI usage by client codes.
 
-This online session is open to all. It will use the Blackboard Collaborate platform.
-
 [Details and join link](https://www.archer2.ac.uk/training/courses/221207-dft-vt/)
 
+This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
 ## Change to default CPU frequency for compute nodes on 12 Dec 2022
@@ -50,11 +49,9 @@ If you have questions on this upcoming change, please contact the ARCHER2 Servic
 
 The ARCHER2 CSE service at EPCC have recently installed the 22.1.1 release of CASTEP. Users who have a CASTEP licence can access this version using the:
 
-module load castep/22.11
+`module load castep/22.11`
 
-command in their job submission scripts. Information on how to gain access to CASTEP on ARCHER2 can be found in the documentation at:
-
-https://docs.archer2.ac.uk/research-software/castep/
+command in their job submission scripts. Information on how to [gain access to CASTEP on ARCHER2 can be found in the documentation](https://docs.archer2.ac.uk/research-software/castep/)
 
 
 ## ARCHER2 2023 calendar
