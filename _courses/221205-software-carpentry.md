@@ -112,7 +112,7 @@ Dec 5-8, 2022
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
  
-		   href="https://events.prace-ri.eu/event/1463/surveys/1028/ "
+		   href="https://events.prace-ri.eu/event/1463/surveys/1028 "
 
 		>
           <strong>Feedback</strong><br/>
