@@ -7,7 +7,7 @@ start_date: 2022-12-07 10:00:00
 end_date: 2022-12-08 16:30:00
 trainers: Andy Turner (EPCC) and Jeremy Cohen (Imperial College London)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=221207-containers
 location: Newcastle University
 location_url: /training/locations/newcastle
@@ -105,7 +105,7 @@ Day 2 [Schedule](https://imperialcollegelondon.github.io/2022-12-08_singularity_
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -124,7 +124,7 @@ Day 2 [Schedule](https://imperialcollegelondon.github.io/2022-12-08_singularity_
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
