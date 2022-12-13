@@ -54,7 +54,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="  https://github.com/EPCCed/single-node-optimisation-course  ">
+          href="  https://github.com/EPCCed/single-node-optimisation-course/tree/2022-12-13  ">
           <strong>Course materials</strong>         
         </a>
       </div>
