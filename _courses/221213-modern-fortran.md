@@ -54,7 +54,8 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-[Schedule](https://github.com/EPCCed/single-node-optimisation-course/tree/2022-12-13#timetable)
+[Schedule](https://github.com/ARCHER2-HPC/archer2-fortran-intro#timetable)
+
 
 
 
@@ -71,7 +72,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://github.com/EPCCed/single-node-optimisation-course/tree/2022-12-13 ">
+          href="  https://github.com/ARCHER2-HPC/archer2-fortran-intro  ">
           <strong>Course materials</strong>         
         </a>
       </div>
