@@ -14,11 +14,12 @@ The ARCHER2 Service will observe the UK Public holidays and will be closed for C
 <!--more-->
 
 We fully expect the ARCHER2 service to be available during these holidays but we will not have staff on the Service Desk to deal with any queries or issues you may experience. Users will be able to connect to the system and submit jobs as usual. The Service Desk will be open as usual on all other workdays (Monday - Friday from 0800-1800) excluding these holidays.
-Key Dates:
 
-- Monday 26th December - ARCHER2 Service Desk Closed
-- Tuesday 27th December - ARCHER2 Service Desk Closed
-- Monday 2nd January - ARCHER2 Service Desk Closed
+**Key Dates**:
+
+- **Monday 26th December** - ARCHER2 Service Desk Closed
+- **Tuesday 27th December** - ARCHER2 Service Desk Closed
+- **Monday 2nd January** - ARCHER2 Service Desk Closed
     
 
 As always please contact [support@archer2.ac.uk](mailto:support@archer2.ac.uk) if you have any questions or problems and please check the [ARCHER2 Status page](https://www.archer2.ac.uk/support-access/status.html#service-alerts) for updates
