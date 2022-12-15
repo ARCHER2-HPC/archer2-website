@@ -88,7 +88,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
     </thead>
     <tbody>
       <tr>
-        <td>Oceanography and Shelf Seas Consortium</a></td>
+        <td>Oceanography and Shelf Seas Consortium</td>
         <td>Dr. Andrew Coward (University of Southampton)</td>
         <td>Michael Bareford</td>
         <td>n01</td>
