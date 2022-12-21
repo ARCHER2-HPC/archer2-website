@@ -30,7 +30,9 @@ We fully expect the ARCHER2 service to be available during these holidays but we
     
 As always please contact [support@archer2.ac.uk](mailto:support@archer2.ac.uk) if you have any questions or problems and please check the [ARCHER2 Status page](https://www.archer2.ac.uk/support-access/status.html#service-alerts) for updates
 
-We wish the whole ARCHER2 community a wonderful festive season.  The next regular mailing will be in January 2023.
+We wish the whole ARCHER2 community a wonderful festive season.  
+
+The next regular mailing will be in January 2023.
 
 
 ## ARCHER2 2023 calendar
