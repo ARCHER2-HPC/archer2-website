@@ -36,7 +36,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       </tr>
       <tr>
         <td><a href="http://www.ukcp.ac.uk/">UK Car-Parrinello Consortium (UKCP)</a></td>
-        <td>Prof. Matt Probert (University of York)</td>
+        <td>Dr Phil Hasnip (University of York)</td>
         <td>Andy Turner</td>
         <td>e89</td>
       </tr>
