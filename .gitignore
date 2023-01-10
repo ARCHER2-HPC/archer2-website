@@ -6,9 +6,9 @@ _courses/course materials chat page and join links for courses.txt
 _courses/video transcript and slides links.txt
 Gemfile.lock
 .DS_Store
-_posts/2022-99-99-skeleton.md
-_courses/229999-webinar-skeleton.md
-_courses/229999-skeleton.md
+_courses/239999-webinar-skeleton.md
+_courses/239999-skeleton.md
+_posts/2023-99-99-skeleton.md
 
 _staff/skel.md
 _imagecomp/2022-99.md
@@ -16,3 +16,4 @@ _ecse/eCSE01-00.md
 ecse/reports/ARCHER2-eCSE01-00.jpg
 
 archer2-website.tar.gz
+
