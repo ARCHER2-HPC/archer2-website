@@ -8,7 +8,7 @@ The reports below highlight some of the research carried out on ARCHER and ARCHE
 
 
 {% assign current_techreports = site.techreports | where_exp: "techreports", "techreports.status == 'live'" %}
-{% for techreports in current_techreports  %}
+{% for techreports in current_techreports reversed %}
 
 
 
