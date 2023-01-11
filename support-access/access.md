@@ -98,6 +98,10 @@ A list of any currently open calls through which you can apply for access to ARC
 
 [How to prepare a successful Technical Assessment](https://www.archer2.ac.uk/news/2022/08/03/technical-assessments.html) - a blog post with lots of helpful advice on how to complete TA forms.
 
+The [Understanding Package Performance course materials](https://www.archer2.ac.uk/training/courses/211028-package-performance/#materials) provide an introduction to producing and plotting application performance, which can help you complete the ARCHER2 technical assessment form - particularly "6.1 Quantitative evidence that the code scales efficiently". 
+
+If you have any questions about measuring application performance or scaling, or need assistance producing this information, please contact the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk) and we will be happy to help.
+
 <a id="driving-test"></a>
 ### ARCHER2 Driving Test
 
