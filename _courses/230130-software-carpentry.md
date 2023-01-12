@@ -11,7 +11,7 @@ registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=230130-software-carpentry
 location: Cardiff
 location_url: /training/locations/cardiff
-prace_course: true
+prace_course: false
 ---
 
 #### Location:
@@ -30,7 +30,6 @@ Software Carpentry aims to help researchers get their work done in less time and
 
 Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
-#### Prerequisites:
 
 ### Requirements:
 
