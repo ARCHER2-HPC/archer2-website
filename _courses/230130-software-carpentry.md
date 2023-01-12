@@ -14,13 +14,13 @@ location_url: /training/locations/cardiff
 prace_course: false
 ---
 
-#### Location:
+### Location:
 
 This course will take place face-to-face at  [{{ page.location }}]({{ page.location_url }})
 
 This course will not be streamed online and a recording will not be made.
 
-#### Target Audience:
+### Target Audience:
 
 Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including:
 
@@ -41,7 +41,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 [Please complete the setup on your laptop prior to the course](https://epcced.github.io/2023-01-30-cardiff/#setup)
 
-#### Timetable:
+### Timetable:
 
 [Details](https://epcced.github.io/2023-01-30-cardiff/#schedule) 
 
