@@ -9,6 +9,7 @@ banner: web_banners_05.jpg
 
 * [EPCC](epcc.html)
 * [Alan Turing Institute London](ati.html)
+* [Cardiff University](cardiff)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
 * [Newcastle University](newcastle)
 * [The Open University, Milton Keynes](open-mk)
