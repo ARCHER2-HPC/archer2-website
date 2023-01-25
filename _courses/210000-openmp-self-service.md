@@ -4,7 +4,7 @@ title: Shared Memory Programming with OpenMP
 banner: web_banners_05.jpg 
 human_dates: Always open - self-service 
 start_date: 2021-12-31 10:00:00
-end_date: 2022-12-31 16:00:00
+end_date: 2028-12-31 16:00:00
 trainers: Mark Bull (EPCC)
 course_type: course
 registration_status: open
