@@ -4,7 +4,7 @@ title: QM/MM with GROMACS + CP2K
 banner: web_banners_05.jpg 
 human_dates: Always open - self-service 
 start_date: 2022-01-01 10:00:00
-end_date: 2022-12-31 16:00:00
+end_date: 2028-12-31 16:00:00
 trainers: Dmitry Morozov, Emiliano Ippoliti, Holly Judge, Arno Proeme, and Julien Sindt
 course_type: course
 registration_status: open
