@@ -251,7 +251,7 @@ This section lists recent and upcoming maintenance sessions.
 {% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
 {% assign count = 0 %}
 {% for maint in site.maintenance reversed %}
-    {% assign sd = maintenance.start_date | date: "%s" %}
+    {% assign sd = maint.start_date | date: "%s" %}
     {% if sd > date_thresh %}
         {% if count == 0 %}
 <div class="table-responsive">
