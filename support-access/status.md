@@ -129,6 +129,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
     {% assign sd = alert.start_date | date: "%s" %}
     {% if sd > date_now %}
         {% if count == 0 %}
+
 #### Planned Sessions
 <div class="table-responsive">
   <table class="table table-striped">
@@ -179,12 +180,9 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 <p></p>
 {% endif %}
 
-
-
-
 ### Previous Service Alerts
 
-This table lists resolved service alerts from the past 30 days. 
+This section lists resolved service alerts from the past 30 days. 
 [A full list of historical resolved service alerts is available](history/alerts).
 
 {% assign resolved_alerts = site.alerts | where_exp: "alert", "alert.status == 'Resolved'" %}
@@ -246,14 +244,16 @@ This table lists resolved service alerts from the past 30 days.
 
 ## Maintenance Sessions 
 
+This section lists recent and upcoming maintenance sessions. 
+[A full list of past maintenance sessions is available](history/maintenance).
 
-
-{% assign maintenance_2022_q2 = site.maintenance | where_exp: "maintenance", "maintenance.quarter >= '2022_q2'" %}
-{% for maintenance in maintenance_2022_q2 reversed %}
-
-    {% if forloop.first == true %}
-### Quarter 2 2022 (1st April - 30th June 2022)
-
+{% assign date_now = "now" | date: "%s" %}
+{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
+{% assign count = 0 %}
+{% for maint in site.maintenance reversed %}
+    {% assign sd = maintenance.start_date | date: "%s" %}
+    {% if sd > date_thresh %}
+        {% if count == 0 %}
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
@@ -262,53 +262,46 @@ This table lists resolved service alerts from the past 30 days.
         <th>Type</th>
         <th>Start</th>
         <th>End</th>
-        <th>System</th>
+        <th>Scope</th>
         <th>User Impact</th>
         <th>Reason</th>
       </tr>
     </thead>
-
     <tbody>
-    {% endif %}
+        {% endif %}
       <tr>
       <td>
-        {{ maintenance.status }}
+        {{ maint.status }}
       </td>
       <td>
-        {{ maintenance.type }}
+        {{ maint.type }}
       </td>
       <td>
-        {{ maintenance.start_date }}
+        {{ maint.start_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
-        {{ maintenance.end_date }}
+        {{ maint.end_date | date: "%Y-%m-%d %H:%M"  }}
       </td>
       <td>
-        {{ maintenance.system }}
+        {{ maint.system }}
       </td>
       <td>
-        {{ maintenance.impact }}
+        {{ maint.impact }}
       </td>
       <td>
-        {{ maintenance.reason }}
+        {{ maint.reason }}
       </td>
       </tr>
-    {% if forloop.last == true %}
+        {% assign count = count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+{% if count > 0 %}
     </tbody>
   </table>
 </div>
-    {% endif %}
 {% else %}
-<p>No scheduled maintenance</p>
-
-{% endfor %}
-
-
-
-
-### Maintenance Logs for previous periods
-
-[Previous maintenance logs](history/maintenance)
+<p>No scheduled or recent maintenance sessions</p>
+{% endif %}
 
 ## System Status mailings
 If you would like to receive email notifications about system issues and outages, [please subscribe to the *System Status Notifications* mailing list via SAFE](https://epcced.github.io/safe-docs/safe-for-users/#how-to-get-added-to-or-removed-from-the-email-mailing-list)
