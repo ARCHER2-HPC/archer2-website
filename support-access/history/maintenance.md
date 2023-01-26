@@ -8,7 +8,7 @@ banner: web_banners_03.jpg
 {% for maint in site.maintenance reversed %}
 
     {% capture curryear %}
-    {{ maint.end_date | date: "%Y" }}
+    {{ maint.start_date | date: "%Y" }}
     {% endcapture %}
 
     {% if forloop.first %}
