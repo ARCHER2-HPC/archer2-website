@@ -62,6 +62,10 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 
 The monthly statistical reports are generated automatically from the SAFE. Please follow the link below to access individual monthly reports.
 
+### 2023
+
+* [January 2023](monthly/2023/jan23_safe.pdf)
+
 ### 2022
 
 * [December 2022](monthly/2022/dec22_safe.pdf)
