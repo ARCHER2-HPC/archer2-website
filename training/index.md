@@ -143,7 +143,7 @@ Individual links to course provide more details on the content and prerequisites
 </div>
 
 
-Recent courses will be moved to the [Materials repository](materials/) shortly after they have ended.
+Recent courses will be moved to the [Materials repository](materials/) shortly after they have ended including  [past Virtual Tutorials](materials/vt).
 
 
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.
