@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 Training Materials and Past Courses
+title: ARCHER2 past Virtual Tutorials
 summary: Training 
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
@@ -30,8 +30,9 @@ Filter courses by course type :
     </thead>
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
-			{% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-      {% for course in nothidden_courses reversed %}
+	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
+	  {% assign vt_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'vt' " %}
+      {% for course in vt_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
