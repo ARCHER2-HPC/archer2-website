@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 past Courses excluding VT
+title: ARCHER2 past courses for Researchers and Package users
 summary: Training 
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
@@ -50,8 +50,8 @@ Filter courses by course target audience :
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
 	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-	  {% assign course_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'course' " %}
-      {% for course in course_courses reversed %}
+	  {% assign advanced_courses = nothidden_courses  | where_exp: "course", "course.tags contains 'researcher' " %}
+      {% for course in advanced_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>

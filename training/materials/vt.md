@@ -4,6 +4,8 @@ title: ARCHER2 past Virtual Tutorials
 summary: Training 
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
+audience: [Researcher, Data Scientist, Developer]
+level: [Introductory, Intermediate, Advanced]
 ---
 
 This page provides links to the past courses from ARCHER2. Each page also provides links to the 
@@ -14,6 +16,23 @@ exercises and solutions.
 Filter courses by course type :
 {% for ct in page.course_types %}
 <a href="/training/materials/{{ ct | slugify }}" ><code  style="font-size:15px;"><nobr>{{ ct }}</nobr></code>&nbsp;</a>
+{% endfor %} 
+<a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
+</div>
+
+<div>
+Filter courses by course Level :
+{% for level in page.level %}
+<a href="/training/materials/{{ level | slugify }}" ><code  style="font-size:15px;"><nobr>{{ level }}</nobr></code>&nbsp;</a>
+{% endfor %} 
+<a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
+</div>
+
+
+<div>
+Filter courses by course target audience :
+{% for audience in page.audience %}
+<a href="/training/materials/{{ audience | slugify }}" ><code  style="font-size:15px;"><nobr>{{ audience }}</nobr></code>&nbsp;</a>
 {% endfor %} 
 <a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
 </div>
@@ -39,6 +58,9 @@ Filter courses by course type :
       </td>
       <td>
         {{ course.location }}
+		{% if course.tags contains 'video' %}
+			&nbsp;<img src="{{ base.url }}/img/video.png" alt="Video available"/>
+		{% endif %}
       </td>
       <td>
         {{ course.human_dates }}
