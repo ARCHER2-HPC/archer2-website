@@ -50,7 +50,7 @@ Filter courses by course target audience :
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
 	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-	  {% assign introductory_courses = nothidden_courses  | where_exp: "course", "course.tags contains 'introductory' " %}
+	  {% assign introductory_courses = nothidden_courses  | where_exp: "course", "course.level contains 'introductory' " %}
       {% for course in introductory_courses reversed %}
       <tr>
       <td>
@@ -58,7 +58,7 @@ Filter courses by course target audience :
       </td>
       <td>
         {{ course.location }}
-		{% if course.tags contains 'video' %}
+		{% if course.video %}
 			&nbsp;<img src="{{ base.url }}/img/video.png" alt="Video available"/>
 		{% endif %}
       </td>

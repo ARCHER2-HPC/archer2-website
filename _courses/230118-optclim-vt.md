@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 The webinar describes the porting of software to help researchers to respond to uncertainty in climate and Earth-system models in two ways. Firstly, OptClim software permits researchers to optimise parameters in three prominent earth system models: CESM, MITgcm-based models and UKESM.  Secondly we have developed closely-related software for “particle filtering” (PF) in which an ensemble of UKESM runs is used to track historical data. 

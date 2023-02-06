@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=221207-con
 location: Newcastle University
 location_url: /training/locations/newcastle
 prace_course: false
+video: false
+audience: [researcher, data-scientist, developer]
+level: [intermediate]
 ---
 
 #### Location:

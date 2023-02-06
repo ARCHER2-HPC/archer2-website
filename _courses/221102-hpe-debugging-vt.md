@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 This webinar, delivered by the HPE Centre of Excellence, will be an introduction to the [gdb4hpc](https://docs.archer2.ac.uk/user-guide/debug/#gdb4hpc) and [ccdb](https://docs.archer2.ac.uk/user-guide/debug/) debugging tools that are provided in the HPE Cray Programming Environment on ARCHER2.

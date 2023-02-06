@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In this presentation we will provide an overview of Arm Forge, a cross platform, integrated environment for debugging and optimizing parallel codes at any scale.   We will provide hands-on demonstrations of how Arm Forge reduces development time, simplifies debugging, and eases application performance enhancement.  

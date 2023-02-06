@@ -1,12 +1,14 @@
 ---
 layout: section
-title: ARCHER2 past courses for Software Developers and RSEs
+title: ARCHER2 past Courses without Level / Audience
 summary: Training 
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
 audience: [Researcher, Data Scientist, Developer]
 level: [Introductory, Intermediate, Advanced]
 ---
+
+
 
 This page provides links to the past courses from ARCHER2. Each page also provides links to the 
 materials associated with the courses potentially including: slides, video recordings, practical
@@ -50,26 +52,33 @@ Filter courses by course target audience :
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
 	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-	  {% assign developer_courses = nothidden_courses  | where_exp: "course", "course.audience contains 'developer' " %}
-      {% for course in developer_courses reversed %}
+	  {% assign course_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'course' " %}
+      {% for course in course_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
       </td>
       <td>
         {{ course.location }}
-		{% if course.video %}
+		{% if course.video  %}
 			&nbsp;<img src="{{ base.url }}/img/video.png" alt="Video available"/>
 		{% endif %}
       </td>
       <td>
-        {{ course.human_dates }}
+        {{ course.level }}
+      </td>
+      <td>
+        {{ course.audience }}
       </td>
      </tr>
+
+
       {% endfor %}
-    </tbody>
+    </tbody> 
   </table>
 </div>
+
+
 
 ---
 

@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-tags: [video]
+video: true
 ---
 
 Computational modelling of interaction of light with clusters of nanoparticles is a notoriously challenging problem, chiefly because of the vectorial nature of the electromagnetic field, the existence of multiple scales at which the field must be described, such as in the near-, intermediate-, and far-field regions, the large parameter space needed to describe the nanoparticles in the cluster, and the complex, multi-scattering processes undergone by optical waves propagating within the nanoparticle cluster. 

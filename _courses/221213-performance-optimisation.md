@@ -12,7 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1468/registrations/1084/
 location: Online
 location_url: 
 prace_course: true
-tags: [video, developer, advanced]
+audience: [developer]
+level: [advanced]
+video: true
 ---
 
 
