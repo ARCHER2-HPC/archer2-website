@@ -33,9 +33,9 @@ https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/)
 
 
 
-## Course Materials Repository
+## Past Course Materials
 
-Material from previous face-to-face ARCHER2 courses is available in the [Training Materials Repository](../materials/). This typically includes PDF copies of all the slides and exercise sheets, source code for the exercises and any solutions provided, to enable anyone to work through the course independently or for revision after attending a course.
+Material from previous face-to-face ARCHER2 courses is available in the [Past Course Training Materials](../materials/). This typically includes PDF copies of all the slides and exercise sheets, source code for the exercises and any solutions provided, to enable anyone to work through the course independently or for revision after attending a course.
 
 ## Virtual Tutorials and Webinars
 
@@ -47,7 +47,7 @@ As well as presenting on selected topics in high-performance computing relevant 
 
 Webinars usually have a presentation followed by the opportunity for attendees to ask questions on that topic.
 
-Material from previous ARCHER2 Virtual Tutorials and webinars is available from the the [Training Materials Repository](../materials/). This typically includes video recordings of each online session and a PDF copy of the slides.
+[Material from previous ARCHER2 Webinars and Virtual Tutorials is available](../materials/webinars/). This typically includes video recordings of each online session and a PDF copy of the slides.
 
 ## YouTube Channel
 

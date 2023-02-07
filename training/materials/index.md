@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 Training Materials and Past Courses
+title: ARCHER2 Past Course materials
 summary: Training 
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
@@ -13,13 +13,10 @@ This page provides links to the past courses from ARCHER2. Each page also provid
 materials associated with the courses potentially including: slides, video recordings, practical
 exercises and solutions.
 
-<div>
-Filter courses by course type :
-{% for ct in page.course_types %}
-<a href="/training/materials/{{ ct | slugify }}" ><code  style="font-size:15px;"><nobr>{{ ct }}</nobr></code>&nbsp;</a>
-{% endfor %} 
-<a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
-</div>
+[Webinars](webinars) are now listed separately.
+
+
+<!--
 
 <div>
 Filter courses by course Level :
@@ -38,7 +35,7 @@ Filter courses by course target audience :
 <a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
 </div>
 
-
+-->
 
 <div class="table-responsive">
   <table class="table table-striped">
@@ -51,8 +48,9 @@ Filter courses by course target audience :
     </thead>
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
-			{% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-      {% for course in nothidden_courses reversed %}
+	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
+	  {% assign course_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'course' " %}
+      {% for course in course_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>

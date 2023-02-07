@@ -13,14 +13,6 @@ materials associated with the courses potentially including: slides, video recor
 exercises and solutions.
 
 <div>
-Filter courses by course type :
-{% for ct in page.course_types %}
-<a href="/training/materials/{{ ct | slugify }}" ><code  style="font-size:15px;"><nobr>{{ ct }}</nobr></code>&nbsp;</a>
-{% endfor %} 
-<a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
-</div>
-
-<div>
 Filter courses by course Level :
 {% for level in page.level %}
 <a href="/training/materials/{{ level | slugify }}" ><code  style="font-size:15px;"><nobr>{{ level }}</nobr></code>&nbsp;</a>

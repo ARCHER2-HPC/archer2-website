@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 past Courses excluding VT
+title: ARCHER2 Webinars
 summary: Training 
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
@@ -8,9 +8,10 @@ audience: [Researcher, Data Scientist, Developer]
 level: [Introductory, Intermediate, Advanced]
 ---
 
-This page provides links to the past courses from ARCHER2. Each page also provides links to the 
-materials associated with the courses potentially including: slides, video recordings, practical
-exercises and solutions.
+This page provides links to the past webinars and virtual tutorials from ARCHER2. Each page also provides links to the 
+materials, potentially including: slides, video recordings, futher information.
+
+<!--
 
 <div>
 Filter courses by course type :
@@ -37,6 +38,8 @@ Filter courses by course target audience :
 <a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
 </div>
 
+-->
+
 
 <div class="table-responsive">
   <table class="table table-striped">
@@ -50,8 +53,8 @@ Filter courses by course target audience :
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
 	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-	  {% assign course_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'course' " %}
-      {% for course in course_courses reversed %}
+	  {% assign vt_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'vt' " %}
+      {% for course in vt_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>

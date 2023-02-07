@@ -8,62 +8,77 @@ banner: web_banners_05.jpg
   <div class="container">
     <div class="row ">	
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="#upcoming-training">
-          <strong>Upcoming Training</strong><br/>
-          Details of face-to-face and online training opportunities delivered by the ARCHER2 service.
-        </a>
-      </div>
+
 	
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/">
           <strong>Course Descriptions</strong><br/>
           An overview of the courses that are offered by EPCC as part of the ARCHER2 service.
         </a>
       </div>	
 
       <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="#upcoming-training">
+          <strong>Upcoming Training</strong><br/>
+          Details of face-to-face and online training opportunities delivered by the ARCHER2 service.
+        </a>
+      </div>
+
+
+      <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="materials/">
-          <strong>Course Repositories</strong><br/>
+          <strong>Past Course materials</strong><br/>
           Repositories of materials from past ARCHER2 courses including videos from past online courses.
         </a>
       </div>	
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="feedback/">
-          <strong>Training Feedback</strong><br/>
-          Provide feedback on ARCHER2 training courses.
-        </a>
-      </div>
+
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="locations/">
+        <a class="ar2_linkbox ar2_linkbox-green" href="locations/">
           <strong>Course Locations</strong><br/>
           ARCHER2 training will be carried out at a range of venues across the UK.
         </a>
       </div>	
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="online/">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="online/">
           <strong>Online Learning</strong><br/>
           Information on the ARCHER2 online learning, including the technology used and how to connect.
         </a>
       </div>
 
+
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="driving-test.html">
+        <a class="ar2_linkbox ar2_linkbox-green" href="materials/webinars/">
+          <strong>Webinars</strong><br/>
+          Past Webinars and virtual tutoriasl
+        </a>
+      </div>
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="https://www.youtube.com/channel/UCZi-oBdxoDV5CPEQnhmrCAg/videos">
+          <strong>ARCHER2 YouTube channel</strong><br/>
+          Includes videos of past Webinars and online training.
+        </a>
+      </div>	
+
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="driving-test.html">
           <strong>ARCHER2 Driving Test</strong><br/>
           The ARCHER2 Driving Test allows you to learn more about using ARCHER2 and get a small amount of ARCHER2 resource for your research.
         </a>
       </div>	
 
-
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="https://www.youtube.com/channel/UCZi-oBdxoDV5CPEQnhmrCAg/videos">
-          <strong>ARCHER2 YouTube channel</strong><br/>
-          Includes videos of past Webinars and online training.
+        <a class="ar2_linkbox ar2_linkbox-teal" href="feedback/">
+          <strong>Training Feedback</strong><br/>
+          Provide feedback on ARCHER2 training courses.
         </a>
-      </div>						
+      </div>				
 			
     </div>
   </div>
@@ -143,7 +158,7 @@ Individual links to course provide more details on the content and prerequisites
 </div>
 
 
-Recent courses will be moved to the [Materials repository](materials/) shortly after they have ended including  [past Virtual Tutorials](materials/vt).
+Recent courses will be moved to the [Past course materials](materials/) or [past Webinars](materials/webinars) pages shortly after they have ended.
 
 
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.
