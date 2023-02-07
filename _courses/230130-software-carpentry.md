@@ -12,6 +12,8 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=230130-sof
 location: Cardiff
 location_url: /training/locations/cardiff
 prace_course: false
+audience: [developer]
+level: [introductory]
 ---
 
 ### Location:

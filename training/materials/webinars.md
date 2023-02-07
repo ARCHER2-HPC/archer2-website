@@ -1,22 +1,25 @@
 ---
 layout: section
-title: ARCHER2 Past Course materials
+title: ARCHER2 Webinars
 summary: Training 
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
-tags: [Researcher, Data Scientist, Developer, Introductory, Intermediate, Advanced, Video]
 audience: [Researcher, Data Scientist, Developer]
 level: [Introductory, Intermediate, Advanced]
 ---
 
-This page provides links to the past courses from ARCHER2. Each page also provides links to the 
-materials associated with the courses potentially including: slides, video recordings, practical
-exercises and solutions.
-
-[Webinars](webinars) are now listed separately.
-
+This page provides links to the past webinars and virtual tutorials from ARCHER2. Each page also provides links to the 
+materials, potentially including: slides, video recordings, futher information.
 
 <!--
+
+<div>
+Filter courses by course type :
+{% for ct in page.course_types %}
+<a href="/training/materials/{{ ct | slugify }}" ><code  style="font-size:15px;"><nobr>{{ ct }}</nobr></code>&nbsp;</a>
+{% endfor %} 
+<a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
+</div>
 
 <div>
 Filter courses by course Level :
@@ -37,6 +40,7 @@ Filter courses by course target audience :
 
 -->
 
+
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
@@ -49,15 +53,15 @@ Filter courses by course target audience :
     <tbody>
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
 	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-	  {% assign course_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'course' " %}
-      {% for course in course_courses reversed %}
+	  {% assign vt_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'vt' " %}
+      {% for course in vt_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
       </td>
       <td>
         {{ course.location }}
-		{% if course.video  %}
+		{% if course.video %}
 			<a href="{{ course.url }}#videos">
 			&nbsp;<img src="{{ base.url }}/img/video.png" alt="Video available"/>
 			</a>

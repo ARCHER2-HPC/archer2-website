@@ -12,6 +12,9 @@ registration_url:  https://www.archer2.ac.uk/training/register/?course=221124-pa
 location: Online
 location_url:
 prace_course: false
+audience: [researcher]
+level: [introductory]
+video: true
 ---
 
 This lesson provides an introduction to using ARCHER2 for users who:
