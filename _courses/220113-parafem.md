@@ -23,6 +23,9 @@ This presentation will describe the creation of a sustainable and efficient HPC 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
+{% if page.ecse.size > 1 %}
+<a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
+{% endif %}
 
 <section id="service">
 
