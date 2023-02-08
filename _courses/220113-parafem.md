@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+ecse: eCSE01-12
 ---
 
 ## Leveraging 30+ years of development to accelerate new research
