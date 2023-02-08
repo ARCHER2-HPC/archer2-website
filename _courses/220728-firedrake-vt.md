@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+ecse: eCSE03-04
 ---
 
 Mesh adaptation can be a very powerful tool for improving the accuracy and/or efficiency of numerical simulations, but it is still not widely used. This is largely because commonly available approaches require experience and an in-depth understanding of both the problem at hand and its interaction with the discretisation method being used. The goal-oriented mesh adaptation framework reduces the required level of experience, since it is driven by error estimates determined by the PDE and a user-specified quantity of interest that we seek to accurately approximate, such as the power output of a turbine or the drag on an aeroplane wing.
@@ -23,6 +24,9 @@ The primary output of this eCSE is a new goal-oriented error estimation module, 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
+{% if page.ecse.size > 1 %}
+<a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
+{% endif %}
 
 <section id="service">
 <!--

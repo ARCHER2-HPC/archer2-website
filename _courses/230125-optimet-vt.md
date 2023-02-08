@@ -13,6 +13,7 @@ location: Online
 location_url:
 prace_course: false
 video: true
+ecse: eCSE02-12
 ---
 
 Computational modelling of interaction of light with clusters of nanoparticles is a notoriously challenging problem, chiefly because of the vectorial nature of the electromagnetic field, the existence of multiple scales at which the field must be described, such as in the near-, intermediate-, and far-field regions, the large parameter space needed to describe the nanoparticles in the cluster, and the complex, multi-scattering processes undergone by optical waves propagating within the nanoparticle cluster. 
@@ -29,7 +30,9 @@ Several examples of numerical simulations of the linear and nonlinear optical re
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
-
+{% if page.ecse.size > 1 %}
+<a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
+{% endif %}
 
 <section id="service">
 

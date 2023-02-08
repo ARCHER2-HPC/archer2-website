@@ -60,6 +60,10 @@ Filter courses by course target audience :
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
+{% if course.ecse.size > 1 %}
+&nbsp; &nbsp; 
+        <a href="{{ site.baseurl }}/ecse/reports/{{ course.ecse }}">({{ course.ecse }})</a>
+{% endif %}
       </td>
       <td>
         {{ course.location }}
