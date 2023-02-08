@@ -18,7 +18,7 @@ exercises and solutions.
 Filter courses by course Level :
 {% for level in page.level %}
 <a href="/training/materials/{{ level | slugify }}" ><code  style="font-size:15px;"><nobr>
-<img src="{{ level }}.png" alt="{{ level }}"/> 
+<img src="{{ level | slugify }}.png" alt="{{ level }}"/> 
 {{ level }}</nobr></code>&nbsp;</a>
 {% endfor %} 
 <a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
