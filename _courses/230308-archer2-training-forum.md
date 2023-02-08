@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2 Training Forum meeting
 banner: web_banners_05.jpg
-human_dates: Wednesday 25th January 2023  15:00 - 16:00 
+human_dates: Wednesday 8th March 2023  15:00 - 16:00 
 start_date: 2023-03-08 15:00:00
 end_date: 2023-03-08 16:00:00
 trainers: Juan Herrera
