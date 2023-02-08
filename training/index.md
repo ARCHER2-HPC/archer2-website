@@ -158,7 +158,7 @@ Individual links to course provide more details on the content and prerequisites
 </div>
 
 
-Recent courses will be moved to the [Past course materials](materials/) or [past Webinars](materials/webinars) pages shortly after they have ended.
+Recent courses will be moved to the [Past course materials](materials/) or [Webinars](materials/webinars) pages shortly after they have ended.
 
 
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.

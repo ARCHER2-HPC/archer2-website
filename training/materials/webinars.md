@@ -51,8 +51,10 @@ Filter courses by course target audience :
       </tr>
     </thead>
     <tbody>
+<!--
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
-	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
+-->
+	  {% assign nothidden_courses = site.courses | where_exp: "course", "course.registration_status != 'hidden' " %}
 	  {% assign vt_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'vt' " %}
       {% for course in vt_courses reversed %}
       <tr>
