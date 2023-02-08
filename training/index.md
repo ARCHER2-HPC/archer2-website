@@ -50,7 +50,7 @@ banner: web_banners_05.jpg
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="materials/webinars/">
+        <a class="ar2_linkbox ar2_linkbox-green" href="materials/webinars">
           <strong>Webinars</strong><br/>
           Past Webinars and virtual tutoriasl
         </a>
