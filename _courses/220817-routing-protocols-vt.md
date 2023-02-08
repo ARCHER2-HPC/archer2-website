@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In this presentation, we report on a comparison on performance between different routing protocols underlying the Cray MPICH library on a HPE Cray EX system for a variety of application and synthetic benchmarks. The ARCHER2 system allows users to select, at runtime, between two different underlying routing protocols: OpenFabrics (OFI) and Mellanox UCX (UCX). The CSE team have compared the performance of OFI and UCX for different applications from a variety of research areas (CASTEP, CP2K, GROMACS, NEMO, OpenSBLI, VASP) and the performance of the OSU MPI benchmarks. We find that the choice of routing protocol can have a profound effect on application performance and that the best choice is dependent on the number of nodes, the application and the benchmark case used for the performance evaluation. This makes providing general advice to users challenging. We summarise the data we have gathered so far and the advice we provide to users; and provide an overview of what future investigations we have planned.

@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url: 
 prace_course: false
+video: true
 ---
 
 ARCHER2 CSE's mission is to help people take full advantage of the opportunities provided by a world-class HPC systems, such as ARCHER2. EPCC has a strong track recording in helping researchers to exploit the complexities of a supercomputer, through our work on ARCHER, DiRAC, and Cirrus, to name just a few. Building on that experience, and responding to feedback from the HPC community, we have assembled a package of support for ARCHER2 which we call the Spectrum of Support. The package will benefit all, from first-time users who wish to upscale their research-computing capabilities through to long-standing experts who want to exploit every aspect of the service to maximise their science.

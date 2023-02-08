@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1238/
 location: Online
 location_url:
 prace_course: true
+audience: [  developer ]
+level: [  advanced ]
+video: true
 ---
 
 This course will take place over two days, Tuesday 27th July and Thursday 29th July 2021.  

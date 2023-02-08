@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 Cirrus is a UK Tier 2 service funded by EPSRC and is aimed at users with computational requirements that fall between University-level resources, and the National Service Archer.

@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=210614-dat
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [ introductory ]
+video: true
 ---
 
 #### Description:

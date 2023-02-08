@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: 
+video: true
 ---
 
 Abstract: The  ExCALIBUR (Exascale Computing Algorithms and Infrastructures Benefitting UK Research) is a £45.7m Strategic Priorities Fund (SPF) programme led by the Met Office, UKAEA and UK Research and Innovation to deliver research and innovative algorithmic development to harness the power of exascale HPC. ExCALIBUR will be delivered over five years through a suite of complementary activities delivered by UK Research and Innovation, the Met Office and UKAEA: a knowledge integration activity; activities to address high priority use cases; supporting emerging requirements for high-performance algorithms; cross-cutting research; and proof-of-concept hardware –(the Hardware and Enabling Software Programme).

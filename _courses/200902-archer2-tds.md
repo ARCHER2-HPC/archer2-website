@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 EPCC have recently had remote access to the ARCHER2 test and development system (TDS) installed in the HPE Cray factory in the US. This is a small system (just 8 compute nodes) with an early version of the Shasta software stack. We have been using this access to prepare for the full ARCHER2 service - configuring the system, testing processes, testing system software and porting software. In this webinar, I will present our experience so far with the TDS with a particular focus on topics of interest to users, including: software available, scheduler and job submission scripts, porting software and initial performance data.

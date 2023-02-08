@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=211028-pac
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher,  ]
+level: [  intermediate,  ]
+video: true
 ---
 
 As parallel packages for computational science become more sophisticated, it becomes more difficult for a researcher to understand the most important factors that determine end-to-end productivity from initial input data to final result. Aspects such as file IO and data transfer can be just as important in practice as the performance and parallel scalability of the application itself. This course will provide an introduction to understanding your research workflow, the place of HPC application performance within the workflow, an introduction to benchmarking parallel applications and how you can use benchmark data to make decisions on running your research on HPC systems.

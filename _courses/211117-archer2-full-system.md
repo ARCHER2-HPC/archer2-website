@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In this webinar we will introduce the full ARCHER2 service that will shortly be available. In particular, we will cover the process of migrating from the ARCHER2 4-cabinet service to the full service and review the key differences between the 4-cabinet system and the full system. 

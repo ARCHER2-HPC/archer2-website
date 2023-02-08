@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 High-performance computation (HPC) is central to modern  astronomy. Moreover, the diversity of astronomy as a science results  in models with very different computational requirements. 

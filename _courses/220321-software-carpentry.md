@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=220321-sof
 location: Heriot-Watt Riccarton Campus, Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/hw-riccarton
 prace_course: false
+audience: [  developer ]
+level: [ introductory ]
+video:
 ---
 
 #### Location:

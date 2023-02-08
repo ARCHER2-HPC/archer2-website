@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=210602-hpc
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist,  ]
+level: [ introductory ]
+video: true
 ---
 
 This course introduces accessing remote advanced computing facilities via the command line and High Performance Computing (HPC). After completing this course, participants will:

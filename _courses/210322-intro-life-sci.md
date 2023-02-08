@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1160/registrations/839/
 location: Online
 location_url:
 prace_course: true
+audience: [ researcher ]
+level: [ introductory ]
+video: true
 ---
 
 

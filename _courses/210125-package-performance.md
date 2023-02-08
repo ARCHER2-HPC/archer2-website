@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=210125pkgp
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher ]
+level: [ intermediate ]
+video: true
 ---
 
 As parallel packages for computational science become more sophisticated, it becomes more difficult for a researcher to understand the most important factors that determine end-to-end productivity from initial input data to final result. Aspects such as file IO and data transfer can be just as important in practice as the performance and parallel scalability of the application itself. This course will take a holistic approach and cover tools and techniques to help researchers to improve their overall scientific productivity on large-scale HPC systems.

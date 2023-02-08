@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/962/
 location: Online
 location_url:
 prace_course: true
+audience: [ researcher, data-scientist, developer ]
+level: [  intermediate ]
+video: 
 ---
 
 This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will mostly be based around the use of Docker containers but the material will be of use for whatever container technology you plan to, or end up, using. We will also briefly introduce the Singularity container environment which is compatible with Docker and designed for use on multi-user systems (such as HPC resources). On completion of this course attendees should:

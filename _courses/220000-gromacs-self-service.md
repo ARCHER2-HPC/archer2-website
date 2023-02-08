@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=220000-gro
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher ]
+level: [ introductory, intermediate,  ]
+video: true
 ---
 
 

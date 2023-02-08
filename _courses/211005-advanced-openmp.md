@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1258/registrations/924/
 location: Online
 location_url:
 prace_course: true
+audience: [  developer ]
+level: [  advanced ]
+video: true
 ---
 
 

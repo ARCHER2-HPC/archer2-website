@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In this webinar we will give an overview of the technology that will make up the ARCHER2 national supercomputing service: based on the new Cray Shasta technology, with AMD EPYC processors and the Cray Slingshot interconnect. This will cover the main Cray Shasta system itself as well as other associated parts of the service. We will also provide information on the software environment that will be available on the system, including the Cray software environment and the initial plans for software provided by the ARCHER2 CSE service at EPCC. There will be plenty of opportunity for questions although we will not necessarily be able to answer all of them, as we do not have access to the system yet.

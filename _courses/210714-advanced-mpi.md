@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1235/
 location: Online
 location_url:
 prace_course: true
+audience: [  developer ]
+level: [  advanced ]
+video: true
 ---
 
 This course is aimed at programmers seeking to deepen their understanding of MPI and explore some of its more recent and advanced features. We cover topics including exploiting shared-memory access from MPI programs, communicator management and neighbourhood collectives. We also look at performance aspects such as which MPI routines to use for scalability, MPI internal implementation issues and overlapping communication and calculation.

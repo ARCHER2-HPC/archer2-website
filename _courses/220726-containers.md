@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=220726-con
 location: Imperial College London
 location_url: https://www.archer2.ac.uk/training/locations/imperial
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [  intermediate ]
+video: 
 ---
 
 #### Location:

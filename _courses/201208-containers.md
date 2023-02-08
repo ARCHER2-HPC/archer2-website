@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1101/registrations/792/
 location: Online
 location_url:
 prace_course: true
+audience: [ researcher, data-scientist, developer ]
+level: [ intermediate ]
+video: true
 ---
 
 
