@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 The ARCHER2 service, a CPU based HPE Cray EX system with 750,080 cores (5,860 nodes), has been deployed throughout 2020 and 2021, going into full service in December of 2021. 

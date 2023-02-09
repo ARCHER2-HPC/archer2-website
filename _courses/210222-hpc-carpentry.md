@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1161/registrations/840/
 location: Online
 location_url:
 prace_course: true
+audience: [ researcherr ]
+level: [ introductory ]
+video:
 ---
 
 This course introduces accessing remote advanced computing facilities via the command line and High Performance Computing (HPC). After completing this course, participants will:

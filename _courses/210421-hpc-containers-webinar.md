@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [ intermediate ]
+video:
 ---
 
 We regret that we have to CANCEL this webinar.  We hope to be able to run a webinar on this topic at some point in the future but we are unable to set a date at this time.

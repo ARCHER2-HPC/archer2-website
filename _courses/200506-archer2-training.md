@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 EPCC, as part of the ARCHER2 service, will deliver a training programme that covers a wide range of scientific disciplines and technology platforms. We are fully committed to providing a rich and diverse scheme of training taking into account the needs of different types of users. Due to the current pandemic, our initial courses will be online. However, we will look forward to teaching at sites around the UK once this is again practicable.

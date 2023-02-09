@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In this webinar we will cover differences between the user environments on ARCHER and ARCHER2 to help users prepare for the upcoming transition to the ARCHER2 service. We will focus on differences in the modules environment, compilers and job scheduler. There will be plenty of time for questions and discussion after the presentation.

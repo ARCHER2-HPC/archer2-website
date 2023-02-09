@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [ introductory ]
+video: true
 ---
 
 

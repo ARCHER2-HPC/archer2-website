@@ -13,6 +13,7 @@ location: Online
 location_url:
 prace_course: false
 ecse: eCSE03-04
+video: true
 ---
 
 Mesh adaptation can be a very powerful tool for improving the accuracy and/or efficiency of numerical simulations, but it is still not widely used. This is largely because commonly available approaches require experience and an in-depth understanding of both the problem at hand and its interaction with the discretisation method being used. The goal-oriented mesh adaptation framework reduces the required level of experience, since it is driven by error estimates determined by the PDE and a user-specified quantity of interest that we seek to accurately approximate, such as the power output of a turbine or the drag on an aeroplane wing.

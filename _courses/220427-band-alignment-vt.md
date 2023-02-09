@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 Interfaces are often pivotal elements of the physicochemical properties of a material and control the transport of energy in a range of technologies including solar cells, batteries, or thermoelectrics, to name a few. To achieve rational production and engineering of high performance photovoltaic or photoelectrochemical devices, a detailed understanding of the heterogeneity phenomena taking place at the materials interface is often a vital step. This presentation will describe some of the results achieved during my visit to Imperial College London, which was made possible via the HPC-Europa3 funding scheme. Heterointerfaces between suitable surface terminations of copper oxides were explored and their interfacial structure and electronic band bending analysed (based on density functional theory). Despite the fact that these materials have been studied extensively in literature, they still offer a great base to understanding fundamental physical and chemical properties due to the intimate coupling between their geometric, electronic, and magnetic degrees of freedom. 

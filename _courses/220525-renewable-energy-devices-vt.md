@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 A CFD tool for the simulation of renewable energy devices using GPU accelerated hardware

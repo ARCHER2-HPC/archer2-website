@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=210823-fir
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher ]
+level: [ introductory ]
+video: true
 ---
 
 

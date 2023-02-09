@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In the numerical simulation of wind farms, an adequate resolution of the incoming wind profile is necessary for an accurate prediction of the working condition of the wind turbines. At the same time, the accurate description of the aerodynamics of the wind turbines wakes is paramount to assess the energy resource available to wind turbines downstream of front-row turbines in the wind farms.

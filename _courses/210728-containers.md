@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=210728-con
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [  intermediate  ]
+video: true
 ---
 
 This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will introduce the use of Docker and Singularity containers but the material will be of use for whatever container technology you plan to, or end up, using. On completion of this course attendees should:

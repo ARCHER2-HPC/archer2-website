@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 Piero Ferrari will be presenting his work completed under the HPC-Europa3 Transnational Access programme

@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 OpenFOAM is a widely-used program for performing computational fluid dynamics simulations, and is 

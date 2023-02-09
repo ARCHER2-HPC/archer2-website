@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1275/registrations/937/
 location: Online
 location_url:
 prace_course: true
+audience: [  developer ]
+level: [  intermediate,  ]
+video:
 ---
 
 This run of our Shared Memory Programming with OpenMP self-service course is running with additional support from the course tutors, with funding support provided by PRACE and EuroCC.

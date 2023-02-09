@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1085/registrations/784/
 location: Online
 location_url:
 prace_course: true
+audience: [  developer ]
+level: [ introductory, intermediate ]
+video: true
 ---
 
 ### Outline

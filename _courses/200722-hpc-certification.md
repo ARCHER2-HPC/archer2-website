@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 The HPC community has always considered the training of new and existing HPC practitioners to be of high importance to its growth. The significance of training will increase even further in the era of Exascale when HPC encompasses even more scientific disciplines. This diversification of HPC practitioners challenges the traditional training approaches, which are not able to satisfy the specific needs of users, often coming from non-traditionally HPC disciplines and only interested in learning a particular set of skills. HPC centres are struggling to identify and overcome the gaps in users' knowledge. 

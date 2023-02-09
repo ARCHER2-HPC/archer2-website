@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [  intermediate ]
+video: true
 ---
 
 It is anticipated that there will be an uptake in the use of containers for running research codes.

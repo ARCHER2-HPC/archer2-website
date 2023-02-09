@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=220421-int
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher ]
+level: [ introductory ]
+video: true
 ---
 
 <img src="{{ site.baseurl }}/img/logos/euro-cc.jpg" alt="EuroCC" title="EuroCC" align="right" width="10%" />

@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [ introductory ]
+video: true
 ---
 
 In addition to the [eCSE webinar](https://www.archer2.ac.uk/training/courses/220428-ecse-webinar/), we would like to invite you to this workshop which will take prospective candidates (PIs and RSEs) through the process of preparing a proposal from the initial idea, right through to submitting the final proposal. We will discuss how to put a project team together, how to deal with any associated costings, and will include all the various aspects of the application form within the SAFE and any additional documents required. There will be lots of time for questions.

@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=210118-swc
 location: Online
 location_url:
 prace_course: false
+audience: [ developer ]
+level: [ introductory ]
+video: true
 ---
 
 Software Carpentry’s goal is to help scientists and engineers become more productive by teaching them basic computing skills like program design, version control, testing, and task automation. In this two-day workshop, short tutorials will alternate with hands-on practical exercises. Participants will be encouraged both to help one another, and to apply what they have learned to their own research problems during and between sessions.

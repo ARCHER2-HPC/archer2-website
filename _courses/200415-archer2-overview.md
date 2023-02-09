@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 Overview of the ARCHER2 Service Provision (SP) and Computational Science and Engineering (CSE) services

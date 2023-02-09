@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1369/
 location: EPCC, Bayes Centre, University of Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/epcc
 prace_course: true
+audience: [  developer ]
+level: [ introductory ]
+video:
 ---
 
 #### Location:
