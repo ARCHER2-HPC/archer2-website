@@ -99,6 +99,7 @@ Individual links to course provide more details on the content and prerequisites
     <thead>
       <tr>
         <th>Course</th>
+        <th>Level</th>
         <th>Venue</th>
         <th>Dates</th>
         <th>Register Link</th>
@@ -111,6 +112,17 @@ Individual links to course provide more details on the content and prerequisites
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
+      </td>
+      <td>
+		{% if course.level contains 'introductory' %}
+			&nbsp;<img src="materials/introductory.png" alt="Introductory"/> 
+		{% endif %}
+		{% if course.level contains 'intermediate' %}
+			&nbsp;<img src="materials/intermediate.png" alt="Intermediate"/> 
+		{% endif %}
+		{% if course.level contains 'advanced' %}
+			&nbsp;<img src="materials/advanced.png" alt="Advanced"/> 
+		{% endif %}
       </td>
       <td>
         {% if course.location != "Online" %}
@@ -159,6 +171,12 @@ Individual links to course provide more details on the content and prerequisites
 
 
 Recent courses will be moved to the [Past course materials](materials/) or [Webinars](materials/webinars) pages shortly after they have ended.
+
+Course Levels: 
+
+<img src="materials/introductory.png" alt="Introductory"/> Introductory
+<img src="materials/intermediate.png" alt="Intermediate"/> Intermediate
+<img src="materials/advanced.png" alt="Advanced"/> Advanced.  See [Course Descriptions](courses) for more information.
 
 
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.
