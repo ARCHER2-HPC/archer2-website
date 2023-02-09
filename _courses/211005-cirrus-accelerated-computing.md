@@ -13,7 +13,7 @@ location: Online
 location_url:
 prace_course: false
 audience: [  developer ]
-level: [  intermediate, advanced ]
+level: [  intermediate ]
 video: true
 ---
 

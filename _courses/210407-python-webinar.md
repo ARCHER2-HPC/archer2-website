@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 Python continues to become more popular in High Performance Computing, whether it be for pre-/post-processing of data, or writing whole parallel applications. This webinar will give an overview of how you can get up and running with using Python on ARCHER2, as well as providing some example use cases, and discussing the pros and cons of Python in HPC.

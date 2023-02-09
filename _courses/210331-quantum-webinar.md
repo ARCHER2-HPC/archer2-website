@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 Quantum computers offer the exciting prospect of one day tackling problems that are intractable on classical computers, but what do you do if you don’t actually have one? Dr Oliver Thomson Brown gives a (very) brief intro to quantum computing, and shows how ARCHER2 is enabling researchers to study quantum algorithms so that when we do have access to quantum computers, we’ll have something to run on them.
