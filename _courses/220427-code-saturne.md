@@ -13,7 +13,7 @@ location: Online
 location_url:
 prace_course: true
 audience: [ researcher ]
-level: [  intermediate, advanced ]
+level: [  advanced ]
 video: true
 ---
 

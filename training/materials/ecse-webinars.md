@@ -1,25 +1,30 @@
 ---
 layout: section
-title: ARCHER2 Past Course materials
-summary: Training 
+title: ARCHER2 eCSE Webinars
+summary: Training Webinars sharing the work from eCSE projects
 banner: web_banners_05.jpg
 course_types: [ VT, Course ]
 audience: [Researcher, Data Scientist, Developer]
 level: [Introductory, Intermediate, Advanced]
 ---
 
-This page provides links to the past courses from ARCHER2. Each page also provides links to the 
-materials associated with the courses potentially including: slides, video recordings, practical
-exercises and solutions.
+This page provides links to the past webinars and virtual tutorials from ARCHER2 which present work from [eCSE projects]({{ site.baseurl }}/ecse). Each page also provides links to the 
+materials, potentially including: slides, video recordings, futher information.
 
-[Webinars](webinars) are now listed separately.
+<!--
+
+<div>
+Filter courses by course type :
+{% for ct in page.course_types %}
+<a href="/training/materials/{{ ct | slugify }}" ><code  style="font-size:15px;"><nobr>{{ ct }}</nobr></code>&nbsp;</a>
+{% endfor %} 
+<a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
+</div>
 
 <div>
 Filter courses by course Level :
 {% for level in page.level %}
-<a href="/training/materials/{{ level | slugify }}" ><code  style="font-size:15px;"><nobr>
-<img src="{{ level | slugify }}.png" alt="{{ level }}"/> 
-{{ level }}</nobr></code>&nbsp;</a>
+<a href="/training/materials/{{ level | slugify }}" ><code  style="font-size:15px;"><nobr>{{ level }}</nobr></code>&nbsp;</a>
 {% endfor %} 
 <a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
 </div>
@@ -33,6 +38,7 @@ Filter courses by course target audience :
 <a href="/training/materials/" ><code  style="font-size:15px;"><nobr>All courses</nobr></code>&nbsp;</a>   
 </div>
 
+-->
 
 
 <div class="table-responsive">
@@ -40,30 +46,26 @@ Filter courses by course target audience :
     <thead>
       <tr>
         <th>Course</th>
-        <th>Level</th>
         <th>Venue</th>
         <th>Dates</th>
       </tr>
     </thead>
     <tbody>
+<!--
       {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date < site.time" %}
-	  {% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}
-	  {% assign course_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'course' " %}
-      {% for course in course_courses reversed %}
+-->
+	  {% assign nothidden_courses = site.courses | where_exp: "course", "course.registration_status != 'hidden' " %}
+	  {% assign vt_courses = nothidden_courses  | where_exp: "course", "course.course_type == 'vt' " %}
+	  {% assign ecse-vt_courses = vt_courses  | where_exp: "course", "course.ecse.size > 1" %}
+
+      {% for course in ecse-vt_courses reversed %}
       <tr>
       <td>
         <a href="{{ course.url }}">{{ course.title }}</a>
-      </td>
-      <td>
-		{% if course.level contains 'introductory' %}
-			&nbsp;<img src="introductory.png" alt="Introductory"/> 
-		{% endif %}
-		{% if course.level contains 'intermediate' %}
-			&nbsp;<img src="intermediate.png" alt="Intermediate"/> 
-		{% endif %}
-		{% if course.level contains 'advanced' %}
-			&nbsp;<img src="advanced.png" alt="Advanced"/> 
-		{% endif %}
+{% if course.ecse.size > 1 %}
+&nbsp; &nbsp; 
+        <a href="{{ site.baseurl }}/ecse/reports/{{ course.ecse }}">({{ course.ecse }})</a>
+{% endif %}
       </td>
       <td>
         {{ course.location }}
