@@ -172,9 +172,7 @@ Individual links to course provide more details on the content and prerequisites
 
 Recent courses will be moved to the [Past course materials](materials/) or [Webinars](materials/webinars) pages shortly after they have ended.
 
-Course Levels: 
-
-<img src="materials/introductory.png" alt="Introductory"/> Introductory
+<b>Course Levels: </b> <img src="materials/introductory.png" alt="Introductory"/> Introductory
 <img src="materials/intermediate.png" alt="Intermediate"/> Intermediate
 <img src="materials/advanced.png" alt="Advanced"/> Advanced.  See [Course Descriptions](courses) for more information.
 
