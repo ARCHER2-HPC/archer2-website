@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1361/registrations/1008/
 location: Online
 location_url:
 prace_course: true
+audience: [ researcher ]
+level: [  advanced ]
+video: true
 ---
 
 This lesson provides an overview of some more advanced techniques and uses of LAMMPS. Specifically, we will be discussing:

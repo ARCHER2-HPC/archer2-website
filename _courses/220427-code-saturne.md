@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1371/registrations/1016/
 location: Online
 location_url:
 prace_course: true
+audience: [ researcher ]
+level: [  intermediate, advanced ]
+video: true
 ---
 
 Predicting fluid flow and heat transfer is vital to many industries, such as energy, food and aerospace, for instance. This course will focus on the use of CFD for the prediction of fluid flow and heat transfer, and present some of the integrated features of Code_Saturne to prepare for massively parallel simulations on tier-0 machines.

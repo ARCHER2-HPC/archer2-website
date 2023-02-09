@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [ introductory,  ]
+video: true
 ---
 
 The ARCHER2 training service started in April 2020 with an online programme of courses and virtual tutorials. In this virtual tutorial, we will present our experience in delivering online courses and designing a training programme based on the feedback received by users and HPC Training experts around the world. We will also announce our training plans for the rest of the second year of service.

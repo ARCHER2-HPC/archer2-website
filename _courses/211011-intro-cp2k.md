@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=211011-int
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher ]
+level: [ introductory ]
+video: true
 ---
 
 CP2K is a quantum chemistry package for performing atomistic simulations which has a variety of applications and features. CP2K is used for wide variety of systems such as solid-state systems, molecules, liquids and biological systems. It is optimized for using density functional theory (DFT) with the mixed Gaussian and Plane-Waves (GPW) method based on pseudopotentials.

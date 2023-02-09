@@ -12,6 +12,7 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=champions
 location: Online
 location_url:
 prace_course: false
+level: [ introductory ]
 ---
 
 The next HPC Champions meeting will be held virtually on the afternoon of the 15th December 2020, and will involve talks and discussion sessions. We will confirm topics closer to the time but are likely to include updates from supercomputing services, training, and HPC software. The workshop will run between 1pm and 5pm GMT. If you have an idea for a discussion topic then please get in touch with the organiser: [Andy Turner (a.turner@epcc.ed.ac.uk)](mailto:a.turner@epcc.ed.ac.uk).

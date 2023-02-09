@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [  intermediate ]
+video: true
 ---
 
 Software packages on HPC systems have traditionally been built, installed and managed manually. In preparation for the launch of ARCHER2 we have investigated the Spack and EasyBuild package installation frameworks, tools which automate the potentially time-consuming process of correctly building and installing scientific software. Both perform the same high-level steps of obtaining source code, setting necessary build options and installing dependencies, but the difference in philosophy between the two approaches is otherwise quite substantial. In this presentation I will discuss the capabilities and basic usage of Spack and EasyBuild and where they are similar and where they differ in their approaches to managing software on HPC systems.

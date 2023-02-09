@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1406/registrations/1046/
 location: Online
 location_url:
 prace_course: true
+audience: [ data-scientist ]
+level: [ introductory]
+video: true
 ---
 
 [Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research. Its target audience is researchers who have little to no prior computational experience, and its lessons are domain specific, building on learners' existing knowledge to enable them to quickly apply skills learned to their own research. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.

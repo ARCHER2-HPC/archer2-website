@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In the webinar, we will give an overview of some of the activities planned as part of ARCHER2 outreach, and introduce some of our existing outreach materials that are used currently in trips to schools and science festivals.

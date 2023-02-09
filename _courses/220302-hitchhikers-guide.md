@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 ARCHER2 is the UK's Tier-1 supercomputing service. First-time users of HPC may be unsure of what to expect, and those coming from other services will notice differences. In this webinar I will provide an overview of the system's hardware and software and cover basic usage such as logging in, compiling code, and running jobs. 

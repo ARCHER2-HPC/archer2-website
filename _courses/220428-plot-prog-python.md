@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1389/
 location: Online
 location_url:
 prace_course: true
+audience: [ researcher, data-scientist, developer ]
+level: [ introductory ]
+video: true
 ---
 
 **This lesson is an introduction to programming in Python for people with little or no previous programming experience.** It uses plotting as its motivating example. Please note that this lesson uses Python 3.

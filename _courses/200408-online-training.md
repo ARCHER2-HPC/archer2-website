@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+vidoe: true
 ---
 
 

@@ -12,6 +12,9 @@ registration_url: https://www.archer2.ac.uk/training/register/?course=220620-con
 location: Western General Campus, Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/western-general
 prace_course: false
+audience: [ researcher, data-scientist, developer ]
+level: [  intermediate ]
+video: 
 ---
 
 #### Location:

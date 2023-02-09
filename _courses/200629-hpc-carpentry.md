@@ -12,6 +12,9 @@ registration_url: http://www.archer.ac.uk/training/registration/
 location: Online
 location_url:
 prace_course: no
+audience: [ researcher ]
+level: [ introductory ]
+video: true
 ---
 
 This course introduces accessing remote advanced computing facilities via the command line and High Performance Computing (HPC). After completing this course, participants will:

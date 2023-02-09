@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [  developer ]
+level: [  advanced ]
+video: true
 ---
 
 One of the greatest challenges to running parallel applications on large numbers of processors is how to handle file IO. The IO routines provided by your favourite serial programming language are not designed with parallelism in mind, and IO overheads can grow to dominate the overall runtime. Parallel file systems, such as ARCHER2's Lustre, are optimised for large data transfers but performance can be far from optimal if every process opens its own file or if all IO is funnelled through a single controller process.

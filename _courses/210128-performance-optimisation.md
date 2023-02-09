@@ -12,6 +12,9 @@ registration_url: https://events.prace-ri.eu/event/1124/registrations/805/
 location: Online
 location_url:
 prace_course: true
+audience: [  developer ]
+level: [  advanced ]
+video: true
 ---
 
 This course covers techniques for improving the performance of parallel applications by optimising of the code that runs within each node.

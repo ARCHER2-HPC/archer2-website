@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ---
 
 In this webinar the presenter will discuss a widely-applied downstream operation from the bio/chemical industry, describing the challenges in modelling this particular operation and potential improvements using the discrete element method in conjunction with computational fluid dynamics. The presenter will describe the methodology used to model the system in detail, simplifications, the computational efficiency of such computations on HPC and how HPC-Europa3 mobility enabled improvements to this doctoral research. 

@@ -12,6 +12,9 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+audience: [  developer ]
+level: [  intermediate, advanced ]
+video: true
 ---
 
 This event is not part of the ARCHER2 Training programme but is likely to be of interest to ARCHER2 users.
