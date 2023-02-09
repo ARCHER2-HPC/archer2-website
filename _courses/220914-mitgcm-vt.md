@@ -13,6 +13,7 @@ location: Online
 location_url:
 prace_course: false
 video: true
+ecse: eCSE02-06
 ---
 
 Whether you are a seasoned pro with MITgcm or just getting started, join us for a webinar to find out how to get the most out of running it on ARCHER2. We'll briefly cover how to install and run basic MITgcm. We can't tell you the meaning of life, the universe, and everything but we can share what we've learnt on how to make your runs quick or cheap. Additionally, we'll cover some advanced usage, including the use of TAF for adjoint runs, techniques for chaining together long runs, and containerisation.
@@ -20,7 +21,9 @@ Whether you are a seasoned pro with MITgcm or just getting started, join us for 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
-
+{% if page.ecse.size > 1 %}
+<a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
+{% endif %}
 
 <section id="service">
 <!--
