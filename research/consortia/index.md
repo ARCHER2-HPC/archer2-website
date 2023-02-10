@@ -58,6 +58,24 @@ These pages provide information on the consortia funded on ARCHER2, including de
         <td>Julien Sindt</td>
         <td>e283</td>
       </tr>
+
+
+      <tr>
+        <td><a href="https://research.ncl.ac.uk/conexs/">UK High-End Computing Consortium for X-Ray Spectroscopy  (HPC-CONEXS)</a></td>
+        <td>Prof. Thomas Penfold (Newcastle University)</td>
+        <td></td>
+        <td>e772</td>
+      </tr>
+
+      <tr>
+        <td><a href="https://ccp-wsi.ac.uk/hecwsi/">High End Computing Consortium for Wave Structure Interaction (HEC WSI)</a></td>
+        <td>Prof. Deborah Greaves  (University of Plymouth)</td>
+        <td></td>
+        <td>e773</td>
+      </tr>
+
+<!--
+
       <tr>
         <td><a href="https://www.ukctrf.com/">UK Consortium on Turbulent Reacting Flows (UKCTRF)</a></td>
         <td>Prof. Nilanjan Chakrobarty (University of Newcastle)</td>
@@ -70,6 +88,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
         <td>Caoimhin Laoide-Kemp</td>
         <td>e585</td>
       </tr>
+-->
     </tbody>
   </table>
 </div>
