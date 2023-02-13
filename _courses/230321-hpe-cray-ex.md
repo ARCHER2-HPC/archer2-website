@@ -44,7 +44,7 @@ This course is open to users of ARCHER2.
 
 This course will not be recorded and the materials will be shared only with the participants.
 
-### Timetable:
+### Schedule:
 
 
 
@@ -77,6 +77,10 @@ There will be a mixture between lessons and hands-on exercises.
 This course is open to users of ARCHER2
 
 Please ensure you enter your **ARCHER2 Username and Project code** in the "Reason for participation" section to ensure your registration is accepted.
+
+#### Timetable
+
+[Draft timetable](Agenda_ARCHER2_Mar2023.pdf) - may be subject to change
 
 <section id="service">
 
