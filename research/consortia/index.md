@@ -47,8 +47,8 @@ These pages provide information on the consortia funded on ARCHER2, including de
         <td>e280</td>
       </tr>
       <tr>
-        <td><a href="https://plasma-ccp-hec.uk/">Plasma HEC Consortium</a></td>
-        <td>Prof. Tony Arber (University of Warwick)</td>
+        <td><a href="https://hec-plasma.github.io">Plasma HEC Consortium</a></td>
+        <td>Dr. David Dickinson (University of York)</td>
         <td>Kevin Stratford</td>
         <td>e281</td>
       </tr>
