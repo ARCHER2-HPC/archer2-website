@@ -34,7 +34,7 @@ The ARCHER2 training programme is designed every year based on feedback from pre
 
 In order to give the opportunity for anyone to express their feedback on the draft for the upcoming training year (May 2023 - April 2024), the ARCHER2 Training Forum meeting will be public. The meeting will not be recorded, although the outcomes will be published on the event page.
 
-[Full details and join link](http://localhost:4000/training/courses/230308-archer2-training-forum/)
+[Full details and join link](http://www.archer2.ac.uk/training/courses/230308-archer2-training-forum/)
 
 
 ## Major software Upgrade: Fri 14th April - w/b Mon 8th May
