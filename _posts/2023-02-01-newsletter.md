@@ -8,11 +8,11 @@ categories: [news]
 ---
 
 
-- [Major software Upgrade](#major-software-upgrade-fri-14th-april---wb-mon-8th-may): Fri 14th April - w/b Mon 8th May
-- [Message Passing programming with MPI](#message-passing-programming-with-mpi), Imperial College London, 22 - 24 February 2023
+- [Major software Upgrade]({{ page.url }}#major-software-upgrade-fri-14th-april---wb-mon-8th-may): Fri 14th April - w/b Mon 8th May
+- [Message Passing programming with MPI]({{ page.url }}#message-passing-programming-with-mpi), Imperial College London, 22 - 24 February 2023
 - [ARCHER2 9th Embedded CSE (eCSE) call](#archer2-9th-embedded-cse-ecse--call)
-- [Recently added Known Issues](#recently-added-known-issues)
-- [Upcoming ARCHER2 training](#upcoming-archer2-training)
+- [Recently added Known Issues]({{ page.url }}#recently-added-known-issues)
+- [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
 <!--more-->
  
