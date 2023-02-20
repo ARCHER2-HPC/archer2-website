@@ -185,21 +185,23 @@ When registering for one of our courses you agree to abide by the [ARCHER2 Code 
 
 ## Eligibility for training
 
-ARCHER2 training courses are provided free of charge to all academics, but attendance by non-academics would normally require a registration fee. However, we are not charging for attendance while we deliver all courses online due to government advice on social distancing.
+ARCHER2 training courses are provided free of charge to all academics. 
 
-Courses marked ![PRACE](img/prace_25.jpg) are also funded by 
-  [PRACE](https://prace-ri.eu/) and are free to everyone including commercial attendees.
+Attendance by non-academics at online courses is free, but we would normally require a registration fee for face-to-face courses. 
 
-We normally charge a fee for non-academics. If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
+<!-- Courses marked ![PRACE](img/prace_25.jpg) are also funded by 
+  [PRACE](https://prace-ri.eu/) and are free to everyone including commercial attendees. -->
+
+If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
+
 
 ## ARCHER2 year three planned courses
 
-
 Provisional schedule of planned courses.  Brief details of the courses can be found on the [Course Descriptions page](courses/).
 
- | November 2022 - January 2023 | February 2023 - April 2023
- | --- | --- | --- |
- |  Modern C++ for Computational Scientists <br>Data Carpentry	 <br>	  Introduction to package (tbc)<br>	Advanced use of package (tbc)	 <br>Scientific Programming with Python	  |Software/Data carpentry <br> Understanding Package Performance  <br> ARCHER2 for Data Scientists  <br> ARCHER2 for Software Developers  <br> ARCHER2 for Package Users  <br> Message Passing Programming with MPI  <br> Efficient use of the HPE Cray EX System 
+ |   February 2023 - April 2023  |
+ |  --- |
+ |  Data Analysis and Visualisation in Python <br> ARCHER2 for Data Scientists  <br> HPC Carpentry <br> Data Carpentry  <br> Modern C++ for Computational Scientists     <br>  |
 
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
