@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 Weekly Newsletter
-date: 2023-02-15 11:00:00
+date: 2023-02-22 11:00:00
 author: ARCHER2 Service
 tags: [newsletters] 
 categories: [news]
@@ -125,6 +125,8 @@ lists all current open known issues including a description of the issue, its sy
 - [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/230316-software-developers), Online, 16 - 17 March 2023 10:00 - 16:00 GMT
 - [Efficient use of the HPE Cray EX Supercomputer ARCHER2](https://www.archer2.ac.uk/training/courses/230321-hpe-cray-ex), Online, 21 - 23 March 2023 09:00 - 17:00 BST 	
 - [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/230328-package-users), Online, 28 March 2023 10:00 - 16:00 GMT 
+- [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/230330-data-analysis-python/), Online, 30 - 31 March 2023 09:30 - 17:00 GMT 
+- [ARCHER2 for Data Scientists](https://www.archer2.ac.uk/training/courses/230411-data-scientists/), Online, 11 April 2023 10:00 - 17:30 GMT 
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
 
