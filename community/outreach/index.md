@@ -5,15 +5,24 @@ summary: ARCHER Outreach
 banner: web_banners_07.jpg
 ---
 
+
+<p align="center">
+<a href="https://discover.epcc.ed.ac.uk/activities/2023/01/01/parallel-sort/      ">
+<img src="{{ site.baseurl }}/community/outreach/materials/images/sorting-game.jpg" alt="Parallel Sorting game"  style="width: 70%"   /></a>
+</p>
+
 ## Discover and Learn
 
 The [Discover and Learn site ](https://discover.epcc.ed.ac.uk/)has a range of information and activities around HPC and ARCHER2
 
-## Resources
+<p >
+<a href="https://discover.epcc.ed.ac.uk/  ">
+<img src="{{ site.baseurl }}/img/logos/epcc-discover-learn.jpg" alt="EPCC Discover Learn"  style="width: 40%"   /></a>
+</p>
 
-* [Parallel sorting](materials/parallel_sort)
-* [Wee Archie, the suitcase sized supercomputer](materials/wee_archie)
-* [History of Machines at EPCC](materials/history_of_machines)
+
+
+
 
 ## Why Outreach?
 
