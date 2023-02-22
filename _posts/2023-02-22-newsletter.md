@@ -73,7 +73,7 @@ We will include weekly reminders of the software upgrade in the ARCHER2 weekly n
 
 We have created a [webpage with further details of the upgrade](https://docs.archer2.ac.uk/faq/upgrade-2023/) which will be updated throughout the upgrade process:  
 
-Please [contact the service desk] (mailto:support@archer2.ac.uk) if you have any concerns regarding the upgrade. 
+Please [contact the service desk](mailto:support@archer2.ac.uk) if you have any concerns regarding the upgrade. 
 
                
 
@@ -90,7 +90,7 @@ lists all current open known issues including a description of the issue, its sy
 
 - [Message-passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/), Online, always-open self-service course
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, always-open self-service course
-- [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course 
+- [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
 - [ARCHER2 Training Forum meeting](https://www.archer2.ac.uk/training/courses/230308-archer2-training-forum/), Wednesday 8th March 2023 15:00 - 16:00
 - [Introduction to LAMMPS](https://www.archer2.ac.uk/training/courses/230314-lammps), Online, 14 March 2023 10:00 - 16:30 GMT 
 - [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/230316-software-developers), Online, 16 - 17 March 2023 10:00 - 16:00 GMT
