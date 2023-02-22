@@ -7,8 +7,8 @@ banner: web_banners_04.jpg
 
 The ARCHER2 Service is a world-class advanced computing resource for UK researchers. For such researchers, there are specific allocation mechanisms for requesting ARCHER2 time via the ARCHER2 partner research councils EPSRC and NERC as detailed below. 
 
-The ARCHER2 User Support Team are available to offer advice and assistance to any prospective users and can offer guidance as to what is the best route of access ([support@archer2.ac.uk](mailto:support@archer2.ac.uk)) or [further contact details can be found here](https://www.archer2.ac.uk/support-access/servicedesk.html).
-The ARCHER2 CSE Team can also provide assistance with completing a Technical Assessment (TA)  and can also be contacted via the Service Desk ([support@archer2.ac.uk](mailto:support@archer2.ac.uk)). 
+The [ARCHER2 User Support Team](mailto:support@archer2.ac.uk) are available to offer advice and assistance to any prospective users and can offer guidance as to what is the best route of access. [Further contact details can be found here](https://www.archer2.ac.uk/support-access/servicedesk.html).
+The ARCHER2 CSE Team can also provide [assistance with completing a Technical Assessment (TA)](https://www.archer2.ac.uk/news/2022/08/03/technical-assessments.html "Help on completing a successful TA")  and can also be contacted via the [Service Desk](mailto:support@archer2.ac.uk). 
 
 This page has a number of sections:
 
