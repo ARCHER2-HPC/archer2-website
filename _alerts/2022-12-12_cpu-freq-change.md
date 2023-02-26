@@ -1,5 +1,5 @@
 ---
-status: Information
+status: Resolved
 type: Service change
 start_date: 2022-12-12 09:45 GMT
 end_date: N/A
