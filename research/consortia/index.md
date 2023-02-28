@@ -43,7 +43,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       <tr>
         <td><a href="http://www.hecbiosim.ac.uk/">HEC Biomolecular Simulation Consortium (HECBioSim)</a></td>
         <td>Prof. Syma Khalid (University of Southampton)</td>
-        <td>Julien Sindt</td>
+        <td>Rui Apostolo</td>
         <td>e280</td>
       </tr>
       <tr>
@@ -55,7 +55,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       <tr>
         <td><a href="https://www.ucl.ac.uk/mesoscale-modelling-consortium/">UK Consortium on Mesoscale Engineering Science (UKCOMES)</a></td>
         <td>Prof. Kai Luo (UCL)</td>
-        <td>Julien Sindt</td>
+        <td>Kevin Stratford</td>
         <td>e283</td>
       </tr>
 
