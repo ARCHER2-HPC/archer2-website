@@ -108,5 +108,6 @@ lists all current open known issues including a description of the issue, its sy
 
 [Twitter](https://twitter.com/ARCHER2_HPC)
 
-[Recordings of past courses and virtual tutorials](https://www.archer2.ac.uk/training/materials/)
+[Recordings of past courses](https://www.archer2.ac.uk/training/materials/)
 
+[Recordings of past virtual tutorials](https://www.archer2.ac.uk/training/materials/webinars)
