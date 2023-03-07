@@ -98,11 +98,11 @@ lists all current open known issues including a description of the issue, its sy
 - [ARCHER2 Training Forum meeting](https://www.archer2.ac.uk/training/courses/230308-archer2-training-forum/), Wednesday 8th March 2023 15:00 - 16:00
 - [Introduction to LAMMPS](https://www.archer2.ac.uk/training/courses/230314-lammps), Online, 14 March 2023 10:00 - 16:30 GMT 
 - [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/230316-software-developers), Online, 16 - 17 March 2023 10:00 - 16:00 GMT
-- [Efficient use of the HPE Cray EX Supercomputer ARCHER2](https://www.archer2.ac.uk/training/courses/230321-hpe-cray-ex), Online, 21 - 23 March 2023 09:00 - 17:00 BST 	
-- [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/230328-package-users), Online, 28 March 2023 10:00 - 16:00 GMT 
-- [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/230330-data-analysis-python/), Online, 30 - 31 March 2023 09:30 - 17:00 GMT 
-- [ARCHER2 for Data Scientists](https://www.archer2.ac.uk/training/courses/230411-data-scientists/), Online, 11 April 2023 10:00 - 17:30 GMT 
-- [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230411-hpc-carpentry/), Edinburgh, 11 - 12 April 2023 09:30 - 16:00 GMT 
+- [Efficient use of the HPE Cray EX Supercomputer ARCHER2](https://www.archer2.ac.uk/training/courses/230321-hpe-cray-ex), Online, 21 - 23 March 2023 09:00 - 17:00 GMT 	
+- [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/230328-package-users), Online, 28 March 2023 10:00 - 16:00 BST 
+- [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/230330-data-analysis-python/), Online, 30 - 31 March 2023 09:30 - 17:00 BST 
+- [ARCHER2 for Data Scientists](https://www.archer2.ac.uk/training/courses/230411-data-scientists/), Online, 11 April 2023 10:00 - 17:30 BST 
+- [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230411-hpc-carpentry/), Edinburgh, 11 - 12 April 2023 09:30 - 16:00 BST 
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
 
