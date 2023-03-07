@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2 for Data Scientists
 banner: web_banners_05.jpg 
-human_dates: 11 April 2023  10:00 - 17:30  GMT
+human_dates: 11 April 2023  10:00 - 17:30  BST
 start_date: 2023-04-11 10:00:00
 end_date: 2023-04-11 17:30:00
 trainers: Adrian Jackson EPCC

@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2 for Package Users
 banner: web_banners_05.jpg 
-human_dates: 28 March 2023  10:00 - 16:00  GMT 
+human_dates: 28 March 2023  10:00 - 16:00  BST 
 start_date: 2023-03-28 10:00:00
 end_date: 2023-03-28 16:00:00
 trainers: William Lucas EPCC

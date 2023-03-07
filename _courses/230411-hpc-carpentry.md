@@ -2,7 +2,7 @@
 layout: course
 title: HPC Carpentry
 banner: web_banners_05.jpg 
-human_dates: 11 - 12 April 2023  09:30 - 16:00  GMT
+human_dates: 11 - 12 April 2023  09:30 - 16:00  BST
 start_date: 2023-04-11 09:30:00
 end_date: 2023-04-12 16:00:00
 trainers: Tony Hallam EPCC
