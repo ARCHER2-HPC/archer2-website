@@ -1,41 +1,44 @@
 ---
 layout: course
-title: Data Analysis and Visualisation in Python
+title: Modern C++ for Computational Scientists
 banner: web_banners_05.jpg 
-human_dates: 30 - 31 March 2023  09:30 - 17:00  BST
-start_date: 2023-03-30 09:30:00
-end_date: 2023-03-31 17:00:00
-trainers: Juan Herrera
+human_dates: 17 - 20 April 2023  09:30 - 12:30  BST
+start_date: 2023-04-17 09:30:00
+end_date: 2023-04-20 12:30:00
+trainers: James Richings EPCC
 course_type: course
 registration_status: open
-registration_url: https://www.archer2.ac.uk/training/register/?course=230330-data-analysis-python
+registration_url:  https://www.archer2.ac.uk/training/register/?course=230417-modern-c
 location: Online
 location_url:
 prace_course: 
-audience: [  data-scientist ]
-level: [ introductory   ]
-video: 
+audience: [  developer ]
+level: [  intermediate  ]
+video: false
 ---
 
-Python is a general purpose programming language that is useful for writing scripts to work effectively and reproducibly with data.
 
-This is an introduction to Python designed for participants with no programming experience. This course covers:
+With the recent revisions to the C++ language and standard library, the ways it is now being used are quite different. Used well, these features enable the programmer to write elegant, reusable and portable code that runs efficiently on a variety of architectures.
 
--    Some basic information about Python syntax.
--    The Jupyter notebook interface.
--    How to import CSV files.
--    Using the Pandas package to work with data frames.
--    How to calculate summary information from a data frame.
--    Brief introduction to plotting.
--    How to work with databases directly from Python.
+However it is still a very large and complex tool. This course will cover a minimal set of features to allow an experienced non-C++ programmer to get to grips with language.
 
+These include:
 
+- overloading
+- templates
+- containers
+- iterators
+- lambdas
+- standard algorithms
+
+We will also briefly cover several important libraries for numerical computing.
 
 #### Prerequisites:
 
-This lesson requires a working copy of Python:
+The course is designed for appeal to programmers with existing experience in another language (e.g. C, Fortran, Java, Python): it is not an introduction to programming.
 
-[Setup information](https://datacarpentry.org/python-ecology-lesson/setup.html)
+Attendees are also expected to be familiar with using basic Unix tools such as the bash command line, git repositories and simple Makefiles.
+
 
 ### Requirements:
 
@@ -46,7 +49,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+09:30 - 12:30 BST each day, with a break from 11:00 to 11:30.
 
 <section id="service">
 
@@ -70,7 +73,7 @@ Details to follow
 <!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/230330-data-analysis-python">
+          href="https://pad.archer2.ac.uk/p/230417-modern-c">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -106,8 +109,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=230330-data-analysis-python" 
-
+           href="../../feedback/?course=230417-modern-c" 
 
 		>
           <strong>Feedback</strong><br/>
