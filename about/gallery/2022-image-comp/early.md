@@ -23,7 +23,7 @@ banner: ../../img/splash/old/220808-image-comp-2022-w.jpg
 			{% if imagecomp.video_src  %}
          <a href="{{ imagecomp.video_src }}" target="_blank" ><img style="width: 95%; padding: 15px" src="{{ imagecomp.image_src }}" alt="Entry {{ imagecomp.entry_no }}" title="Click to play video"  /></a>
 			{% else %}
-	       <img style="width: 95%; padding: 15px" src="{{ imagecomp.image_src }}" alt="{{ casestudies.entry_id }}" />
+	       <img style="width: 95%; padding: 15px" src="{{ imagecomp.image_src }}" alt="{{ imagecomp.entry_id }}" />
 			{% endif %}
 			
       </div>
