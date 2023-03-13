@@ -68,7 +68,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       </tr>
 
       <tr>
-        <td><a href="https://ccp-wsi.ac.uk/hecwsi/">High End Computing Consortium for Wave Structure Interaction (HEC WSI)</a></td>
+        <td><a href="https://ccp-wsi.ac.uk/hec-wsi/">High End Computing Consortium for Wave Structure Interaction (HEC WSI)</a></td>
         <td>Prof. Deborah Greaves  (University of Plymouth)</td>
         <td>Sebastien Lemaire</td>
         <td>e773</td>
