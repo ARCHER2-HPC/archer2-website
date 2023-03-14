@@ -1,10 +1,10 @@
 ---
 layout: course
-title: Efficient use of the HPE Cray EX Supercomputer ARCHER2 
+title: Efficient use of the HPE Cray EX Supercomputer ARCHER2 - rescheduled
 banner: web_banners_05.jpg 
-human_dates: 21 - 23 March 2023  09:00 - 17:00 GMT
-start_date: 2023-03-21 09:00:00
-end_date: 2023-03-23 17:00:00
+human_dates: 28 - 30 March 2023  09:00 - 17:00 GMT
+start_date: 2023-03-28 09:00:00
+end_date: 2023-03-30 17:00:00
 trainers: Harvey Richardson and Douglas Shanks, HPE
 course_type: course
 registration_status: open
