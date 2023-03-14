@@ -7,7 +7,7 @@ start_date: 2023-03-30 09:30:00
 end_date: 2023-03-31 17:00:00
 trainers: Juan Herrera
 course_type: course
-registration_status: open
+registration_status: full
 registration_url: https://www.archer2.ac.uk/training/register/?course=230330-data-analysis-python
 location: Online
 location_url:
