@@ -8,7 +8,7 @@ end_date: 2023-03-30 17:00:00
 trainers: Harvey Richardson and Douglas Shanks, HPE
 course_type: course
 registration_status: open
-registration_url:  https://www.archer2.ac.uk/training/register/?course=230321-hpe-cray-ex 
+registration_url:  https://www.archer2.ac.uk/training/register/?course=230328-hpe-cray-ex 
 location: Online
 location_url:
 prace_course: false
@@ -141,7 +141,7 @@ Please ensure you enter your **ARCHER2 Username and Project code** in the "Reaso
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=230321-hpe-cray-ex"
+		   href="https://www.archer2.ac.uk/training/feedback/?course=230328-hpe-cray-ex"
 
 		>
           <strong>Feedback</strong><br/>
