@@ -2,7 +2,7 @@
 layout: course
 title: Data Carpentry
 banner: web_banners_05.jpg 
-human_dates: 24 April 2023  09:30 - 13:00  BST
+human_dates: 24th - 27th April 2023  09:30 - 13:00  BST
 start_date: 2023-04-24 09:30:00
 end_date: 2023-04-27 13:00:00
 trainers: Juan Herrera
