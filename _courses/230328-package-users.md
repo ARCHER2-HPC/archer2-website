@@ -1,13 +1,13 @@
 ---
 layout: course
-title: ARCHER2 for Package Users
+title: ARCHER2 for Package Users - CANCELLED
 banner: web_banners_05.jpg 
 human_dates: 28 March 2023  10:00 - 16:00  BST 
 start_date: 2023-03-28 10:00:00
 end_date: 2023-03-28 16:00:00
 trainers: William Lucas EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230328-package-users
 location: Online
 location_url:
