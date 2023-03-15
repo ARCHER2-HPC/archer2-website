@@ -8,7 +8,7 @@ categories: [news]
 ---
 
 
-- [Efficient use of the HPE Cray EX Supercomputer ARCHER2]({{ page.url }}#efficient-use-of-the-hpe-cray-ex-supercomputer-archer2), online, 21 - 23 March 2023 09:00 - 17:00 GMT
+- [Efficient use of the HPE Cray EX Supercomputer ARCHER2]({{ page.url }}#efficient-use-of-the-hpe-cray-ex-supercomputer-archer2), online, 28 - 30 March 2023 09:00 - 17:00 GMT
 - [ARM Forge tools (DDT and MAP) license "boost"]({{ page.url }}#arm-forge-tools-ddt-and-map-license-boost) w/b 20th March
 - [nUCLeus: creating and running a successful, adaptable and portable HPC education environment]({{ page.url }}#nucleus-creating-and-running-a-successful-adaptable-and-portable-hpc-education-environment), e-Seminar from CompBioMed 22nd of March 2023 at 14:00 CET
 - [Major software Upgrade]({{ page.url }}#major-software-upgrade-fri-14th-april---wb-mon-8th-may): Fri 14th April - w/b Mon 8th May
@@ -22,7 +22,7 @@ categories: [news]
 
 ## Efficient use of the HPE Cray EX Supercomputer ARCHER2
 
-21 - 23 March 2023 09:00 - 17:00 GMT
+28 - 30 March 2023 09:00 - 17:00 GMT - Rescheduled to avoid strike days
 
 This three day workshop will provide attendees with the knowledge required to understand the most optimal way to port, execute and optimize applications for ARCHER2. The workshop is a mixture of lectures and practical hands-on sessions. Example exercises will be provided but attendees are encouraged to bring their own applications.
 
@@ -95,13 +95,12 @@ lists all current open known issues including a description of the issue, its sy
 - [Message-passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/), Online, always-open self-service course
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, always-open self-service course
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
-- [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/230316-software-developers), Online, 16 - 17 March 2023 10:00 - 16:00 GMT
-- [Efficient use of the HPE Cray EX Supercomputer ARCHER2](https://www.archer2.ac.uk/training/courses/230321-hpe-cray-ex), Online, 21 - 23 March 2023 09:00 - 17:00 GMT 	
-- [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/230328-package-users), Online, 28 March 2023 10:00 - 16:00 BST 
+- [Efficient use of the HPE Cray EX Supercomputer ARCHER2](https://www.archer2.ac.uk/training/courses/230321-hpe-cray-ex), Online, 28 - 30 March 2023 09:00 - 17:00 GMT 	
 - [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/230330-data-analysis-python/), Online, 30 - 31 March 2023 09:30 - 17:00 BST 
 - [ARCHER2 for Data Scientists](https://www.archer2.ac.uk/training/courses/230411-data-scientists/), Online, 11 April 2023 10:00 - 17:30 BST 
 - [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230411-hpc-carpentry/), Edinburgh, 11 - 12 April 2023 09:30 - 16:00 BST 
 - [Modern C++ for Computational Scientists](https://www.archer2.ac.uk/training/courses/230417-modern-c/), 17-20 April 2023, 09:30 - 12:30 BST
+- [Data Carpentry](https://www.archer2.ac.uk/training/courses/230424-data-carpentry/), 24th - 27th April 2023 09:30 - 13:00 BST
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
 
