@@ -105,3 +105,11 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 </section>
 
+
+
+## Meeting outcomes
+> The following topics will be considered for the Training Programme 2023/24:
+  - Software build process: CMake, Autoconf, ldd, readelf, etc.
+  - Workflows: Slurm, Dask, Pegasus, Kepler, etc.
+  
+> Courses on C++ and Fortran will be also included as part of the Programme.
