@@ -10,7 +10,6 @@ categories: [news]
 - [Update of centrally supported applications and libraries]({{ page.url }}#update-of-centrally-supported-applications-and-libraries)
 - [ARCHER2 Training Forum meeting]({{ page.url }}#archer2-training-forum-meeting ), Wednesday 8th March 2023y 2023 15:00 - 16:00
 - [Major software Upgrade]({{ page.url }}#major-software-upgrade-fri-14th-april---wb-mon-8th-may): Fri 14th April - w/b Mon 8th May
-- [Message Passing programming with MPI]({{ page.url }}#message-passing-programming-with-mpi), Imperial College London, 22 - 24 February 2023
 - [Recently added Known Issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 

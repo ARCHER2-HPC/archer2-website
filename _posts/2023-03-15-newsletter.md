@@ -12,7 +12,6 @@ categories: [news]
 - [ARM Forge tools (DDT and MAP) license "boost"]({{ page.url }}#arm-forge-tools-ddt-and-map-license-boost) w/b 20th March
 - [nUCLeus: creating and running a successful, adaptable and portable HPC education environment]({{ page.url }}#nucleus-creating-and-running-a-successful-adaptable-and-portable-hpc-education-environment), e-Seminar from CompBioMed 22nd of March 2023 at 14:00 CET
 - [Major software Upgrade]({{ page.url }}#major-software-upgrade-fri-14th-april---wb-mon-8th-may): Fri 14th April - w/b Mon 8th May
-- [Message Passing programming with MPI]({{ page.url }}#message-passing-programming-with-mpi), Imperial College London, 22 - 24 February 2023
 - [Recently added Known Issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
