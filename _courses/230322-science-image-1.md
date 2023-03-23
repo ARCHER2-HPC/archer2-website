@@ -12,6 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
+video: true
 ecse:
 ---
 
@@ -64,6 +65,9 @@ The animation shows the results from a direct-numerical simulation of the cold s
 
 <section id="service">
 
+
+<!--
+
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -85,19 +89,19 @@ The animation shows the results from a direct-numerical simulation of the cold s
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/Kc7CgY_a8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 <!--
 
