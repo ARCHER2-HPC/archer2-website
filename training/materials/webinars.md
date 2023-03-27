@@ -68,7 +68,7 @@ Filter courses by course target audience :
       <td>
         {{ course.location }}
 		{% if course.video  %}
-			<a href="{{ course.url }}#videos">
+			<a href="{{ course.url }}#video">
 			&nbsp;<img src="{{ base.url }}/img/video.png" alt="Video available"/>
 			</a> 
 		{% endif %} 
