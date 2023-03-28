@@ -60,67 +60,6 @@ is used to support small, short jobs with fast turnaround time.
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
-
-
-{% assign current_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
-{% assign date_now = "now" | date: "%s" %}
-{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
-{% assign count = 0 %}
-{% for alert in current_alerts reversed %}
-    {% assign sd = alert.start_date | date: "%s" %}
-    {% if sd <= date_now %}
-        {% if count == 0 %}
-<div class="table-responsive">
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>Status</th>
-        <th>Type</th>
-        <th>Start</th>
-        <th>End</th>
-        <th>Scope</th>
-        <th>User Impact</th>
-        <th>Reason</th>
-      </tr>
-    </thead>
-    <tbody>
-        {% endif %}
-      <tr>
-      <td>
-        {{ alert.status }}
-      </td>
-      <td>
-        {{ alert.type }}
-      </td>
-      <td>
-        {{ alert.start_date | date: "%Y-%m-%d %H:%M"  }}
-      </td>
-      <td>
-        {{ alert.end_date | date: "%Y-%m-%d %H:%M"  }}
-      </td>
-      <td>
-        {{ alert.scope }}
-      </td>
-      <td>
-        {{ alert.impact }}
-      </td>
-      <td>
-        {{ alert.reason }}
-      </td>
-      </tr>
-        {% assign count = count | plus: 1 %}
-    {% endif %}
-{% endfor %}
-{% if count > 0 %}
-    </tbody>
-  </table>
-</div>
-{% else %}
-<p>No current service alerts</p>
-{% endif %}
-
-
-
 {% assign future_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
 {% assign date_now = "now" | date: "%s" %}
 {% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
@@ -130,7 +69,6 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
     {% if sd > date_now %}
         {% if count == 0 %}
 
-#### Planned Sessions
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
