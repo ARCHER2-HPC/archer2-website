@@ -60,14 +60,9 @@ is used to support small, short jobs with fast turnaround time.
 
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
-{% assign future_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
-{% assign date_now = "now" | date: "%s" %}
-{% assign date_thresh = date_now | minus: 2592000 | date: "%s" %}
-{% assign count = 0 %}
-{% for alert in future_alerts reversed %}
-    {% assign sd = alert.start_date | date: "%s" %}
-    {% if sd > date_now %}
-        {% if count == 0 %}
+{% assign current_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
+{% for alert in current_alerts reversed %}
+    {% if forloop.first == true %}
 
 <div class="table-responsive">
   <table class="table table-striped">
@@ -83,10 +78,10 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
       </tr>
     </thead>
     <tbody>
-        {% endif %}
+    {% endif %}
       <tr>
       <td>
-        Planned
+        {{ alert.status }}
       </td>
       <td>
         {{ alert.type }}
@@ -107,16 +102,14 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
         {{ alert.reason }}
       </td>
       </tr>
-        {% assign count = count | plus: 1 %}
-    {% endif %}
-{% endfor %}
-{% if count > 0 %}
+{% if forloop.last == true %}
     </tbody>
   </table>
-</div>
+
+    {% endif %}
 {% else %}
-<p></p>
-{% endif %}
+<p>No current service alerts</p>
+{% endfor %}
 
 ### Previous Service Alerts
 
