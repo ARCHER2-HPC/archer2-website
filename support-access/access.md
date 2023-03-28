@@ -17,7 +17,6 @@ This page has a number of sections:
 - [UKRI calls, fellowships and responsive mode](#ukri-calls)
 - [Access via non-UKRI calls, fellowships and other routes](#other-calls)
 - [Access via the EPSRC High End Computing Consortia](#consortia)
-- [Access via PRACE](#prace)
 
 <!-- TODO: add section "Which access route should I choose" -->
 
@@ -160,6 +159,8 @@ discuss your requirements and plans. Please note that these discussions may take
 
 <!-- TODO: add industry access details -->
 
+
+<!--
 <a id="prace"></a>
 ## Access via PRACE
 
@@ -186,3 +187,4 @@ It is important to have a detailed plan of when/how the simulations will be setu
 
 PRACE calls are advertised on the [PRACE website](https://prace-ri.eu/).   
 
+-->
