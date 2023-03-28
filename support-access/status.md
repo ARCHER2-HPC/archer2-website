@@ -61,9 +61,9 @@ is used to support small, short jobs with fast turnaround time.
 The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
 
 {% assign current_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
+{% assign count = 0 %}
 {% for alert in current_alerts reversed %}
-    {% if forloop.first == true %}
-
+        {% if count == 0 %}
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
@@ -78,7 +78,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
       </tr>
     </thead>
     <tbody>
-    {% endif %}
+        {% endif %}
       <tr>
       <td>
         {{ alert.status }}
@@ -102,14 +102,18 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
         {{ alert.reason }}
       </td>
       </tr>
-{% if forloop.last == true %}
+        {% assign count = count | plus: 1 %}
+{% endfor %}
+
+{% if count > 0 %}
     </tbody>
   </table>
-
-    {% endif %}
+</div>
 {% else %}
 <p>No current service alerts</p>
-{% endfor %}
+{% endif %}
+
+
 
 ### Previous Service Alerts
 
