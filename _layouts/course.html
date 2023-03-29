@@ -62,6 +62,8 @@ layout: default
                 This course is currently full. Please complete the registration form to join the waiting list.
                 </a> 
             </div>	
+		{% elsif page.registration_message  %}                         
+            {{ page.registration_message }}         
     {% else %}
             <p>Registration is not currently available for this course.</p>
     {% endif %}
