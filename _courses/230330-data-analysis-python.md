@@ -7,7 +7,8 @@ start_date: 2023-03-30 09:30:00
 end_date: 2023-03-31 17:00:00
 trainers: Juan Herrera and William Lucas
 course_type: course
-registration_status: full
+registration_status: closed
+registration_message: Registration is closed as this course is full with a long waiting list.
 registration_url: https://www.archer2.ac.uk/training/register/?course=230330-data-analysis-python
 location: Online
 location_url:
@@ -130,6 +131,10 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  -->		
 
  
+
+
 </section>
+
+
 
 
