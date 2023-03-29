@@ -1,6 +1,6 @@
 ---
-status: Ongoing
-type: Resolved
+status: Resolved 
+type: Service Alert
 start_date: 2023-03-28 09:45
 end_date: 2023-03-28 19:25
 scope: Login nodes. Compute nodes
