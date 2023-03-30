@@ -195,13 +195,14 @@ Attendance by non-academics at online courses is free, but we would normally req
 If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
 
 
-## ARCHER2 year three planned courses
 
-Provisional schedule of planned courses.  Brief details of the courses can be found on the [Course Descriptions page](courses/).
 
- |   February 2023 - April 2023  |
- |  --- |
- |  Data Analysis and Visualisation in Python <br> ARCHER2 for Data Scientists  <br> HPC Carpentry <br> Data Carpentry  <br> Modern C++ for Computational Scientists     <br>  |
+## ARCHER2 year four planned courses
+
+| May 2023 - July 2023 |  August 2023  - October 2023  |  November 2023  - January 2024 |  February 2024 - April 2024 |
+| --- | --- | --- | --- |
+| Data Carpentry   <br>  Software Carpentry (HPC Summer School)  <br>  HPC Carpentry (HPC Summer School)  <br>  Plotting and Programming in Python  <br>  Reproducible compomputational environments using containers  <br>  Shared Memory Programming with OpenMP  <br>  Advanced MPI  <br>  Parallel Performance Analysis using Scalasca  <br>   | ARCHER2 for Data Scientists  <br>  ARCHER2 for Developers  <br>  ARCHER2 for Package Users  <br>  Data Analysis and Visualisation in Python  <br>  Introduction to CP2K  <br>  Introduction to VASP  <br>  Data Science for Decision Makers  <br>  Understanding Package Performance  <br>  Efficient Parallel IO  <br>  Performance Optimisation on AMD EPYC  <br>  | Data Carpentry  <br>  HPC Carpentry  <br>  Introduction to GROMACS  <br>  Introduction to Xcompact3D   <br>  Introduction to Modern Fortran  <br>  Advanced OpenMP  <br>  Debugging and Profiling on ARCHER2   <br>  Reproducible comp. env. using containers  <br>  Advanced use of LAMMPS  <br>  Modern C++ for Computational Scientists	  <br>  | Software Carpentry  <br>  Intermediate Modern Fortran   <br>  Modern C++ for Computational Scientists  <br>  Message Passing Programming with MPI  <br>  Efficient use of the HPE Cray EX System  <br> | 	 	
+	
 
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
