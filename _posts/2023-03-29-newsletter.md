@@ -9,9 +9,9 @@ categories: [news]
 
 
 - [RDFaaS maintenance]({{ page.url }}#rdfaas-maintenance-3rd---5th-april-2023)  3rd - 5th April 2023
-- [Major software Upgrade]({{ page.url }}#major-software-upgrade)
+- [Major software upgrade: start delayed]({{ page.url }}#major-software-upgrade)
 - [The Science Behind the Image Competition 2]({{ page.url }}#the-science-behind-the-image-competition)  - Wednesday 5th April 2023 14:00 - 15:00
-- [Recently added Known Issues]({{ page.url }}#recently-added-known-issues)
+- [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
 <!--more-->
@@ -32,7 +32,7 @@ It should be fully restored by 18:00 on Wednesday 5th April though we hope most 
 Further information will be available on the[ Status page]( https://www.archer2.ac.uk/support-access/status.html)
 
 
-## Major software Upgrade
+## Major software upgrade: start delayed
 
 
 The ARCHER2 team are making good progress completing final technical work and preparation ahead of the upcoming major software upgrade on the service. HPE have recently told us that they are planning an additional system software release within the next couple of weeks and that they advise that the ARCHER2 system should be upgraded to this more recent version rather than the version that was originally planned. This further update will require some additional testing and so we expect the start of the upgrade on the main system to be delayed by a few weeks, with the exact timescale depending on the release and install schedule for the new versions of the system software. We will let users know the confirmed date for the start of the main system upgrade as soon as the new versions of software have been released and installed on the ARCHER2 test and development system.
@@ -59,7 +59,7 @@ In these webinars we invite entrants from the 2022 ARCHER2 Image and Video Compe
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
      
-## Recently added Known Issues
+## Recently added known issues
  
 The "[Known Issues](https://docs.archer2.ac.uk/known-issues/)" page of the ARCHER2 Documentation
 <https://docs.archer2.ac.uk/known-issues/>
