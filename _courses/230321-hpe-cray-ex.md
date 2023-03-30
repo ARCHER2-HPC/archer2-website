@@ -131,7 +131,7 @@ Please ensure you enter your **ARCHER2 Username and Project code** in the "Reaso
 
 
 
-<!--
+
  
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -151,7 +151,7 @@ Please ensure you enter your **ARCHER2 Username and Project code** in the "Reaso
       </div>
     </div>
 		
--->
+
  
 </section>
 
