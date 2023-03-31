@@ -72,17 +72,18 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 	<tr>
 		<td><a href="#pioneer-projects">Pioneer Projects</a></td>
-		<td>No call currently open.</td>
-		<td></td>
-		<td>EPSRC remit only. <br/> Large amounts of ARCHER2 computing resource for a maximum duration of two years.</td>
+		<td>26 May 2023 at 4:00pm UK time</td>
+		<td>12 May 2023 at 4:00pm UK time</td>
+		<td>EPSRC remit only. <br/> Large amounts of ARCHER2 computing resource for a maximum duration of two years.<br>
+        <a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Call details</a></td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
-		<td>No call currently open.</td>
-		<td></td>
+		<td>26 May 2023 at 4:00pm UK time</td>
+		<td>12 May 2023 at 4:00pm UK time</td>
 		<td>EPSRC remit only. <br/> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. <br>
-		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/"></a>
+		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Call details</a>
 		 </td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
