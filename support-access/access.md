@@ -70,20 +70,22 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td>EPSRC remit only. Small amounts of time for testing and porting. Quick decision on access. Maximum of 4000 CU for 6 months.</td>
 		<td><a href="./ta/ARCHER2-PumpPriming-form.docx">Pump Priming TA Form</a></td>
 	</tr>
-	<tr>
-		<td><a href="#pioneer-projects">Pioneer Projects</a></td>
-		<td>26 May 2023 at 4:00pm UK time</td>
-		<td>12 May 2023 at 4:00pm UK time</td>
-		<td>EPSRC remit only. <br/> Large amounts of ARCHER2 computing resource for a maximum duration of two years.<br>
-        <a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Call details</a></td>
-		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
-	</tr>
+
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
 		<td>26 May 2023 at 4:00pm UK time</td>
 		<td>12 May 2023 at 4:00pm UK time</td>
-		<td>EPSRC remit only. <br/> ARCHER2 or Tier-2 computing resource for a maximum duration of one year and a minimum of 4000 CU. Calls are expected to open every six months. <br>
-		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Call details</a>
+		<td>EPSRC remit only. <br/>
+		<b>Feasibility stream</b><br/>
+		&nbsp; - Maximum request of £1,000 notional value <br/>(for example, 5,000 CU, 33,000 CPUh or 1,000 GPUh)<br/>
+		&nbsp; - Projects can be up to six months in length<br/>
+		<b>Main stream</b><br/>
+		&nbsp; - Projects can be up to 12 months in length.<br/>
+		<b>Pioneer stream</b> (ARCHER2 only)<br/>
+		&nbsp; - Projects can be up to 2 years in length.<br/>
+		&nbsp; - Minimum request of 165,000 CU per year.<br/>
+		Calls are expected to open every six months. <br>
+		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Full Call details on UKRI website</a>
 		 </td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
