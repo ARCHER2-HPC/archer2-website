@@ -10,7 +10,7 @@ categories: [news]
 
 - [Service desk over Easter]({{ page.url }}#service-desk-over-easter)
 - [Access to HPC Call open]({{ page.url }}#access-to-hpc-call-open)
-- [Delayed - Major software upgrade]({{ page.url }}#major-software-upgrade)
+- [Delayed - Major software upgrade]({{ page.url }}#delayed-major-software-upgrade)
 - [The Science Behind the Image Competition 2]({{ page.url }}#the-science-behind-the-image-competition)  - Wednesday 5th April 2023 14:00 - 15:00
 - [Spring HPC Days]({{ page.url }}#spring-hpc-days)
 - [CompBioMed Conference, CBMC23]({{ page.url }}#compbiomed-conference-cbmc23)
