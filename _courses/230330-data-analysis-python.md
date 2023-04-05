@@ -15,7 +15,7 @@ location_url:
 prace_course: 
 audience: [  data-scientist ]
 level: [ introductory   ]
-video: 
+video: true
 ---
 
 Python is a general purpose programming language that is useful for writing scripts to work effectively and reproducibly with data.
