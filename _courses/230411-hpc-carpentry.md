@@ -7,7 +7,7 @@ start_date: 2023-04-11 09:30:00
 end_date: 2023-04-12 16:00:00
 trainers: Tony Hallam EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230411-hpc-carpentry
 location: The Glassroom, Edinburgh Napier University (Merchiston campus)
 location_url: https://www.archer2.ac.uk/training/locations/napier-merchiston
