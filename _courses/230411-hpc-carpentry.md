@@ -120,7 +120,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -138,7 +138,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>
