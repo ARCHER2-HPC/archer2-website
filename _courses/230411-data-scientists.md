@@ -7,7 +7,7 @@ start_date: 2023-04-11 10:00:00
 end_date: 2023-04-11 17:30:00
 trainers: Adrian Jackson EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230411-data-scientists
 location: Online
 location_url:
