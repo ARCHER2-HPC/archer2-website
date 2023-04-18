@@ -7,14 +7,14 @@ start_date: 2023-04-17 09:30:00
 end_date: 2023-04-20 12:30:00
 trainers: James Richings EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230417-modern-c
 location: Online
 location_url:
 prace_course: 
 audience: [  developer ]
 level: [  intermediate  ]
-video: false
+video: true
 ---
 
 
@@ -92,14 +92,14 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/WRkWwu1et7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--
+
 
 <h3>Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/0ijJ4WgSfZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<!--
 <h3>Session 3</h3>
 
 <div>
