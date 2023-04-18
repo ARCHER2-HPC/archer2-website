@@ -12,6 +12,8 @@ banner: web_banners_06.jpg
 - [5th ARCHER2 eCSE call (eCSE05)](#5th-archer2-ecse-call-ecse05)
 - [6th ARCHER2 eCSE call (eCSE06)](#6th-archer2-ecse-call-ecse06)
 - [7th ARCHER2 eCSE call (eCSE07)](#7th-archer2-ecse-call-ecse07)
+- [8th ARCHER2 eCSE call (eCSE08)](#8th-archer2-ecse-call-ecse08)
+- [9th ARCHER2 eCSE call (eCSE09)](#9th-archer2-ecse-call-ecse08)
 
 ## 1st ARCHER2 eCSE call (eCSE01)
 
@@ -184,7 +186,7 @@ Panel meeting 8 April 2021 (virtual meeting)
 
 - *ARCHER2-eCSE03-12 PI: Dr Grenville GMS Lister (NCAS-CMS, University of Reading) MONC performance portability* (8 months) [[NCAS](https://www.ncas.ac.uk/en/)]
 
-- *ARCHER2-eCSE03-14 PI: Dr Rupert Nash (The University of Edinburgh) Enhanced Realism and Scalability for Erythrocyte modelling with HemeLB (ERaSEM-HemeLB)* (12 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
+- *ARCHER2-eCSE03-14 PI: Dr Rupert Nash (EPCC, The University of Edinburgh) Enhanced Realism and Scalability for Erythrocyte modelling with HemeLB (ERaSEM-HemeLB)* (12 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
 
 - *ARCHER2-eCSE03-15 PI: Dr Phil Hasnip (University of York) Future-proof parallelism in CASTEP* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
 
@@ -323,9 +325,13 @@ Panel meeting 6 April 2022 (virtual meeting)
 ### Projects funded from the 6th eCSE call
 
 - *ARCHER2-eCSE06-1 PI: Dr Mirco Magnini (University of Nottingham) "Hybrid Atomistic-Continuum Simulations of Boiling Across Scales"* (12 months)
+
 - *ARCHER2-eCSE06-2 PI: Dr. Michele Sergio Campobasso (Lancaster University) "Streamlined parallel I/O and fluid/structure interaction functionalities in Navier-Stokes ARCTIC and COSA codes for renewable energy and propulsion applications"* (7 months)
+
 - *ARCHER2-eCSE06-3 PI: Prof Prashant Valluri (University of Edinburgh) "Enhancing TPLS: Incorporating Boiling and Technical Improvements"* (6 months)
+
 - *ARCHER2-eCSE06-4 PI: Dr Sylvain Laizet (Imperial College) "3decomp: Towards Adaptive Mesh Refinement in the high-order CFD code Xcompact3d"* (12 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
 - *ARCHER2-eCSE06-6 PI: Dr Richard F L Evans (University of York) "Implementing spin-lattice dynamics within the VAMPIRE software package"* (12 months)
 
 ## 7th ARCHER2 eCSE call (eCSE07)
@@ -368,10 +374,117 @@ Panel meeting 12 July 2022 (virtual meeting)
 ### Projects funded from the 7th eCSE call
 
 - *ARCHER2-eCSE07-1 PI: Dr Timo Betcke (University College London) Towards exascale sparse linear algebra in Rust* (3 months) 
+
 - *ARCHER2-eCSE07-2 PI: Dr Laura Ratcliff (University of Bristol) Improving the Performance of Linear-Scaling BigDFT for ARCHER2 and Beyond* (9 months) [[UKCP](http://www.ukcp.ac.uk/)]
+
 - *ARCHER2-eCSE07-3 PI: Dr Alex Skillen (University of Manchester) Extending the capabilities of the DNS code Xcompact3D by incorporating Magnetohydrodynamics (MHD), for large scale turbulent flows on ARCHER2* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
 - *ARCHER2-eCSE07-6 PI: Dr Elisabetta Boella (Lancaster University) Improving parallel performances of the semi-implicit Particle-In-Cell code ECsim* (7 months) [[Plasma HEC Consortium](https://plasma-ccp-hec.uk/)]
+
 - *ARCHER2-eCSE07-7 PI: Prof Ling Qian (Manchester Metropolitan University) Optimising the OpenFOAM overset mesh solver for complex wave structure interaction simulations* (12 months) 
+
 - *ARCHER2-eCSE07-8 PI: Dr Fang Jian (STFC) Implementation of a DNS capability for hypersonic turbulent flows in the high-altitude atmosphere* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
 - *ARCHER2-eCSE07-9 PI: Dr Dermot Green (Queen's University Belfast) Many-body theory of antimatter interactions with molecules* (12 months)
 
+## 8th ARCHER2 eCSE call (eCSE08)
+
+Panel meeting 14 December 2022 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- Alison Kennedy (Hartree/STFC)
+- Nicholas Hine (University of Warwick)
+- Charles Laughton (University of Nottingham)
+- Helen Chappell (University of Leeds)
+- James Grant (AWS)
+
+### eCSE Team
+
+- Chris Johnson (EPCC)
+- Xu Guo (EPCC)
+- Catherine Inglis (EPCC)
+- Lorna Smith (EPCC)
+
+### ARCHER2 Service Representatives
+
+- Michael Bareford (EPCC)
+- David Henty (EPCC)
+- Harvey Richardson (Cray HPE)
+
+### UKRI
+
+- Richard Bailey (EPSRC)
+
+### Early Career Observers
+
+- Anna Crawford (University of Edinburgh)
+- Thomas Hicken (Royal Holloway)
+- Saleh Pouresmaeeli (University of Sheffield)
+
+### Projects funded from the 8th eCSE call
+
+- *ARCHER2-eCSE08-1 PI: Dr Steven E Williams (University of Edinburgh) Large dataset manipulation using OpenEP* (18 months) 
+
+- *ARCHER2-eCSE08-3 PI: Dr Andrew Logsdail (Cardiff University) Improvements in periodic representation of solvated systems with FHI-aims* (10 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+
+- *ARCHER2-eCSE08-5 PI: Dr Craig Warren (Northumbria University) Large-scale open-source computational electrodynamics: MPI domain decomposition for gprMax* (12 months) 
+
+- *ARCHER2-eCSE08-6 PI: Dr Wei Wang (Daresbury Laboratory) Implementing a multiphase flow modelling capability targeting boiling in the high-fidelity software CHAPSim2* (10 months) 
+
+- *ARCHER2-eCSE08-10 PI: Prof David R Bowler (University College London) Improving multi-threaded scaling of CONQUEST* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+
+- *ARCHER2-eCSE08-11 PI: Dr James Gebbie-Rayet (Daresbury - STFC) Coupling Across the Continuum-Particle Divide with Code_Saturne and GROMACS* (6 months) [[HECBioSim](https://www.hecbiosim.ac.uk/)]
+
+- *ARCHER2-eCSE08-12 PI: Dr Liang Yang (Cranfield University) MPI implementation of open-source fully-differentiable multiphase lattice Boltzmann code* (12 months) 
+
+## 9th ARCHER2 eCSE call (eCSE09)
+
+Panel meeting 13 April 2023 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- Chris-Kriton Skylaris (University of Southampton)
+- Jonathan Flynn (University of Southampton)
+- Catherine O'Sullivan (Imperial College London)
+- Andreas Hermann (University of Edinburgh)
+
+
+### eCSE Team
+
+- Chris Johnson (EPCC)
+- Xu Guo (EPCC)
+- Catherine Inglis (EPCC)
+- Lorna Smith (EPCC)
+
+### ARCHER2 Service Representatives
+
+- Kevin Stratford (EPCC)
+- William Lucas (EPCC)
+- Harvey Richardson (Cray HPE)
+
+### UKRI
+
+- Richard Bailey (EPSRC)
+
+### Early Career Observers
+
+- Nathan Steinle (University of Birmingham)
+- Todd Jones (University of Reading)
+- Zhong-Nan Wang (University of Birmingham)
+
+### Projects funded from the 9th eCSE call
+
+- *ARCHER2-eCSE09-3 PI: Prof Jonathan R Yates (University of Oxford) Computing infra-red spectra using finite differencing in CASTEP* (6 months) [[UKCP](http://www.ukcp.ac.uk/)]
+
+- *ARCHER2-eCSE09-4 PI: Dr Sergiu I Ruta (Sheffield Hallam University) Spin-wave implementation within the VAMPIRE software package* (12 months)
+
+- *ARCHER2-eCSE09-5 PI: Dr Paul Bartholomew (EPCC, The University of Edinburgh) Optimising the ASiMoV-CCS flow solver for memory constrained large-scale simulations* (18 months)
+
+- *ARCHER2-eCSE09-9 PI: Prof Alistair Revell (University of Manchester) A universal fluid-fluid coupling library for turbulent flows at exascale* (9 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
+- *ARCHER2-eCSE09-10 PI: Dr Jianping Meng (STFC) Developing a multiscale continuum framework for exascale computing of fluids with microstructure* (10 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
+- *ARCHER2-eCSE09-12 PI: Dr Ian J Bush (STFC) Optimising Memory Use in CRYSTAL23 and The Implementation of Kubo-Greenwood Theory* (12 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)] 
