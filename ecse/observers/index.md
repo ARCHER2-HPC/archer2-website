@@ -19,7 +19,7 @@ To apply to attend an eCSE Panel Meeting as an observer you should send a comple
 
 Applications will be evaluated based on the quality of the case made by the applicant, and the extent to which the reviewers agree that the applicant is an early career researcher.
 
-Successful candidates will be chosen to attend this meeting (expected to be between mid-November and early December) or a later meeting, depending on space and availability.
+Successful candidates will be chosen to attend this meeting (expected to be between early July and early August) or a later meeting, depending on space and availability.
 
 Panel meetings usually last around half a day (e.g. 9:15 - 13:00) or slightly longer depending on the number of proposals. Observers must be able to commit attending a full meeting.
 
