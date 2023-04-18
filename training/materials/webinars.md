@@ -11,6 +11,8 @@ level: [Introductory, Intermediate, Advanced]
 This page provides links to the past webinars and virtual tutorials from ARCHER2. Each page also provides links to the 
 materials, potentially including: slides, video recordings, futher information.
 
+We always welcome researchers wishing to present their work in a webinar - please contact the [Service Desk](https://www.archer2.ac.uk/support-access/servicedesk.html) if you would be interested in presenting your work.
+
 <!--
 
 <div>
