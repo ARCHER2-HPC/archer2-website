@@ -40,12 +40,36 @@ The RSE may be based at the institution of the PI, at a third party institution,
 
 ## Upcoming eCSE Calls
 
-[A timetable of recent, current and upcoming calls](calls/timetable.html).
-
+<div class="table-responsive">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>eCSE call</th>
+        <th>Opening date</th>
+        <th>Technical evaluation deadline</th>
+        <th>Final proposal deadline</th>
+      </tr>
+    </thead>
+   <tbody>
+   <tr><td>1st: ARCHER2 eCSE01</td><td>19 May 2020</td><td>16:00 on 16 Jun 2020</td><td>16:00 on 7 Jul 2020</td></tr>
+   <tr><td>2nd: ARCHER2 eCSE02</td><td>8 Sep 2020</td><td>16:00 on 6 Oct 2020</td><td>16:00 on 27 Oct 2020</td></tr>
+   <tr><td>3rd: ARCHER2 eCSE03</td><td>8 Dec 2020</td><td>16:00 on 23 Feb 2021</td><td>16:00 on 16 Mar 2021</td></tr>
+   <tr><td>4th: ARCHER2 eCSE04</td><td>20 Apr 2021</td><td>16:00 on 18 May 2021</td><td>16:00 on 8 Jun 2021</td></tr>
+   <tr><td>5th: ARCHER2 eCSE05</td><td>7 Sep 2021</td><td>16:00 on 5 Oct 2021</td><td>16:00 on 26 Oct 2021</td></tr>
+   <tr><td>6th: ARCHER2 eCSE06</td><td>7 Dec 2021</td><td>16:00 on 22 Feb 2022</td><td>16:00 on 15 Mar 2022</td></tr>
+   <tr><td>7th: ARCHER2 eCSE07</td><td>19 Apr 2022</td><td>16:00 on 24 May 2022</td><td>16:00 on 14 Jun 2022</td></tr>
+   <tr><td>8th: ARCHER2 eCSE08</td><td>6 Sep 2022</td><td>16:00 on 4 Oct 2022</td><td>16:00 on 25 Oct 2022</td></tr>
+   <tr><td>9th: ARCHER2 eCSE09</td><td>6 Dec 2022</td><td>16:00 on 21 Feb 2023</td><td>16:00 on 14 Mar 2023</td></tr>
+   <tr><td>10th: ARCHER2 eCSE10</td><td>18 Apr 2023</td><td>16:00 on 23 May 2023</td><td>16:00 on 13 Jun 2023</td></tr>
+   <tr><td>11th: ARCHER2 eCSE11</td><td>5 Sep 2023</td><td>16:00 on 3 Oct 2023</td><td>16:00 on 24 Oct 2023</td></tr>
+   <tr><td>12th: ARCHER2 eCSE12</td><td>5 Dec 2023</td><td>16:00 on 20 Feb 2024</td><td>16:00 on 12 Mar 2024</td></tr>
+   </tbody>
+  </table>
+</div>
 
 ## Current Call Information
 
-The 9th ARCHER2 eCSE call (ARCHER2 eCSE09) opened on the **6 December 2022**. The deadline for submitting documents for technical evaluations is **16:00 on 21 February 2023**, with the final deadline for proposal submission being **16:00 on 14 March 2023**.
+The 10th ARCHER2 eCSE call (ARCHER2 eCSE10) opened on the **18 Apr 2023**. The deadline for submitting documents for technical evaluations is **16:00 on 23 May 2023**, with the final deadline for proposal submission being **16:00 on 13 Jun 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is 16:00 on **23 May 2023**. 
 
 Further details on the [eCSE Calls page](calls/).
 
