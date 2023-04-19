@@ -8,13 +8,13 @@ categories: [news]
 ---
 
 
-- [Access to HPC Call open]({{ page.url }}#access-to-hpc-call-open)
-- [Delayed - Major software upgrade]({{ page.url }}#delayed-major-software-upgrade)
-- [GPU programming with CUDA and HIP training course]({{ page.url }}#gpu-programming-with-cuda-and-hip-training-course)
+- [Delayed - Major software upgrade]({{ page.url }}#delayed-major-software-upgrade) - expected start date now 19th May
 - [The 10th ARCHER2 eCSE software development call and Early Career eCSE Panel Observers call]({{ page.url }}#the-10th-archer2-ecse-software-development-call-and-early-career-ecse-panel-observers-call)
 	- [The 10th ARCHER2 eCSE call]({{ page.url }}#the-10th-archer2-ecse-call)
 	- [ARCHER2 Early Career eCSE Panel Observers call]({{ page.url }}#archer2-early-career-ecse-panel-observers-call)
 	- [eCSE and observers call dates]({{ page.url }}#ecse-and-observers-call-dates)
+- [Access to HPC Call open]({{ page.url }}#access-to-hpc-call-open)
+- [GPU programming with CUDA and HIP training course]({{ page.url }}#gpu-programming-with-cuda-and-hip-training-course)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
@@ -22,33 +22,12 @@ categories: [news]
  
 
 
-## Access to HPC Call open
-
-Access to HPC Call (EPSRC remit only) opened 27th March 2023
-ARCHER2 or Tier-2 computing resource 
-
-- <b>Feasibility stream</b>
-    + Maximum request of £1,000 notional value (for example, 5,000 CU, 33,000 CPUh or 1,000 GPUh).
-    + Projects can be up to six months in length.
-- <b>Main stream</b>
-    + Projects can be up to 12 months in length.
-- <b>Pioneer stream</b> (ARCHER2 only)
-    + Projects can be up to 2 years in length.
-    + Minimum request of 165,000 CU per year.
-	
-<b>TA Deadline</b> - 12 May 2023 at 4:00pm UK time<br/>
-<b>Submit Deadline</b> - 26 May 2023 at 4:00pm UK time
-
-[More details and application forms]( https://www.archer2.ac.uk/support-access/access#calls-for-archer2-time-only)
-
-
 
 
 ## Delayed Major software upgrade
 
-
-Previously scheduled: Fri 14th April - w/b Mon 8th May <br/>
-New Upgrade Date: <b>Expected to start 19th May 2023</b>
+New Upgrade Date: <b>Expected to start 19th May 2023</b><br/>
+Previously scheduled: Fri 14th April - w/b Mon 8th May
 
 The delay to the upgrade is due to HPE planning an additional system software release within the next couple of weeks and they recommend that we upgrade to this latest version rather than the one originally planned.
 
@@ -100,6 +79,28 @@ The deadline for applying to attend the panel meeting as an observer is 16:00 on
 - Deadline for Early Career eCSE Panel Observers call: 23 May 2023
 
 A [recent webinar](https://www.archer2.ac.uk/training/courses/220428-ecse-webinar/) which includes a walk through of the submission of an eCSE proposal.
+
+
+
+## Access to HPC Call open
+
+Access to HPC Call (EPSRC remit only) opened 27th March 2023
+ARCHER2 or Tier-2 computing resource 
+
+- <b>Feasibility stream</b>
+    + Maximum request of £1,000 notional value (for example, 5,000 CU, 33,000 CPUh or 1,000 GPUh).
+    + Projects can be up to six months in length.
+- <b>Main stream</b>
+    + Projects can be up to 12 months in length.
+- <b>Pioneer stream</b> (ARCHER2 only)
+    + Projects can be up to 2 years in length.
+    + Minimum request of 165,000 CU per year.
+	
+<b>TA Deadline</b> - 12 May 2023 at 4:00pm UK time<br/>
+<b>Submit Deadline</b> - 26 May 2023 at 4:00pm UK time
+
+[More details and application forms]( https://www.archer2.ac.uk/support-access/access#calls-for-archer2-time-only)
+
 
 
 
