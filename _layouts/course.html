@@ -41,34 +41,41 @@ layout: default
     </div>
 </section>
 
-{% if page.registration_url %}
-<section id="service">
-    <div class="container">
-		
-		<h2>Registration</h2>
-		
-        <div class="row ">	
-    {% if page.registration_status == "open" %}
-            <div class="col-xs-6 col-sm-4">
-                <a class="ar2_linkbox ar2_linkbox-teal" href="{{ page.registration_url }}">
-                <strong>Register</strong><br/>
-                Please complete the registration form to reserve your place.
-                </a>
-            </div>	
-    {% elsif page.registration_status == "full" %}
-            <div class="col-xs-6 col-sm-4">
-                <a class="ar2_linkbox ar2_linkbox-teal" href="{{ page.registration_url }}">
-                <strong>Join Waiting List</strong><br/>
-                This course is currently full. Please complete the registration form to join the waiting list.
-                </a> 
-            </div>	
-		{% elsif page.registration_message  %}                         
-            {{ page.registration_message }}         
-    {% else %}
-            <p>Registration is not currently available for this course.</p>
-    {% endif %}
-					
+
+{% assign date_now = "now" | date: "%s" %}
+{% assign ed = page.end_date | date: "%s" %}
+
+{% if ed > date_now  %}      <!-- Don't show registration info if end date already past -->
+
+    {% if page.registration_url %}
+    <section id="service">
+        <div class="container">
+    		
+    		<h2>Registration</h2>
+    		
+            <div class="row ">	
+        {% if page.registration_status == "open" %}
+                <div class="col-xs-6 col-sm-4">
+                    <a class="ar2_linkbox ar2_linkbox-teal" href="{{ page.registration_url }}">
+                    <strong>Register</strong><br/>
+                    Please complete the registration form to reserve your place.
+                    </a>
+                </div>	
+        {% elsif page.registration_status == "full" %}
+                <div class="col-xs-6 col-sm-4">
+                    <a class="ar2_linkbox ar2_linkbox-teal" href="{{ page.registration_url }}">
+                    <strong>Join Waiting List</strong><br/>
+                    This course is currently full. Please complete the registration form to join the waiting list.
+                    </a> 
+                </div>	
+    		{% elsif page.registration_message  %}                         
+                {{ page.registration_message }}         
+        {% else %}
+                <p>Registration is not currently available for this course.</p>
+        {% endif %}
+    					
+            </div>
         </div>
-    </div>
-</section>
+    </section>
+    {% endif %}
 {% endif %}
