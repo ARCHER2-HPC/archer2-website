@@ -7,7 +7,7 @@ start_date: 2023-04-24 13:00:00
 end_date: 2023-04-27 16:00:00
 trainers: James Richings EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230424-modern-c
 location: Online
 location_url:
