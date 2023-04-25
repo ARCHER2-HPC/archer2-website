@@ -227,4 +227,4 @@ On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you wi
 
 ## Support for training on ARCHER2
 
-We are able to offer support and assistance for external training on ARCHER: Find out how we can help and how to let us know what you are planning at our External courses page.
+We are able to offer support and assistance for external training on ARCHER: Find out how we can help and how to let us know what you are planning at our [External courses]({{base_url}}/training/external-training) page.
