@@ -12,7 +12,7 @@ Please see the [timetable](timetable.html) for the dates of recent, current and 
 
 ### The 10th ARCHER2 eCSE call and Early Career eCSE Panel Observers call 
 
-The 10th ARCHER2 eCSE call (ARCHER2 eCSE10) opened on the **18 Apr 2023**. The deadline for submitting documents for technical evaluations is 16:00 on **23 May 2023**, with the final deadline for proposal submission being 16:00 on **13 Jun 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is 16:00 on **23 May 2023**. 
+The 10th ARCHER2 eCSE call (ARCHER2 eCSE10) opened on the **18 Apr 2023**. The deadline for submitting documents for technical evaluations is **16:00 on 23 May 2023**, with the final deadline for proposal submission being **16:00 on 13 Jun 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is **16:00 on 23 May 2023**. 
 
 ### ARCHER2 eCSE call
 
