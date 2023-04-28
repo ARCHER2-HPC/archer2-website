@@ -86,8 +86,7 @@ Examples of eCSE work could be
   ARCHER2
 
 * Migrating, porting and optimising a code in significant use by an
-  EPSRC community to run efficiently on ARCHER2 and next
-  generation architectures.
+  EPSRC community to run efficiently on ARCHER2
 
 * Adding new functionalities to existing codes
 
