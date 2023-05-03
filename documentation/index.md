@@ -19,8 +19,3 @@ There is also a [SAFE User Guide](https://epcced.github.io/safe-docs/), with hel
 * Go to the [SAFE User Guide](https://epcced.github.io/safe-docs/)
 
 
-
-
-**Onboarding Data Migration**
-
-* We have prepared a guide to [Onboarding Data Migration](../support-access/onboarding-data-migration) for users whose work is being moved from ARCHER to ARCHER2.
