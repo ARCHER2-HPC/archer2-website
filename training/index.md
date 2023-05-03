@@ -228,4 +228,4 @@ On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you wi
 
 ## Support for training on ARCHER2
 
-We are able to offer support and assistance for external training on ARCHER: If you are interesting in finding out more, please [contact the service desk](mailto:support@archer2.ac.uk).
+We are able to offer support and assistance for external training on ARCHER: If you are interesting in finding out more, please [contact the service desk]({{ base_url }}/support-access/servicedesk.html).

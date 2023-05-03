@@ -17,7 +17,7 @@ If you wish to make use of ARCHER2 then please get in touch and we can then dire
 Please 
 
 - contact us via the [ARCHER2 Service Desk](../../support-access/servicedesk.html)
-- to discuss how we can collaborate to meet your business goals, please contact our Commercial Manager, [Thomas Blyth](mailto:t.blyth@epcc.ed.ac.uk).
+- to discuss how we can collaborate to meet your business goals, please contact our Commercial Manager, [Julien Sindt](mailto:j.sindt@epcc.ed.ac.uk).
 - or see our brochure to learn more about how our unrivalled mix of HPC facilities and expertise supports business: [EPCC Commercial brochure (PDF)](https://www.epcc.ed.ac.uk/sites/default/files/newsletters/EPCC_BROCHURE_2020_AW_LOW.pdf).
 
 
