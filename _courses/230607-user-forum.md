@@ -16,9 +16,9 @@ video:
 ecse:
 ---
 
-ARCHER2 staff including EPCC CSE team and the HPE Centre of Excellence staff will present a User Forum meeting with information about the upgrade to ARCHER2.
+EPCC and HPE Staff will present information regarding the upgrade including new features and changes to the user environment. 
 
-The session will include presentations and questions from the audience will be welcome.
+It will also give you an opportunity to ask any questions to HPE and EPCC staff.
 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
