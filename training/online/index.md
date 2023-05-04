@@ -47,7 +47,7 @@ As well as presenting on selected topics in high-performance computing relevant 
 
 Webinars usually have a presentation followed by the opportunity for attendees to ask questions on that topic.
 
-[Material from previous ARCHER2 Webinars and Virtual Tutorials is available](../materials/webinars/). This typically includes video recordings of each online session and a PDF copy of the slides.
+[Material from previous ARCHER2 Webinars and Virtual Tutorials is available](../materials/webinars). This typically includes video recordings of each online session and a PDF copy of the slides.
 
 ## YouTube Channel
 
