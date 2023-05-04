@@ -7,7 +7,7 @@ start_date: 2023-05-03 09:30:00
 end_date: 2023-05-04 16:00:00
 trainers: Kevin Stratford (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.cirrus.ac.uk/training/courses/230503-cirrus-gpu
 location: Edinburgh
 location_url: https://www.cirrus.ac.uk/training/locations/epcc
@@ -35,7 +35,29 @@ Please visit the [event page]({{ page.registration_url }}) for full details and 
 
 
 
+
+
+<h2><a name="feedback">Feedback</a></h2>
+
+
+<div class="row ">	
+
+  <div class="col-xs-6 col-sm-4">
+    <a class="ar2_linkbox ar2_linkbox-teal" 
+
+       href="https://www.cirrus.ac.uk/training/feedback/?course=230503-cirrus-gpu" 
+
+	>
+      <strong>Feedback</strong><br/>
+      Please let us know what was great about this course and anything we can improve
+    </a>
+  </div>
+</div>
 		
+		
+
+ 
+	
 					
 
 
