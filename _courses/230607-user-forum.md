@@ -2,7 +2,7 @@
 layout: course
 title: ARCHER2 User Forum
 banner: web_banners_05.jpg
-human_dates: Wednesday 7th June 2023  14:00 - 15:00 
+human_dates: Wednesday 7th June 2023  14:00 - 15:00 BST
 start_date: 2023-06-07 14:00:00
 end_date: 2023-06-07 15:00:00
 trainers: ARCHER2 staff including EPCC CSE team and the HPE Centre of Excellence staff 
