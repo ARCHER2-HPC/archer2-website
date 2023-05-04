@@ -35,7 +35,29 @@ Please visit the [event page]({{ page.registration_url }}) for full details and 
 
 
 
+
+
+<h2><a name="feedback">Feedback</a></h2>
+
+
+<div class="row ">	
+
+  <div class="col-xs-6 col-sm-4">
+    <a class="ar2_linkbox ar2_linkbox-teal" 
+
+       href="https://www.cirrus.ac.uk/training/feedback/?course=230503-cirrus-gpu" 
+
+	>
+      <strong>Feedback</strong><br/>
+      Please let us know what was great about this course and anything we can improve
+    </a>
+  </div>
+</div>
 		
+		
+
+ 
+	
 					
 
 
