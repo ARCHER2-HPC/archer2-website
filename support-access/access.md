@@ -87,7 +87,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		Calls are expected to open every six months. <br>
 		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Full Call details on UKRI website</a>
 		 </td>
-		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
+		<td><a href="https://www.ukri.org/publications/access-to-high-performance-computing-application-documents/">TA Form</a></td>
 	</tr>
 	<tr>
 		<td><a href="#topup">Top up</a></td>
