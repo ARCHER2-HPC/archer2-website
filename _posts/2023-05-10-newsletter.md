@@ -7,8 +7,8 @@ tags: [newsletters]
 categories: [news]
 ---
 
-- [Delayed - Major software upgrade]({{ page.url }}#delayed-major-software-upgrade) - expected start date now 19th May
-- [ARCHER2 User Forum](#archer2-user-forum) - Wednesday 7th June 2023 14:00 - 15:00 BST
+- [Major software upgrade]({{ page.url }}#major-software-upgrade) - Fri 19th May - w/b 12th June
+   - [ARCHER2 User Forum](#online-user-forum-wednesday-7th-june-1400-bst) - Wednesday 7th June 2023 14:00 - 15:00 BST
 - [The 10th ARCHER2 eCSE software development call and Early Career eCSE Panel Observers call]({{ page.url }}#the-10th-archer2-ecse-software-development-call-and-early-career-ecse-panel-observers-call)
 	- [The 10th ARCHER2 eCSE call]({{ page.url }}#the-10th-archer2-ecse-call)
 	- [ARCHER2 Early Career eCSE Panel Observers call]({{ page.url }}#archer2-early-career-ecse-panel-observers-call)
@@ -20,41 +20,30 @@ categories: [news]
 <!--more-->
  
 
-## Delayed Major software upgrade
+## Major software upgrade
 
-New Upgrade Date: <b>Expected to start 19th May 2023</b><br/>
-Previously scheduled: Fri 14th April - w/b Mon 8th May
+The major software upgrade will take place from Friday 19th May - week beginning Monday 12th June 2023.
 
-The delay to the upgrade is due to HPE planning an additional system software release within the next couple of weeks and they recommend that we upgrade to this latest version rather than the one originally planned.
+The delay to the upgrade was due to an additional system software release which is now available and will be installed on ARCHER2 rather than the originally planned software.
 
-As soon as the software is released we will be able to formulate a timetable and will notify users of the revised upgrade dates. We expect the upgrade to start 19th May.
-
-Despite, the ARCHER2 team making good progress completing final technical work and preparation ahead of the originally planned upgrade, this further update will require some additional testing and so we expect the start of the upgrade on the main system to be delayed by a few weeks, with the exact timescale depending on the release and install schedule for the new versions of the system software.
-
-This essential upgrade will ensure access to security updates; improvements to interconnect reliability and performance; improvements to upgradeability, maintainability and monitoring; and access to more recent compilers, software libraries and tools. Unfortunately, the major software upgrade will cause a long outage, but we have endeavoured to minimise the outage.
-
-During the upgrade, users will be unable to connect to ARCHER2 via the login nodes, jobs will not run on the compute nodes and users will not be able to access any data on the system which include the /home, /work, NVMe and RDFaaS (/epsrc and /general) file systems.
+This essential upgrade will ensure access to security updates; improvements to interconnect reliability and performance; improvements to upgradeability, maintainability and monitoring; and access to more recent compilers, software libraries and tools. Unfortunately, the major software upgrade will cause a long outage, but we have endeavoured to minimise the outage. During the upgrade, users will be unable to connect to ARCHER2 via the login nodes, jobs will not run on the compute nodes and users will not be able to access any data on the system which include the ```/home```, ```/work```, ```NVMe``` and RDFaaS (```/epsrc``` and ```/general```) file systems.
 
 Following the upgrade, we would advise users to recompile and test your codes as the new software will be based on a new operating system and new versions of compilers and libraries. The ARCHER2 CSE team will be recompiling and testing all centrally installed software. There will be no Python 2 installation available as part of supported software following the upgrade. Python 3 will continue to be fully supported.
 
-We will include weekly reminders of the software upgrade in the ARCHER2 weekly newsletter and a further notification will be sent to all users once the final upgrade start date is confirmed. We are also planning a user forum which will provide an opportunity to ask any questions to HPE and EPCC staff and learn about new features and changes to the user environment following the upgrade.
+### Online User Forum: Wednesday 7th June 1400 BST
 
-We have created a [webpage ](https://docs.archer2.ac.uk/faq/upgrade-2023/) with further details of the upgrade which will be updated throughout the upgrade process. As always, please [contact the service desk ](mailto:support@archer2.ac.uk) if you have any questions.
+An online User Forum will take place on Wednesday 7th June at 1400 BST.
+EPCC and HPE Staff will present information regarding the upgrade including new features and changes to the user environment. It will also give you an opportunity to ask any questions to HPE and EPCC staff.
 
-We apologise for any inconvenience which may have been caused by the delay and will provide any further updates as soon as they become available.
+Details of the [User Forum including instructions on how to connect](https://www.archer2.ac.uk/training/courses/230607-user-forum/)
+
+If you have any specific questions or topics you would like us to cover then [please send them to us](mailto:support@archer2.ac.uk).
+
+We have created a [webpage ](https://docs.archer2.ac.uk/faq/upgrade-2023/) with further details of the upgrade which will be updated throughout the upgrade process.
+
+We apologise for any inconvenience caused by this essential maintenance. 
 
 
-## ARCHER2 User Forum 
-
-Wednesday 7th June 2023 14:00 - 15:00 BST
-
-EPCC and HPE Staff will present information regarding the upgrade including new features and changes to the user environment.
-
-It will also give you an opportunity to ask any questions to HPE and EPCC staff.
-
-[Details and join link](https://www.archer2.ac.uk/training/courses/230607-user-forum/)
-
-This online session is open to all. It will use the Blackboard Collaborate platform.
 
 
 
