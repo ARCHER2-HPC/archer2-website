@@ -128,6 +128,7 @@ lists all current open known issues including a description of the issue, its sy
 - [Message-passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/), Online, always-open self-service course
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, always-open self-service course
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
+- [Scientific Computing with Rust – Why you should learn (yet) another language](https://www.archer2.ac.uk/training/courses/230524-rust-vt/), Online, Wednesday 24th May 2023 15:00 - 16:00 BST 
 
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
