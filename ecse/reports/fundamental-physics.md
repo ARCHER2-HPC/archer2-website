@@ -1,6 +1,6 @@
 ---
 layout: section
-title: eCSE Reports - Chemistry and Materials
+title: eCSE Reports - Fundamental physics
 banner: web_banners_10.jpg
 tags: [Chemistry and Materials, Earth Sciences and Environment, Engineering and Energy,  Fundamental physics, Mathematics and Computer Science]
 ---
@@ -9,16 +9,16 @@ tags: [Chemistry and Materials, Earth Sciences and Environment, Engineering and 
 <div>
 Subject Areas:
 {% for tag in page.tags %}
-<a href="/ecse/reports/{{ tag | slugify }}" ><code  style="font-size:15px;"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
+<a href="/ecse/reports/{{ tag | slugify  }}" ><code  style="font-size:15px;"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
 {% endfor %} 
 <a href="/ecse/reports/" ><code  style="font-size:15px;"><nobr>All</nobr></code>&nbsp;</a>   
 </div>
 
 
 {% assign current_ecse = site.ecse | where_exp: "ecse", "ecse.status != 'hidden'" %}
-{% assign cm_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Chemistry and Materials'" %}
+{% assign ee_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Fundamental physics'" %}
 
-{% for ecse in cm_ecse reversed %}
+{% for ecse in ee_ecse reversed %}
 
 
 
