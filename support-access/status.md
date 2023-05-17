@@ -12,6 +12,14 @@ banner: web_banners_03.jpg
 - [FAQ](#faq)
 - [Usage statistics](#usage-statistics)
 
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="block">
+			 <a href="https://docs.archer2.ac.uk/faq/upgrade-2023/"><img style="width: 90%" src="../../img/splash/old/230329-upgrade-w.jpg" alt="ARCHER2 Upgrade" /></a>     </div>
+   </div>
+</div>	
+
 ## Current System Load - Full System
 
 The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
