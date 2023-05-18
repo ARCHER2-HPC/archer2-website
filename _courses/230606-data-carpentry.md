@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 6th - 7th June 2023  09:0 - 16:30  BST
 start_date: 2023-06-06 09:00:00
 end_date: 2023-06-07 16:30:00
-trainers: Tony Hallam, Juan Herrera EPCC
+trainers: Evgenij Belikov, Juan Herrera EPCC
 course_type: course
 registration_status: open
 registration_url: https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4574
