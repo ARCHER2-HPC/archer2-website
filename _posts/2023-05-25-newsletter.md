@@ -42,7 +42,7 @@ The "[Known Issues](https://docs.archer2.ac.uk/known-issues/)" page of the ARCHE
 <https://docs.archer2.ac.uk/known-issues/>
 lists all current open known issues including a description of the issue, its symptoms and any work-arounds.
 
-- No recent issues
+- No recent issues 
 
 
 ## Upcoming ARCHER2 Training
