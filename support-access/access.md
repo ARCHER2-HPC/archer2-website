@@ -73,8 +73,8 @@ A list of any currently open calls through which you can apply for access to ARC
 
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
-		<td>26 May 2023 at 4:00pm UK time</td>
-		<td>12 May 2023 at 4:00pm UK time</td>
+		<td></td>
+		<td></td>
 		<td>EPSRC remit only. <br/>
 		<b>Feasibility stream</b><br/>
 		&nbsp; - Maximum request of £1,000 notional value <br/>(for example, 5,000 CU, 33,000 CPUh or 1,000 GPUh)<br/>
@@ -85,7 +85,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		&nbsp; - Projects can be up to 2 years in length.<br/>
 		&nbsp; - Minimum request of 165,000 CU per year.<br/>
 		Calls are expected to open every six months. <br>
-		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Full Call details on UKRI website</a>
+		<a href="https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/">Details on UKRI website</a>
 		 </td>
 		<td><a href="https://www.ukri.org/publications/access-to-high-performance-computing-application-documents/">TA Form</a></td>
 	</tr>
