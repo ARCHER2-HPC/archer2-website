@@ -9,12 +9,12 @@ trainers: Evgenij Belikov, Juan Herrera EPCC
 course_type: course
 registration_status: open
 registration_url: https://pdms.hw.ac.uk/index.php?Mode=Search&CourseID=4574
-location: Heriot Watt University, Edinburgh - venue details to follow
-location_url: 
+location: The National Robotarium, Heriot Watt University, Edinburgh 
+location_url: /training/locations/hw-robotarium
 prace_course: 
 audience: [  data-scientist]
 level: [ introductory ]
-video: true
+video: 
 ---
 
 
