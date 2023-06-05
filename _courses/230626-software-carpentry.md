@@ -11,7 +11,7 @@ registration_status: open
 registration_message: 
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230626-software-carpentry
 location: Edinburgh Paterson's Land
-location_url:  ../training/locations/edinburgh-patersons-land
+location_url:  https://www.archer2.ac.uk/training/locations/edinburgh-patersons-land
 prace_course: 
 audience: [  developer ]
 level: [ introductory ]
@@ -34,9 +34,7 @@ Software Carpentry aims to help researchers get their work done in less time and
 
 Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
-#### Target Audience:
 
-#### Prerequisites:
 
 ### Requirements:
 
@@ -47,36 +45,36 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+[Timetable details](https://epcced.github.io/2023-06-26-uoe/#schedule)
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+ 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href=" https://epcced.github.io/2023-06-26-uoe/  ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/230626-software-carpentry">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
@@ -107,7 +105,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=XXXX" 
+           href="../../feedback/?course=230626-software-carpentry" 
 
 		>
           <strong>Feedback</strong><br/>

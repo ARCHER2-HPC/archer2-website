@@ -11,7 +11,7 @@ registration_status: open
 registration_message: 
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230628-hpc-carpentry
 location: Edinburgh Paterson's Land
-location_url: ../training/locations/edinburgh-patersons-land
+location_url: https://www.archer2.ac.uk/training/locations/edinburgh-patersons-land
 prace_course: 
 audience: [ researcher,  developer ]
 level: [ introductory ]
@@ -38,7 +38,7 @@ After completing this course, participants will:
 -     Be able to use software modules to access different HPC software.
 -     Be able to work effectively on a remote shared resource.
 
-#### Target Audience:
+
 
 #### Prerequisites:
 
@@ -77,7 +77,7 @@ Details to follow
 <!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/230628-hpc-carpentry">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -113,7 +113,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=XXXX" 
+           href="../../feedback/?course=230626-software-carpentry" 
 
 		>
           <strong>Feedback</strong><br/>
