@@ -46,7 +46,7 @@ Bash shell: use the UNIX command line (also known as terminal or shell) to opera
 
 ### Requirements:
 
-Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.)
 
 They are also required to abide by the [ARCHER2  Code of Conduct](../../../about/policies/code-of-conduct.html). 
 
