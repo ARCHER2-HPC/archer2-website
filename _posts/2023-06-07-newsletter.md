@@ -62,6 +62,7 @@ lists all current open known issues including a description of the issue, its sy
 - [ARCHER2 User Forum](https://www.archer2.ac.uk/training/courses/230607-user-forum/), Online, Wednesday 7th June 2023 14:00 - 15:00 BST
 - [Software Carpentry](https://www.archer2.ac.uk/training/courses/230626-software-carpentry), Edinburgh Paterson's Land, 26 - 27 June 2023 09:30 - 17:00 BST 	
 - [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230628-hpc-carpentry), Edinburgh Paterson's Land, 28 June 2023 9:30 - 17:00 BST 
+- [Python overhead: Reducing the burden](https://www.archer2.ac.uk/training/courses/230705-python-vt/), online, Wednesday 5th July 2023 15:00 - 16:00 BST
 - [Coupling LAMMPS and OpenFOAM for Multi-Scale Models](https://www.archer2.ac.uk/training/courses/230719-openfoam-lammps-vt/), Online, Wednesday 19th July 2023 14:00 - 16:00 BST
 
 
