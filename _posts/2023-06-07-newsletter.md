@@ -9,7 +9,7 @@ categories: [news]
 
 - [ARCHER2 User Forum](#online-user-forum-wednesday-7th-june-1400-bst) - Wednesday 7th June 2023 14:00 - 15:00 BST - Today
 - [Major software upgrade]({{ page.url }}#major-software-upgrade): Fri 19th May 1400 BST - w/b Mon 12th June 
-- [SIGHPC Education Global Seminar](#sighpc-education-global-seminar---archer2-training---thursday-8th-june-4pm-bst) - ARCHER2 Training - Thursday 8th June 4pm BST
+- [SIGHPC Education Global Seminar]({{ page.url }}#sighpc-education-global-seminar---archer2-training---thursday-8th-june-4pm-bst) - ARCHER2 Training - Thursday 8th June 4pm BST
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
