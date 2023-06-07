@@ -7,12 +7,23 @@ tags: [newsletters]
 categories: [news]
 ---
 
+- [ARCHER2 User Forum](#online-user-forum-wednesday-7th-june-1400-bst) - Wednesday 7th June 2023 14:00 - 15:00 BST - Today
 - [Major software upgrade]({{ page.url }}#major-software-upgrade): Fri 19th May 1400 BST - w/b Mon 12th June 
-   - [ARCHER2 User Forum](#online-user-forum-wednesday-7th-june-1400-bst) - Wednesday 7th June 2023 14:00 - 15:00 BST - Today
+- [SIGHPC Education Global Seminar](#sighpc-education-global-seminar---archer2-training---thursday-8th-june-4pm-bst) - ARCHER2 Training - Thursday 8th June 4pm BST
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
 <!--more-->
+
+
+## Online User Forum: Wednesday 7th June 1400 BST  Today
+
+An online User Forum will take place on Wednesday 7th June at 1400 BST.
+EPCC and HPE Staff will present information regarding the upgrade including new features and changes to the user environment. It will also give you an opportunity to ask any questions to HPE and EPCC staff.
+
+Details of the [User Forum including instructions on how to connect](https://www.archer2.ac.uk/training/courses/230607-user-forum/)
+
+If you have any specific questions or topics you would like us to cover then [please send them to us](mailto:support@archer2.ac.uk).
  
 ## Major software upgrade
 
@@ -26,16 +37,14 @@ Details of the upgrade which will be updated throughout the upgrade process can 
 
 Following the upgrade, we would advise users to recompile and test your codes as the new software will be based on a new operating system and new versions of compilers and libraries. The ARCHER2 CSE team will be recompiling and testing all centrally installed software. There will be no Python 2 installation available as part of supported software following the upgrade. Python 3 will continue to be fully supported.
 
-### Online User Forum: Wednesday 7th June 1400 BST
 
-An online User Forum will take place on Wednesday 7th June at 1400 BST.
-EPCC and HPE Staff will present information regarding the upgrade including new features and changes to the user environment. It will also give you an opportunity to ask any questions to HPE and EPCC staff.
+## SIGHPC Education Global Seminar - ARCHER2 Training - Thursday 8th June 4pm BST
 
-Details of the [User Forum including instructions on how to connect](https://www.archer2.ac.uk/training/courses/230607-user-forum/)
-
-If you have any specific questions or topics you would like us to cover then [please send them to us](mailto:support@archer2.ac.uk).
-
+Juan Herrera, ARCHER2 Training lead, has been invited to deliver a webinar about ARCHER2 training as part of the SIGHPC Education Global Seminar Series. 
+It's on Thursday 8th June this week at 4pm BST. 
+[Further details:]( https://sighpceducation.acm.org/events/archer2/)
      
+
 ## Recently added known issues
  
 The "[Known Issues](https://docs.archer2.ac.uk/known-issues/)" page of the ARCHER2 Documentation
@@ -51,8 +60,8 @@ lists all current open known issues including a description of the issue, its sy
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, always-open self-service course
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
 - [ARCHER2 User Forum](https://www.archer2.ac.uk/training/courses/230607-user-forum/), Online, Wednesday 7th June 2023 14:00 - 15:00 BST
-- Software Carpentry, Edinburgh Paterson's Land, 26 - 27 June 2023 09:30 - 17:00 BST 	
-- HPC Carpentry, Edinburgh Paterson's Land, 28 June 2023 9:30 - 17:00 BST 
+- [Software Carpentry](https://www.archer2.ac.uk/training/courses/230626-software-carpentry), Edinburgh Paterson's Land, 26 - 27 June 2023 09:30 - 17:00 BST 	
+- [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230628-hpc-carpentry), Edinburgh Paterson's Land, 28 June 2023 9:30 - 17:00 BST 
 - [Coupling LAMMPS and OpenFOAM for Multi-Scale Models](https://www.archer2.ac.uk/training/courses/230719-openfoam-lammps-vt/), Online, Wednesday 19th July 2023 14:00 - 16:00 BST
 
 
