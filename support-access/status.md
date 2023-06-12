@@ -16,7 +16,7 @@ banner: web_banners_03.jpg
 <div class="row">
   <div class="col-md-12">
     <div class="block">
-			 <a href="https://docs.archer2.ac.uk/faq/upgrade-2023/"><img style="width: 90%" src="../../img/splash/old/230329-upgrade-w.jpg" alt="ARCHER2 Upgrade" /></a>     </div>
+			 <a href="https://docs.archer2.ac.uk/faq/upgrade-2023/"><img style="width: 50%" src="../../img/splash/230329-upgrade.jpg" alt="ARCHER2 Upgrade" /></a>     </div>
    </div>
 </div>	
 
