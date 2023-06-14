@@ -43,6 +43,7 @@ An issue with [VASP modules out of memory errors](https://www.archer2.ac.uk/supp
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
 - [Software Carpentry](https://www.archer2.ac.uk/training/courses/230626-software-carpentry), Edinburgh Paterson's Land, 26 - 27 June 2023 09:30 - 17:00 BST 	
 - [HPC Carpentry](https://www.archer2.ac.uk/training/courses/230628-hpc-carpentry), Edinburgh Paterson's Land, 28 June 2023 9:30 - 17:00 BST 
+- [Introduction to BASH](https://www.archer2.ac.uk/training/courses/230628-bash-vt/), online, Wednesday 28 June 2023 15:00 - 16:00 BST
 - [Python overhead: Reducing the burden](https://www.archer2.ac.uk/training/courses/230705-python-vt/), online, Wednesday 5th July 2023 15:00 - 16:00 BST
 - [Coupling LAMMPS and OpenFOAM for Multi-Scale Models](https://www.archer2.ac.uk/training/courses/230719-openfoam-lammps-vt/), Online, Wednesday 19th July 2023 14:00 - 16:00 BST
 
