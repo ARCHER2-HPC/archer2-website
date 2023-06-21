@@ -5,63 +5,13 @@ summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 --- 
 
-- [Current System Load - Full System](#current-system-load---full-system)
 - [Service Alerts](#service-alerts)
+- [Current System Load - Full System](#current-system-load---full-system)
 - [Maintenance Sessions](#maintenance-sessions)
 - [System Status Mailings](#system-status-mailings)
 - [FAQ](#faq)
 - [Usage statistics](#usage-statistics)
 
-
-<div class="row">
-  <div class="col-md-12">
-    <div class="block">
-			 <a href="https://docs.archer2.ac.uk/faq/upgrade-2023/"><img style="width: 50%" src="../../img/splash/230329-upgrade.jpg" alt="ARCHER2 Upgrade" /></a>     </div>
-   </div>
-</div>	
-
-## Current System Load - Full System
-
-The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
-of the status types is provided below the plot.
-
-![image](https://safe.epcc.ed.ac.uk/Graphs/archer2.png)
-{: .img-center style="width: 80%" 
-alt="ARCHER2 Node Status over time" 
-title="ARCHER2 Node Status over time"}
-
-- *alloc*: Nodes running user jobs
-- *idle*: Nodes available for user jobs
-- *resv*: Nodes in reservation and not available for standard user jobs
-- *plnd*: Nodes are planned to be used for a future jobs. If pending jobs can fit in the space before the future job is due to start they can run on these nodes (often referred to as *backfilling*).
-- *down*, *drain*, *maint*, *drng*, *comp*, *boot*: Nodes unavailable for user jobs
-- *mix*: Nodes in multiple states 
-
-Note: the long running reservation visible in the plot corresponds to the *short* QoS which
-is used to support small, short jobs with fast turnaround time.
-
-<!--
-
-## Current System Load - 4-cabinet
-
-The plot below shows the status of nodes on the current ARCHER2 4-cabinet service. A description of each
-of the status types is provided below the plot.
-
-![image](https://safe.epcc.ed.ac.uk/Graphs/4cab.png)
-{: .img-center style="width: 80%" 
-alt="ARCHER2 Node Status over time" 
-title="ARCHER2 Node Status over time"}
-
-- *alloc*: Nodes running user jobs
-- *idle*: Nodes available for user jobs
-- *resv*: Nodes in reservation and not available for standard user jobs
-- *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
-- *mix*: Nodes in multiple states 
-
-Note: the long running reservation visible in the plot corresponds to the *short* QoS which
-is used to support small, short jobs with fast turnaround time.
-
--->
 
 
 ## Service Alerts
@@ -120,6 +70,8 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 {% else %}
 <p>No current service alerts</p>
 {% endif %}
+
+
 
 
 
@@ -184,6 +136,30 @@ This section lists resolved service alerts from the past 30 days.
 {% else %}
 <p>No recent service alerts</p>
 {% endif %}
+
+
+
+## Current System Load - Full System
+
+The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
+of the status types is provided below the plot.
+
+![image](https://safe.epcc.ed.ac.uk/Graphs/archer2.png)
+{: .img-center style="width: 80%" 
+alt="ARCHER2 Node Status over time" 
+title="ARCHER2 Node Status over time"}
+
+- *alloc*: Nodes running user jobs
+- *idle*: Nodes available for user jobs
+- *resv*: Nodes in reservation and not available for standard user jobs
+- *plnd*: Nodes are planned to be used for a future jobs. If pending jobs can fit in the space before the future job is due to start they can run on these nodes (often referred to as *backfilling*).
+- *down*, *drain*, *maint*, *drng*, *comp*, *boot*: Nodes unavailable for user jobs
+- *mix*: Nodes in multiple states 
+
+Note: the long running reservation visible in the plot corresponds to the *short* QoS which
+is used to support small, short jobs with fast turnaround time.
+
+
 
 ## Maintenance Sessions 
 
