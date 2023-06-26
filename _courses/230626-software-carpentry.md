@@ -7,7 +7,7 @@ start_date: 2023-06-26 09:30:00
 end_date: 2023-06-27 17:00:00
 trainers: Juan Herrera EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_message: 
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230626-software-carpentry
 location: Edinburgh Paterson's Land
