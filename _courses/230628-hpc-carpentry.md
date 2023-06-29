@@ -7,7 +7,7 @@ start_date: 2023-06-28 09:30:00
 end_date: 2023-06-28 17:00:00
 trainers: Tony Hallam EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_message: 
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230628-hpc-carpentry
 location: Edinburgh Paterson's Land
@@ -57,32 +57,32 @@ Details to follow
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://epcced.github.io/2023-06-28-uoe-hpcintro/   ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+<!-- 
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/230628-hpc-carpentry">
           <strong>Course Chat</strong>       
         </a>
       </div>
-		
- -->
+ -->		
+
  	</div>
 		
 		
@@ -104,7 +104,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -113,7 +113,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=230626-software-carpentry" 
+           href="../../feedback/?course=230628-hpc-carpentry" 
 
 		>
           <strong>Feedback</strong><br/>
@@ -122,7 +122,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
