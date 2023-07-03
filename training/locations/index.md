@@ -17,5 +17,6 @@ banner: web_banners_05.jpg
 * [Newcastle University](newcastle)
 * [The Open University, Milton Keynes](open-mk)
 * [Oxford e-Science Research Centre](oxford)
+* [Oxford University Doctoral Training Centre](oxford-cdt)
 * [Queen's University, Belfast](qub)
 * [University of Edinburgh, Paterson's Land](edinburgh-patersons-land)
