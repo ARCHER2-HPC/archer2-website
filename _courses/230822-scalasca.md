@@ -10,7 +10,7 @@ course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=230822-scalasca
 location: Oxford
-location_url: https://www.archer2.ac.uk/training/locations/oxford-dct
+location_url: https://www.archer2.ac.uk/training/locations/oxford-dtc
 prace_course: 
 audience: [  developer ]
 level: [  advanced ]
