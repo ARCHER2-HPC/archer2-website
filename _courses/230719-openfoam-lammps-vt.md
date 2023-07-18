@@ -61,6 +61,14 @@ This online session is open to all. It will use the Blackboard Collaborate platf
         </a>
       </div>
 
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="https://pad.archer2.ac.uk/p/230719-lammps-openfoam">
+          <strong>Discussion board</strong><br/>
+          Shared document for asking questions and making comments - open to all
+        </a>
+      </div>
+
 											
     </div>
 
