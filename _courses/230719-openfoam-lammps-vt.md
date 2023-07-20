@@ -12,8 +12,8 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
-ecse: 
+video: true
+ecse: eCSE06-01
 ---
 
 The next generation of science depends on solving the problem of linking simulations at different scales. In many physical processes, phenomena happening at the molecular scale determine the large-scale dynamics of the system. Boiling represents one such problem, where bubbles nucleating at the nanoscale depart from hot surfaces owing to fluid dynamics forces originating from millimetre-scale flow structures. To date, there is no existing modelling framework that can simultaneously capture all the relevant scales of this flow, that require molecular dynamics simulations at the nanoscale coupled with traditional continuum-scale techniques based on the control-volume formulation of the Navier-Stokes equations.
@@ -27,9 +27,11 @@ In this webinar, we will:
 - Present CPL library and the coupling framework.
 - Demonstrate how to evoke CPL library via the ARCHER2 module through examples including minimal dummy scripts, Couette flow and finally the full boiling case.
 
+<!--
 If you are interested in attending the seminar, please add you name and email address to the [sign up sheet :](https://brunel.onlinesurveys.ac.uk/cpl-library-archer2-webinar)
 
 You can also include any suggestions for topics or content you would like to see included.
+-->
 
 This webinar forms part of the ARCHER2 eCSE project: Hybrid Atomistic-Continuum Simulations of Boiling Across Scales (eCSE06-01) 
 
@@ -43,6 +45,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 <section id="service">
 
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -72,21 +75,21 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/wZLrQNX5wuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
 
-<!--
+
+
 
 <section id="service">
 
@@ -95,14 +98,15 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="SmithE_Part_EPCC.pdf">
+          <strong>Slides</strong><br/>
+          Edward Smith
         </a>
       </div>
 
 
-
+<!--
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
            href="ARCHER2_Training_VT.pdf">
@@ -110,8 +114,32 @@ This online session is open to all. It will use the Blackboard Collaborate platf
           Download pdf of the presentation.
         </a>
       </div>
+-->										
+    </div>
+
+    <div class="row ">	
+<!--
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="ARCHER2_Training_VT.pdf">
+          <strong>Slides</strong><br/>
+          Download pdf of the presentation.
+        </a>
+      </div>
+-->	
+<!--
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="ARCHER2_Training_VT.pdf">
+          <strong>Transcript</strong><br/>
+          Download a transcript of the video audio
+        </a>
+      </div>
+-->	
+
 										
     </div>
 
 </section>
--->
+
