@@ -26,7 +26,7 @@ The case studies below highlight some of the research carried out on ARCHER and 
 		</h3>
 
 		<p>
-          {{ casestudies.text }}
+          {{ casestudies.text }}<br>
 		 
 			<a href="{{ casestudies.pdf_link }}">Read more...</a>
 		</p>
