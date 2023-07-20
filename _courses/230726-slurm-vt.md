@@ -2,7 +2,7 @@
 layout: course
 title: Slurm&colon; Scheduling jobs on ARCHER2
 banner: web_banners_05.jpg
-human_dates: Wednesday 26th July 2023  15:00 - 16:00 
+human_dates: Wednesday 26th July 2023  15:00 - 16:00 BST
 start_date: 2023-07-26 15:00:00
 end_date: 2023-07-26 16:00:00
 trainers: David Henty EPCC
