@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 Image and Video Competition 2023
-date: 2023-07-26 11:00:00
+date: 2023-07-24 11:00:00
 author: Clair Barrass
 tags: [events]
 categories: [news]
@@ -17,9 +17,9 @@ The winning image or video, along with a selection of other entries, will also b
 
 ### Key Details 
 
-- Competition Opens: 26th July 2023
-- Submission Deadline: 16 September 2023
-- Judging: October/November 2023
+- Competition Opens: 24th July 2023
+- Submission Deadline: 1 September 2023
+- Judging: September/October 2023
 - Prizes:
     - Best image : £150
     - Best video : £150

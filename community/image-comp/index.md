@@ -12,7 +12,7 @@ The winning image or video, along with a selection of other entries, will also b
 
 ### Key Details 
 
-- Competition Opens: 26 July 2023
+- Competition Opens: 24 July 2023
 - Submission Deadline: 1 September 2023
 - Judging: September/October 2023
 - Prizes:
