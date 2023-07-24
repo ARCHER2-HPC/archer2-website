@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Image Competition
-summary: ARCHER2 Image and Video Competition 2022
+summary: ARCHER2 Image and Video Competition 2023
 banner: web_banners_07.jpg
 ---
 
@@ -12,9 +12,9 @@ The winning image or video, along with a selection of other entries, will also b
 
 ### Key Details 
 
-- Competition Opens: 8 August 2022
-- Submission Deadline: **Extended to 30 September 2022**
-- Judging: October/November 2022
+- Competition Opens: 24 July 2023
+- Submission Deadline: 1 September 2023
+- Judging: September/October 2023
 - Prizes:
     - Best image : £150
     - Best video : £150
@@ -39,9 +39,9 @@ Entries might include (but are not limited to):
 
 Images don't need to have been generated in the last few months - any images from any time in the ARCHER or ARCHER2 services, including photos relating to your work, and images or videos that have been post-processed.
 
-Take a look at the gallery of [entries from 2021](https://www.archer2.ac.uk/about/gallery/2021-image-comp/) 
+Take a look at the gallery of [entries from 2022](https://www.archer2.ac.uk/about/gallery/2022-image-comp/) 
 
-<img src="{{ site.baseurl }}/community/image-comp/ImageComp2021.gif" alt="Image Competition 2021 entries" title="Image Competition 2021 entries" style="width: 50%" />
+<img src="{{ site.baseurl }}/community/image-comp/ImageComp2022.gif" alt="Image Competition 2022 entries" title="Image Competition 2022 entries" style="width: 50%" />
 
 
 
@@ -49,7 +49,7 @@ Take a look at the gallery of [entries from 2021](https://www.archer2.ac.uk/abou
 
 ### Submission details
 
-Please complete the [ARCHER2 Image Competition 2022 submission form](ARCHER2_Image_Competition_2022_-_submission_form.pdf) and then save and send in your entry by email to [image@archer.ac.uk](mailto: image@archer.ac.uk), attaching your image and/or including the url where we can download your video (note, it is not possible for us to download your video from YouTube - please use a fileshare site such as OneDrive, Dropbox, GoogleDrive to share your files with us). If submitting a video, please also include one still image from the video for use as a cover image.
+Please complete the [ARCHER2 Image Competition 2023 submission form](ARCHER2_Image_Competition_2023_-_submission_form.pdf) and then save and send in your entry by email to [image@archer.ac.uk](mailto: image@archer.ac.uk), attaching your image and/or including the url where we can download your video (note, it is not possible for us to download your video from YouTube - please use a fileshare site such as OneDrive, Dropbox, GoogleDrive to share your files with us). If submitting a video, please also include one still image from the video for use as a cover image.
 
 The submission form is a PDF form which is editable in ADOBE Acrobat Reader and also in many of the common alternative PDF viewers - if you experience any issues with the form, please let us know by emailing us.
 
@@ -59,13 +59,13 @@ The submission form is a PDF form which is editable in ADOBE Acrobat Reader and 
 
 ### Deadline
 
-Submission deadline: **Extended to 30 September 2022**
+Submission deadline: 1 September 2023
 
 Any queries should be directed to [image@archer.ac.uk](mailto: image@archer.ac.uk)
 
 By entering this competition you are deemed to accept these [competition rules and the terms and conditions](image-comp-t-and-c).
 
-Winners will be chosen and announced in October/November 2022.
+Winners will be chosen and announced in September/October 2023.
 
 ### Judging panel
 
