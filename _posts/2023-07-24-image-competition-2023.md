@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 Image and Video Competition 2023
-date: 2023-07-24 11:00:00
+date: 2023-07-24 10:00:00
 author: Clair Barrass
 tags: [events]
 categories: [news]
