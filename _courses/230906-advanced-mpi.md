@@ -2,7 +2,7 @@
 layout: course
 title: Advanced MPI
 banner: web_banners_05.jpg 
-human_dates: 6 - 7 september 2023  09:30 - 17:00  GMT
+human_dates: 6 - 7 september 2023  09:30 - 17:00  BST
 start_date: 2023-09-06 09:30:00
 end_date: 2023-09-07 17:00:00
 trainers: David Henty
