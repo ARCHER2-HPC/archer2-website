@@ -288,7 +288,8 @@ As parallel packages for computational science become more sophisticated, it bec
 
 *Course length: 2 days. Course level: advanced.*
 
-This course is aimed at programmers seeking to deepen their understanding of MPI and explore some of its more recent and advanced features. We cover topics including communicator management, non-blocking, and neighbourhood collectives, single-sided MPI and the new MPI memory model. We also look at performance aspects such as which MPI routines to use for scalability, overlapping communication and calculation and MPI internal implementation issues.
+This course is aimed at programmers seeking to deepen their understanding of MPI and explore some of its more advanced features. We cover topics including efficient use of non-blocking communications, combining MPI and OpenMP, single-sided MPI and the new MPI memory model. 
+We also look at performance aspects such as which MPI routines to use for scalability, overlapping communication and calculation and MPI internal implementation issues.
 
  
 #### Advanced OpenMP 
