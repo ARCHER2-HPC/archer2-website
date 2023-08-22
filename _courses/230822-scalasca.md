@@ -82,47 +82,52 @@ To follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="Engineering.pdf">
-          <strong>Engineering</strong>         
+          <strong>Introduction to parallel performance engineering</strong>         
         </a>
       </div>
-
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
-          href="Scalasca.pdf">
-          <strong>Scalasca</strong>         
-        </a>
-      </div>
-
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="Score-P_basic.pdf">
-          <strong>Score-P Basic</strong>         
-        </a>
-      </div>
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
-          href="Score-P_filtering.pdf">
-          <strong>Score-P Filtering</strong>         
-        </a>
-      </div>
-
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
-          href="Score-P_special.pdf">
-          <strong>Score-P Special</strong>         
+          <strong>Instrumentation & measurement with Score-P</strong>         
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="Cube.pdf">
-          <strong>Cube</strong>         
+          <strong>Execution profile analysis examination with CUBE</strong>         
         </a>
       </div>
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Score-P_filtering.pdf">
+          <strong>Analysis refinement via scoring & measurement filtering</strong>         
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Scalasca.pdf">
+          <strong>Automated trace collection & analysis with Scalasca</strong>         
+        </a>
+      </div>
+
+
+
+
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Score-P_special.pdf">
+          <strong>Score-P specialized measurements & analyses</strong>         
+        </a>
+      </div>
+
+
 
  
 
