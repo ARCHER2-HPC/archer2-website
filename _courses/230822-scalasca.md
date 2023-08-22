@@ -7,7 +7,7 @@ start_date: 2023-08-22 09:30:00
 end_date: 2023-08-23 16:30:00
 trainers: Brian Wylie and Christian Feld (Juelich)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=230822-scalasca
 location: Oxford
 location_url: https://www.archer2.ac.uk/training/locations/oxford-dtc
@@ -40,11 +40,13 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 They are also required to abide by the [ARCHER2  Code of Conduct](../../../about/policies/code-of-conduct.html). 
 
 
+<!--
+
 ### Timetable:
 
 To follow
 
-<!--
+
 
 #### Tuesday 22nd August
 
@@ -52,7 +54,7 @@ To follow
 
 #### Wednesday 23rd August
 
--->
+
 
 #### Slides
 
@@ -64,9 +66,12 @@ To follow
 - [Cube](Cube.pdf)
 
 
+
+-->
+
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -76,69 +81,57 @@ To follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="Intro.pdf">
-          <strong>Introduction to parallel performance engineering</strong>         
+          href="Engineering.pdf">
+          <strong>Engineering</strong>         
         </a>
       </div>
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Scalasca.pdf">
+          <strong>Scalasca</strong>         
+        </a>
+      </div>
+
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="Score-P_basic.pdf">
-          <strong>Instrumentation & measurement with Score-P</strong>         
-        </a>
-      </div>
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
-          href="Cube.pdf">
-          <strong>Execution profile examination with CUBEs</strong>         
+          <strong>Score-P Basic</strong>         
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="Score-P_filtering.pdf">
-          <strong>Analysis refinement via scoring and measurement filtering</strong>         
+          <strong>Score-P Filtering</strong>         
         </a>
       </div>
 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
-          href="Scalasca.pdf">
-          <strong>Automated trace collection & analysis with Scalasca</strong>         
-        </a>
-      </div>
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href="Score-P_special.pdf">
-          <strong>Score-P specialised measurements & analyses</strong>         
+          <strong>Score-P Special</strong>         
         </a>
       </div>
-
-
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="">
-          <strong>Course material and code</strong><br>
-			Available to download from <br>
-			ARCHER2 /work/y23/shared/tutorial/         
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="Cube.pdf">
+          <strong>Cube</strong>         
         </a>
       </div>
-
 
  
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/220509-scalasca">
-          <strong>Course Chat</strong>       
-        </a>
-      </div>
+
+
+
 		
 
  	</div>
- -->		
+		
 		
 					
 
@@ -160,7 +153,7 @@ To follow
 
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -181,7 +174,7 @@ To follow
     </div>
 		
 		
--->
+
  
 </section>
 
