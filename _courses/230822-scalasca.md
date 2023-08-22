@@ -54,6 +54,15 @@ To follow
 
 -->
 
+#### Slides
+
+- [Engineering](Engineering.pdf)
+- [Scalasca](Scalasca.pdf)
+- [Score P basic](Score-P_basic.pdf)
+- [Score P filtering](Score-P_filtering.pdf)
+- [Score p special](Score-P_special.pdf)
+- [Cube](Cube.pdf)
+
 
 <section id="service">
 
