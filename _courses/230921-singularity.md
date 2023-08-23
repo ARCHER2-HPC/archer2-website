@@ -18,6 +18,8 @@ level: [ introductory   ]
 video: false
 ---
 
+**Registration will close on 31st August**
+
 #### Location:
 
 This course will take place face-to-face at  [{{ page.location }}]({{ page.location_url }})
@@ -127,3 +129,4 @@ Details to follow
 </section>
 
 
+**Please note: Registration will close on 31st August**
