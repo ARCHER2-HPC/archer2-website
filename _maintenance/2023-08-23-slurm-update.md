@@ -1,8 +1,8 @@
 ---
-status: Scheduled
+status: Completed
 type: Partial
 start_date: 23 August 2023 10:00
-end_date: 23 August 2023 10:10 estimated
+end_date: 23 August 2023 10:50
 quarter: Q3 2023
 system: ARCHER2
 impact: ARCHER2 users unable to submit new jobs
