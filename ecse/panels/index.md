@@ -14,6 +14,7 @@ banner: web_banners_06.jpg
 - [7th ARCHER2 eCSE call (eCSE07)](#7th-archer2-ecse-call-ecse07)
 - [8th ARCHER2 eCSE call (eCSE08)](#8th-archer2-ecse-call-ecse08)
 - [9th ARCHER2 eCSE call (eCSE09)](#9th-archer2-ecse-call-ecse09)
+- [10th ARCHER2 eCSE call (eCSE09)](#10th-archer2-ecse-call-ecse10)
 
 ## 1st ARCHER2 eCSE call (eCSE01)
 
@@ -488,3 +489,44 @@ Panel meeting 13 April 2023 (virtual meeting)
 - *ARCHER2-eCSE09-10 PI: Dr Jianping Meng (STFC) Developing a multiscale continuum framework for exascale computing of fluids with microstructure* (10 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
 - *ARCHER2-eCSE09-12 PI: Dr Ian J Bush (STFC) Optimising Memory Use in CRYSTAL23 and The Implementation of Kubo-Greenwood Theory* (12 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)] 
+
+## 10th ARCHER2 eCSE call (eCSE10)
+
+Panel meeting 29 June 2023 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- Nicholas Hine (University of Warwick)
+- Jimena Gorfinkiel (Open University)
+- Sue Thorne (STFC)
+
+### eCSE Team
+
+- Chris Johnson (EPCC)
+- Xu Guo (EPCC)
+- Catherine Inglis (EPCC)
+- Lorna Smith (EPCC)
+
+### ARCHER2 Service Representatives
+
+- William Lucas (EPCC)
+- Harvey Richardson (Cray HPE)
+
+### UKRI
+
+- Madhavi de Silva (EPSRC)
+
+### Early Career Observers
+
+- Gabriel Bramley (Cardiff University)
+
+### Projects funded from the 10th eCSE call
+
+- *ARCHER2-eCSE10-1 PI: Dr Sylvain Laizet Imperial CollegeReducing data movements in the CFD solver Xcompact3d for optimised performance on ARCHER2* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
+- *ARCHER2-eCSE10-2 PI: Dr Hannah Menke Heriot-Watt UniversityGeoChemFoam – A fully-parallel pore-scale physics numerical solver package for the energy transition* (12 months)
+
+- *ARCHER2-eCSE10-3 PI: Prof Alfredo Pinelli City University, LondonIncorporating machine-learned Non-Newtonian closures into the DNS/LES code SUSA* (8 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+
+- *ARCHER2-eCSE10-4 PI: Prof Yves Wiaux Heriot-WattExtreme-scale Parallelisation in Computational Imaging (EPCI)* (18 months)
