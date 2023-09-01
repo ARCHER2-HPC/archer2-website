@@ -119,6 +119,7 @@ use in the Je-S submission system.</p>
 <p>Total 'Notional Costs' for these jobs = &pound;<strong id="totCost"></strong></p>
 </div>
 
+<a name="cu-rates-and-costs"> </a>
 <h3 class="subsection">CU Rates and Costs</h3>
 
 <h4>ARCHER2 CU Rates</h4> 

@@ -29,12 +29,15 @@ You can include ARCHER2 on EPSRC funding applicationns when you are applying for
 active grant then you should consider applying via one of the calls for ARCHER2 time only that are described
 above).
 
-When submitting proposals to EPSRC that include ARCHER2 resources, you should add ARCHER2 in Je-S. On
-[Je-S,](https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx) access can be requested by choosing ARCHER2 from the
-drop down list in the *Research Council Facilities* section for a standard EPSRC grant application. Please add
-the requested resource in CU as *unit* and the notional cost in £ as *cost*. Reasonable ARCHER2 allocations are
-now awarded for the duration of the EPSRC funding. A completed [Technical Assessment Form](ta/ARCHER2-TA-form.docx)
-must be uploaded through Je-S, selecting the document type "Technical Assessment". 
+When submitting proposals to EPSRC Standard Mode (Grant) that include ARCHER2 resources on the UKRI Funding Service, you should add ARCHER2  under Section 6: Facilities
+
+- facility name: ARCHER2
+- usage: the requested resource in CU as *unit* and the [notional cost](http://www.archer2.ac.uk/support-access/cu-calc.html#cu-rates-and-costs) in £ as *cost*. Reasonable ARCHER2 allocations are
+now awarded for the duration of the EPSRC funding. 
+- confirmation of facility agreement: This is a completed [Technical Assessment Form](ta/ARCHER2-TA-form.docx)   prior to submission.  Should an application be funded then grant funding would not be released until EPSRC have had sight of the relevant TA, as provided by the facililty. 
+
+
+
 
 EPSRC operate a 6-monthly allocation period policy for access on ARCHER2. The total amount of compute resource
 (measured on ARCHER2 as *CU*) awarded is broken down into 6-month periods that span the length of  access to ARCHER2
