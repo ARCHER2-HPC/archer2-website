@@ -129,4 +129,3 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 </section>
 
 
-**Please note: Registration will close on 31st August**
