@@ -71,6 +71,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2023
 
+* [August 2023](monthly/2023/aug23_safe.pdf)
 * [July 2023](monthly/2023/jul23_safe.pdf)
 * [June 2023](monthly/2023/jun23_safe.pdf)
 * [May 2023](monthly/2023/may23_safe.pdf)
