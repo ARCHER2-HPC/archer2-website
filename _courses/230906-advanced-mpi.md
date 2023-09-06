@@ -7,7 +7,7 @@ start_date: 2023-09-06 09:30:00
 end_date: 2023-09-07 17:00:00
 trainers: David Henty
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=230906-advanced-mpi
 location: Online
 location_url:
@@ -91,7 +91,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -101,8 +101,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
            href="../../feedback/?course=230906-advanced-mpi" 
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+
 
 		>
           <strong>Feedback</strong><br/>
@@ -111,7 +110,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
