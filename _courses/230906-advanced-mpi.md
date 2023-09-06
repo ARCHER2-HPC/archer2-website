@@ -91,7 +91,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -101,8 +101,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
            href="../../feedback/?course=230906-advanced-mpi" 
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+
 
 		>
           <strong>Feedback</strong><br/>
@@ -111,7 +110,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
