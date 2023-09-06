@@ -7,7 +7,7 @@ start_date: 2023-09-06 09:30:00
 end_date: 2023-09-07 17:00:00
 trainers: David Henty
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=230906-advanced-mpi
 location: Online
 location_url:
