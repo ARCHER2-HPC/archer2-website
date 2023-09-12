@@ -34,7 +34,9 @@ summary: ARCHER2 Embedded CSE (eCSE) support to improve software on ARCHER2.
 
 ## eCSE Programme Overview
 
-Through a series of regular calls, Embedded CSE (eCSE) support provides funding to the ARCHER2 user community to develop software in a sustainable manner to improve research on the ARCHER2 service. The funding allows the employment of a Research Software Engineer (RSE) to carry out software development of ARCHER2 software. This development work may include the implementation of algorithmic improvements, improvements to scalability, portability, sustainability or maintainability, or may include the addition of new functionality to a code which in turn will allow new science to be carried out.
+Through a series of regular calls, Embedded CSE (eCSE) support provides funding to the ARCHER2 user community to develop software in a sustainable manner, to run on the ARCHER2 system, or to prepare for a future Exascale successor. Projects targeting a future GPU platform are welcome, as are projects looking at any aspect of preparing the ARCHER2 software stack for Exascale. Note projects that only target improvements for existing platforms (other than ARCHER2), rather than preparing for future Exascale systems, are not in scope. 
+
+The funding allows the employment of a Research Software Engineer (RSE) to carry out software development of ARCHER2 software, or work targeting a future Exascale successor. This development work may include but is not limited to the implementation of algorithmic improvements, improvements to scalability, portability, sustainability or maintainability, or may include the addition of new functionality to a code which in turn will allow new science to be carried out. For work targeting future Exascale systems, this may include but is not limited to GPU development, improvements to the resiliency of the code, or improvements to parallelisation or I/O likely to be required at Exascale.
 
 The RSE may be based at the institution of the PI, at a third party institution, or can include staff from the centralised CSE support team, or the project may use a mixture of the above.
 
@@ -69,7 +71,7 @@ The RSE may be based at the institution of the PI, at a third party institution,
 
 ## Current Call Information
 
-The 10th ARCHER2 eCSE call (ARCHER2 eCSE10) opened on the **18 Apr 2023**. The deadline for submitting documents for technical evaluations was **16:00 on 23 May 2023**, with the final deadline for proposal submission being **16:00 on 13 Jun 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call was 16:00 on **23 May 2023**. 
+The 11th ARCHER2 eCSE call (ARCHER2 eCSE11) opened on the **12 Sep 2023**. The deadline for submitting documents for technical evaluations was **16:00 on 10 Oct 2023**, with the final deadline for proposal submission being **16:00 on 31 Oct 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call was 16:00 on **10 Oct 2023**. 
 
 Further details on the [eCSE Calls page](calls/).
 
