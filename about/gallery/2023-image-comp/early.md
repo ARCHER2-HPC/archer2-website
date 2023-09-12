@@ -37,7 +37,10 @@ banner: ../../img/splash/old/230724-image-comp-2023-w.jpg
 			     {% if imagecomp.winner  %}
 					   <strong>* * * {{ imagecomp.winner }} * * *</strong><br /><br />
 					 {% endif %}
-			     <i><strong>{{ imagecomp.name }}, {{ imagecomp.institution }}</strong></i><br /><br />     		 		 {{ imagecomp.description }}
+<!--
+			     <i><strong>{{ imagecomp.name }}, {{ imagecomp.institution }}</strong></i><br /><br /> 
+--> 
+    		 	{{ imagecomp.description }}
  
 
       </div>
