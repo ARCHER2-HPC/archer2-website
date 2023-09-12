@@ -71,7 +71,7 @@ The RSE may be based at the institution of the PI, at a third party institution,
 
 ## Current Call Information
 
-The 11th ARCHER2 eCSE call (ARCHER2 eCSE11) opened on the **12 Sep 2023**. The deadline for submitting documents for technical evaluations was **16:00 on 10 Oct 2023**, with the final deadline for proposal submission being **16:00 on 31 Oct 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call was 16:00 on **10 Oct 2023**. 
+The 11th ARCHER2 eCSE call (ARCHER2 eCSE11) opened on the **12 Sep 2023**. The deadline for submitting documents for technical evaluations is **16:00 on 10 Oct 2023**, and the final deadline for proposal submission is **16:00 on 31 Oct 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is 16:00 on **10 Oct 2023**. 
 
 Further details on the [eCSE Calls page](calls/).
 
