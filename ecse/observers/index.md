@@ -9,17 +9,17 @@ banner: web_banners_06.jpg
 
 The eCSE Panel Meeting is the meeting where eCSE proposals are reviewed and decisions are made on which proposals to fund. As part of our commitment to encouraging and developing Early Career Researchers, we are offering a small number of places to such researchers to attend the eCSE panel meeting as Early Career Observers. The aim is to give Early Career Researchers a better insight into this competitive selection process, to assist them in the preparation of future funding proposals. Please see the [recent blog article](https://www.archer2.ac.uk/news/2023/01/18/ecse-ec-obs.html) describing the experience of attending a panel meeting.
 
-The deadline for applying to attend the panel meeting as an observer is **16:00 on 23 May 2023**.
+The deadline for applying to attend the panel meeting as an observer is **16:00 on 10 Oct 2023**.
 
 ## How to Apply
 
 To apply to attend an eCSE Panel Meeting as an observer you should send a completed Early Career eCSE Panel Observer
-[application form](ARCHER2_eCSE10_EarlyCareerObserver_ApplicationForm.docx), together with a copy of your CV, to the ARCHER2 service desk:
+[application form](ARCHER2_eCSE11_EarlyCareerObserver_ApplicationForm.docx), together with a copy of your CV, to the ARCHER2 service desk:
 [support@archer2.ac.uk](mailto:support@archer2.ac.uk).
 
 Applications will be evaluated based on the quality of the case made by the applicant, and the extent to which the reviewers agree that the applicant is an early career researcher.
 
-Successful candidates will be chosen to attend this meeting (expected to be between early July and early August) or a later meeting, depending on space and availability.
+Successful candidates will be chosen to attend this meeting (expected to be between early November and early December) or a later meeting, depending on space and availability.
 
 Panel meetings usually last around half a day (e.g. 9:15 - 13:00) or slightly longer depending on the number of proposals. Observers must be able to commit attending a full meeting.
 
@@ -38,7 +38,7 @@ Applications are also welcomed from candidates who wish to re-establish themselv
 
 ## Call deadline
 
-Deadline for applications: **16:00 on 23 May 2023**. Applications received after the deadline cannot be accepted.
+Deadline for applications: **16:00 on 10 Oct 2023**. Applications received after the deadline cannot be accepted.
 
 
 ## Contact
