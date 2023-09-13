@@ -24,7 +24,7 @@ This page has a number of sections:
 ## EPSRC Remit
 
 <a id="epsrc-grants"></a>
-### Access through EPSRC grants
+### Access through EPSRC grants and fellowships
 You can include ARCHER2 on EPSRC funding applicationns when you are applying for funding (if you already have an
 active grant then you should consider applying via one of the calls for ARCHER2 time only that are described
 above).
