@@ -175,6 +175,7 @@ lists all current open known issues including a description of the issue, its sy
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
 - [Reproducible research using containers - introduction to Singularity/Apptainer](https://www.archer2.ac.uk/training/courses/230921-singularity/), University of Nottingham, 21 September 2023 09:30 - 16:00 BST 
 - [Shared memory programming with OpenMP](https://www.archer2.ac.uk/training/courses/230928-openmp/), Imperial College London, 28 - 29 September 2023 10:00 - 17:00 BST
+- [Building and installing packages with CMake: a hands-on introduction](https://www.archer2.ac.uk/training/courses/231004-cmake-vt/), online vt, Wednesday 4th October 2023 15:00 - 16:00 BST
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
 
