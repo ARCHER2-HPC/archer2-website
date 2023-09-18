@@ -1,5 +1,5 @@
 ---
-status: Scheduled
+status: Ongoing
 type: Partial
 start_date: 18 September 2023 09:00
 end_date: 22 September 2023 23:59
