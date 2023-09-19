@@ -230,7 +230,7 @@ Data Analytics, Data Science and Big Data are a just a few of the many terms use
 
 #### Efficient Parallel IO
 
-*Course length: 2 days. Course level: intermediate.*
+*Course length: 1 day. Course level: intermediate.*
 
 One of the greatest challenges to running parallel applications on large numbers of processors is how to handle file IO. Standard Unix IO routines are not designed with parallelism in mind, and IO overheads can grow to dominate the overall runtime. Parallel file systems are optimised for large volumes of data, but performance can be far from optimal if every process opens its own file or if all IO is funnelled through a single controller process.
 
