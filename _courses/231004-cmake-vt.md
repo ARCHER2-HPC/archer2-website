@@ -23,7 +23,7 @@ We will give an introduction to CMake from the point of view of a user attemptin
 
 Additionally, we will give a brief overview of how to develop a CMake package.
 
-
+Practical examples will be demonstrated on [Cirrus](https://www.cirrus.ac.uk/) but will be applicable to other platforms.
 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
