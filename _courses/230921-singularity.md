@@ -7,7 +7,7 @@ start_date: 2023-09-21 09:30:00
 end_date: 2023-09-21 16:00:00
 trainers: Andy Turner EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_message: 
 registration_url:  https://www.archer2.ac.uk/training/register/?course=230921-singularity
 location: University of Nottingham
@@ -105,7 +105,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -123,7 +123,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
