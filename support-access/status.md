@@ -12,9 +12,7 @@ banner: web_banners_03.jpg
 - [FAQ](#faq)
 - [Usage statistics](#usage-statistics)
 
-## ARCHER2 data centre network upgrade: 2023
 
-**ARCHER2 is currently inaccessible** due to a Data Centre Network upgrade which is taking place between Monday 18th - Friday 22nd September.  [Further details](https://docs.archer2.ac.uk/faq/network-upgrade-2023/)
 
 ## Current System Load - Full System
 
