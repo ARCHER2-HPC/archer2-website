@@ -1,17 +1,17 @@
 ---
 layout: post
 title: ARCHER2 Weekly Newsletter
-date: 2023-09-20 11:00:00
+date: 2023-09-27 11:00:00
 author: ARCHER2 Service
 tags: [newsletters] 
 categories: [news]
 ---
 
-- [Network Upgrade Maintenance]({{ page.url }}#network-upgrade-maintenance): Monday 18th September – Friday 22nd September
-- [RDFaaS File System]({{ page.url }}#rdfaas-file-system)
+- [Network Upgrade Maintenance completed]({{ page.url }}#network-upgrade-maintenance-completed)
 - [The 11th ARCHER2 and Exascale eCSE software development call and Early Career eCSE Panel Observers call]({{ page.url }}#the-11th-archer2-and-exascale-ecse-software-development-call-and-early-career-ecse-panel-observers-call)
+- [Building and installing packages with CMake: a hands-on introduction]({{ page.url }}#building-and-installing-packages-with-cmake-a-hands-on-introduction), Online webinar Wednesday 4th October 2023 15:00 - 16:00 BST
+- [RDFaaS File System]({{ page.url }}#rdfaas-file-system)
 - [Seminar - Structure and delivery format for Online HPC courses]({{ page.url }}#seminar---structure-and-delivery-format-for-online-hpc-courses) - 9th October 2023  11:30am - 1pm BST   Hybrid
-- [Reproducible research using containers - introduction to Singularity/Apptainer]({{ page.url }}#reproducible-research-using-containers---introduction-to-singularityapptainer), University of Nottingham, 21 September 2023 09:30 - 16:00 BST 
 - [Shared memory programming with OpenMP]({{ page.url }}#shared-memory-programming-with-openmp), Imperial College London, 28 - 29 September 2023 10:00 - 17:00 BST
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
@@ -20,32 +20,16 @@ categories: [news]
 
 
 
-## Network Upgrade Maintenance
+## Network Upgrade Maintenance completed
 
 Monday 18th September  09:00 – Friday 22nd September 
 
-There will be a major Data Centre Network (DCN) upgrade which will impact the external network connectivity at the Advanced Computing Facility (ACF). This essential upgrade work will significantly increase the reliability of our DCN and greatly simplify the deployment of new services and network changes to existing services.
+We are pleased to confirm that the Data Centre Network (DCN) upgrade work was completed successfully last week and ARCHER2 returned to full service on Friday afternoon.
+ 
+The relaxation of the restrictions on QoS have now been reverted to their normal values https://docs.archer2.ac.uk/user-guide/scheduler/#quality-of-service-qos
+ 
+We would welcome your feedback on whether you found the revised limits useful as we continually review limits for the QoS – please just drop an email in to the service desk support@archer2.ac.uk
 
-During the upgrade, users will be unable to connect to ARCHER2 via the login nodes and will not be able to access any  data on the system which includes the /home, /work, NVMe and RDFaaS (/epsrc and /general) file systems. The serial QoS will also be unavailable. 
-
-The compute nodes will still be available and jobs will run to ensure a good utilisation of the service during this outage.  
-
-The SAFE will be available during the outage but there will be reduced functionality due to the unavailability of the connection to ARCHER2 such as resetting of passwords or new account creation.
-
-[We have created a webpage with further details of the upgrade which will be updated throughout the upgrade process]( https://docs.archer2.ac.uk/faq/network-upgrade-2023/).
-
-The Service Desk will be available as usual throughout the outage and we will notify users as soon as ARCHER2 is returned to full service. We apologise for any inconvenience caused by this essential maintenance.
-
-
-## RDFaaS file system
-
-The RDFaaS (Research Data Facility as a Service) file systems provide additional capacity for projects to store data that is not currently required on the compute nodes but which is too large for the home file systems. 
-
-If you do not currently have access to the RDFaaS and would like access for your active ARCHER2 project then please [contact the Service Desk](mailto:support@archer2.ac.uk). 
-
-Further information for the RDFaaS can be [found in our documentation](https://docs.archer2.ac.uk/user-guide/data/#rdfaas-file-systems )
-
-Please note the RDFaaS is not currently available for NERC funded projects.
 
 
 ## The 11th ARCHER2 and Exascale eCSE software development call and Early Career eCSE Panel Observers call
@@ -67,8 +51,8 @@ More details of how to apply are available by following the link to the [eCSE ca
 A [recent webinar can be found on our website](https://www.archer2.ac.uk/training/courses/220428-ecse-webinar/) 
 which includes a walk through of the submission of a proposal.
 
-### ARCHER2 Early Career eCSE Panel Observers call
 
+### ARCHER2 Early Career eCSE Panel Observers call
 
 The eCSE Panel Meeting is the meeting where eCSE proposals are reviewed and decisions are made on which proposals to fund. As part of our commitment to encouraging and developing Early Career Researchers, we are offering a small number of places to such researchers to attend the eCSE panel meeting as Early Career Observers. The aim is to give Early Career Researchers a better insight into this competitive selection process, to assist them in the preparation of future funding proposals.
 
@@ -86,6 +70,29 @@ Deadline for final ARCHER2-eCSE11 submission: 16:00 on 31 Oct 2023
 Deadline for Early Career eCSE Panel Observers call: 16:00 on 10 Oct 2023
 
 
+## Building and installing packages with CMake: a hands-on introduction
+
+Online webinar Wednesday 4th October 2023 15:00 - 16:00 BST
+
+It is common on High Performance Computing machines to install software packages from source code. Many packages today make use of CMake, an open-source tool that automates the process of building, testing and packaging software.
+
+We will give an introduction to CMake from the point of view of a user attempting to install a CMake package. We will cover configuring, building and installing packages, introduce common good practices and highlight troubleshooting techniques.
+
+Additionally, we will give a brief overview of how to develop a CMake package.
+
+[Full details and join link](https://www.archer2.ac.uk/training/courses/231004-cmake-vt/)
+
+
+## RDFaaS file system
+
+The RDFaaS (Research Data Facility as a Service) file systems provide additional capacity for projects to store data that is not currently required on the compute nodes but which is too large for the home file systems. 
+
+If you do not currently have access to the RDFaaS and would like access for your active ARCHER2 project then please [contact the Service Desk](mailto:support@archer2.ac.uk). 
+
+Further information for the RDFaaS can be [found in our documentation](https://docs.archer2.ac.uk/user-guide/data/#rdfaas-file-systems )
+
+Please note the RDFaaS is not currently available for NERC funded projects.
+
 
 ## Seminar - Structure and delivery format for Online HPC courses
 
@@ -97,24 +104,6 @@ With the rapid move to wide scale use of online training kickstarted by the COVI
 
 [Further details and registration](http://www.universe-hpc.ac.uk/events/upcoming-events/2023-10-09_seminar-edinburgh/)
 
-
-
-## Reproducible research using containers - introduction to Singularity/Apptainer
-
-[University of Nottingham](https://www.archer2.ac.uk/training/locations/nottingham), 21 September 2023 09:30 - 16:00 BST 
-
-
-This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will introduce the use of Singularity/Apptainer containers but the material will be of use for whatever container technology you plan to, or end up, using. On completion of this course attendees should:
-
-- Have an understanding of what Singularity/Apptainer containers are, why they are useful and the common terminology used
-- Have a working Singularity/Apptainer installation on your local system to allow you to use containers
-- Understand how to use existing Docker/Singularity/Apptainer containers for common tasks
-- Be able to build your own Singularity/Apptainer containers by understanding both the role of a recipe in building containers, and the syntax used in Singularity/Apptainer recipes
-- Understand how to manage Singularity/Apptainer containers on your local system
-- Appreciate decisions that need to be made around containerising research workflows
-- Appreciate issues around reproducibility in software, understand how containers can address some of these issues and what the limits to reproducibility using containers are
-
-[Full details and registration](https://www.archer2.ac.uk/training/courses/230921-singularity/)
 
 
 ## Shared memory programming with OpenMP
@@ -142,7 +131,6 @@ lists all current open known issues including a description of the issue, its sy
 - [Message-passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/), Online, always-open self-service course
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, always-open self-service course
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
-- [Reproducible research using containers - introduction to Singularity/Apptainer](https://www.archer2.ac.uk/training/courses/230921-singularity/), University of Nottingham, 21 September 2023 09:30 - 16:00 BST 
 - [Shared memory programming with OpenMP](https://www.archer2.ac.uk/training/courses/230928-openmp/), Imperial College London, 28 - 29 September 2023 10:00 - 17:00 BST
 - [Building and installing packages with CMake: a hands-on introduction](https://www.archer2.ac.uk/training/courses/231004-cmake-vt/), online vt, Wednesday 4th October 2023 15:00 - 16:00 BST
 
