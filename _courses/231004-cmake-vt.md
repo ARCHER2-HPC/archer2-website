@@ -57,6 +57,25 @@ This online session is open to all. It will use the Blackboard Collaborate platf
     </div>
 
 
+
+
+  <div class="row ">	
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="https://github.com/EPCCed/cmake_webinar">
+          <strong>Practical Materials</strong><br/>
+          
+        </a>
+      </div>
+
+
+
+											
+    </div>
+
+
+
 <!--
 
 <h2><a name="video">Video</a></h2>
