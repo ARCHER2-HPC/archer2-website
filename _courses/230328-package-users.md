@@ -14,7 +14,7 @@ location_url:
 prace_course: false
 audience: [researcher]
 level: [introductory]
-video: true
+video: 
 ---
 
 This lesson provides an introduction to using ARCHER2 for users who:
