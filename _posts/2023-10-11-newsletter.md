@@ -9,7 +9,7 @@ categories: [news]
 
 
 
-- [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), online, 1st November 2023 1 November 2023 09:30 - 16:30 GMT
+- [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), online,  1 November 2023 09:30 - 16:30 GMT
 - [ARCHER2 User Survey 2023]({{ page.url }}#archer2-user-survey-2023)
 - [ARCHER2 Image and Video Competition 2023 results]({{ page.url }}#archer2-image-and-video-competition-2023-results)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
