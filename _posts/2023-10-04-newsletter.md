@@ -9,7 +9,7 @@ categories: [news]
 
 
 - [Building and installing packages with CMake: a hands-on introduction]({{ page.url }}#building-and-installing-packages-with-cmake-a-hands-on-introduction), Online webinar Wednesday 4th October 2023 15:00 - 16:00 BST TODAY
-- [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), online, 1st November 2023 1 November 2023 09:30 - 16:30 GMT
+- [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), online,  1 November 2023 09:30 - 16:30 GMT
 - [ARCHER2 User Survey 2023]({{ page.url }}#archer2-user-survey-2023)
 - [The 11th ARCHER2 and Exascale eCSE software development call and Early Career eCSE Panel Observers call]({{ page.url }}#the-11th-archer2-and-exascale-ecse-software-development-call-and-early-career-ecse-panel-observers-call)
 - [Seminar - Structure and delivery format for Online HPC courses]({{ page.url }}#seminar---structure-and-delivery-format-for-online-hpc-courses) - 9th October 2023  11:30am - 1pm BST   Hybrid
