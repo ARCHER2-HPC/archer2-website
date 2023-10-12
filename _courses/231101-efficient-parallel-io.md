@@ -32,6 +32,8 @@ The course does not teach the detailed syntax of the various parallel IO librari
 
 The course assumes an understanding of basic MPI programming in C, C++ or Fortran. Knowledge of MPI derived datatypes would be useful but not essential.
 
+All attendees will be given access to ARCHER2 for the duration of the course.
+
 ### Requirements:
 
 Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
