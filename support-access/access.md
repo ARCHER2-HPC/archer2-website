@@ -76,8 +76,8 @@ A list of any currently open calls through which you can apply for access to ARC
 
 	<tr>
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
-		<td></td>
-		<td></td>
+		<td>1 December 2023 at 4:00pm UK time</td>
+		<td>17 November 2023 at 4:00pm UK time </td>
 		<td>EPSRC remit only. <br/>
 		<b>Feasibility stream</b><br/>
 		&nbsp; - Maximum request of £1,000 notional value <br/>(for example, 5,000 CU, 33,000 CPUh or 1,000 GPUh)<br/>
