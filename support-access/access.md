@@ -25,7 +25,7 @@ This page has a number of sections:
 
 <a id="epsrc-grants"></a>
 ### Access through EPSRC grants and fellowships
-You can include ARCHER2 on EPSRC funding applicationns when you are applying for funding (if you already have an
+You can include ARCHER2 on EPSRC funding applications when you are applying for funding (if you already have an
 active grant then you should consider applying via one of the calls for ARCHER2 time only that are described
 above).
 
@@ -139,11 +139,10 @@ If a researcher's work is within remit of one of the Scientific Consortia, forme
 
 <a id="nerc"></a>
 ## NERC Remit
-NERC applicants should add ARCHER2 as a facility in Je-S, contact the relevant NERC science area leader and check the
+NERC applicants should add ARCHER2 as a facility in the UKRI Funding Service portal.  First contact the relevant NERC science area leader and check the
 current NERC policy on access. Full details are on the [NERC website](https://www.ukri.org/councils/nerc/facilities-and-resources/find-a-nerc-facility-or-resource/applying-to-use-high-performance-computing-services/). 
 
-Applicants within the NERC remit wishing to access ARCHER2 must contact the relevant consortia leader for advice
-ahead of submission. 
+Applicants within the NERC remit wishing to access ARCHER2 must contact the relevant consortia leader for advice ahead of submission. 
 
 
 <a id="ukri-calls"></a>
