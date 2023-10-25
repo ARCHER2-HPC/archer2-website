@@ -62,11 +62,11 @@ Wednesday 1st November 2023
 
 
 <!--
-[Schedule](https://github.com/EPCCed/archer2-parallelIO-2022-08-23#timetable-all-times-are-in-bst-gmt1)
+[Schedule](https://github.com/EPCCed/archer2-parallelIO-2022-11-01#timetable-all-times-are-in-bst-gmt1)
 -->
 <section id="service">
 
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -77,7 +77,7 @@ Wednesday 1st November 2023
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-parallelIO-2022-08-23   ">
+          href=" https://github.com/EPCCed/archer2-parallelIO-2023-11-01   ">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -95,7 +95,7 @@ Wednesday 1st November 2023
  	</div>
 		
 		
--->					
+				
 
 <!--
  		
