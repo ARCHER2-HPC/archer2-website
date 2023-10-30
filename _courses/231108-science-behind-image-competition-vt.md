@@ -2,7 +2,7 @@
 layout: course
 title: The Science behind the Image Competition 
 banner: web_banners_05.jpg
-human_dates: Wednesday 8nd November 2023  14:00 - 15:30 
+human_dates: Wednesday 8th November 2023  14:00 - 15:30 
 start_date: 2023-11-08 14:00:00
 end_date: 2023-11-08 15:30:00
 trainers: James Richings EPCC
