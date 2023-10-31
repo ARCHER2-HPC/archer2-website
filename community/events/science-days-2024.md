@@ -12,7 +12,7 @@ The event will provide the ARCHER2 community with the opportunities to share the
 
 The two day programme will include a variety of talks from members of the [ARCHER2 research consortia](https://www.archer2.ac.uk/research/consortia/) and other invited presenters involved in the ARCHER2 service.
 
-We invite users to submit their Poster for presentation - please complete the [ARCHER2 Science Days Poster submission from](ARCHER2_Science_Days_Poster_submission_form.docx) and email it to the [Events organisers](mailto:events@archer2.ac.uk).
+We invite users to submit their Poster for presentation - please complete the [ARCHER2 Science Days Poster submission form](ARCHER2_Science_Days_Poster_submission_form.docx) and email it to the [Events organisers](mailto:events@archer2.ac.uk).
 
 
 <section id="service">
