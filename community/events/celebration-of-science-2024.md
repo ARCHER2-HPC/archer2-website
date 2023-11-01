@@ -1,18 +1,29 @@
 ---
 layout: section
-title: ARCHER2 Science Days
+title: ARCHER2 Celebration of Science 
 summary:  7th - 8th March 2024
 banner: web_banners_07.jpg
 ---
 
+<!--
+![image]({{ site.baseurl }}/community/events/img/240307-celebration-of-science.jpg)
+{: .img-center style="width: 40%" alt="Celebration of Science"  }
+-->
 
-We are pleased to announce the upcoming event, ARCHER2 Science Days, will take place on 7th - 8th March 2024 in Edinburgh. 
+
+
+We are pleased to announce the upcoming event, ARCHER2 Celebration of Science, will take place on 7th - 8th March 2024 in Edinburgh. 
 
 The event will provide the ARCHER2 community with the opportunities to share the impactful outcomes and showcase the science success achieved on ARCHER2. Please use the following link for the registration.
 
 The two day programme will include a variety of talks from members of the [ARCHER2 research consortia](https://www.archer2.ac.uk/research/consortia/) and other invited presenters involved in the ARCHER2 service.
 
-We invite users to submit their Poster for presentation - please complete the [ARCHER2 Science Days Poster submission form](ARCHER2_Science_Days_Poster_submission_form.docx) and email it to the [Events organisers](mailto:events@archer2.ac.uk).
+We invite users to submit their Poster for presentation - please complete the [ARCHER2 Celebration of Science Poster submission form](ARCHER2_Celebration_of_Science_Poster_submission_form.docx) and email it to the [Events organisers](mailto:events@archer2.ac.uk).
+
+
+<p align="center">
+<img src="./img/240307-celebration-of-science.jpg"  alt="Celebration of Science" style="width: 80%">
+</p>
 
 
 <section id="service">
@@ -36,7 +47,7 @@ We invite users to submit their Poster for presentation - please complete the [A
 </section>
 		
 
-Event: **ARCHER2 Science Days**
+Event: **ARCHER2 Celebration of Science**
 
 Date: **7th - 8th March 2024**
 
@@ -82,4 +93,4 @@ Date: **7th - 8th March 2024**
 	
 -->
 
-We look forward to seeing many of you at the ARCHER2 Science Days in Edinburgh!
+We look forward to seeing many of you at the ARCHER2 Celebration of Science in Edinburgh!
