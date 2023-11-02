@@ -7,7 +7,7 @@ start_date: 2023-11-01 09:30:00
 end_date: 2023-11-01 16:30:00
 trainers: David Henty EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=231101-efficient-parallel-io
 location: Online
 location_url:
@@ -97,29 +97,34 @@ Wednesday 1st November 2023
 		
 				
 
-<!--
+
  		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/BesJednvy64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ufgzAOK8sF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 <h3>Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xA1OCqTeuu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Q2Slt-HIrns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/sMXZ4lgEyi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 
--->
 
-<!--
- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -138,7 +143,7 @@ Wednesday 1st November 2023
       </div>
     </div>
 		
--->		
+	
 
  
 </section>
