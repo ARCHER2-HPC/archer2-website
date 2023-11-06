@@ -17,7 +17,7 @@ banner: web_banners_07.jpg
 
 ## Registration and Call for Posters 
 
-We are pleased to announce that the ARCHER2 Celebration of Science will take place on 7th – 8th March 2024 in Edinburgh at South Hall, The University of Edinburgh. 
+We are pleased to announce that the ARCHER2 Celebration of Science will take place on the 7th – 8th March 2024 in Edinburgh at South Hall, The University of Edinburgh. 
 
 The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from members of the ARCHER2 research consortia and other invited presenters involved in the ARCHER2 service, a poster session and a panel session focusing on preparing the UK science community for future Exascale systems. All attendees are welcome to join the drink reception on the evening of the first day.  
 
@@ -49,7 +49,7 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href=" https://bit.ly/ARCHER2-Celebration-of-Science-Registration   ">
-          Please complete the Registration form to attend the <br/><strong>Celebration of Science</strong>         
+          Please complete the Registration form to attend the <br/><strong>ARCHER2 Celebration of Science</strong>         
         </a>
       </div>
 
@@ -63,23 +63,23 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 
 ## Call for Posters 
 
-We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science on the 7th - 8th March 2024. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx) and email it to events@archer2.ac.uk by **Tuesday 23rd January 2024**. 
+We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science on the 7th - 8th March 2024. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Tuesday 23rd January 2024**. 
 
  
 
-###   Poster Contents: 
+###   Poster Contents 
 
 Posters should demonstrate your work on ARCHER2, showcasing the science outcomes and impact achieved.  
 
  
 
-###    Submission Process and Key Dates: 
+###    Submission Process and Key Dates 
 
 -    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Tuesday 23rd January 2024**.  
 -    All submissions received will be reviewed and the abstracts for the accepted posters will be published on the ARCHER2 website.  
--    Notifications of acceptance will be sent out by Tuesday 6th February 2024.  
+-    Notifications of acceptance will be sent out by **Tuesday 6th February 2024**.  
 -    An electronic version of your poster (PDF file) should be submitted to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Thursday 7th March 2024**.  
--    Posters will be uploaded to the ARCHER2 repository on [Zenodo ](https://zenodo.org/communities/archer2). DOIs can be arranged as requested in your Poster Abstract Submission From <link>.  
+-    Posters will be uploaded to the ARCHER2 repository on [Zenodo ](https://zenodo.org/communities/archer2). DOIs can be arranged as requested in your [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx).  
 
 
 ###    Poster Format and Readability 
@@ -107,7 +107,7 @@ A prize of £200 will be awarded to the Best Poster. The winner will be announce
 
 ###    Contact 
 
-If you have any questions about the ARCHER2 Celebration of Science, and/or for the poster submission, please do not hesitate to contact the [Event Organisers by email events@archer2.ac.uk](mailto:events@archer2.ac.uk). 
+If you have any questions about the ARCHER2 Celebration of Science, and/or for the poster submission, please do not hesitate to contact the Event Organisers by email [events@archer2.ac.uk](mailto:events@archer2.ac.uk). 
 
  
 
