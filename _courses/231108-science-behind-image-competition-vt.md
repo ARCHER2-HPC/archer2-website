@@ -27,11 +27,11 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 Imperial College London, Aeronautical Engineering
 
-###  NACA0012 Turbulent Flow at 12 Degrees Angle of Attack 
+###  High Pressure Jet Engine Turbine Blade Transitional Flow  
 
-<img style="width: 55%; padding: 15px" src="https://live.staticflickr.com/65535/53192984627_94473dfc59_c_d.jpg" alt="NACA0012 Turbulent Flow at 12 Degrees Angle of Attack " />
+<img style="width: 55%; padding: 15px" src="https://live.staticflickr.com/65535/53193254094_d369c34dc7_c_d.jpg" alt="NACA0012 Turbulent Flow at 12 Degrees Angle of Attack " />
 
-The image shows the flow transitioning to turbulent right at the beginning of the NACA0012 aerofoil at 12 degrees angle of attack and a Reynolds number of 150000. The flow produces a very large separation region on the upper surface of the wing. This particular simulation was run using the Nektar++ incompressible flow solver on Archer2 nodes due to the very high resolution (polynomial order 11) required to be able to capture the small scales forming at the leading edge. During testing, it was seen that, incorrect physical behaviour would generally be achieved unless a very large amount of resources was not deployed. The overall aim of this study was to understand aerofoil post-stall behaviour. This is critical for micro-air vehicles and wind turbine blades 
+The image shows an implicit Large Eddy simulation of the LS89 high-pressure turbine blade, a component typically found at the exit of a jet engine combustor. The flow field accelerates rapidly over a very short distance. For these particular conditions, flow transitions to 3D around the leading edge of the blade as shown by the wall shear stresses. Gradual increase in strength of the flow instability causes the flow to transition to turbulence with vortices appearing at the trailing edge. The back plane displays the time averaged variation of Mach number ranging from a value of approximately 0.15 at the inlet to nearly 1 in the latter stages of the blade. The solution uses a second order polynomial expansion and was simulated on Archer2 deploying 100 nodes at a time. This work has been carried out in collaboration with Rolls-Royce plc. 
 
 
 ## Dr Max Holloway and Dr Dmitry Aleynik
