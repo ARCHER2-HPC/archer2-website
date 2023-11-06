@@ -89,7 +89,7 @@ We recommend you produce a poster of A0 portrait paper size (841 mm x 1189 mm) o
 
 ###    Attending and Presenting at the ARCHER2 Celebration of Science 
 
-All poster presenters should register to attend the event using the [Registration Form](https://bit.ly/ARCHER2-Celebration-of-Science-Registration "Registration form")
+All poster presenters should register to attend the event using the [Registration Form](https://bit.ly/ARCHER2-Celebration-of-Science-Registration "Registration form").
 
  
 
