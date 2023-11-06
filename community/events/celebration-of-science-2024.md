@@ -24,7 +24,7 @@ The event will provide ARCHER2 users with the opportunity to showcase their scie
 
 The event is in-person and there is no registration fee. Please [register here](https://bit.ly/ARCHER2-Celebration-of-Science-Registration "Registration form") to participate.  
 
-
+**The registration deadline is 29th February 2024**. 
 
 
 
@@ -39,7 +39,7 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 
 [Accessible Guide](https://www.accessable.co.uk/venues/south-hall-complex )
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8938.230887727672!2d-3.1696047!3d55.9397048!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b87e1d27d98f%3A0xa04a3830d14ae922!2sJohn%20McIntyre%20Conference%20Centre%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1693912397444!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8938.63510169289!2d-3.1696381!3d55.9379531!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b880c677627b%3A0x35e0a7189a01b57c!2sSouth%20Hall%20Complex%2C%20Pollock%20Halls%2C%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1699281768140!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 <section id="service">
@@ -49,7 +49,7 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
           href=" https://bit.ly/ARCHER2-Celebration-of-Science-Registration   ">
-          <strong>Please complete the Registration form to attend the Science Days</strong>         
+          Please complete the Registration form to attend the <br/><strong>Celebration of Science</strong>         
         </a>
       </div>
 
@@ -58,12 +58,12 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 </section>
 
 
-The registration deadline is 29th February 2024. 
+
 
 
 ## Call for Posters 
 
-We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science. Please complete the Poster Abstract Submission Form <link> and email it to events@archer2.ac.uk by Tuesday 23rd January 2024. 
+We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science on the 7th - 8th March 2024. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx) and email it to events@archer2.ac.uk by **Tuesday 23rd January 2024**. 
 
  
 
@@ -75,19 +75,17 @@ Posters should demonstrate your work on ARCHER2, showcasing the science outcomes
 
 ###    Submission Process and Key Dates: 
 
--    Please complete the Poster Abstract Submission Form <link> and send it to events@archer2.ac.uk by Tuesday 23rd January 2024.  
+-    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Tuesday 23rd January 2024**.  
 -    All submissions received will be reviewed and the abstracts for the accepted posters will be published on the ARCHER2 website.  
 -    Notifications of acceptance will be sent out by Tuesday 6th February 2024.  
--    An electronic version of your poster (PDF file) should be submitted to events@archer2.ac.uk by Thursday 7th March 2024.  
--    Posters will be uploaded to the ARCHER2 repository on Zenodo (https://zenodo.org/communities/archer2). DOIs can be arranged as requested in your Poster Abstract Submission From <link>.  
+-    An electronic version of your poster (PDF file) should be submitted to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Thursday 7th March 2024**.  
+-    Posters will be uploaded to the ARCHER2 repository on [Zenodo ](https://zenodo.org/communities/archer2). DOIs can be arranged as requested in your Poster Abstract Submission From <link>.  
 
- 
 
 ###    Poster Format and Readability 
 
 We recommend you produce a poster of A0 portrait paper size (841 mm x 1189 mm) or A1 landscape paper size (841 mm x 594 mm). Please use accessible and easily readable fonts as well as accessible colour palettes to make it clear and easy to read for everyone.  
 
- 
 
 ###    Attending and Presenting at the ARCHER2 Celebration of Science 
 
@@ -101,13 +99,11 @@ Each poster presenter will need to print your own poster and bring it to the eve
 
 All posters will be displayed during the 2-day event. A Lightning Talk session will be scheduled when each poster presenter will give a brief (~3-5 mins) talk on the content of their poster. There will also be a poster session when the poster presenters will be able to stand beside their posters and discuss their work with other event attendees. 
 
- 
 
 ###    Prize 
 
 A prize of £200 will be awarded to the Best Poster. The winner will be announced on the 8th March 2024.  
 
- 
 
 ###    Contact 
 
