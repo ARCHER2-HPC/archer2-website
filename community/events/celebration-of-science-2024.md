@@ -47,7 +47,7 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
     <div class="row ">	
  		
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
+        <a class="ar2_linkbox ar2_linkbox-teal" 
           href=" https://bit.ly/ARCHER2-Celebration-of-Science-Registration   ">
           Please complete the Registration form to attend the <br/><strong>ARCHER2 Celebration of Science</strong>         
         </a>
