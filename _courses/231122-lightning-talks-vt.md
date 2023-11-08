@@ -31,7 +31,7 @@ Realistic ML benchmarks are a useful means for checking the performance of compl
 Python, MPI, and GPU support. We show how to use the MLPerf CosmoFlow benchmark on ARCHER2 using a centrally-installed
 TensorFlow (Lmod) module.
 
-## The roofline plot
+## Roofline Models with Intel Advisor
 
 The roofline plot can be a succinct way to identify underperforming elements within your code. Further, such a plot shows whether
 a particular element (e.g., subroutine, function or loop) is under the memory-bound or compute-bound rooflines, thereby indicating
