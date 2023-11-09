@@ -40,5 +40,7 @@ Two versions of the ARCHER2 Driving Test are available - they are of equal diffi
 
 
 
-
+Please note that all completed tests are checked manually by a member of the Training team. <br/>
+We try to do this, and get back to you, within **4 working days**. If you have not heard from us after 5 days please get in touch via the [ARCHER2 Service desk](mailto:support@archer2.ac.uk).<br/>
+If you have passed you will receive an email with a certificate and, if eligible, an invitation to sign up for an ARCHER2 account.
 
