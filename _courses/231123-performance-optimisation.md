@@ -2,7 +2,7 @@
 layout: course
 title: Single Node Performance Optimisation
 banner: web_banners_05.jpg 
-human_dates: 23 - 24 November 2023  09:30 - 16:30  GMT
+human_dates: 23 - 24 November 2023  09:30 - 17:30  GMT
 start_date: 2023-11-23 09:30:00
 end_date: 2023-11-24 16:30:00
 trainers: Mark Bull, Adrian Jackson EPCC
@@ -40,13 +40,30 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-- Day 1: 23rd November 9:30-17:30, 
+- Day 1: 23rd November 9:30-17:30
+ - 09.30 – 09.45 Introduction
+ - 09.45 – 10.30 Node Architecture
+ - 10.30 – 11.00 Practical – memory performance
+ - 11.00 – 11.30 Break
+ - 11.30 – 12.30 Profiling
+ - 12.30 – 13.00 Practical – profiling 
+ - 13.00 – 14.00 Break
+ - 14.00 – 15.00 Optimising with the compiler
+ - 15.00 – 15.30 Break
+ - 15.30 – 17.00 Practical – profiling and optimization
+ - 17.00 – 17.10 Summary
+ - 17.10 – 17.30 Practical – profiling and optimization
+ 
 - Day 2: 24th November 9:30-16:00
-
+ - 09.30 – 11.00 OpenMP optimisation
+ - 11.00 – 11.30 Break
+ - 11.30 – 12.30 Practical – OpenMP optimisation 
+ - 12.30 – 13.30 Break
+ - 13.30 – 15.00 Vectorisation, Memory Hierarchy Optimisation
+ - 15.00 – 15.30 Break
+ - 15.30 – 16.00 Practical – memory and cache blocking 
 
 <section id="service">
-
-<!--
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -57,12 +74,12 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="  https://github.com/EPCCed/single-node-optimisation-course/tree/2022-12-13  ">
+          href="  https://github.com/EPCCed/single-node-optimisation-course/tree/2023-11-23  ">
           <strong>Course materials</strong>         
         </a>
       </div>
 
-
+<!--
  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -70,12 +87,12 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
           <strong>Course Chat</strong>       
         </a>
       </div>
-		
+-->		
  
  	</div>
 		
 		
--->					
+
 
 <!--
  		
