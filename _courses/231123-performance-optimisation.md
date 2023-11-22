@@ -41,36 +41,34 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 #### Timetable:
 
 - Day 1: 23rd November 9:30-17:30
- - 09.30 – 09.45 Introduction
- - 09.45 – 10.30 Node Architecture
- - 10.30 – 11.00 Practical – memory performance
- - 11.00 – 11.30 Break
- - 11.30 – 12.30 Profiling
- - 12.30 – 13.00 Practical – profiling 
- - 13.00 – 14.00 Break
- - 14.00 – 15.00 Optimising with the compiler
- - 15.00 – 15.30 Break
- - 15.30 – 17.00 Practical – profiling and optimization
- - 17.00 – 17.10 Summary
- - 17.10 – 17.30 Practical – profiling and optimization
+  - 09.30 – 09.45 Introduction
+  - 09.45 – 10.30 Node Architecture
+  - 10.30 – 11.00 Practical – memory performance
+  - 11.00 – 11.30 Break
+  - 11.30 – 12.30 Profiling
+  - 12.30 – 13.00 Practical – profiling 
+  - 13.00 – 14.00 Break
+  - 14.00 – 15.00 Optimising with the compiler
+  - 15.00 – 15.30 Break
+  - 15.30 – 17.00 Practical – profiling and optimization
+  - 17.00 – 17.10 Summary
+  - 17.10 – 17.30 Practical – profiling and optimization
  
 - Day 2: 24th November 9:30-16:00
- - 09.30 – 11.00 OpenMP optimisation
- - 11.00 – 11.30 Break
- - 11.30 – 12.30 Practical – OpenMP optimisation 
- - 12.30 – 13.30 Break
- - 13.30 – 15.00 Vectorisation, Memory Hierarchy Optimisation
- - 15.00 – 15.30 Break
- - 15.30 – 16.00 Practical – memory and cache blocking 
+  - 09.30 – 11.00 OpenMP optimisation
+  - 11.00 – 11.30 Break
+  - 11.30 – 12.30 Practical – OpenMP optimisation 
+  - 12.30 – 13.30 Break
+  - 13.30 – 15.00 Vectorisation, Memory Hierarchy Optimisation
+  - 15.00 – 15.30 Break
+  - 15.30 – 16.00 Practical – memory and cache blocking 
 
 <section id="service">
 
 <h2><a name="materials">Course materials</a></h2>
 
 
-
     <div class="row ">	
-
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
@@ -78,21 +76,15 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
           <strong>Course materials</strong>         
         </a>
       </div>
-
-<!--
  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/221213-performance-optimisation ">
+          href="https://pad.archer2.ac.uk/p/231123-performance-optimisation ">
           <strong>Course Chat</strong>       
         </a>
       </div>
--->		
  
- 	</div>
-		
-		
-
+    </div>				
 
 <!--
  		
