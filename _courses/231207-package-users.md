@@ -46,7 +46,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-[Schedule](https://epcced.github.io/archer2-intro-package/#schedule)
+[Schedule](https://epcced.github.io/2023-12-07_ARCHER2PackageIntro_Online/#schedule)
 
 <section id="service">
 
@@ -61,7 +61,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://epcced.github.io/archer2-intro-package/  ">
+          href=" https://epcced.github.io/2023-12-07_ARCHER2PackageIntro_Online/ ">
           <strong>Course materials</strong>         
         </a>
       </div>
