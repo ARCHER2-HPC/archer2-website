@@ -2,9 +2,9 @@
 layout: course
 title: ARCHER2 for Software Developers
 banner: web_banners_05.jpg 
-human_dates: 11 - 12 December 2023  10:00 - 16:00  GMT
-start_date: 2023-12-11 10:00:00
-end_date: 2023-12-11 16:00:00
+human_dates: 8 December 2023  10:00 - 16:00  GMT   (Rescheduled from 11-12 December 2023)
+start_date: 2023-12-08 10:00:00
+end_date: 2023-12-08 16:00:00
 trainers: William Lucas EPCC
 course_type: course
 registration_status: open
@@ -17,24 +17,20 @@ level: [introductory]
 video: 
 ---
 
+
 #### Description:
 
-The lesson aims to answer the following questions:
+This course will continue on from the [ARCHER2 for Package Users course on 7th December](https://www.archer2.ac.uk/training/courses/231207-package-users/) and will focus on the 
 
--     What hardware is available on ARCHER2?
--         What does they consist of (login nodes, compute nodes, file systems, backup)?
--         How does this impact me as a user?
--     How can I access ARCHER2 interactively and transfer data?
 -     What does the ARCHER2 application development environment look like and how do I use it?
--     How do I write job submission scripts and submit them to the ARCHER2 scheduler?
--     How can I be a good ARCHER2 citizen?
--     How can I check what resources I am using and look at historical usage?
+
 
 
 #### Target Audience:
 
 This lesson provides an introduction to using ARCHER2 for user who:
 
+-     have already completed the [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/231207-package-users/) course
 -     have already used other HPC systems; and
 -     want to compile (and possibly) develop HPC software on ARCHER2.
 
