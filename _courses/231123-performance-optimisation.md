@@ -14,7 +14,7 @@ location_url:
 prace_course: 
 audience: [developer]
 level: [advanced]
-video: 
+video: true
 ---
 
 
