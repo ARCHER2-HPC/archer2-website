@@ -2,8 +2,8 @@
 layout: course
 title: ARCHER2 for Software Developers
 banner: web_banners_05.jpg 
-human_dates: 8 December 2023  10:00 - 16:00  GMT   (Rescheduled from 11-12 December 2023)
-start_date: 2023-12-08 10:00:00
+human_dates: 7 - 8 December 2023  10:00 - 16:00  GMT   (Rescheduled from 11-12 December 2023)
+start_date: 2023-12-07 09:30:00
 end_date: 2023-12-08 16:00:00
 trainers: William Lucas EPCC
 course_type: course
