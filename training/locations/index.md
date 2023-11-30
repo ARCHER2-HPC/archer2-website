@@ -15,6 +15,7 @@ banner: web_banners_05.jpg
 * [Heriot-Watt The National Robotarium](hw-robotarium)
 * [Imperial College London](imperial)
 * [Imperial College London - Dept of Electrical and Electronic Engeneering](imperial-elec-eng)
+* [University of Liverpool](liverpool)
 * [Newcastle University](newcastle)
 * [University of Nottingham](nottingham)
 * [The Open University, Milton Keynes](open-mk)
