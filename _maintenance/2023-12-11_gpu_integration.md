@@ -1,9 +1,10 @@
 ---
 status: Planned
-type: Outage
+type: Full
 start_date: TBC
 end_date: 
-scope: Full system including login nodes, compute nodes, file systems
+quarter: Q4 2023
+system: ARCHER2
 impact: Users will be unable to connect to ARCHER2 and will not have access to data on ARCHER2   
 reason: Integrating the GPU nodes into ARCHER2
 ---
