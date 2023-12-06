@@ -7,7 +7,7 @@ tags: [newsletters]
 categories: [news]
 ---
 
-- [ARCHER2 MFA Implementation](#mfa-implementation)
+- [ARCHER2 MFA Implementation]({{ page.url }}#mfa-implementation)
 - [ARCHER2 Celebration of Science]({{ page.url }}#archer2-celebration-of-science)
 - [ARCHER2 Calendar 2024]({{ page.url }}#archer2-calendar-2024---sign-up-for-your-copy) - sign up for your copy
 - [ARCHER2 User Survey 2023]({{ page.url }}#archer2-user-survey-2023) - £50 Amazon voucher prize draw
