@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 Weekly Newsletter
-date: 2023-11-29 11:00:00
+date: 2023-12-06 11:00:00
 author: ARCHER2 Service
 tags: [newsletters] 
 categories: [news]
@@ -14,7 +14,6 @@ categories: [news]
 - [Forge license boost]({{ page.url }}#forge-license-boost) - w/b 11th December
 - [ARCHER2 for Package Users]({{ page.url }}#archer2-for-package-users), Online, 7 December 2023 09:30 - 15:30 GMT 
 - [ARCHER2 for Software Developers]({{ page.url }}#archer2-for-software-developers), Online, RESCHEDULLED 7 - 8 December 2023 10:00 - 16:00 GMT
-- [ISC’24 Student Volunteer Program]({{ page.url }}#isc24-student-volunteer-program)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
@@ -22,11 +21,9 @@ categories: [news]
 
 
 
-
-
 ## MFA Implementation 
 
-To enhance the security of ARCHER2, we will be implementing mandatory multi-factor authentication (MFA) on the ARCHER2 service on Wednesday 6th December. This will take place between 0900 and 1000 and an email will be sent once the implementation has taken place.
+To enhance the security of ARCHER2, we have implemented mandatory multi-factor authentication (MFA) on the ARCHER2 service on Wednesday 6th December. 
 
 We appreciate that this will be a change of process for all users but implementing MFA significantly increases the security of accounts, and therefore helps keep your personal and research data secure.
 
@@ -38,8 +35,8 @@ https://epcced.github.io/safe-docs/safe-for-users/#how-to-turn-on-mfa-on-your-ma
 The documentation includes how to set this up without the need of a personal smartphone device.
 
 We have also updated the ARCHER2 documentation with details of the
- [new connection process](https://docs.archer2.ac.uk/user-guide/connecting-totp/)  and 
-[quickstart guide](https://docs.archer2.ac.uk/quick-start/quickstart-users-totp/)
+ [new connection process](https://docs.archer2.ac.uk/user-guide/connecting/)  and 
+[quickstart guide](https://docs.archer2.ac.uk/quick-start/quickstart-users/)
 
 We will have additional support available during the rollout period but please take the time to read and follow the documentation carefully. If there are any issues or concerns please [contact us](mailto: support@archer2.ac.uk).
 
@@ -126,18 +123,6 @@ The lesson follows on from the above Package User course and aims to answer the 
 
 
 
-## ISC’24 Student Volunteer Program
-
-
-ENCOURAGE YOUR STUDENT to BECOME A STUDENT VOLUNTEER
-
-The call for applications for the ISC’24 Student Volunteer Program opens on December 1. The ISC High Performance 2024 conference will be held in 12-14 May, in Hamburg, Germany. Being a volunteer is a wonderful opportunity for the students to experience one of the biggest HPC conferences, giving them access to world-class speakers, cutting-edge technology, and unparalleled networking opportunities. The volunteers are only responsible for covering their travel expenses. 
-
-If you know any students who might be interested in applying, please make them aware of this opportunity! The program offers a unique blend of experience, learning, and networking that can significantly impact their career trajectory. For more information please visit the [relevant ISC’24 pages]( https://www.isc-hpc.com/student-volunteer-program-2024.html)
-
-
-
-
 ## Recently added known issues
  
 The "[Known Issues](https://docs.archer2.ac.uk/known-issues/)" page of the ARCHER2 Documentation
@@ -154,6 +139,8 @@ lists all current open known issues including a description of the issue, its sy
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course <br><br>
 - [ARCHER2 for Package Users](https://www.archer2.ac.uk/training/courses/231207-package-users/), online, 7 December 2023 09:3 - 15:30 GMT
 - [ARCHER2 for Software Developers](https://www.archer2.ac.uk/training/courses/231211-software-developers/), online, RESCHEDULED 7th - 8th December 2023 10:00 - 16:00 GMT
+- [Advanced use of LAMMPS](https://www.archer2.ac.uk/training/courses/240117-advanced-lammps/), Online, 17 January 2024 09:30 - 16:30 GMT 
+- [HPC Carpentry](https://www.archer2.ac.uk/training/courses/240118-hpc-carpentry/), Liverpool, 18 - 19 January 2024 09:30 - 16:00 BST 
 - [Advanced OpenMP](https://www.archer2.ac.uk/training/courses/240123-advanced-openmp/), online, 23 - 24 January 2024 09:00 - 17:00 GMT
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
