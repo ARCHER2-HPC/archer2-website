@@ -9,7 +9,7 @@ trainers: Juan Herrera EPCC
 course_type: course
 registration_status: open
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240118-hpc-carpentry
-location: Doodson Room, NOC, 6 Brownlow Street, Liverpool L3 5DA
+location: Wall Bank Lecture Room (also known as SACE WBLT), School for Archaeology, Classics and Egyptology building, 12 Abercromby Square, Liverpool L69 7WZ
 location_url: https://www.archer2.ac.uk/training/locations/liverpool
 prace_course: 
 audience: [ researcher, data-scientist, developer ]
