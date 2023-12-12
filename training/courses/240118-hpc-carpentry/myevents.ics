@@ -23,14 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20231130T152731Z
+DTSTAMP:20231212T112757Z
 UID:1701358036712-95958@ical.marudot.com
 DTSTART;TZID=Europe/London:20240118T093000
 RRULE:FREQ=DAILY;COUNT=2
 DTEND;TZID=Europe/London:20240118T160000
 SUMMARY:ARCHER2 Training: HPC Carpentry Liverpool
 DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/240118-hpc-carpentry/\n\nVenue: https://www.archer2.ac.uk/training/locations/liverpool
-LOCATION:Doodson Room\, NOC\, 6 Brownlow Street\, Liverpool L3 5DA
+LOCATION:Wall Bank Lecture Room (also known as SACE WBLT).  School for Archaeology\, Classics and Egyptology building\, 12 Abercromby Square\, Liverpool L69 7WZ.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ARCHER2 Training: HPC Carpentry Liverpool
