@@ -2,7 +2,7 @@
 layout: course
 title: HPC Carpentry
 banner: web_banners_05.jpg 
-human_dates: 18 - 19 January 2024 09:30 - 16:00  BST
+human_dates: 18 - 19 January 2024 09:30 - 16:00  GMT
 start_date: 2024-01-18 09:30:00
 end_date: 2024-01-19 16:00:00
 trainers: Juan Herrera EPCC
