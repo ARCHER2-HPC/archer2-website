@@ -79,7 +79,7 @@ For this lesson, we expect attendees to be familiar with LAMMPS. We will not be 
 
 ## HPC Carpentry
 
-Liverpool, 18 - 19 January 2024 09:30 - 16:00 BST
+Liverpool, 18 - 19 January 2024 09:30 - 16:00 GMT
 
 This two-day course introduces accessing remote advanced computing facilities via the command line and High Performance Computing (HPC). The first day will introduce how to use the shell in a HPC context. The second day will cover how to use HPC systems effectively. Please note that the first day is optional in case you’re already familiar with the shell.
 
