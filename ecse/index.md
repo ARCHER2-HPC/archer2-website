@@ -64,7 +64,6 @@ The RSE may be based at the institution of the PI, at a third party institution,
    <tr><td>9th: ARCHER2 eCSE09</td><td>6 Dec 2022</td><td>16:00 on 21 Feb 2023</td><td>16:00 on 14 Mar 2023</td></tr>
    <tr><td>10th: ARCHER2 eCSE10</td><td>18 Apr 2023</td><td>16:00 on 23 May 2023</td><td>16:00 on 13 Jun 2023</td></tr>
    <tr><td>11th: ARCHER2 eCSE11</td><td>12 Sep 2023</td><td>16:00 on 10 Oct 2023</td><td>16:00 on 31 Oct 2023</td></tr>
-   <tr><td>12th: ARCHER2 eCSE12</td><td>9 Jan 2024</td><td> </td><td>16:00 on 19 Mar 2024</td></tr>
    </tbody>
   </table>
 </div>
