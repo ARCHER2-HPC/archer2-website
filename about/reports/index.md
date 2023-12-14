@@ -21,12 +21,12 @@ The User Survey reports contain both the numerical satisfaction scores and the c
 
 * [ARCHER2 User Survey 2021/2022](UserSurvey_Report_2022.v1.0.pdf)
 
-
+<!--
 ## Annual Reports
 
 Annual reports give a high-level overview of the highlights of the whole service in the reporting period.
+-->
 
-<img src="{{ site.baseurl }}/img/certificates/InformationSecuritySys_ISOIEC27001_col.jpg" alt="Iso 27001" title="Iso 27001" align="right" width="15%"  />
 
 ## Quarterly Reports
 
@@ -34,7 +34,9 @@ Quarterly reports include both a written report summarising work done in the qua
 
 Quarterly reports cover the Service Provision (SP) and Computational Science and Engineering (CSE) parts of the service.
 
+<img src="{{ site.baseurl }}/img/certificates/InformationSecuritySys_ISOIEC27001_col.jpg" alt="Iso 27001" title="Iso 27001" align="right" width="15%"  />
 ###  2023
+
 
 * [Quarter 3 2023](quarterly/2023/2023_Q3/)
 * [Quarter 2 2023](quarterly/2023/2023_Q2/)
