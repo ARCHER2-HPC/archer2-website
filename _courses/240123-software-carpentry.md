@@ -42,7 +42,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+[Schedule](https://epcced.github.io/2024-01-23-newcastle/#schedule)
 
 <section id="service">
 
