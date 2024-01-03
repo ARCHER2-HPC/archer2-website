@@ -13,10 +13,6 @@ banner: web_banners_03.jpg
 - [Usage statistics](#usage-statistics)
 
 
-## ARCHER2 Festive Period
-
-[The ARCHER2 Service Desk will observe the UK Public holidays and will be closed for Christmas Day, Boxing Day and New Year’s Day](https://www.archer2.ac.uk/news/2023/12/14/archer2-festive-period.html).
-
 ## Current System Load - Full System
 
 The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
