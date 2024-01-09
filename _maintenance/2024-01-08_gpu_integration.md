@@ -1,5 +1,5 @@
 ---
-status: Completed
+status: Ongoing
 type: Full
 start_date: 2024-01-08 09:00
 end_date: 2024-01-09 10:00
