@@ -1,7 +1,7 @@
 ---
 status: Planned
 type: Partial
-start_date: 2024-01-09 10:00
+start_date: 2024-01-09 12:00
 end_date: 2024-01-09 17:00
 quarter: Q1 2024
 system: ARCHER2
