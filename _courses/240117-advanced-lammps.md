@@ -46,12 +46,11 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 09:30 - 16:30
 
-Details to follow
+[Schedule](https://epcced.github.io/archer2-advanced-use-of-lammps/#schedule)
 
 <section id="service">
 
- 
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -62,7 +61,7 @@ Details to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="  ">
+          href="https://epcced.github.io/archer2-advanced-use-of-lammps/  ">
           <strong>Course materials</strong> 
         </a>
       </div>
@@ -80,7 +79,7 @@ Details to follow
  	</div>
 		
 		
--->					
+				
 
 <!--
  		
