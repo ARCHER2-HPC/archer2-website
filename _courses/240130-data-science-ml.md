@@ -7,7 +7,7 @@ start_date: 2024-01-30 09:30:00
 end_date: 2024-01-31 15:30:00
 trainers: Adam Carter EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240130-data-science-ml
 location: Online
 location_url:
