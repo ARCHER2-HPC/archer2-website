@@ -28,6 +28,13 @@ The event is in-person and there is no registration fee. Please [register here](
 
 
 
+<p align="center">
+<a href="#call-for-posters"><img src="../../img/splash/240307-celebration-of-science-poster.jpg"  alt="Celebration of Science poster abstract deadline" style="width: 50%"></a>
+</p>
+
+
+
+
 <h2><a name="materials">Registration</a></h2>
 	
 
@@ -63,7 +70,9 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 
 ## Call for Posters 
 
-We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science on the 7th - 8th March 2024. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Tuesday 23rd January 2024**. 
+We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science on the 7th - 8th March 2024. 
+
+**Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by Tuesday 23rd January 2024.**
 
  
 
