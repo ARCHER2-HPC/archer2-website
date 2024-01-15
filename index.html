@@ -137,7 +137,7 @@ permalink: /
           <ul>
             {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date >= site.time" %}
 						{% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}					
-            {% for course in nothidden_courses limit:10 %}
+            {% for course in nothidden_courses limit:14 %}
             <li>
               <a href="{{ course.url }}">{{ course.title }}</a><br/>Date: {{ course.human_dates }}<br/>Location: {{ course.location }} 
             </li>
