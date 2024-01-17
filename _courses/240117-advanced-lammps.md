@@ -7,7 +7,7 @@ start_date: 2024-01-17 09:30:00
 end_date: 2024-01-17 16:30:00
 trainers: 
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=240117-advanced-lammps
 location: Online
 location_url:
