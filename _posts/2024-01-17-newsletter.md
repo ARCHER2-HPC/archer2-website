@@ -11,6 +11,7 @@ categories: [news]
 - [ARCHER2 Celebration of Science]({{ page.url }}#archer2-celebration-of-science---poster-abstract-due-23rd-january) - poster abstract due 23rd January
 - [Advanced OpenMP]({{ page.url }}#advanced-openmp), Online, 23 - 24 January 2024 09:00 - 17:00 GMT
 - [Software Carpentry]({{ page.url }}#software-carpentry), Newcastle, 23 - 25 January 2024 09:30 - 17:00 GMT
+- [WHPC@ISC 2024]({{ page.url }}#whpcisc-2024): Call for Posters
 - [Upcoming change to SAFE Institutional login]({{ page.url }}#upcoming-change-to-safe-institutional-login)
 - [ARCHER2 User Survey 2023]({{ page.url }}#archer2-user-survey-2023) - £50 Amazon voucher prize draw 
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
@@ -80,6 +81,30 @@ Software Carpentry aims to help researchers get their work done in less time and
 Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
 [Further details and registration](https://www.archer2.ac.uk/training/#upcoming-training)
+
+
+## WHPC@ISC 2024: 
+### Call for Posters at the International Women in HPC Workshop: Diversifying the HPC Community and Engaging Allies, held in conjunction with ISC High Performance Conference
+
+Date : Monday, May 13 - Wednesday, May 15, 2024
+Location : Hamburg, Germany
+Poster submission deadline : January 22, 2024, AoE
+
+[Submission information](https://www.isc-hpc.com/submissions-whpc-posters-2024.html)
+
+WHPC is officially collaborating with ISC24 with our poster session now being a part of the official ISC posters track! 
+
+The WHPC poster session at ISC is dedicated to women and individuals from underrepresented groups who are students or are in the early stages of their HPC careers, typically within the first 5 years post-graduation or via a career transition into the field of supercomputing.
+
+We are welcoming a wide range of themes, from technical to non-technical subjects. Examples include early research and projects, reproducibility, career experiences, diversity and inclusion in HPC, and more. 
+
+Successful submissions to this session offer unique advantages:
+
+1) WHPC Travel Fellowships: Two **£3,000** travel grants are available for successful authors who would not be able to attend the conference otherwise.
+2) Mentorship Support: You will receive guidance and support in polishing your poster and presentation.
+3) Lightning Talk Opportunity: Showcase your work on stage during the Poster Pitch Session, gaining valuable exposure.
+
+Good luck, and we hope to see you presenting in Hamburg in May!
 
 
 ## Upcoming change to SAFE Institutional login
