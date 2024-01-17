@@ -37,12 +37,12 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 09:00 - 17:00
 
-Details to follow
+[Schedule](https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2024-01-23/#course-timetable)
 
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -53,7 +53,7 @@ Details to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2024-01-23   ">
+          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2024-01-23/  ">
           <strong>Course materials</strong> 
         </a>
       </div>
@@ -71,7 +71,7 @@ Details to follow
  	</div>
 		
 		
--->					
+				
 
 <!--
  		
