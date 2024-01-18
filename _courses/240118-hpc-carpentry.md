@@ -58,7 +58,14 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+- 09:30 Course
+- 11:00 Morning Break
+- 11:15 Course
+- 12:15 Lunch Break
+- 13:15 Course
+- 14:45 Afternoon Break
+- 15:00 Course
+- 16:00 End
 
 <section id="service">
 
