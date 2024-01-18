@@ -1,27 +1,27 @@
 ---
 layout: section
-title: ARCHER2 Embedded CSE (eCSE) support Call
+title: GPU Embedded CSE (eCSE) support Call
 summary: Details of open calls
 banner: web_banners_06.jpg
 ---
 
-<img src="eCSE11-timeline.png" alt="eCSE11 Timeline"
-	title="eCSE11 Timeline" width="925"/>
+<img src="GPU-eCSE01-timeline.png" alt="GPU eCSE01 Timeline"
+	title="GPU eCSE01 Timeline" width="925"/>
 	
-Please see the [timetable](timetable.html) for the dates of recent, current and upcoming calls.
+### The first GPU eCSE call and Early Career eCSE Panel Observers call 
 
-### The 11th ARCHER2 eCSE call and Early Career eCSE Panel Observers call 
+GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. We invite proposals to develop software that facilitates research targeted at UKRI’s digital research infrastructure e.g. future Exascale supercomputing services, UK national AI services, national Tier-2 HPC services. The call is open to research across all of UKRI’s remit.
 
-The 11th ARCHER2 eCSE call (ARCHER2 eCSE11) opened on the **12 Sep 2023**. The deadline for submitting documents for technical evaluations is **16:00 on 10 Oct 2023**, and the final deadline for proposal submission is **16:00 on 31 Oct 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is **16:00 on 10 Oct 2023**. 
+The GPU eCSE call (GPU-eCSE01) opened on the **17 Jan 2024**. The final deadline for proposal submission is **16:00 on 19 Mar 2024** via the ARCHER2 SAFE. Please note that for this call there is no separate technical evaluation stage or separate technical evaluation form. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is **16:00 on 27 Feb 2024**.
 
-### ARCHER2 eCSE call
+### GPU eCSE call
 
-Through a series of regular calls, Embedded CSE (eCSE) support provides funding to the ARCHER2 user community to develop software in a sustainable manner, to run on the ARCHER2 system, or to prepare for a future Exascale successor. Projects targeting a future GPU platform are welcome, as are projects looking at any aspect of preparing the ARCHER2 software stack for Exascale.  Note projects that only target improvements for existing platforms (other than ARCHER2), rather than preparing for future Exascale systems, are not in scope.
+Funding will enable the employment of an RSE (a Research Software Engineer, PDRA or equivalent) to work specifically on the relevant software to enable new features or improve the performance of the software to be run on GPU-based architectures. Funding can be requested for up to 36 person months of effort per project for a duration of up to 2 calendar years. There is flexibility in the way the effort is requested. For example, a project may have more than one person working on it or the effort could be spread over a greater number of calendar months, i.e. a staff member could work on the project at less than 100% alongside other commitments or it could be worked on by a staff member who doesn't work full time. Please just get in contact with the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk) if you wish to discuss possible scenarios. Projects are expected to start between 2-6 months after a call closes.
 
-Funding will enable the employment of an RSE (a Research Software Engineer, PDRA or equivalent) to work specifically on the relevant software to enable new
-features or improve the performance of the code.
+The GPU eCSE programme is administered by EPCC through ARCHER2, the UK National HPC Service. However, applications are not limited to projects targeting the GPU component of ARCHER2. Projects may utilise other GPU resources within the UK digital research infrastructure. 
 
-Funding can be requested for up to 18 person months of effort per project. There is flexibility in the way the effort is requested. For example, a project may have more than one person working on it or the effort could be spread over a greater number of calendar months, i.e. a staff member could work on the project at less than 100% alongside other commitments or it could be worked on by a staff member who doesn't work full time. Please just get in contact with the [ARCHER2 Service Desk](mailto:support@archer2.ac.uk) if you wish to discuss possible scenarios.
+The text below gives an overview of the call but all applicants should read the [the guidance for submitting a
+proposal](GPU_eCSE01_ApplicationGuidance.pdf) to this call in full.
 
 ### Early Career eCSE Panel Observers call
 
@@ -29,14 +29,12 @@ One of the aims of the eCSE programme is to provide support for
 researchers in the early stages of their careers and we will be offering
 a small number of early career researchers the opportunity to attend
 the eCSE panel meeting as observers. Please see the call information
-[here](../observers/). Please see the [recent blog article](https://www.archer2.ac.uk/news/2023/01/18/ecse-ec-obs.html) describing the experience of attending a panel meeting.
+[here](../observers/). Please see the [recent blog article](https://www.archer2.ac.uk/news/2023/01/18/ecse-ec-obs.html) describing the experience of attending a panel meeting from a similar programme.
 
-### Application process and guidance for the eCSE call
+### Application process and guidance for the GPU eCSE call
 
-Applying for an eCSE project under ARCHER2 is via a 2-stage submission
-process where technical evaluation documents must be submitted for
-evaluation by the first deadline above in advance of the final
-submission. Any project members (PI, Co-I and technical staff) must
+Applications for a GPU eCSE project must be completed and submitted via the ARCHER2 SAFE. 
+Any project members (PI, Co-I and technical staff) must
 have been invited by the proposal owner to join a project and have
 accepted the invitation in time for the final submission. Proposals
 cannot be submitted without technical staff. All technical staff must
@@ -54,74 +52,56 @@ is made clear in the proposal. Please see the guidance document for
 further information about this.
 
 Please follow the links here for [the guidance for submitting a
-proposal](ARCHER2_eCSE11_ApplicationGuidance.pdf) to this call, along
-with [the technical evaluation
-form](ARCHER2_eCSE11_TechnicalEvaluation.docx) and [the project
-proposal template](ARCHER2_eCSE11_ProposalTemplate.docx). Each call
+proposal](GPU_eCSE01_ApplicationGuidance.pdf) to this call, along
+with [the project
+proposal template](GPU_eCSE01_ProposalTemplate.docx). Each call
 has its own guidance document and associated forms. Please ensure that the
 correct guidance and forms are used for this call.
 
 If your eCSE proposal is selected for funding, you will be provided
 with an award letter and will be asked to agree to the [eCSE
-Terms.](../Terms/ARCHER2_eCSE_Terms.pdf)
+Terms.](../Terms/ARCHER2_GPU_eCSE_Terms.pdf)
 in advance of submitting your eCSE proposal. Please get in touch via
 the ARCHER2 service desk if you have any questions about this. 
 
-
 ### Scope of eCSE call
 
-Examples of eCSE work for ARCHER2 could be:
+Examples of GPU eCSE work could be:
 
-* Implementation of algorithmic improvements within an existing code
-  in a portable manner
+- Transforming existing software that targets CPU architectures into software that can exploit GPU-based architectures (in part or in full)
 
-* Improving the scalability of software on higher core counts in a
-  portable manner
+- Implementation of algorithmic improvements within existing GPU software
 
-* Improving a code to enhance sustainability and maintainability
+- Improving the portability of GPU software (e.g. converting CUDA-based software to run on a wider range of architectures)
 
-* Improvements to code that allow new science to be carried out on
-  ARCHER2
+- Improving the performance of software running on GPU-based architectures
 
-* Migrating, porting and optimising a code in significant use by an
-  EPSRC community to run efficiently on ARCHER2
+- Improving the scalability of software to enable effective use of an increased number of GPUs
 
-* Adding new functionalities to existing codes
+  -E.g. making software that can run on a single GPU able to exploit multiple GPUs in parallel or making single-node, multi-GPU software scale better across multiple nodes with GPUs
 
-* Code development to take a code from a Tier-2 (Regional) or local
-  university cluster to ARCHER2
+- Improving GPU-based software to enhance sustainability and maintainability
 
-Examples of work targeting future Exascale systems could be:
+- Improvements to GPU-based software to allow new research to be carried out
 
-* Code development to take a code from ARCHER2 to a likely exascale successor of ARCHER2 - e.g. improvements to parallelisation or improvements to I/O
-
-* Improving the resiliency of a code to deal with issues that are likely to arise when scaling up to larger systems such as Exascale
-
-* GPU development to enable codes to run efficiently on Exascale systems with a GPU component
+- Adding new functionalities to existing GPU-based software or enhancing existing GPU software for use in new research areas/workflows
 
 Note the above are just examples and not a comprehensive list. Please get in touch if you have any questions.
 
-
-Funding will be prioritised for projects which can evidence how they
-complement, support and enable research in the existing EPSRC
+Funding will be prioritised for projects which can demonstrate how they
+complement, support and enable research in the existing UKRI
 portfolio and the strategic aims of the research council.
 
-During the course of the project applicants will get access to ARCHER2 including the upcoming GPU component. Please note that projects requiring access to the upcoming GPU component cannot begin until this is available. These projects are expected to start from 1st January 2024 onwards. The expectation is that the outputs of an eCSE project are made available on ARCHER2 (either the CPU or GPU components). If this is not possible this should be explained in the proposal.
+Projects may utilise the GPU component of ARCHER2 or other suitable GPU resources to complete the technical work. If the proposal plans to use the GPU component of ARCHER2, successful projects will be given access to these resources. If projects plan to utilise other systems, you should ensure you have suitable resources available to complete the project successfully. Please contact and arrange this access with the relevant service provider before submission.
 
 ### Funding and eligibility
 
-Funding is available either for improving software to run efficiently on the current ARCHER2 system, or for preparing the current ARCHER2 software stack for future Exascale successors of ARCHER2. The overall goal is enable ARCHER2 software to deliver better science on the current ARCHER2 system or its successors. Please note that only software which results in research which is within the remit of EPSRC is eligible for this call.
-
-Proposals preparing for a future Exascale successor to ARCHER2 should clearly explain why an Exascale system will be of benefit for their science, how the proposed work will prepare for Exascale, and why the proposed work will benefit the ARCHER2 community now or in the future.
-
 Funding can be requested for staff located at the institution of the PI, third parties, or can include staff from
 the centralised CSE support team or a mixture of the above. Funding
-can be requested for between 1 and 18 person months in total. Staff
-employed on an eCSE project are expected to play a full part in
-ARCHER2 related activities.
+can be requested for between 1 and 36 person months in total. 
 
 Reasonable travel will be funded for travel within the UK to meetings
-with other project partners.
+with other project partners. In addition to this, travel funds may be requested to send each technical member of staff to one national or international conference or workshop to help disseminate their work on the project. 
 
 When submitting your proposal, all costs must be included in your
 submission. Please ensure your budget is accurate and inclusive of all
@@ -129,78 +109,33 @@ costs before submission and that you provide a costing
 breakdown. Please see the guidance document for details of allowable
 costs and associated documents.
 
-### Computing Resources
-
-Successful projects will be given an allocation of 800 CU of ARCHER2
-resources per 6 months of eCSE person month awarded and/or access to the upcoming GPU development platform as required. This time is awarded to allow you to successfully complete your development project. It's not for production science.
-
-### Training
-
-Regular training will be provided via the CSE team. Details of
-upcoming training courses can be found on the [Training page](../../training/).
-
 ### Application and Review Process
 
 Information and guidelines on how to apply for eCSE funding can be
-found [in our Application Guidance document](ARCHER2_eCSE11_ApplicationGuidance.pdf). Proposals
-undergo a two-stage process. A technical evaluation is performed first
-with completed forms being passed back to applicants in time for
-including in the final submission. After final submission, all
-proposal documents, including the completed technical evaluation
-forms, will then be passed to the review panel who will make decisions
+found [in our Application Guidance document](GPU_eCSE01_ApplicationGuidance.pdf).
+After final submission, all proposal documents will then be passed to the review panel who will make decisions
 on ranking and any award of funding.
 
-The [eCSE technical evaluation form](ARCHER2_eCSE11_TechnicalEvaluation.docx) should be
-submitted to the ARCHER service desk
-[support@archer2.ac.uk](mailto:support@archer2.ac.uk). The [proposal
-template](ARCHER2_eCSE11_ProposalTemplate.docx) 
+The [proposal
+template](GPU_eCSE01_ProposalTemplate.docx) 
 should be submitted via the [ARCHER2
-SAFE](https://safe.epcc.ed.ac.uk/) together with the completed
-Technical Evaluation document.
+SAFE](https://safe.epcc.ed.ac.uk/).
 
-The eCSE team recently presented a webinar giving an overview of the eCSE scheme and application 
-process, including a [walk-through of completing the application form](https://www.archer2.ac.uk/training/courses/220428-ecse-webinar/).
 
 ### Reports and eCSE staff requirements
 
 A detailed technical report is required at the end of the project. A
-template is provided for the report will be made available on the
-ARCHER2 website. Upon conclusion of the project, in addition to the
-detailed technical section, a section aimed at the non-specialist is
-required explaining the aims and successes of the project together
-with the scientific and any other impacts of the work. PIs and/or
-project technical staff are expected to give a least one webinar of
-the work achieved.
+template is provided for the report will be provided to successful candidates.
+
 
 ### Intellectual Property
 
-IPR will belong to the project, although the expectation is that any
-EPSRC-funded code development will be made available to the wider
-community via a new release of the software.
-
-### Acknowledging ARCHER2
-
-You should use the following phrase to acknowledge ARCHER2 in all
-research outputs that have used the facility and the eCSE Programme:
-
-This work was funded under the embedded CSE programme of the ARCHER2
-UK National Supercomputing Service (http://www.archer2.ac.uk).
-
-You should also tag outputs with the keyword ARCHER2 whenever
-possible.
-
-### Contact
-
-The ARCHER2 CSE team can be contacted via the ARCHER2 service desk [support@archer2.ac.uk](mailto:support@archer2.ac.uk).
+IPR will belong to the project, alt.g. converting CUDA-based software to run on a wider range of architectures)
 
 ### Links and documents
 
-* [Application Guidance](ARCHER2_eCSE11_ApplicationGuidance.pdf)
+- [The guidance for submitting a proposal](GPU_eCSE01_ApplicationGuidance.pdf)
 
-* [Technical evaluation form](ARCHER2_eCSE11_TechnicalEvaluation.docx)
+- The [proposal template](GPU_eCSE01_ProposalTemplate.docx) 
 
-* [Project Proposal template](ARCHER2_eCSE11_ProposalTemplate.docx)
-
-* [eCSE projects funded](../panels/)
-
-* [eCSE Terms](../Terms/ARCHER2_eCSE_Terms.pdf)
+- The [Terms document](../Terms/ARCHER2_GPU_eCSE_Terms.pdf)

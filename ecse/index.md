@@ -32,15 +32,29 @@ summary: ARCHER2 Embedded CSE (eCSE) support to improve software on ARCHER2.
   </div>
 </section>
 
-## eCSE Programme Overview
 
-Through a series of regular calls, Embedded CSE (eCSE) support provides funding to the ARCHER2 user community to develop software in a sustainable manner, to run on the ARCHER2 system, or to prepare for a future Exascale successor. Projects targeting a future GPU platform are welcome, as are projects looking at any aspect of preparing the ARCHER2 software stack for Exascale. Note projects that only target improvements for existing platforms (other than ARCHER2), rather than preparing for future Exascale systems, are not in scope. 
+## [GPU eCSE software development calls](calls/).
 
-The funding allows the employment of a Research Software Engineer (RSE) to carry out software development of ARCHER2 software, or work targeting a future Exascale successor. This development work may include but is not limited to the implementation of algorithmic improvements, improvements to scalability, portability, sustainability or maintainability, or may include the addition of new functionality to a code which in turn will allow new science to be carried out. For work targeting future Exascale systems, this may include but is not limited to GPU development, improvements to the resiliency of the code, or improvements to parallelisation or I/O likely to be required at Exascale.
+We are very pleased to announce a new programme of eCSE calls focussing on GPU development. GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. We invite proposals to develop software that facilitates research targeted at UKRI’s digital research infrastructure e.g. future Exascale supercomputing services, UK national AI services, national Tier-2 HPC services. The call is open to research across all of UKRI’s remit. The GPU eCSE call (GPU-eCSE01) opened on the **17 Jan 2024**. The final deadline for proposal submission is **16:00 on 19 Mar 2024** via the ARCHER2 SAFE. Plese see the [GPU eCSE call information](calls/) for further information.
 
-The RSE may be based at the institution of the PI, at a third party institution, or can include staff from the centralised CSE support team, or the project may use a mixture of the above.
+
+## ARCHER2 eCSE software development calls
+
+Through a series of regular calls, Embedded CSE (eCSE) support has provided funding to the ARCHER2 user community to develop software in a sustainable manner, to run on the ARCHER2 system, and more recently to prepare for a future Exascale successor.
+
+There are currently no ARCHER2 eCSE calls open but please do take a look at [recently completed projects](reports/)
+
+[Older projects funded under the ARCHER service](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php)
+
+
+## [eCSE Observers call](observers/)
+
+One of the aims of the eCSE programme is to provide support for researchers in the early stages of their careers and we will be offering a small number of early career researchers the opportunity to attend the eCSE panel meeting as observers. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is **16:00 on 27 Feb 2024**. Please see the [eCSE observer call information](../observers/) for further details.
+
 
 ## Upcoming eCSE Calls
+
+Note future dates are provisional and subject to change depending on earlier demand and future funding.
 
 <div class="table-responsive">
   <table class="table table-striped">
@@ -64,21 +78,14 @@ The RSE may be based at the institution of the PI, at a third party institution,
    <tr><td>9th: ARCHER2 eCSE09</td><td>6 Dec 2022</td><td>16:00 on 21 Feb 2023</td><td>16:00 on 14 Mar 2023</td></tr>
    <tr><td>10th: ARCHER2 eCSE10</td><td>18 Apr 2023</td><td>16:00 on 23 May 2023</td><td>16:00 on 13 Jun 2023</td></tr>
    <tr><td>11th: ARCHER2 eCSE11</td><td>12 Sep 2023</td><td>16:00 on 10 Oct 2023</td><td>16:00 on 31 Oct 2023</td></tr>
+   <tr><td>GPU eCSE01</td><td>17 Jan 2024</td><td>N/A</td><td>19 Mar 2024</td></tr>
+   <tr><td>GPU eCSE02</td><td>Spring 2024</td><td>N/A</td><td>Summer 2024</td></tr>
+   <tr><td>GPU eCSE03</td><td>Autumn 2024</td><td>N/A</td><td>Late 2024</td></tr>
+   <tr><td>GPU eCSE04</td><td>Early 2025</td><td>N/A</td><td>Early 2025</td></tr>
+
    </tbody>
   </table>
 </div>
-
-## Current Call Information
-
-The 11th ARCHER2 eCSE call (ARCHER2 eCSE11) opened on the **12 Sep 2023**. The deadline for submitting documents for technical evaluations is **16:00 on 10 Oct 2023**, and the final deadline for proposal submission is **16:00 on 31 Oct 2023**. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is 16:00 on **10 Oct 2023**. 
-
-Further details on the [eCSE Calls page](calls/).
-
-## Previous eCSE Projects
-
-The list of all previous eCSE projects funded under the ARCHER2 service can be found on the [eCSE Panels page](panels/).
-
-[Older projects funded under the ARCHER service](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php)
 
 
 
