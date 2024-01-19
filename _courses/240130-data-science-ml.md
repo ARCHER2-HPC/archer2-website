@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Introduction to Data Science & Machine Learning 
+title: Introduction to Data Science & Machine Learning - fully booked and waiting list closed
 banner: web_banners_05.jpg 
 human_dates: 30 - 31 January 2024  09:30-16:35 and  09:30-14:40 GMT
 start_date: 2024-01-30 09:30:00
 end_date: 2024-01-31 15:30:00
 trainers: Adam Carter EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240130-data-science-ml
 location: Online
 location_url:
