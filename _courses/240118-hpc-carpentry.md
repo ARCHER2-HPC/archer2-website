@@ -7,7 +7,7 @@ start_date: 2024-01-18 09:30:00
 end_date: 2024-01-19 16:00:00
 trainers: Juan Herrera EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240118-hpc-carpentry
 location: Wall Bank Lecture Room (also known as SACE WBLT), School for Archaeology, Classics and Egyptology building, 12 Abercromby Square, Liverpool L69 7WZ
 location_url: https://www.archer2.ac.uk/training/locations/liverpool
