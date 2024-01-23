@@ -14,7 +14,8 @@ banner: web_banners_06.jpg
 - [7th ARCHER2 eCSE call (eCSE07)](#7th-archer2-ecse-call-ecse07)
 - [8th ARCHER2 eCSE call (eCSE08)](#8th-archer2-ecse-call-ecse08)
 - [9th ARCHER2 eCSE call (eCSE09)](#9th-archer2-ecse-call-ecse09)
-- [10th ARCHER2 eCSE call (eCSE09)](#10th-archer2-ecse-call-ecse10)
+- [10th ARCHER2 eCSE call (eCSE10)](#10th-archer2-ecse-call-ecse10)
+- [11th ARCHER2 eCSE call (eCSE11)](#11th-archer2-ecse-call-ecse11)
 
 ## 1st ARCHER2 eCSE call (eCSE01)
 
@@ -286,7 +287,7 @@ Panel meeting 23 November 2021 (virtual meeting)
 
 - *ARCHER2-eCSE05-6 PI: Dr Wenqiang Zhang (University of Nottingham) "Acceleration of a 3D multiphase flow solver for icing simulation"* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *ARCHER2-eCSE05-8 PI: Dr Ian J Bush (STFC) "Introducing Spin-Orbit Coupling into MPPCRYSTAL"* (12 months)  [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+- *ARCHER2-eCSE05-8 PI: Dr Ian J Bush (STFC) "Introducing Spin-Orbit Coupling into MPPCRYSTAL"* (12 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 
 - *ARCHER2-eCSE05-9 PI: Dr Jianping Meng (STFC) "Implementation of the Discrete Unified Gas Kinetic Scheme in Code_Saturne targeting Exascale"* (10 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
 
@@ -523,10 +524,61 @@ Panel meeting 29 June 2023 (virtual meeting)
 
 ### Projects funded from the 10th eCSE call
 
-- *ARCHER2-eCSE10-1 PI: Dr Sylvain Laizet Imperial CollegeReducing data movements in the CFD solver Xcompact3d for optimised performance on ARCHER2* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE10-1 PI: Dr Sylvain Laizet (Imperial College) Reducing data movements in the CFD solver Xcompact3d for optimised performance on ARCHER2* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *ARCHER2-eCSE10-2 PI: Dr Hannah Menke Heriot-Watt UniversityGeoChemFoam – A fully-parallel pore-scale physics numerical solver package for the energy transition* (12 months)
+- *ARCHER2-eCSE10-2 PI: Dr Hannah Menke (Heriot-Watt University) GeoChemFoam – A fully-parallel pore-scale physics numerical solver package for the energy transition* (12 months)
 
-- *ARCHER2-eCSE10-3 PI: Prof Alfredo Pinelli City University, LondonIncorporating machine-learned Non-Newtonian closures into the DNS/LES code SUSA* (8 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE10-3 PI: Prof Alfredo Pinelli (City University, London) Incorporating machine-learned Non-Newtonian closures into the DNS/LES code SUSA* (8 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *ARCHER2-eCSE10-4 PI: Prof Yves Wiaux Heriot-WattExtreme-scale Parallelisation in Computational Imaging (EPCI)* (18 months)
+- *ARCHER2-eCSE10-4 PI: Prof Yves Wiaux (Heriot-Watt University) Extreme-scale Parallelisation in Computational Imaging (EPCI)* (18 months)
+
+## 11th ARCHER2 eCSE call (eCSE11)
+
+Panel meeting 5 December 2023 (virtual meeting)
+
+### Panel Members
+
+- Walter Lioen [Chair] (SURF)
+- Sue Thorne (STFC)
+- Charles Laughton (University of Nottingham)
+- Chris-Kriton Skylaris (University of Southampton)
+- James Grant (AWS)
+- Sharon Ashbrook (University of St Andrews)
+- Jack Betteridge (Imperial College London)
+
+
+### eCSE Team
+
+- Chris Johnson (EPCC)
+- Xu Guo (EPCC)
+- Catherine Inglis (EPCC)
+- Lorna Smith (EPCC)
+
+### ARCHER2 Service Representatives
+
+- William Lucas (EPCC)
+- Harvey Richardson (Cray HPE)
+
+### UKRI
+
+- Richard Bailey (EPSRC)
+
+### Early Career Observers
+
+- Robert A Lawrence (University of York)
+- Ajay Harish (University of Manchester)
+
+### Projects funded from the 11th eCSE call
+
+- *ARCHER2-eCSE11-1 PI: Dr Oliver T Brown (University of Edinburgh) BDQS* (9 months)
+- *ARCHER2-eCSE11-2 PI: Dr Tobias Weinzierl (University of Durham) ExaHyPE-DSL* (16 months)
+- *ARCHER2-eCSE11-3 PI: Dr Panagiotis Tsoutsanis (Cranfield University) Evolving UCNS3D CFD Software to Heterogeneous Exascale Systems via OpenMP* (12 months) [[UKTC](https://www.ukturbulence.co.uk/)]
+- *ARCHER2-eCSE11-5 PI: Dr. Jialin Su (Loughborough University) Implementation of conservative level set method for multiphase simulation in spectral/hp element framework Nektar++* (18 months) 
+- *ARCHER2-eCSE11-7 PI: Dr David M Lewis (University of Liverpool) High Performance Algorithms for the Computation of the Hardy Function - Dissemination & Development* (5 months)
+- *ARCHER2-eCSE11-9 PI: Prof Hugo van der Hart (Queen's University Belfast) Enhanced parallelisation for R-matrix with time-dependence, double ionisation.* (4.8 months)
+- *ARCHER2-eCSE11-10 PI: Prof Benedict Leimkuhler (School of Mathematics) Orthogonal splittings in OpenMM for efficient high-throughput molecular dynamics* (6 months) [[HECBioSim](https://www.hecbiosim.ac.uk/)]
+- *ARCHER2-eCSE11-11 PI: Prof Graeme Ackland (University of Edinburgh) Machine-Learned Interatomic Potentials Tadah!* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *ARCHER2-eCSE11-12 PI: Dr Kevin Stratford (The University of Edinburgh) GPU implementation of colloidal suspensions* (9 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
+- *ARCHER2-eCSE11-14 PI: Prof Reinhard Maurer (University of Warwick) Implementation of scalable numeric atomic-orbital-based QM-in-QM embedding in FHI-aims* (14 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
+- *ARCHER2-eCSE11-15 PI: Dr Zhihua Xie (Cardiff University) Large-eddy simulation of complex multiphase fluid-structure interactions* (18 months)
+- *ARCHER2-eCSE11-16 PI: Prof Ilian T Todorov (Daresbury Laboratory) Sustainable software for mesoscopic scale simulation* (9 months)
