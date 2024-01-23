@@ -47,9 +47,9 @@ There are currently no ARCHER2 eCSE calls open but please do take a look at [rec
 [Older projects funded under the ARCHER service](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php)
 
 
-## [eCSE Observers call](../observers/)
+## [eCSE Observers call](observers/)
 
-One of the aims of the eCSE programme is to provide support for researchers in the early stages of their careers and we will be offering a small number of early career researchers the opportunity to attend the eCSE panel meeting as observers. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is **16:00 on 27 Feb 2024**. Please see the [eCSE observer call information](../observers/) for further details.
+One of the aims of the eCSE programme is to provide support for researchers in the early stages of their careers and we will be offering a small number of early career researchers the opportunity to attend the eCSE panel meeting as observers. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is **16:00 on 27 Feb 2024**. Please see the [eCSE observer call information](observers/) for further details.
 
 
 ## Upcoming eCSE Calls
