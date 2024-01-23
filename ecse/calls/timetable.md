@@ -31,7 +31,10 @@ The following table shows the planned timetable of eCSE calls for the coming few
    <tr><td>9th: ARCHER2 eCSE09</td><td>6 Dec 2022</td><td>16:00 on 21 Feb 2023</td><td>16:00 on 14 Mar 2023</td></tr>
    <tr><td>10th: ARCHER2 eCSE10</td><td>18 Apr 2023</td><td>16:00 on 23 May 2023</td><td>16:00 on 13 Jun 2023</td></tr>
    <tr><td>11th: ARCHER2 eCSE11</td><td>12 Sep 2023</td><td>16:00 on 10 Oct 2023</td><td>16:00 on 31 Oct 2023</td></tr>
-   <tr><td>12th: ARCHER2 eCSE12</td><td>5 Dec 2023</td><td>16:00 on 20 Feb 2024</td><td>16:00 on 12 Mar 2024</td></tr>
+   <tr><td>GPU eCSE01</td><td>17 Jan 2024</td><td>N/A</td><td>19 Mar 2024</td></tr>
+   <tr><td>GPU eCSE02</td><td>Spring 2024</td><td>N/A</td><td>Summer 2024</td></tr>
+   <tr><td>GPU eCSE03</td><td>Autumn 2024</td><td>N/A</td><td>Late 2024</td></tr>
+   <tr><td>GPU eCSE04</td><td>Early 2025</td><td>N/A</td><td>Early 2025</td></tr>
    </tbody>
   </table>
 </div>
