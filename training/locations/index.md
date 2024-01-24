@@ -9,6 +9,7 @@ banner: web_banners_05.jpg
 
 * [EPCC](epcc.html)
 * [Alan Turing Institute London](ati.html)
+* [Birmingham](birmingham)
 * [Cardiff University](cardiff)
 * [Edinburgh Napier University](napier-merchiston)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
