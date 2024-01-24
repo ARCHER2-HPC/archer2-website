@@ -7,7 +7,7 @@ start_date: 2024-01-23 09:30:00
 end_date: 2024-01-25 17:00:00
 trainers: Juan Herera
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240123-software-carpentry
 location: Barbara Strang Teaching Centre (room 3.30) in The Bedson Building, Newcastle
 location_url: https://www.archer2.ac.uk/training/locations/newcastle
@@ -93,7 +93,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -111,7 +111,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+	
 
  
 </section>

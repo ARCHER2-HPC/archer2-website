@@ -7,7 +7,7 @@ start_date: 2024-01-23 09:00:00
 end_date: 2024-01-24 17:00:00
 trainers: Mark Bull EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=240123-advanced-openmp
 location: Online
 location_url:
@@ -120,7 +120,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 -->
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -141,7 +141,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
--->
+
  
 </section>
 
