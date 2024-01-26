@@ -42,27 +42,28 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 - **Day 1**: 30th January 09:30-16:35
 - **Day 2**: 31st January 09:30-14:40 (Lecturer will remain online for questions & discussions until 15:30)
 
+[Schedule](https://github.com/EPCCed/archer2-intro-ds-and-ml#course-timetable)
 
 <section id="service">
 
-<!-- 
+ 
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+ 
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href=" https://github.com/EPCCed/archer2-intro-ds-and-ml  ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/240130-data-science-ml">
@@ -70,7 +71,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
