@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Introduction to Data Science & Machine Learning - fully booked and waiting list closed
+title: Introduction to Data Science & Machine Learning 
 banner: web_banners_05.jpg 
 human_dates: 30 - 31 January 2024  09:30-16:35 and  09:30-14:40 GMT
 start_date: 2024-01-30 09:30:00
@@ -93,7 +93,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -111,7 +111,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
