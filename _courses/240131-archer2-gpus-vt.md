@@ -16,7 +16,6 @@ video:
 ecse:
 ---
 
-**Please note: The date for this webinar is provisional and will be confirmed once the GPU installation and integration works are all successfully completed.**
 
 This user webinar will discuss the new GPU nodes and will have EPCC and HPE staff available to answer questions
 
