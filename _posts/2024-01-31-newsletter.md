@@ -9,11 +9,13 @@ categories: [news]
 
 - [ARCHER2 GPUs webinar]({{ page.url }}#archer2-gpus-webinar), online, 31st January 2024 14:00 - 16:00 GMT - TODAY
 - [GPU eCSE software development call and associated Early Career Observer call]({{ page.url }}#gpu-ecse-software-development-call-and-associated-early-career-observer-call) 
-- [ARCHER2 GPU eCSE software development call webinar](archer2-gpu-ecse-software-development-call-webinar)
+- [ARCHER2 GPU eCSE software development call webinar]({{ page.url }}#archer2-gpu-ecse-software-development-call-webinar)
+- [Solid State File System (NVMe)]({{ page.url }}#solid-state-file-system-nvme)
+- [RDFaaS : /epsrc and /general file systems]({{ page.url }}#rdfaas--epsrc-and-general-file-systems)
 - [ARCHER2 Celebration of Science]({{ page.url }}#archer2-celebration-of-science) 
 - [ARCHER2 User Survey 2023]({{ page.url }}#archer2-user-survey-2023) - Last chance - closes today
 - [Data Analysis and Visualisation in Python]({{ page.url }}#data-analysis-and-visualisation-in-python), online, 7 - 8 February 2024 09:30 - 17:00 GMT
-- [Data Carpentry]({{ page.url }}#data-carpentry), online, 12 - 15 Feb{{ page.url }}#ruary 2024 09:30 - 13:00 GMT
+- [Data Carpentry]({{ page.url }}#data-carpentry), online, 12 - 15 February 2024 09:30 - 13:00 GMT
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
@@ -70,6 +72,33 @@ There is presently a GPU eCSE software development call open as detailed below. 
 This online session is open to all.
 
 [Full details and join link](https://www.archer2.ac.uk/training/courses/240208-gpu-ecse-vt)
+
+
+## Solid State File System (NVMe)
+
+As you may be aware, your ARCHER2 project has access to the solid state NVMe file system. 
+The solid state (NVMe) file system now has a `/scratch` usage policy. 
+
+All files that have not been accessed in the last 28 days will be purged. This implementation starts on 28th Feb 2024, i.e. any files not accessed since 1st Feb 2024 will be purged on 28th Feb 2024.   
+
+You can identify which files you own that are candidates to be purged using the following find command:<br/>
+`find /mnt/lustre/a2fs-nvme/work/<project code> -atime +28 -type f -print`
+
+For example, if your account is in project t01, you would use:<br/>
+`find /mnt/lustre/a2fs-nvme/work/t01 -atime +28 -type f -print`
+
+[Further details for the NVMe file system can be found in the docs](https://docs.archer2.ac.uk/user-guide/data/#solid-state-nvme-file-system)
+
+If you would like access to the NVMe file system, please [contact the Service Desk](mailto:support@archer2.ac.uk)
+
+
+## RDFaaS : /epsrc and /general file systems
+
+Full Maintenance: Wed 7th Feb 0900 - Thurs 8th Feb 1700 
+
+There will be a full maintenance to the E1000 to allow software updates to take place. This means that the /epsrc and /general file systems will be unavailable during this time and users will be unable to access data stored on these file systems. 
+
+Please contact the [service desk](mailto:support@archer2.ac.uk) if you have concerns regarding this work. 
 
 
 ## ARCHER2 Celebration of Science
@@ -152,10 +181,9 @@ lists all current open known issues including a description of the issue, its sy
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, always-open self-service course
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service course   - New <br><br>
-- [Introduction to Data Science & Machine Learning](https://www.archer2.ac.uk/training/courses/240130-data-science-ml/), Online, 30 - 31 January 2024 09:30-16:35 and 09:30-14:40 GMT 
 - [ARCHER2 GPUs webinar](https://www.archer2.ac.uk/training/courses/240131-archer2-gpus-vt/), Online, Wednesday 31st January 2024 14:00 - 16:00 GMT
 - [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/240207-data-analysis-visualisation-python/), Online, 7 - 8 February 2024 09:30 - 17:00 GMT
-- ARCHER2 GPU eCSE software development call webinar, online, 8th February 2024 15:00 - 16:00 GMT
+- [ARCHER2 GPU eCSE software development call webinar](https://www.archer2.ac.uk/training/courses/240208-gpu-ecse-vt/), online, 8th February 2024 15:00 - 16:00 GMT
 - [Data Carpentry](https://www.archer2.ac.uk/training/courses/240212-data-carpentry/), Online, 12 - 15 February 2024 09:30 - 13:00 GMT
 - [Using Blender for Scientific Visualisation](https://www.archer2.ac.uk/training/courses/240214-visualisation-vt/), webinar, online, Wednesday 14th February 2024 15:00 - 16:00
 - [Understanding parallel I/O performance through profiling webinar](https://www.archer2.ac.uk/training/courses/240221-io-vt/), Online, Wednesday 21st February 2024 15:00 - 16:00 
