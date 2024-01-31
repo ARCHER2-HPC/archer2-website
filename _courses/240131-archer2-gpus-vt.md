@@ -27,6 +27,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 <section id="service">
 
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -48,28 +49,28 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
+-->
 
 
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/9-PoKb2-MQs " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
 
-<!--
+
+
 
 <section id="service">
 
     <div class="row ">	
 
 
-
+<!--
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
           <strong>Transcript</strong><br/>
@@ -77,17 +78,25 @@ This online session is open to all. It will use the Blackboard Collaborate platf
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+           href="2024-01-31_UserForum_GPU-nodes.pdf">
           <strong>Slides</strong><br/>
-          Download pdf of the presentation.
+          Download pdf of the EPCC presentation.
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="mailto:training@epcc.ed.ac.uk?subject=ARCHER2 GPUs webinar - HPE Slides request">
+          <strong>Slides</strong><br/>
+          HPE presentation available on request, please email giving your ARCHER2 username
         </a>
       </div>
 										
     </div>
 
 </section>
--->
+
