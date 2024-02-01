@@ -120,6 +120,10 @@ If you have any questions about the ARCHER2 Celebration of Science, and/or for t
 
  
 
+###  Women in HPC satellite event
+
+Women in HPC are hosting a satellite event, [Diversity in Science](https://womeninhpc.org/women-in-hpc-events/women-in-hpc-uk-chapters-diversity-in-science), on Friday 8th March, from 2:00 PM to 4:00 PM
+
  
 
 
