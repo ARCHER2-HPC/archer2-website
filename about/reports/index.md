@@ -35,6 +35,8 @@ Quarterly reports include both a written report summarising work done in the qua
 Quarterly reports cover the Service Provision (SP) and Computational Science and Engineering (CSE) parts of the service.
 
 <img src="{{ site.baseurl }}/img/certificates/InformationSecuritySys_ISOIEC27001_col.jpg" alt="Iso 27001" title="Iso 27001" align="right" width="15%"  />
+
+
 ###  2023
 
 * [Quarter 4 2023](quarterly/2023/2023_Q4/)
@@ -70,6 +72,10 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 ## Monthly Reports
 
 The monthly statistical reports are generated automatically from the SAFE. Please follow the link below to access individual monthly reports.
+
+### 2024
+
+* [January 2024](monthly/2024/jan24_safe.pdf)
 
 ### 2023
 
