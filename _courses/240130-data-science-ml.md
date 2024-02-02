@@ -95,17 +95,13 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 </div>
 
 
-<h3>Day 2 videos to follow</h3>
-
-<!--
-
 <h3>Day 2 Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/7ty_jMNhkzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+<!--
 <h3>Day 2 Session 2</h3>
 
 <div>
