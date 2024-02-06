@@ -37,13 +37,13 @@ banner: web_banners_07.jpg
 - 09:00 - 10:00	User Group Session (hybrid)
 - 10:00 - 10:20	Coffee Break
 - 10:20 - 11:20	Talk Session 3 
-  -	10:20 - 10:40 Dr Phil Hasnip (University of York) / other speaker from UKCP 
+  -	10:20 - 10:40 Dr Phil Hasnip (University of York, UKCP) / Talk from UKCP 
   -	10:40 - 11:00 Talk from Plasma HEC
-  -	11:00 - 11:20 Dr Grenville Lister (University of Reading, Atmospheric and Polar Science)
+  -	11:00 - 11:20 Dr Grenville Lister (University of Reading, Atmospheric and Polar Sciences Consortium)
 - 11:20 - 11:50	Coffee Break
 - 11:50 - 12:50	Talk Session 4 
-  -	11:50 - 12:10 Prof. Kai Luo (UCL) 
-  -	12:10 - 12:30 Prof. John Brodholt (UCL)
+  -	11:50 - 12:10 Prof. Kai Luo (UCL, UKCOMES) 
+  -	12:10 - 12:30 Prof. John Brodholt (UCL, Mineral and Geophysics Consortium)
   -	12:30 - 12:50 Talk from HEC WSI
 - 12:50 - 13:00	ARCHER2 Celebration of Science Wrap-up (Dr Lorna Smith, EPCC)
 - 13:00 - 14:00	Lunch

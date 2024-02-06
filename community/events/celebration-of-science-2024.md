@@ -28,13 +28,6 @@ The event is in-person and there is no registration fee. Please [register here](
 
 
 
-<p align="center">
-<a href="#call-for-posters"><img src="../../img/splash/240307-celebration-of-science-poster.jpg"  alt="Celebration of Science poster abstract deadline" style="width: 50%"></a>
-</p>
-
-
-
-
 <h2><a name="materials">Registration</a></h2>
 	
 
@@ -65,6 +58,11 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 </section>
 
 
+##  Draft Agenda
+
+[Draft Agenda](celebration-of-science-2024-agenda)
+
+[Download Draft Agenda as PDF](ARCHER2_Celebration_of_Science_Agenda_draft.pdf)
 
 
 
@@ -113,11 +111,6 @@ All posters will be displayed during the 2-day event. A Lightning Talk session w
 
 A prize of £200 will be awarded to the Best Poster. The winner will be announced on the 8th March 2024.  
 
-##  Draft Agenda
-
-[Draft Agenda](celebration-of-science-2024-agenda)
-
-[Download Draft Agenda as PDF](ARCHER2_Celebration_of_Science_Agenda_draft.pdf)
 
 ##    Contact 
 
