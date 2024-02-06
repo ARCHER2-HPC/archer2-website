@@ -51,12 +51,12 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 09:00 - 17:00
 
-Details to follow
+[Schedule](https://epcced.github.io/2024-02-12-edinburgh-online/#schedule)
 
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -67,7 +67,7 @@ Details to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2024-01-23   ">
+          href="https://epcced.github.io/2024-02-12-edinburgh-online/   ">
           <strong>Course materials</strong> 
         </a>
       </div>
@@ -76,7 +76,7 @@ Details to follow
  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/240123-advanced-openmp ">
+          href="https://pad.archer2.ac.uk/p/240212-data-carpenty ">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -85,7 +85,7 @@ Details to follow
  	</div>
 		
 		
--->					
+				
 
 <!--
  		
