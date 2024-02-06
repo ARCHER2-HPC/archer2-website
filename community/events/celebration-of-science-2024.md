@@ -113,14 +113,19 @@ All posters will be displayed during the 2-day event. A Lightning Talk session w
 
 A prize of £200 will be awarded to the Best Poster. The winner will be announced on the 8th March 2024.  
 
+##  Draft Agenda
 
-###    Contact 
+[Draft Agenda](celebration-of-science-2024-agenda)
+
+[Download Draft Agenda as PDF](ARCHER2_Celebration_of_Science_Agenda_draft.pdf)
+
+##    Contact 
 
 If you have any questions about the ARCHER2 Celebration of Science, and/or for the poster submission, please do not hesitate to contact the Event Organisers by email [events@archer2.ac.uk](mailto:events@archer2.ac.uk). 
 
  
 
-###  Women in HPC satellite event
+##  Women in HPC satellite event
 
 Women in HPC are hosting a satellite event, [Diversity in Science](https://womeninhpc.org/women-in-hpc-events/women-in-hpc-uk-chapters-diversity-in-science), on Friday 8th March, from 2:00 PM to 4:00 PM
 
