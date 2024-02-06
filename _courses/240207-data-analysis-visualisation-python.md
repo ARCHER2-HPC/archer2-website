@@ -39,9 +39,33 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-09:30 - 17:00 GMT
+09:30 - 17:00 
 
-Details to follow
+
+**Wednesday 07/02**
+
+- 9:30-11:00 - session 1.1
+- 11:00-11:15 - Break
+- 11:15-12:00 - session 1.2
+- 12:00-13:00 - Lunch
+- 13:00-14:00 - session 1.3
+- 14:00-14:15 - Break
+- 14:15-15:00 - session 1.4
+- 15:00-15:15 - Break
+- 15:15-16:15 - session 1.5
+
+**Thursday 08/02**
+- 9:30-11:00 - session 2.1
+- 11:00-11:15 - Break
+- 11:15-12:00 - session 2.2
+- 12:00-13:00 - Lunch
+- 13:00-14:00 - session 2.3
+- 14:00-14:15 - Break
+- 14:15-15:00 - session 2.4
+
+
+
+
 
 <section id="service">
 
