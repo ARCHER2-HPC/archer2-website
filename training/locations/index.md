@@ -15,6 +15,7 @@ banner: web_banners_05.jpg
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
 * [Heriot-Watt The National Robotarium](hw-robotarium)
 * [Imperial College London](imperial)
+* [Imperial College London - City and Guilds building](imperial-city-guilds)
 * [Imperial College London - Dept of Electrical and Electronic Engeneering](imperial-elec-eng)
 * [University of Liverpool](liverpool)
 * [Newcastle University](newcastle)
