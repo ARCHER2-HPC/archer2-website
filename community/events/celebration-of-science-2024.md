@@ -60,11 +60,11 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 
 ##  Draft Agenda
 
-[Draft Agenda](celebration-of-science-2024-agenda)
+[Draft Agenda webpage](celebration-of-science-2024-agenda) 
 
 [Download Draft Agenda as PDF](ARCHER2_Celebration_of_Science_Agenda_draft.pdf)
 
-
+[Download Lightning Talks schedule as PDF](ARCHER2_Celebration_of_Science_Lightning_Talks.pdf)
 
 ## Call for Posters 
 
