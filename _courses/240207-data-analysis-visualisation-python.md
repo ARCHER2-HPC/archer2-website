@@ -85,15 +85,15 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
         </a>
       </div>
 
-<!--  
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="pad.archer2.ac.uk/p/240207-data-analysis-visualisation-python">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
@@ -103,10 +103,17 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
 <h2><a name="videos">Videos</a></h2>
 
-<h3>Session 1</h3>
+<h3>Day 1 Session 1</h3>
 
 <div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/4dsYf_ivHSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Day 1 Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Bhyd72doRpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
