@@ -10,11 +10,11 @@ banner: web_banners_05.jpg
 Paterson's Land is located in the Moray House area of the University of Edinburgh.
 
 
-Software Carpentry 26-27 June 2023, and HPC Carpentry 28-29 June 2023 will take place in Paterson's Land, Room 1.26
+Intermediate Modern Fortran, 10-11 April 2024, will take place in Paterson's Land, Room 1.37
 
 ## Address
 
-Room 1.26<br/>
+Room 1.37<br/>
 Paterson's Land<br/>
 The University of Edinburgh<br/>
 Holyrood Road, <br/>
