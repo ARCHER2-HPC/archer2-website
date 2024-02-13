@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20231222T233358Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240213T133942Z
+UID:1707831482514-25696@ical.marudot.com
+DTSTART;TZID=Europe/London:20240307T093000
+DTEND;TZID=Europe/London:20240307T183000
+SUMMARY:ARCHER2 Celebration of Science
+URL:https://www.archer2.ac.uk/community/events/celebration-of-science-2024
+DESCRIPTION:The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from members of the ARCHER2 research consortia and other invited presenters involved in the ARCHER2 service\, a poster session and a panel session focusing on preparing the UK science community for future Exascale systems. All attendees are welcome to join the drink reception on the evening of the first day.\nThe event is in-person and there is no registration fee. 
+LOCATION:South Hall\, Pollock Halls\, The University of Edinburgh\, 18 Holyrood Park Road\, Edinburgh EH16 5AY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Celebration of Science
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240213T133942Z
+UID:1707831506155-67887@ical.marudot.com
+DTSTART;TZID=Europe/London:20240308T090000
+DTEND;TZID=Europe/London:20240308T160000
+SUMMARY:ARCHER2 Celebration of Science
+URL:https://www.archer2.ac.uk/community/events/celebration-of-science-2024
+DESCRIPTION:The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from members of the ARCHER2 research consortia and other invited presenters involved in the ARCHER2 service\, a poster session and a panel session focusing on preparing the UK science community for future Exascale systems. All attendees are welcome to join the drink reception on the evening of the first day.\nThe event is in-person and there is no registration fee. 
+LOCATION:South Hall\, Pollock Halls\, The University of Edinburgh\, 18 Holyrood Park Road\, Edinburgh EH16 5AY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Celebration of Science
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
