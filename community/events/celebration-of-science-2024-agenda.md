@@ -84,7 +84,7 @@ banner: web_banners_07.jpg
 |	19	|	Sean Mashallsay, Queen’s University Belfast	|	Unravelling Attosecond Dynamics: A General Approach To Ultrafast Atomic Simulations	|
 |	20	|	Steven Boeing, University of Leeds	|	Small-scale mixing in a parcel-based model of moist convection	|
 |	21	|	Stuart Morris, University of Warwick	|	Laser-plasma instabilities at Shock Ignition scales	|
-|	22	|	Tobias Slade-Harajda, University of Warwick	|	Centre for Fusion Space and Astrophysics, Department of Physics, Warwick University, Coventry CV4 2.	|
+|	22	|	Tobias Slade-Harajda, University of Warwick	|	The consequences of tritium mix for simulated ion cyclotron emission spectra from deuterium-tritium plasmas	|
 |	23	|	Vinush Vigneswaran, The University of Edinburgh – Centre for Cardiovascular Science	|	OpenEP Workbench: A computational platform for identifying fibrotic regions and conduction disturbances in the atria using conduction velocity.	|
 |	24	|	Hannah Menke, Heriot-Watt University	|	Introducing GeoChemFoam to Archer2	|
 
