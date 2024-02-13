@@ -25,18 +25,37 @@ layout: default
                             <p>{{ page.location }}</p>
                         {% endif %}
                     {% endif %}
-                    Level: 
-                    {% for tag in page.level %}
-                        {% capture tag_name %}{{ tag }}{% endcapture %}
-                        <nobr>{{ tag_name }}</nobr>
-                    {% endfor %}
-                    <!--
+                    {% if page.level %}
+                        Level: 
+                        {% for tag in page.level %}
+                            {% capture tag_name %}{{ tag }}{% endcapture %}
+                            {% if tag contains "intro" %}
+                                <nobr>Introductory </nobr>
+                            {% endif %}
+                            {% if tag contains "inter" %}
+                                <nobr>Intermediate </nobr>
+                            {% endif %}
+                            {% if tag contains "advance" %}
+                                <nobr>Advanced </nobr>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+
+<!--
                     &nbsp; &nbsp; &nbsp; Audience: 
                     {% for tag in page.audience %}
                         {% capture tag_name %}{{ tag }}{% endcapture %}
-                        <nobr>{{ tag_name }}</nobr>
+                        {% if tag contains "researcher" %}
+                            <nobr>Package Users, </nobr>
+                        {% endif %}
+                        {% if tag contains "data" %}
+                            <nobr>Data Scientists, </nobr>
+                        {% endif %}
+                        {% if tag contains "developer" %}
+                            <nobr>Software Developers, </nobr>
+                        {% endif %}
                     {% endfor %}
-                    -->
+-->
                     </p>	</span>		
                 </div>
             </div>
