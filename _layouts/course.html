@@ -17,6 +17,7 @@ layout: default
                     <h1>{{ page.title }}</h1>
                     <p>{{ page.trainers }}</p>
                     <p>{{ page.human_dates }}</p>
+                    <span>
                     {% if page.location %}
                         {% if page.location != "Online" %}
                             <p><a href="{{ page.location_url }}">{{ page.location }}</a></p>
@@ -24,6 +25,19 @@ layout: default
                             <p>{{ page.location }}</p>
                         {% endif %}
                     {% endif %}
+                    Level: 
+                    {% for tag in page.level %}
+                        {% capture tag_name %}{{ tag }}{% endcapture %}
+                        <nobr>{{ tag_name }}</nobr>
+                    {% endfor %}
+                    <!--
+                    &nbsp; &nbsp; &nbsp; Audience: 
+                    {% for tag in page.audience %}
+                        {% capture tag_name %}{{ tag }}{% endcapture %}
+                        <nobr>{{ tag_name }}</nobr>
+                    {% endfor %}
+                    -->
+                    </p>	</span>		
                 </div>
             </div>
         </div>
