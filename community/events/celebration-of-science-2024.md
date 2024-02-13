@@ -117,6 +117,9 @@ A prize of £200 will be awarded to the Best Poster. The winner will be announce
 If you have any questions about the ARCHER2 Celebration of Science, and/or for the poster submission, please do not hesitate to contact the Event Organisers by email [events@archer2.ac.uk](mailto:events@archer2.ac.uk). 
 
  
+##  Calendar 
+
+[Add this event to your calendar](myevents.ics).
 
 ##  Women in HPC satellite event
 
