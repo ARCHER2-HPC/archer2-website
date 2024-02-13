@@ -38,13 +38,13 @@ banner: web_banners_07.jpg
 - 10:00 - 10:20	Coffee Break
 - 10:20 - 11:20	Talk Session 3 
   -	10:20 - 10:40 Dr Phil Hasnip (University of York, UKCP) / Talk from UKCP 
-  -	10:40 - 11:00 Talk from Plasma HEC
+  -	10:40 - 11:00 Dr Peter Hill (University of York, Plasma HEC)
   -	11:00 - 11:20 Dr Grenville Lister (University of Reading, Atmospheric and Polar Sciences Consortium)
 - 11:20 - 11:50	Coffee Break
 - 11:50 - 12:50	Talk Session 4 
   -	11:50 - 12:10 Prof. Kai Luo (UCL, UKCOMES) 
   -	12:10 - 12:30 Prof. John Brodholt (UCL, Mineral and Geophysics Consortium)
-  -	12:30 - 12:50 Talk from HEC WSI
+  -	12:30 - 12:50 Dr (Yiyun) Raynold Tan (STFC Hartree Centre, HEC-WSI)
 - 12:50 - 13:00	ARCHER2 Celebration of Science Wrap-up (Dr Lorna Smith, EPCC)
 - 13:00 - 14:00	Lunch
 - 14:00 - 16:00	Women in HPC Session - Diversity in Science
@@ -68,7 +68,7 @@ banner: web_banners_07.jpg
 |	3	|	Carlos Edgar Lopez Barrera, Queen Mary University of London	|	Computational Insights for Individualized Atrial Fibrillation Treatments	|
 |	4	|	Chi Cheng (Cecilian) Hong, University of Edinburgh	|	Insight into the Correlated Disorder of Fumarate- Based MIL-53 Frameworks: A Computational Study of Free-Energy Landscape	|
 |	5	|	Ivan Tolkachev, University of Oxford	|	Large scale atomistic simulations of nanocrystalline Iron formation and its irradiation performance	|
-|	6	|	Joel Hirst, Sheffield Hallam University	|	Spin-Waves: A potential route to more efficient	|
+|	6	|	Joel Hirst, Sheffield Hallam University	|	Spin-Waves: A potential route to more efficient data transmission, storage and processing	|
 |	7	|	Joseph Prentice, University of Oxford	|	Computing infra-red spectra using finite differencing in CASTEP	|
 |	8	|	Juan Herrera, EPCC, The University of Edinburgh	|	MONC Performance Portability	|
 |	9	|	Kevin Stratford, EPCC, The University of Edinburgh	|	MPI+X on ARCHER2: observations from Ludwig	|
