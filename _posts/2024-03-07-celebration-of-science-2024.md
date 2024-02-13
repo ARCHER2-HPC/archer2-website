@@ -3,7 +3,7 @@ layout: post
 title: ARCHER2 Celebration of Science
 date: 2023-11-07 11:00:00
 author: ARCHER2 Celebration of Science team
-tags: [event, ] 
+tags: [events ] 
 categories: [news]
 ---
 
