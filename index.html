@@ -144,21 +144,25 @@ permalink: /
       <div class="ar2-front-col col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="service-item-tall">
           <h4><a href="training/#upcoming-training">Upcoming Training</a></h4>
-          <ul>
+            <ul>
             {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date >= site.time" %}
 						{% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}					
             {% for course in nothidden_courses limit:14 %}
-            <li>
-              <a href="{{ course.url }}">{{ course.title }}</a><br/>Date: {{ course.human_dates }}<br/>Location: {{ course.location }} 
-            </li>
+                <li>
+                    <a href="{{ course.url }}">{{ course.title }}</a><br/>Date: {{ course.human_dates }}<br/>Location: {{ course.location }} 
+                </li>
             {% endfor %}
-          </ul>
-					<ul>
-            <li><p class="more"><a href="training/">More Training&hellip;</a></p></li>
-					</ul>
-					<ul>
-					  <li><p class="more"><a href="training/materials/">Past Training Course materials&hellip;</a></p></li>
-					</ul>					
+            </ul>
+			<ul>
+                <li><p class="more"><a href="training/">More Training&hellip;</a></p></li>
+			</ul>
+			<ul>
+				<li><p class="more"><a href="training/materials/webinars">Webinars</a></p></li>
+			</ul>
+			<ul>
+				<li><p class="more"><a href="training/materials/">Past Training Course materials&hellip;</a></p></li>
+			</ul>
+					
         </div>
       </div>
 			
