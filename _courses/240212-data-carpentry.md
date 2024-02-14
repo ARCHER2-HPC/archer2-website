@@ -14,7 +14,7 @@ location_url:
 prace_course: false
 audience: [ data-scientist ]
 level: [introductory]
-video: 
+video: true
 ---
 
 [Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research. Its target audience is researchers who have little to no prior computational experience, and its lessons are domain specific, building on learners’ existing knowledge to enable them to quickly apply skills learned to their own research. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
@@ -104,34 +104,24 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/fWtWqpXXQBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/_8ZmD8rzPsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <!--
 
-<h3>Day 1 Session 3</h3>
+<h3>Session 4</h3>
 
 <div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<h3>Day 1 Session 4</h3>
 
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-<h3>Day 2 Session 1</h3>
-
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-<h3>Day 2 Session 2</h3>
-
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 -->
 
