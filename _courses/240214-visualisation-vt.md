@@ -61,6 +61,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 <!--
+
 <h2><a name="video">Video</a></h2>
 
 <div>
@@ -71,8 +72,8 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 -->
 
-<!--
 
+<!--
 <section id="service">
 
     <div class="row ">	
@@ -98,5 +99,22 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 										
     </div>
 
-</section>
+
+
 -->
+
+
+    <div class="row ">	
+
+<h2>Useful links</h2>
+
+<ul>
+<li><a href="https://surf-visualization.github.io/blender-course">Introduction to Scientific Visualisation with Blender</a></li>
+<li><a href="https://www.youtube.com/watch?v=z4W6jnyPDyg">Cinematic Scientific Visualization: Where Science Meets Hollywood Visual Effects</a></li>
+<li><a href="https://coursera.org/learn/data-visualization-science-communication">3D Data Visualisation for Science Communication</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z">BlenderGuru</a></li>
+<li><a href="https://docs.blender.org/api/current">Blender python api doc</a></li>
+<li><a href="https://docs.blender.org/manual/en/latest/advanced/command_line/arguments.html">Blender command line argument doc</a></li>
+</ul>
+    </div>
+</section>
