@@ -7,7 +7,7 @@ start_date: 2024-02-22 09:30:00
 end_date: 2024-02-23 16:00:00
 trainers: Evgenij Belikov EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240222-hpc-carpentry
 location: Brunel University
 location_url: https://www.archer2.ac.uk/training/locations/brunel
