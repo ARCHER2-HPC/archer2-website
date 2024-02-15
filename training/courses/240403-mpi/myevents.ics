@@ -23,11 +23,11 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240215T113921Z
+DTSTAMP:20240215T122048Z
 UID:1707997138679-76154@ical.marudot.com
 DTSTART;TZID=Europe/London:20240403T093000
 RRULE:FREQ=DAILY;COUNT=2
-DTEND;TZID=Europe/London:20240403T173000
+DTEND;TZID=Europe/London:20240403T170000
 SUMMARY:ARCHER2 Message Passing programming with MPI Cambridge
 DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/240403-mpi\n\nLocation : https://www.archer2.ac.uk/training/locations/cambridge
 LOCATION:East 2 room\, West Hub\, J J Thomson Avenue\, Cambridge CB3 0US
