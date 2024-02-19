@@ -41,21 +41,21 @@ layout: default
                         {% endfor %}
                     {% endif %}
 
-<!--
-                    &nbsp; &nbsp; &nbsp; Audience: 
-                    {% for tag in page.audience %}
+                    {% if page.audience %}
+                        &nbsp; &nbsp; &nbsp; Audience: 
+                        {% for tag in page.audience %}
                         {% capture tag_name %}{{ tag }}{% endcapture %}
-                        {% if tag contains "researcher" %}
-                            <nobr>Package Users, </nobr>
-                        {% endif %}
-                        {% if tag contains "data" %}
-                            <nobr>Data Scientists, </nobr>
-                        {% endif %}
-                        {% if tag contains "developer" %}
-                            <nobr>Software Developers, </nobr>
-                        {% endif %}
-                    {% endfor %}
--->
+                            {% if tag contains "researcher" %}
+                                <nobr>Researchers{% unless forloop.last %},{% endunless %}</nobr>
+                            {% endif %}
+                            {% if tag contains "data" %}
+                                <nobr>Data Scientists{% unless forloop.last %},{% endunless %}</nobr>
+                            {% endif %}
+                            {% if tag contains "developer" %}
+                                <nobr>Software Developers{% unless forloop.last %},{% endunless %}</nobr>                               
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
                     </p>	</span>		
                 </div>
             </div>
