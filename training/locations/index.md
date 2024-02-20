@@ -12,6 +12,7 @@ banner: web_banners_05.jpg
 * [Birmingham](birmingham)
 * [University of Cambridge](cambridge)
 * [Cardiff University](cardiff)
+* [Durham University](durham)
 * [Edinburgh Napier University](napier-merchiston)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
 * [Heriot-Watt The National Robotarium](hw-robotarium)
