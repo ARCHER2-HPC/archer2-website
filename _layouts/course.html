@@ -28,7 +28,6 @@ layout: default
                     {% if page.level %}
                         Level: 
                         {% for tag in page.level %}
-                            {% capture tag_name %}{{ tag }}{% endcapture %}
                             {% if tag contains "intro" %}
                                 <nobr>Introductory </nobr>
                             {% endif %}
@@ -44,7 +43,6 @@ layout: default
                     {% if page.audience %}
                         &nbsp; &nbsp; &nbsp; Audience: 
                         {% for tag in page.audience %}
-                        {% capture tag_name %}{{ tag }}{% endcapture %}
                             {% if tag contains "researcher" %}
                                 <nobr>Researchers{% unless forloop.last %},{% endunless %}</nobr>
                             {% endif %}
