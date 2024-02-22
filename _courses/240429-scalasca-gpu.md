@@ -49,11 +49,11 @@ will be conducted on the GPU-enabled partition of the UK National HPC
 Service ARCHER2 (an HPE/Cray EX system); all attendees will be given
 accounts on ARCHER2 for the duration of the course.  Although example
 parallel programs will be provided, attendees are encouraged to analyse
-the performance of their own applications.  Access to ARCHER2 will be
+the performance of their own applications.  
+
+Access to ARCHER2 will be
 available before the course starts to port and build applications; those
-who are unfamiliar with ARCHER2-GPU programming are encouraged to attend
-the course “Introduction to ARCHER2 for Software Developers” or [view its
-recordings in the training materials archive](https://www.archer2.ac.uk/training/courses/231211-software-developers/#videos). 
+who are unfamiliar with ARCHER2-GPU programming are encouraged to view the [recording of the recent webinar ARCHER2 GPUs](https://www.archer2.ac.uk/training/courses/240131-archer2-gpus-vt/)
 
 
 
