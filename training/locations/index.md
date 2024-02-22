@@ -14,6 +14,8 @@ banner: web_banners_05.jpg
 * [Cardiff University](cardiff)
 * [Durham University](durham)
 * [Edinburgh Napier University](napier-merchiston)
+* [University of Edinburgh, Charteris Land](edinburgh-charteris-land)
+* [University of Edinburgh, Paterson's Land](edinburgh-patersons-land)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
 * [Heriot-Watt The National Robotarium](hw-robotarium)
 * [Imperial College London](imperial)
@@ -26,4 +28,3 @@ banner: web_banners_05.jpg
 * [Oxford e-Science Research Centre](oxford)
 * [Oxford University Doctoral Training Centre](oxford-dtc)
 * [Queen's University, Belfast](qub)
-* [University of Edinburgh, Paterson's Land](edinburgh-patersons-land)

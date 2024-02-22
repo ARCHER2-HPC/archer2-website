@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20231222T233358Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1705422015048-54314@ical.marudot.com
+DTSTART;TZID=Europe/London:20240207T093000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20240207T170000
+SUMMARY:ARCHER2 Data Analysis and Visualisation in Python course
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/021f307e1e4b4eb3aae11ab3ce71e2ff\n\nEvent page: https://www.archer2.ac.uk/training/courses/240207-data-analysis-visualisation-python
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1706630922332-85721@ical.marudot.com
+DTSTART;TZID=Europe/London:20240208T150000
+DTEND;TZID=Europe/London:20240208T160000
+SUMMARY:ARCHER2 GPU eCSE software development call webinar
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/5696cb15980643b4a744aa8af2b3cfc8\n\nEvent page: https://www.archer2.ac.uk/training/courses/240208-gpu-ecse-vt\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1705420460156-41785@ical.marudot.com
+DTSTART;TZID=Europe/London:20240214T150000
+DTEND;TZID=Europe/London:20240214T160000
+SUMMARY:ARCHER2 Using Blender for Scientific Visualisation webinar
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/2eb69e25c6864e68a96e3219e336e464\n\nEvent page: https://www.archer2.ac.uk/training/courses/240214-visualisation-vt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1706871937761-47263@ical.marudot.com
+DTSTART;TZID=Europe/London:20240228T150000
+DTEND;TZID=Europe/London:20240228T160000
+SUMMARY:ARCHER2 Capability Days webinar
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/da77e6a7557c45c08fa251d8e3d54e0a\n\nEvent page: https://www.archer2.ac.uk/training/courses/240228-capability-days-vt/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1708423692643-46679@ical.marudot.com
+DTSTART;TZID=Europe/London:20240303T093000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20240303T163000
+SUMMARY:ARCHER2 Training: Introduction to Modern Fortran Durham
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/240403-intro-modern-fortran\n\nLocation : https://www.archer2.ac.uk/training/locations/durham
+LOCATION:Durham University\, Teaching and Learning Centre\, South Road\, Durham DH1 3LS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1707226565511-85771@ical.marudot.com
+DTSTART;TZID=Europe/London:20240304T100000
+DTEND;TZID=Europe/London:20240304T173000
+SUMMARY:ARCHER2 for Data Scientists
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/e784394f51e7472f88dde078d7a08ec8\n\nEvent page: https://www.archer2.ac.uk/training/courses/240304-data-scientists
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1707831482514-25696@ical.marudot.com
+DTSTART;TZID=Europe/London:20240307T093000
+DTEND;TZID=Europe/London:20240307T183000
+SUMMARY:ARCHER2 Celebration of Science
+URL:https://www.archer2.ac.uk/community/events/celebration-of-science-2024
+DESCRIPTION:The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from members of the ARCHER2 research consortia and other invited presenters involved in the ARCHER2 service\, a poster session and a panel session focusing on preparing the UK science community for future Exascale systems. All attendees are welcome to join the drink reception on the evening of the first day.\nThe event is in-person and there is no registration fee. 
+LOCATION:South Hall\, Pollock Halls\, The University of Edinburgh\, 18 Holyrood Park Road\, Edinburgh EH16 5AY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1707831506155-67887@ical.marudot.com
+DTSTART;TZID=Europe/London:20240308T090000
+DTEND;TZID=Europe/London:20240308T160000
+SUMMARY:ARCHER2 Celebration of Science
+URL:https://www.archer2.ac.uk/community/events/celebration-of-science-2024
+DESCRIPTION:The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from members of the ARCHER2 research consortia and other invited presenters involved in the ARCHER2 service\, a poster session and a panel session focusing on preparing the UK science community for future Exascale systems. All attendees are welcome to join the drink reception on the evening of the first day.\nThe event is in-person and there is no registration fee. 
+LOCATION:South Hall\, Pollock Halls\, The University of Edinburgh\, 18 Holyrood Park Road\, Edinburgh EH16 5AY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1707831506158-97243@ical.marudot.com
+DTSTART;TZID=Europe/London:20240309T093000
+DTEND;TZID=Europe/London:20240309T183000
+SUMMARY:ARCHER2 Celebration of Science
+URL:https://www.archer2.ac.uk/community/events/celebration-of-science-2024
+DESCRIPTION:The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from members of the ARCHER2 research consortia and other invited presenters involved in the ARCHER2 service\, a poster session and a panel session focusing on preparing the UK science community for future Exascale systems. All attendees are welcome to join the drink reception on the evening of the first day.\nThe event is in-person and there is no registration fee. Please register to participate.
+LOCATION:South Hall\, Pollock Halls\, The University of Edinburgh\, 18 Holyrood Park Road\, Edinburgh EH16 5AY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1707754203486-31980@ical.marudot.com
+DTSTART;TZID=Europe/London:20240312T090000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20240312T170000
+SUMMARY:ARCHER2 Introduction to the ARCHER2 GPU Development Platform
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/8b7a6d1eebda4b51ab9c46ce8883817d\n\nEvent page: https://www.archer2.ac.uk/training/courses/240312-hpe-gpu\n\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1707997138679-76154@ical.marudot.com
+DTSTART;TZID=Europe/London:20240403T093000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20240403T170000
+SUMMARY:ARCHER2 Message Passing programming with MPI Cambridge
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/240403-mpi\n\nLocation : https://www.archer2.ac.uk/training/locations/cambridge
+LOCATION:East 2 room\, West Hub\, J J Thomson Avenue\, Cambridge CB3 0US
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1707232991503-28698@ical.marudot.com
+DTSTART;TZID=Europe/London:20240415T100000
+DTEND;TZID=Europe/London:20240415T170000
+SUMMARY:ARCHER2 Introduction to Xcompact3D
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/240415-xcompact3d\n\nLocation : https://www.archer2.ac.uk/training/locations/imperial-city-guilds
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240222T135736Z
+UID:1708610248456-38028@ical.marudot.com
+DTSTART;TZID=Europe/London:20240429T093000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20240429T170000
+SUMMARY:ARCHER2 Parallel Performance Analysis using Scalasca/Score-P on the ARCHER2 AMD GPUs
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/240429-scalasca-gpu\n\nLocation: https://www.archer2.ac.uk/training/locations/edinburgh-charteris-land
+LOCATION:Room CL_5.02 Charteris Land The University of Edinburgh Holyrood Road\,  Edinburgh EH8 8AQ
+END:VEVENT
+END:VCALENDAR
