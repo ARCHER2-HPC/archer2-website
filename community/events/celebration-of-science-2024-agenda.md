@@ -25,7 +25,7 @@ banner: web_banners_07.jpg
   -	14:00 - 14:20 Prof. Sylvain Laizet (Imperial College, UKTC)
   -	14:20 - 14:40 Dr Andrew Coward (University of Southampton, NOC)
   -	14:40 - 15:00 Prof. Syma Khalid (University of Oxford, HECBioSim)
-  -	15:00 - 15:20 Dr Katy Clough (Queen Marry University of London, DiRAC)
+  -	15:00 - 15:20 Dr Katy Clough (Queen Mary University of London, DiRAC)
 - 15:20 - 15:40	Coffee Break
 - 15:40 - 17:00	[Lightning Talk Session](#lightning-talks)
 - 17:00 - 18:30	Drink Reception + Poster Session
