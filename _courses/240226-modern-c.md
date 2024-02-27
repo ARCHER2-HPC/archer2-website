@@ -155,7 +155,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 -->
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -176,8 +176,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
--->
- 
+
 </section>
 
 
