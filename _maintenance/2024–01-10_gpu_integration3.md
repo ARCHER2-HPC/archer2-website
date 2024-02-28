@@ -1,5 +1,5 @@
 ---
-status: Planned
+status: Completed
 type: Partial
 start_date: TBC
 end_date: 
