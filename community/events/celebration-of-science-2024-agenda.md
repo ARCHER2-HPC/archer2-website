@@ -34,7 +34,7 @@ banner: web_banners_07.jpg
 ## Day 2: Friday 8th March 2024
 
 - 9:00	Day 2 Start
-- 09:00 - 10:00	[User Group Session](https://www.archer2.ac.uk/training/courses/240308-user-forum/) (hybrid)
+- 09:00 - 10:00	[ARCHER2 User Forum](https://www.archer2.ac.uk/training/courses/240308-user-forum/) (hybrid)
 - 10:00 - 10:20	Coffee Break
 - 10:20 - 11:20	Talk Session 3 
   -	10:20 - 10:40 Dr Phil Hasnip (University of York, UKCP) / Talk from UKCP 

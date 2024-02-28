@@ -24,13 +24,12 @@ It will also give you an opportunity to ask any questions to EPCC staff.
 
 
 The format is: 
-- 0900-0905 – Welcome 
-- 0905-0915 ARCHER2 GPU Update – James Richings
-- 0915-0925 ARCHER2 Capability Days – Kevin Stratford
-- 0925-0935 ARCHER2 Scratch and purge policy – Kieran Leach  
-- 0935-0945 ARCHER2 Training – Juan Rodriguez Herrera
- 
-0945-1000 Questions/Discussion 
+- 0900-0905 **Welcome** 
+- 0905-0915 **ARCHER2 GPU Update** – James Richings
+- 0915-0925 **ARCHER2 Capability Days** – Kevin Stratford
+- 0925-0935 **ARCHER2 Scratch and purge policy** – Kieran Leach  
+- 0935-0945 **ARCHER2 Training** – Juan Rodriguez Herrera
+- 0945-1000 **Questions/Discussion** 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
