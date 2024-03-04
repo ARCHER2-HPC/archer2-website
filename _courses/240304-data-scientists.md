@@ -50,7 +50,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -75,7 +75,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
  	</div>
 		
--->		
+	
 					
 <!--
 

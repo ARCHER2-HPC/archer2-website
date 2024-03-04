@@ -25,7 +25,7 @@ banner: web_banners_07.jpg
   -	14:00 - 14:20 Prof. Sylvain Laizet (Imperial College, UKTC)
   -	14:20 - 14:40 Dr Andrew Coward (University of Southampton, NOC)
   -	14:40 - 15:00 Prof. Syma Khalid (University of Oxford, HECBioSim)
-  -	15:00 - 15:20 Dr Katy Clough (Queen Marry University of London, DiRAC)
+  -	15:00 - 15:20 Dr Katy Clough (Queen Mary University of London, DiRAC)
 - 15:20 - 15:40	Coffee Break
 - 15:40 - 17:00	[Lightning Talk Session](#lightning-talks)
 - 17:00 - 18:30	Drink Reception + Poster Session
@@ -34,7 +34,7 @@ banner: web_banners_07.jpg
 ## Day 2: Friday 8th March 2024
 
 - 9:00	Day 2 Start
-- 09:00 - 10:00	User Group Session (hybrid)
+- 09:00 - 10:00	[ARCHER2 User Forum](https://www.archer2.ac.uk/training/courses/240308-user-forum/) (hybrid)
 - 10:00 - 10:20	Coffee Break
 - 10:20 - 11:20	Talk Session 3 
   -	10:20 - 10:40 Dr Phil Hasnip (University of York, UKCP) / Talk from UKCP 

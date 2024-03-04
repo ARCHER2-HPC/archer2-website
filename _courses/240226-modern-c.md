@@ -14,7 +14,7 @@ location_url:
 prace_course: false
 audience: [developer]
 level: [ intermediate]
-video: 
+video: true
 ---
 
 With the recent revisions to the C++ language and standard library, the ways it is now being used are quite different. Used well, these features enable the programmer to write elegant, reusable and portable code that runs efficiently on a variety of architectures.
@@ -48,9 +48,30 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-9.30 - 16.30  each day
+**Monday**:
 
-Details to follow
+- 9:30 – 10:45 : Introduction
+- 10:45 – 11 : coffee break
+- 11 – 12:30 : class types
+
+- 12:30 – 1:30 : lunch
+
+- 1:30 – 3:00 : loops, containers, and iterators
+- 3:00 – 3:15 : coffee
+- 3:15 – 4:30 : Managing resources.
+
+**Tuesday**
+
+- 9:30 – 10:45 : Templates for generic programming
+- 10:45 – 11 : coffee break
+- 11 – 12:30 : Algorithms, lambdas, and traits
+
+- 12:30 – 1:30 : lunch
+
+- 1:30 – 3:00 : Linear algebra with Eigen
+- 3:00 – 3:15 : coffee
+- 3:15 – 4:30 : Threads with C++
+
 
 <section id="service">
 
@@ -84,56 +105,44 @@ Details to follow
  	</div>
 		
 		
-				
+			 
 
-<!--
  		
 <h2><a name="videos">Videos</a></h2>
 
-<h3>Day 1 Session 1</h3>
+<h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/bByoHlKbjGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<h3>Day 1 Session 2</h3>
+<h3>Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/RXFMWWzchHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<h3>Day 1 Session 3</h3>
+
+<h3>Session 3</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/FEVgrr6KaL4 " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<h3>Day 1 Session 4</h3>
+
+<h3>Session 4</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/dehb3Lq-0Ig " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<h3>Day 2 Session 1</h3>
-
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
-<h3>Day 2 Session 2</h3>
 
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
--->
-
-<!--
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -154,8 +163,7 @@ Details to follow
       </div>
     </div>
 		
--->
- 
+
 </section>
 
 
