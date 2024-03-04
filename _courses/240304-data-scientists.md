@@ -29,22 +29,20 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 #### Timetable:
 
 <ul>
-<li>10:00 - Registration and check connections</li>
-<li>10:10 - L01: Introduction to ARCHER2</li>
-<li>10:30 - L02: Containers and installing software</li>
-<li>11:15 - Break</li>
-<li>11:30 - Exercise: Containers</li>
-<li>12:30 - L03: Parallel Python on ARCHER2</li>
-<li>13:00 - Lunch</li>
-<li>14:00 - Exercise: Parallel Python</li>
-<li>14:30 - L04: Dask</li>
-<li>15:30 - Break</li>
-<li>16:00 - L05: Parallel R on ARCHER2</li>
-<li>17:00 - Exercise: Parallel R</li>
-<li>17:30 - END</li>
+<li>10:00 – Registration and check connections</li>
+<li>10:10 – L01: Introduction to ARCHER2</li>
+<li>11:00 – Exercise: ARCHER2 filesystems and placement</li>
+<li>11:15 – Break</li>
+<li>11:30 – L02: Containers and installing software</li>
+<li>12:30 – Exercise: Containers</li>
+<li>13:00 – Lunch</li>
+<li>14:00 – L03: Parallel Python and Dask</li>
+<li>15:00 – Exercise: Dask on ARCHER2</li>
+<li>15:30 – Break</li>
+<li>16:00 – L04: Parallel R on ARCHER2</li>
+<li>17:00 – Exercise: Parallel R</li>
+<li>17:30 – Finish</li>
 </ul>
-
-
 
 
 
