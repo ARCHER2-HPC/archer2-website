@@ -7,14 +7,14 @@ start_date: 2024-03-04 10:00:00
 end_date: 2024-03-04 17:30:00
 trainers: Adrian Jackson (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=240304-data-scientists
 location: Online
 location_url:
 prace_course: false
 audience: [  data-scientist ]
 level: [ introductory ]
-video: true
+video: 
 ---
 
 This course covers the basics of ARCHER2 for data scientists. We will cover ARCHER2 hardware, software, and configurations, discuss how to install software and use containers on the system, and then look in more detail at how to ensure data science workflows are efficiently exploiting ARCHER2. We will cover both R and Python topics, looking at potential methods for parallelising data science workflows across the ARCHER2 hardware, and ensuring efficient use of the compute nodes ARCHER2 provides. 
@@ -98,7 +98,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 -->
 
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -120,7 +120,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
  		
--->
+
  
 </section>
 
