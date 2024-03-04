@@ -49,8 +49,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="#access-to-hpc">Access to HPC</a></td>
 		<td>1600 BST, 23 April 2024</td>
 		<td>N/A</td>
-		<td>Available for research in any remit <br/>
-		&nbsp; - Projects on Tier-2 resources can be up to 10 months in length.<br/>
+		<td>EPSRC remit only<br/>
 		&nbsp; - Projects on ARCHER2 can be up to 12 months in length.<br/>
 		[Call page on UKRI website](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-2024/)
 		 </td>
@@ -89,7 +88,7 @@ EPSRC remit researchers can apply for large amounts of ARCHER2 compute for ambit
 
 <a id="access-to-hpc"></a>
 ### Access to HPC
-Provides an open and relatively flexible route to computational support for projects in any UKRI remit.
+Provides an open and relatively flexible route to computational support for projects in EPSRC remit.
 
 You can apply for access to national HPC systems (both ARCHER2 and most of the Tier-2 services). This new call combines what was previously the ARCHER RAP (Resource Allocation Panel) and the Tier-2 Open Access call. It is expected that these calls will open every six months.
 
@@ -134,8 +133,6 @@ If you have any questions about accessing ARCHER2 via EPSRC, please see
 
 <a id="nerc"></a>
 ## NERC Remit
-
-NERC researchers can apply for time via [Access to HPC](#access-to-hpc) as well as via the NERC-specific route described below.
 
 NERC applicants should add ARCHER2 as a facility in the UKRI Funding Service portal.  First contact the relevant NERC science area leader and check the
 current NERC policy on access. Full details are on the [NERC website](https://www.ukri.org/councils/nerc/facilities-and-resources/find-a-nerc-facility-or-resource/applying-to-use-high-performance-computing-services/).  Applicants within the NERC remit wishing to access ARCHER2 via this route must contact the relevant consortia leader for advice ahead of submission. 
