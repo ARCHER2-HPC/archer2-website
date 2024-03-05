@@ -25,15 +25,14 @@ banner: web_banners_07.jpg
   -	14:00 - 14:20 Prof. Sylvain Laizet (Imperial College, UKTC)
   -	14:20 - 14:40 Dr Andrew Coward (University of Southampton, NOC)
   -	14:40 - 15:00 Dr Katy Clough (Queen Mary University of London, DiRAC)
-  -	15:00 - 15:20 Talk from HECBioSim (TBC)
-- 15:20 - 15:40	Coffee Break
-- 15:40 - 17:00	[Lightning Talk Session](#lightning-talks)
+- 15:00 - 15:30	Coffee Break
+- 15:30 - 17:00	[Lightning Talk Session](#lightning-talks)
 - 17:00 - 18:30	Drink Reception + Poster Session
 - 18:30	Day 1 Finish
 
 ## Day 2: Friday 8th March 2024
 
-- 9:00	Day 2 Start
+- 08:30 - 09:00 Day2 Arrival and Coffee
 - 09:00 - 10:00	[ARCHER2 User Forum](https://www.archer2.ac.uk/training/courses/240308-user-forum/) (hybrid)
 - 10:00 - 10:20	Coffee Break
 - 10:20 - 11:20	Talk Session 3 
@@ -47,7 +46,7 @@ banner: web_banners_07.jpg
   -	12:30 - 12:50 Dr (Yiyun) Raynold Tan (STFC Hartree Centre, HEC-WSI)
 - 12:50 - 13:00	ARCHER2 Celebration of Science Wrap-up (Dr Lorna Smith, EPCC)
 - 13:00 - 14:00	Lunch
-- 14:00 - 16:00	Women in HPC Session - Diversity in Science
+- 14:00 - 16:00	Women in HPC Satellite Event - Diversity in Science
   -	13:40 - 14:00 Arrival and Coffee
   -	14:00 - 14:20 Intro and Welcome (Eleanor Broadway, EPCC and Jenny Wong, 2i2c)
   -	14:20 - 15:20 Interactive session
@@ -55,7 +54,7 @@ banner: web_banners_07.jpg
 - 16:00	Day 2 Finish
 
 
-[Download agenda as PDF](ARCHER2_Celebration_of_Science_Agenda_draft.pdf)
+[Download agenda as PDF](ARCHER2_Celebration_of_Science_Agenda.pdf)
 
 
 ## Lightning Talks
@@ -78,7 +77,7 @@ banner: web_banners_07.jpg
 |	13	|	Martin Plummer, STFC Scientific Computing Department (Daresbury Laboratory)	|	[Multi-Layered MPI parallelisation for the R-matrix with time-dependence code](#13)	|
 |	14	|	Matt Smith, University of York	|	[Future-proof Parallelism for Plane-Wave Density Functional Theory](#14)	|
 |	15	|	Matthias Frey, University of St Andrews	|	[EPIC: The Elliptical Parcel-In-Cell method](#15)	|
-|	16	|	-	|	|
+|	16	|	Lorna Smith, EPCC, The University of Edinburgh	|	[Public engagement in High Performance Computing](#16) |
 |	17	|	Paul Bartholomew, EPCC, University of Edinburgh	|	[Adding ADIOS2 to the Xcompact3D CFD code](#17)	|
 |	18	|	Pavel Stishenko, Cardiff University	|	[Implementing an implicit solvent model in a periodic DFT code](#18)	|
 |	19	|	Sean Mashallsay, Queen’s University Belfast	|	[Unravelling Attosecond Dynamics: A General Approach To Ultrafast Atomic Simulations](#19)	|
@@ -233,7 +232,10 @@ communication in this algorithm was implemented using one-sided (RMA) communicat
 method has proven to outperform non-deformable PIC methods and comparable Eulerian models for buoyancy-driven turbulent fluid flows in terms of effective small-scale resolution.
 
 <a name="16"></a>
-### 16 	 	-
+### 16 	 	Public engagement in High Performance Computing
+Lorna Smith, EPCC, The University of Edinburgh	
+
+Abstract to follow
  
 <a name="17"></a>
 ### 17 	 	Adding ADIOS2 to the Xcompact3D CFD code
