@@ -14,7 +14,7 @@ location_url:
 prace_course: false
 audience: [  data-scientist ]
 level: [ introductory ]
-video: 
+video: true
 ---
 
 This course covers the basics of ARCHER2 for data scientists. We will cover ARCHER2 hardware, software, and configurations, discuss how to install software and use containers on the system, and then look in more detail at how to ensure data science workflows are efficiently exploiting ARCHER2. We will cover both R and Python topics, looking at potential methods for parallelising data science workflows across the ARCHER2 hardware, and ensuring efficient use of the compute nodes ARCHER2 provides. 
@@ -75,7 +75,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
 	
 					
-<!--
+
 
 		
 <h2><a name="videos">Videos</a></h2>
@@ -83,17 +83,17 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/5Q0dqUmcGsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/-8BcVIAo93Y " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 <h3>Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/16P1u_oVoMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/SjGVu2BiLhU " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
--->
+
 
 
 
