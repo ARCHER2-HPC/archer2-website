@@ -24,8 +24,8 @@ banner: web_banners_07.jpg
 - 14:00 - 15:20	Talk Session 2 
   -	14:00 - 14:20 Prof. Sylvain Laizet (Imperial College, UKTC)
   -	14:20 - 14:40 Dr Andrew Coward (University of Southampton, NOC)
-  -	14:40 - 15:00 Prof. Syma Khalid (University of Oxford, HECBioSim)
-  -	15:00 - 15:20 Dr Katy Clough (Queen Mary University of London, DiRAC)
+  -	14:40 - 15:00 Dr Katy Clough (Queen Mary University of London, DiRAC)
+  -	15:00 - 15:20 Talk from HECBioSim (TBC)
 - 15:20 - 15:40	Coffee Break
 - 15:40 - 17:00	[Lightning Talk Session](#lightning-talks)
 - 17:00 - 18:30	Drink Reception + Poster Session
@@ -37,7 +37,7 @@ banner: web_banners_07.jpg
 - 09:00 - 10:00	[ARCHER2 User Forum](https://www.archer2.ac.uk/training/courses/240308-user-forum/) (hybrid)
 - 10:00 - 10:20	Coffee Break
 - 10:20 - 11:20	Talk Session 3 
-  -	10:20 - 10:40 Dr Phil Hasnip (University of York, UKCP) / Talk from UKCP 
+  -	10:20 - 10:40 Dr Phil Hasnip (University of York, UKCP) 
   -	10:40 - 11:00 Dr Peter Hill (University of York, Plasma HEC)
   -	11:00 - 11:20 Dr Grenville Lister (University of Reading, Atmospheric and Polar Sciences Consortium)
 - 11:20 - 11:50	Coffee Break
@@ -48,9 +48,9 @@ banner: web_banners_07.jpg
 - 12:50 - 13:00	ARCHER2 Celebration of Science Wrap-up (Dr Lorna Smith, EPCC)
 - 13:00 - 14:00	Lunch
 - 14:00 - 16:00	Women in HPC Session - Diversity in Science
-  -	13:40 - 14:10 Arrival and Coffee
-  -	14:10 - 14:30 Intro and Welcome (Eleanor Broadway, EPCC and Jenny Wong, 2i2c)
-  -	14:30 - 15:20 Interactive session
+  -	13:40 - 14:00 Arrival and Coffee
+  -	14:00 - 14:20 Intro and Welcome (Eleanor Broadway, EPCC and Jenny Wong, 2i2c)
+  -	14:20 - 15:20 Interactive session
   -	15:20 - 16:00 Networking session (including nibbles and drinks)
 - 16:00	Day 2 Finish
 
