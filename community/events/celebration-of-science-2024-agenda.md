@@ -78,7 +78,7 @@ banner: web_banners_07.jpg
 |	13	|	Martin Plummer, STFC Scientific Computing Department (Daresbury Laboratory)	|	[Multi-Layered MPI parallelisation for the R-matrix with time-dependence code](#13)	|
 |	14	|	Matt Smith, University of York	|	[Future-proof Parallelism for Plane-Wave Density Functional Theory](#14)	|
 |	15	|	Matthias Frey, University of St Andrews	|	[EPIC: The Elliptical Parcel-In-Cell method](#15)	|
-|	16	|	Max Holloway, Brilliant Planet / Scottish Association for Marine Science	|	[Nearshore upwelling fine-scale prediction system and carbon sequestration	](#16)|
+|	16	|	-	|	|
 |	17	|	Paul Bartholomew, EPCC, University of Edinburgh	|	[Adding ADIOS2 to the Xcompact3D CFD code](#17)	|
 |	18	|	Pavel Stishenko, Cardiff University	|	[Implementing an implicit solvent model in a periodic DFT code](#18)	|
 |	19	|	Sean Mashallsay, Queen’s University Belfast	|	[Unravelling Attosecond Dynamics: A General Approach To Ultrafast Atomic Simulations](#19)	|
@@ -233,12 +233,7 @@ communication in this algorithm was implemented using one-sided (RMA) communicat
 method has proven to outperform non-deformable PIC methods and comparable Eulerian models for buoyancy-driven turbulent fluid flows in terms of effective small-scale resolution.
 
 <a name="16"></a>
-### 16 	 	Nearshore upwelling fine-scale prediction system and carbon sequestration
-Max Holloway, Brilliant Planet / Scottish Association for Marine Science
-
-We present the results of a basin-scale, high-resolution atmosphere-ocean numerical model covering one of the main Eastern Boundary Upwelling Systems (EBUS), the Canary Current Upwelling System, adjacent to the coast of Morocco. The model is used to predict water intake nutrients related to wind-driven upwelling and downwelling and track the discharge of deacidified seawater from a microalgal farm located on neighbouring coastal desert land. 
-
-The regional model's atmospheric component is the Weather Research and Forecasting model (WRF v.4.3) and the ocean component is based on the Finite Volume Community Ocean Model (FVCOM v.4.4.1), enabled to run at Archer2 HPC with UKRI support. The model has been validated using remote sensing and multi-seasonal physical mooring measurements of the local environment. We evaluate the model skill in predicting the timing and intensity of local upwelling events and perform point source dye release experiments, representing the discharge of low dissolved inorganic carbon seawater released from onshore microalgae ponds, under different seasonal, upwelling and downwelling background states. These dye release simulations are focused on quantifying changes in coastal dispersion and how these will affect the efficacy of marine carbon dioxide removal. 
+### 16 	 	-
  
 <a name="17"></a>
 ### 17 	 	Adding ADIOS2 to the Xcompact3D CFD code
