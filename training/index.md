@@ -201,7 +201,7 @@ If you are from a commercial organisation and wish to attend a particular course
 
  |  February 2024 - April 2024 |
  | ---  |
- | ARCHER2 for Data Scientists  <br>   Data Analysis and Visualisation in Python  <br>     Introduction to Modern Fortran  <br>      Modern C++ for Computational Scientists  <br> Data Carpentry  <br>   Reproducible Comp. Env. using Containers  <br> Introduction to CP2K  <br>	Introduction to GROMACS <br>  Intermediate Modern Fortran   <br>  Modern C++ for Computational Scientists  <br>  Message Passing Programming with MPI  <br>  GPUs on ARCHER2 <br>   Introduction to Xcompact3D <br>  Debugging and Profiling on ARCHER2 |
+ |           Introduction to CP2K  <br>	Introduction to GROMACS <br>    Modern C++ for Computational Scientists  <br>  Debugging and Profiling on ARCHER2 |
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
 
