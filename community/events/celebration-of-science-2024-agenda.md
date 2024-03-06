@@ -235,7 +235,9 @@ method has proven to outperform non-deformable PIC methods and comparable Euleri
 ### 16 	 	Public engagement in High Performance Computing
 Lorna Smith, EPCC, The University of Edinburgh	
 
-Abstract to follow
+EPCC operates a wide range of data facilities and High Performance Computing platforms. Our public engagement activities aim to demonstrate the societal benefits of these to the general public and look to explain the purpose of these facilities and show that they are a valuable use of public funds. As a National Service provider, we focus on activities that provide benefit across the UK.
+ 
+In this poster we will demonstrate the different fun, hands-on activities we deliver for participants. These range from Wee Archie, our suitcase-sized supercomputer, to logic puzzles to encourage problem-solving skills. We will showcase out work placement opportunities, provided to school children to help experience the world of work and explore careers in computational science.
  
 <a name="17"></a>
 ### 17 	 	Adding ADIOS2 to the Xcompact3D CFD code
