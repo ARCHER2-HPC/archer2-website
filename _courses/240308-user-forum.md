@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
+video: true
 ecse:
 ---
 
@@ -24,12 +24,12 @@ It will also give you an opportunity to ask any questions to EPCC staff.
 
 
 The format is: 
-- 0900-0905 **Welcome** 
-- 0905-0915 **ARCHER2 GPU Update** – James Richings
-- 0915-0925 **ARCHER2 Capability Days** – Kevin Stratford
-- 0925-0935 **ARCHER2 Scratch and purge policy** – Kieran Leach  
-- 0935-0945 **ARCHER2 Training** – Juan Rodriguez Herrera
-- 0945-1000 **Questions/Discussion** 
+-  **Welcome** 
+- 01:12 - **ARCHER2 GPU Update** – James Richings
+- 09:00 - **ARCHER2 Capability Days** – Kevin Stratford
+- 22:41 - **ARCHER2 Scratch and purge policy** – Kieran Leach  
+- 27:30 - **ARCHER2 Training** – Juan Rodriguez Herrera
+- **Questions/Discussion** 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
@@ -39,7 +39,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 <section id="service">
 
-
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -60,44 +60,35 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 											
     </div>
+-->
 
 
 
-<!--
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/Q5d6MkhdXWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/ueoDgRSXExg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+The discussion following the presentations was not recorded.
+
+If you have any questions or comments about any of the topics raised, please <a href="mailto:support@archer2.ac.uk">contact the service desk</a>
 
 
-<!--
+
 <section id="service">
 
     <div class="row ">	
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="xxxx.pdf">
-          <strong>Andy's Slides</strong><br/>
-          Download pdf of the presentation.
-        </a>
-      </div>
-
-
-
-
-      <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
-           href="xxxx.pdf">
-          <strong>HPE's Slides</strong><br/>
-          Download pdf of the presentation.
+           href="240308-user-forum.pdf">
+          <strong>Slides</strong><br/>
+          Download pdf of the presentations.
         </a>
       </div>
 										
@@ -105,4 +96,3 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 </section>
 
--->
