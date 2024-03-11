@@ -78,28 +78,17 @@ The discussion following the presentations was not recorded.
 If you have any questions or comments about any of the topics raised, please <a href="mailto:support@archer2.ac.uk">contact the service desk</a>
 
 
-<!--
+
 <section id="service">
 
     <div class="row ">	
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="xxxx.pdf">
-          <strong>Andy's Slides</strong><br/>
-          Download pdf of the presentation.
-        </a>
-      </div>
-
-
-
-
-      <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
-           href="xxxx.pdf">
-          <strong>HPE's Slides</strong><br/>
-          Download pdf of the presentation.
+           href="240308-user-forum.pdf">
+          <strong>Slides</strong><br/>
+          Download pdf of the presentations.
         </a>
       </div>
 										
@@ -107,4 +96,3 @@ If you have any questions or comments about any of the topics raised, please <a 
 
 </section>
 
--->
