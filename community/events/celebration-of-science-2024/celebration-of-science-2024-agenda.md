@@ -1,9 +1,60 @@
 ---
 layout: section
-title: ARCHER2 Celebration of Science - Lightning Talks
-summary:  7th  March 2024  15:40 - 17:00
+title: ARCHER2 Celebration of Science - Draft Agenda
+summary:  7th - 8th March 2024
 banner: web_banners_07.jpg
 ---
+
+<p align="center">
+<img src="./img/240307-celebration-of-science.jpg"  alt="Celebration of Science" style="width: 80%">
+</p>
+
+## Day 1: Thursday 7th March 2024
+
+- 09:30 - 10:00	Day 1 Register and Welcome Coffee
+- 10:00 - 10:10	Welcome (Dr Lorna Smith, EPCC)
+- 10:10 - 11:10	Talk Session 1 
+  -	10:10 - 10:30 Prof. Scott Woodley (UCL, MCC)
+  -	10:30 - 10:50 Adrian Jackson (EPCC, NetZero)
+  -	10:50 - 11:10 Prof. Tom Penfold (Newcastle University, HPC-CONEXS)
+- 11:10 - 11:30	Coffee Break 
+- 11:30 - 12:00	Keynote on Exascale (Prof. Mark Parsons, EPCC)
+- 12:00 - 13:00	Panel Session - Ensuring Exascale Benefit UK Research
+- 13:00 - 14:00	Lunch
+- 14:00 - 15:20	Talk Session 2 
+  -	14:00 - 14:20 Prof. Sylvain Laizet (Imperial College, UKTC)
+  -	14:20 - 14:40 Dr Andrew Coward (University of Southampton, NOC)
+  -	14:40 - 15:00 Dr Katy Clough (Queen Mary University of London, DiRAC)
+- 15:00 - 15:30	Coffee Break
+- 15:30 - 17:00	[Lightning Talk Session](#lightning-talks)
+- 17:00 - 18:30	Drink Reception + Poster Session
+- 18:30	Day 1 Finish
+
+## Day 2: Friday 8th March 2024
+
+- 08:30 - 09:00 Day2 Arrival and Coffee
+- 09:00 - 10:00	[ARCHER2 User Forum](https://www.archer2.ac.uk/training/courses/240308-user-forum/) (hybrid)
+- 10:00 - 10:20	Coffee Break
+- 10:20 - 11:20	Talk Session 3 
+  -	10:20 - 10:40 Dr Phil Hasnip (University of York, UKCP) 
+  -	10:40 - 11:00 Dr Peter Hill (University of York, Plasma HEC)
+  -	11:00 - 11:20 Dr Grenville Lister (University of Reading, Atmospheric and Polar Sciences Consortium)
+- 11:20 - 11:50	Coffee Break
+- 11:50 - 12:50	Talk Session 4 
+  -	11:50 - 12:10 Prof. Kai Luo (UCL, UKCOMES) 
+  -	12:10 - 12:30 Prof. John Brodholt (UCL, Mineral and Geophysics Consortium)
+  -	12:30 - 12:50 Dr (Yiyun) Raynold Tan (STFC Hartree Centre, HEC-WSI)
+- 12:50 - 13:00	ARCHER2 Celebration of Science Wrap-up (Dr Lorna Smith, EPCC)
+- 13:00 - 14:00	Lunch
+- 14:00 - 16:00	Women in HPC Satellite Event - Diversity in Science
+  -	13:40 - 14:00 Arrival and Coffee
+  -	14:00 - 14:20 Intro and Welcome (Eleanor Broadway, EPCC and Jenny Wong, 2i2c)
+  -	14:20 - 15:20 Interactive session
+  -	15:20 - 16:00 Networking session (including nibbles and drinks)
+- 16:00	Day 2 Finish
+
+
+[Download agenda as PDF](ARCHER2_Celebration_of_Science_Agenda.pdf)
 
 
 ## Lightning Talks
@@ -22,11 +73,11 @@ banner: web_banners_07.jpg
 |	9	|	Kevin Stratford, EPCC, The University of Edinburgh	|	[MPI+X on ARCHER2: observations from Ludwig](#9)	|
 |	10	|	Ludovica Cicci, Imperial College London	|	[A multi-scale analysis of the impact of measurement and physiological uncertainty on electrocardiograms](#10)	|
 |	11	|	Mara Strungaru, University of York	|	[Implementing spin-lattice dynamics within the VAMPIRE software package](#11)	|
-|	12	|	Marina Strocchi, Imperial College London & King’s College London	|	[Linking Molecular to Whole-organ Function Using Multi-scale, Multi-physics Four-chamber Computational Models](#12)	|
+|	12	|	Marina Strocchi, Imperial College London & King’s College London	|	[Linking Molecular to Whole-organ Function Using Multi-scale, Multi-physics Four-chamber Computational Models](#12)  * * * Winning Poster * * *	|
 |	13	|	Martin Plummer, STFC Scientific Computing Department (Daresbury Laboratory)	|	[Multi-Layered MPI parallelisation for the R-matrix with time-dependence code](#13)	|
 |	14	|	Matt Smith, University of York	|	[Future-proof Parallelism for Plane-Wave Density Functional Theory](#14)	|
 |	15	|	Matthias Frey, University of St Andrews	|	[EPIC: The Elliptical Parcel-In-Cell method](#15)	|
-|	16	|	Max Holloway, Brilliant Planet / Scottish Association for Marine Science	|	[Nearshore upwelling fine-scale prediction system and carbon sequestration	](#16)|
+|	16	|	Lorna Smith, EPCC, The University of Edinburgh	|	[Public engagement in High Performance Computing](#16) |
 |	17	|	Paul Bartholomew, EPCC, University of Edinburgh	|	[Adding ADIOS2 to the Xcompact3D CFD code](#17)	|
 |	18	|	Pavel Stishenko, Cardiff University	|	[Implementing an implicit solvent model in a periodic DFT code](#18)	|
 |	19	|	Sean Mashallsay, Queen’s University Belfast	|	[Unravelling Attosecond Dynamics: A General Approach To Ultrafast Atomic Simulations](#19)	|
@@ -35,6 +86,7 @@ banner: web_banners_07.jpg
 |	22	|	Tobias Slade-Harajda, University of Warwick	|	[The consequences of tritium mix for simulated ion cyclotron emission spectra from deuterium-tritium plasmas](#22)	|
 |	23	|	Vinush Vigneswaran, The University of Edinburgh – Centre for Cardiovascular Science	|	[OpenEP Workbench: A computational platform for identifying fibrotic regions and conduction disturbances in the atria using conduction velocity.](#23)	|
 |	24	|	Hannah Menke, Heriot-Watt University	|	[Introducing GeoChemFoam to Archer2](#24)	|
+|   25  |   Nick Brown, EPCC, University of Edinburgh |  [ExCALIBUR: An exascale software programme](#25) |
 
 
 [Download Lightning Talks schedule as PDF](ARCHER2_Celebration_of_Science_Lightning_Talks.pdf)
@@ -180,12 +232,12 @@ communication in this algorithm was implemented using one-sided (RMA) communicat
 method has proven to outperform non-deformable PIC methods and comparable Eulerian models for buoyancy-driven turbulent fluid flows in terms of effective small-scale resolution.
 
 <a name="16"></a>
-### 16 	 	Nearshore upwelling fine-scale prediction system and carbon sequestration
-Max Holloway, Brilliant Planet / Scottish Association for Marine Science
+### 16 	 	Public engagement in High Performance Computing
+Lorna Smith, EPCC, The University of Edinburgh	
 
-We present the results of a basin-scale, high-resolution atmosphere-ocean numerical model covering one of the main Eastern Boundary Upwelling Systems (EBUS), the Canary Current Upwelling System, adjacent to the coast of Morocco. The model is used to predict water intake nutrients related to wind-driven upwelling and downwelling and track the discharge of deacidified seawater from a microalgal farm located on neighbouring coastal desert land. 
-
-The regional model's atmospheric component is the Weather Research and Forecasting model (WRF v.4.3) and the ocean component is based on the Finite Volume Community Ocean Model (FVCOM v.4.4.1), enabled to run at Archer2 HPC with UKRI support. The model has been validated using remote sensing and multi-seasonal physical mooring measurements of the local environment. We evaluate the model skill in predicting the timing and intensity of local upwelling events and perform point source dye release experiments, representing the discharge of low dissolved inorganic carbon seawater released from onshore microalgae ponds, under different seasonal, upwelling and downwelling background states. These dye release simulations are focused on quantifying changes in coastal dispersion and how these will affect the efficacy of marine carbon dioxide removal. 
+EPCC operates a wide range of data facilities and High Performance Computing platforms. Our public engagement activities aim to demonstrate the societal benefits of these to the general public and look to explain the purpose of these facilities and show that they are a valuable use of public funds. As a National Service provider, we focus on activities that provide benefit across the UK.
+ 
+In this poster we will demonstrate the different fun, hands-on activities we deliver for participants. These range from Wee Archie, our suitcase-sized supercomputer, to logic puzzles to encourage problem-solving skills. We will showcase out work placement opportunities, provided to school children to help experience the world of work and explore careers in computational science.
  
 <a name="17"></a>
 ### 17 	 	Adding ADIOS2 to the Xcompact3D CFD code
@@ -263,3 +315,11 @@ posterior wall of a test case.
 Hannah Menke, Heriot-Watt University 	
 
 GeoChemFoam (GCF) (http://github.com/GeoChemFoam) is the Institute for GeoEnergy Engineering at Heriot-Watt University’s open-source pore-scale modelling code that is built on the OpenFOAM computational toolbox. Recently, we have successfully developed several new modules in GCF that have diverse applications to a range of processes relevant to the clean energy transition. These include low capillary number multiphase flow (e.g. hydrogen storage), equilibrium reactions (e.g. CO2 capture and storage), heat transfer (e.g. fuel cells and geothermal energy), the integration of machine learning tools (e.g. upscaling permeability in reservoirs), and the Darcy-Brinkman-Stokes transport and reactive transport (e.g. contaminant transport, low-carbon building materials). However, the meshing strategies are not optimised for an HPC environment. The goal of this project is to parallelise and upgrade the meshing and the pre-, and post-processing modules so that they are optimised for high performance computing environments and to create an on-demand multiscale adaptive meshing module to improve the scientific applicability of our solvers to highly heterogenous porous systems. As part of the project, we have also released a new module ‘GCFv5.0’ which is centrally available to all Archer2 users, along with user documentation and installation guide.  
+
+<a name="25"></a>
+### 25  ExCALIBUR: An exascale software programme
+
+The Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCALIBUR) programme is a research effort aiming to enable exploitation of future supercompters by the next generation of high-performance simulation software. Focused heavily, although not exclusively, around weather and climate and fusion energy workloads, this programme aims to further develop the major software and algorithmic building blocks required for exascale supercomputing.
+Funded by the UK, running between 2019 and 2025, and having leveraged ARCHER2 extensively throughout its lifetime, the programme comprises four major themes; use-cases, exascale techniques and technologies, next-generation computing hardware, and investment in people. Initially activities identifying specific exascale use-cases and requirements across key scientific and engineering domains were undertaken which then fed into calls for exascale techniques and technology projects. Working with the use-cases to support their use of large-scale HPC, these have ranged across domain specific languages, quantum computing, machine learning for computation, exascale IO, workflows, simulation code coupling, task-based parallelism, and parallel in time methods.
+Concurrently, testbeds have been stood-up to explore next-generation computing architectures which include FPGAs, RISC-V, Graphcore, Arm, and Cerebras CS-2, and benchmarking for evaluation. Lastly, projects supporting, encouraging, and training HPC scientific software developers (RSEs) have run, exploring how to ensure RSE careers are fulfilling and valued, addressing the skills shortage faced by the HPC community.
+The work undertaken benefits not only the ARCHER2 community, but also future exascale supercomputers. The poster will summarize the programme, highlight key outcomes and how ARCHER2 has been key to meeting our objectives. 
