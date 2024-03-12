@@ -8,13 +8,13 @@ categories: [news]
 ---
 
 
-We are pleased to announce that the ARCHER2 Celebration of Science will take place on the 7th – 8th March 2024 in Edinburgh at South Hall, The University of Edinburgh.
+We are pleased to announce that the [ARCHER2 Celebration of Science](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/) will take place on the 7th – 8th March 2024 in Edinburgh at South Hall, The University of Edinburgh.
 
 <!--more-->
 
 
 <p align="center">
-<a href="https://www.archer2.ac.uk/community/events/celebration-of-science-2024"><img src="https://www.archer2.ac.uk/community/events/img/240307-celebration-of-science.jpg"  alt="Celebration of Science" style="width: 80%"></a>
+<a href="https://www.archer2.ac.uk/community/events/celebration-of-science-2024"><img src="https://www.archer2.ac.uk/community/events/celebration-of-science-2024/img/240307-celebration-of-science.jpg"  alt="Celebration of Science" style="width: 80%"></a>
 </p>
 
 

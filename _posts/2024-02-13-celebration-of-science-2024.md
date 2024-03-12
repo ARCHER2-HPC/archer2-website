@@ -16,12 +16,12 @@ We would like to invite you to register for the [ARCHER2 Celebration of Science]
 
 
 <p align="center">
-<a href="https://www.archer2.ac.uk/community/events/celebration-of-science-2024"><img src="https://www.archer2.ac.uk/community/events/img/240307-celebration-of-science.jpg"  alt="Celebration of Science" style="width: 80%"></a>
+<a href="https://www.archer2.ac.uk/community/events/celebration-of-science-2024"><img src="https://www.archer2.ac.uk/community/events/celebration-of-science-2024/img/240307-celebration-of-science.jpg"  alt="Celebration of Science" style="width: 80%"></a>
 </p>
  
 This in-person event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from members of the ARCHER2 research consortia and other invited presenters involved in the ARCHER2 service, a poster session and a panel session focusing on preparing the UK science community for future Exascale systems. All attendees are welcome to join the drink reception on the evening of the first day.
  
-The [draft agenda is now available on the ARCHER2 website](https://www.archer2.ac.uk/community/events/celebration-of-science-2024-agenda)
+The [draft agenda is now available on the ARCHER2 website](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/celebration-of-science-2024-agenda)
  
 [Please register by 29th February to participate](https://bit.ly/ARCHER2-Celebration-of-Science-Registration). There is no registration fee.
  

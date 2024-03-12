@@ -102,6 +102,8 @@
   sublinks:
   - title: "Community"
     url: "/community/"
+  - title: "Events"
+    url: "/community/events/"
   - title: "Outreach"
     url: "/community/outreach/"
   - title: "HPC and RSE Community"
