@@ -48,7 +48,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-**Monday**:
+**Wednesday**:
 
 - 9:30 – 10:45 : Introduction
 - 10:45 – 11 : coffee break
@@ -60,7 +60,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 - 3:00 – 3:15 : coffee
 - 3:15 – 4:30 : Managing resources.
 
-**Tuesday**
+**Thursday**
 
 - 9:30 – 10:45 : Templates for generic programming
 - 10:45 – 11 : coffee break
