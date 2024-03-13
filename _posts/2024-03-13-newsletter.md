@@ -43,7 +43,7 @@ Users wishing to run jobs during Capability Day should submit to the “capabili
 
 ## Access to HPC call open
 
-23 April 2024 4:00pm UK time
+Deadline: 23 April 2024 4:00pm UK time
 
 [ARCHER2 access page](https://www.archer2.ac.uk/support-access/access.html#archer2-time-calls)
 
