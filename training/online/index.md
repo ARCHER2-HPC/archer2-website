@@ -6,7 +6,7 @@ banner: web_banners_05.jpg
 ---
 
 
-Whilst much of our training is delivered face-to-face, we also offer some courses online, as well as presenting regular virtual tutorials and webinars online.  In addition, some of our face-to-face courses are recorded and the videos are available as an online resource.
+Whilst much of our training is delivered face-to-face, we also offer some courses online, as well as presenting regular virtual tutorials and webinars online.  In addition, some of our online courses are recorded and the videos are available as an online resource.
 
 ## Access to Online training
 
@@ -18,11 +18,9 @@ There are also apps available for BlackBoard Collaborate but these have reduced 
 
 Online training is usually recorded and the video made available after the event on the [ARCHER2 YouTube Channel](https://www.youtube.com/channel/UCZi-oBdxoDV5CPEQnhmrCAg/videos)
 
-Complete material from several courses delivered for the ARCHER service, including lectures slides, video recordings and practical exercises, is available for self-study:
+We have several self-service online courses available:
 
-* [Hands-on Introduction to HPC: YouTube playlist](https://www.youtube.com/playlist?list=PL1b57Q937PotC8ppSpC9wxm05ASRSV7YT) 
-and [associated material](
-http://www.archer.ac.uk/training/course-material/2016/07/intro_epcc/index.php#slides)
+* [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/)
 
 * [Shared-Memory Programming with OpenMP]( 
 https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/)
@@ -30,7 +28,7 @@ https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/)
 * [Message-Passing Programming with MPI](
 https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/)
 
-
+* [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/)
 
 
 ## Past Course Materials
@@ -39,7 +37,8 @@ Material from previous face-to-face ARCHER2 courses is available in the [Past Co
 
 ## Virtual Tutorials and Webinars
 
-These virtual sessions usually take place at 15:00 UK time on Wednesdays.  Upcoming courses are listed on the main [training page](../).
+These virtual sessions usually take place at 15:00 UK time on Wednesdays.  Upcoming courses are listed on the 
+main [training page](../#upcoming-training).
 
 Virtual tutorials normally start with a presentation and live demonstration on a particular topic followed by time for discussion with participants, both about the presented materials and in response to general questions about ARCHER2 and HPC/parallel computing in general. We hope that the discussions will be driven by what users wish to know and we expect the format to be that of a Question and Answer (Q&A) session.
 
