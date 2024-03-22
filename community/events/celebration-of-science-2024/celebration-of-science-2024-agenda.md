@@ -103,6 +103,9 @@ This poster presents the work that was achieved in ARCHER2-eCSE01-09 which exten
 -    The position of the solvent can now be updated self-consistently with electronic state of the system, which is a far more accurate model of molecules in solvent. 
 -    The solution to the OBCs Poisson equation is now computed using additional levels of parallelism. This improves the performance of the code at the most computationally intensive step of the calculation (7x speed up on a sample calculation), reducing the Time:Science ratio for these calculations. 
 
+[DOI: 10.5281/zenodo.10817424](https://doi.org/10.5281/zenodo.10817424)
+
+
 <a name="2"></a>
 ### 2 Enabling a better global view of the magnetic field of Earth’s rocks
  Callum Watson, British Geological Survey 	
@@ -112,6 +115,9 @@ The WMAM code calculates spherical harmonic models of the natural magnetisation 
 Global spherical harmonic models of degree 1440 (∼28 km resolution) have been successfully computed on the British Geological Survey HPC facility, but such runs require the full BGS compute capacity (512 cores) for up to six days. Further, the resolution of the available scalar field measurements is too high to be fully exploited by the WMAM code, limiting models of the crustal magnetic field to a resolution of 28 km. 
 
 However, following a successful ARCHER2 eCSE project, we refactored the WMAM code such that it can produce models of spherical harmonic degree 2000 (∼20 km resolution). We ran the code at this resolution using 64 ARCHER2 nodes (8,192 cores) for 3 hrs and 44 mins. The resulting model power spectra and magnetic field maps showed excellent agreement with the BGS1440 model and original data and thus the potential to explore the modelling process and gain new knowledge about crustal magnetic fields. 
+
+[DOI: 10.5281/zenodo.10817524](https://doi.org/10.5281/zenodo.10817524)
+
 
 <a name="3"></a>
 ### 3 Computational Insights for Individualized Atrial Fibrillation Treatments
@@ -123,6 +129,9 @@ This computational model stands out for its ability to predict how a patient wil
 
 Additionally, the research touches upon a complementary study investigating the impact of spatial resolution on clinical measurements in understanding and treating diseases, particularly irregular heart rhythms like atrial fibrillation. The spatial resolution of atrial fibrillation electrogram data emerges as a critical factor for interpreting underlying mechanisms and ensuring successful treatment. The study employs simulations to explore electrogram recordings at different spatial resolutions, emphasizing the importance of precise measurement locations in enhancing our comprehension of irregular heart rhythms for more effective clinical interventions. 
 
+[DOI: 10.5281/zenodo.10845480](https://doi.org/10.5281/zenodo.10845480)
+
+
 <a name="4"></a>
 ### 4 	Insight into the Correlated Disorder of Fumarate- Based MIL-53 Frameworks: A Computational Study of Free-Energy Landscape
 Chi Cheng (Cecilian) Hong, University of Edinburgh 
@@ -131,6 +140,9 @@ Metal-organic frameworks (MOFs) are porous, periodic, and crystalline materials 
  
 My research focusses on unrevealing the correlation between the transition metal centres of fumarate-based MIL-53 MOFs and the inherent flexibility of the framework as a result. Furthermore, a series of isoreticular MIL-53 frameworks from different synthetic pathways are being studied to understand how the linker induced correlated disorder affects the breathing mechanics of these frameworks. We use a combination of first principles molecular dynamics and metadynamics calculations to gain insight on the flexibility of the framework and how the free energy landscape can be altered. 
 	
+[DOI: 10.5281/zenodo.10846029](https://doi.org/10.5281/zenodo.10846029)
+
+
 <a name="5"></a>
 ### 5 	Large scale atomistic simulations of nanocrystalline Iron formation and its irradiation performance
 Ivan Tolkachev, University of Oxford 
@@ -139,23 +151,35 @@ Reduced activation ferritic-martensitic (RAFM) steels are candidate materials fo
 formation of a disordered atomic state and subsequent recrystallisation. We also present the initial results of collision cascade simulations, where the nanocrystalline material is subsequently irradiated. Based on our results, we can gain fundamental insight into the mechanisms that control the formation of nanocrystalline materials, 
 and how they are subsequently altered by irradiation. This is essential information for the targeted development of next generation, high radiation-resistant steels.
 
+[DOI: 10.5281/zenodo.10846054](https://doi.org/10.5281/zenodo.10846054)
+
+
 <a name="6"></a>
 ### 6 Spin-Waves: A potential route to more efficient data transmission, storage and processing
 Joel Hirst, Sheffield Hallam University 
 
 The excitation, propagation and detection of spin-waves through magnetic media has given birth to the field of magnonics, dedicated to harnessing collective spin excitations for advancing the next generation of data transmission The main benefit of using spin-waves to transmit information is that they operate with reduced energy dissipation compared to using conventional electrical currents and show promise for faster transmission. Atomistic Spin Dynamics (ASD) is a computational modeling technique used for measuring spin-wave dynamics. One of the most widely used packages for ASD modelling is [VAMPIRE](https://vampire.york.ac.uk/), originally developed by academics at the University of York. As part of this eCSE project, we are developing a module within VAMPIRE capable of calculating the spin wave dynamics of magnetic materials. The module can be used in the future to confirm existing and predict future experimental results and observations in the field of magnonics.
 	
+[DOI: 10.5281/zenodo.10846068](https://doi.org/10.5281/zenodo.10846068)
+
+
 <a name="7"></a>
 ### 7 		Computing infra-red spectra using finite differencing in CASTEP
 Joseph Prentice, University of Oxford 
 
 In this work, we implement new functionality within the well-known density functional theory (DFT) code CASTEP: the ability to compute infra-red absorption spectra, using finite differencing of Berry phase polarisation to obtain the Born effective charge tensors required to compute the IR absorption strengths. Finite differencing works ‘out-of-the-box’ with virtually any electronic structure method with CASTEP, unlike density functional perturbation theory (DFPT), which must be explicitly coded. To achieve this, we implement the main missing contribution to the Berry phase polarisation, which arises from ultra-soft pseudopotentials (USPs). We also implement the finite differencing approach to computing the Born effective charges itself, and benchmark the accuracy of these two implementations against existing work. We also make improvement to the parallelisation of the computation of Berry phase polarisation and IR spectra, including k-point parallelism and task farm parallelisation. This work allows IR spectra to be computed using previously unavailable methods, such as DFT+U and more accurate functionals such as meta-GGAs and hybrids; in materials where such methods are vital for an accurate description, this work will enable IR spectra to be calculated for the first time. Our work will also future-proof the calculation of vibrational spectra against new approaches, and has broader relevance to modelling of vibrational spectra, e.g. Raman spectroscopy and phonon-loss EELS. 
 
+[DOI: 10.5281/zenodo.10846084](https://doi.org/10.5281/zenodo.10846084)
+
+
 <a name="8"></a>
 ### 8 	 MONC Performance Portability
 Juan Herrera, EPCC, The University of Edinburgh
 
 MONC is a high-resolution atmospheric modelling code used in the UK by the Met Office and several UK universities. The NERC community wish to leverage the next generation hardware in ARCHER2 for their scientific ambition. This project aimed to update MONC to tune it to the ARCHER2 architecture and take the opportunity to address two long-standing issues, namely, to update the current FFT dependency and relax a restriction in the code that limits the usable halo size. 
+
+[DOI: 10.5281/zenodo.10846117](https://doi.org/10.5281/zenodo.10846117)
+
 
 <a name="9"></a>
 ### 9 	 	MPI+X on ARCHER2: observations from Ludwig
@@ -166,12 +190,18 @@ difference	to	represent	the	'complex'	part.
 
 The	code	is	written	in	ANSI	C	and	includes	a lightweight	thread	abstraction	to	allow	it	to	be	run	with	either	OpenMP,	CUDA,	or	HIP.	We	consider	here	some	considerations	for	OpenMP	performance	(CPU),	and	also	GPU	performance	on	ARCHER2.
 
+[DOI: 10.5281/zenodo.10847877](https://doi.org/10.5281/zenodo.10847877)
+
+
 <a name="10"></a>
 ### 10 	 	A multi-scale analysis of the impact of measurement and physiological uncertainty on electrocardiograms
 Ludovica Cicci, Imperial College London
 
 An electrocardiogram (ECG) is a non-invasive diagnostic tool for the evaluation of the electrical activity of the heart – recorded by sensors placed on the body surface –, and the early detection of cardiac diseases. However, the cardiac activity and its propagation through the body depend on several factors, acting either at the cellular or at the organ level. Multi-scale, electrophysiology (EP) computational models represent a promising tool to investigate the interactions between these factors and the ECG signal. In this respect, global sensitivity analysis (GSA) is a useful method to quantify the impact of electrophysiological parameters on clinical outputs of interest, to screen out the non-influential factors, and to map the remaining ones to the ECGs. Decreasing the number of input parameters is crucial to reduce the model complexity and the associated computation time, with the goal to match the clinical timescales and embed EP simulations into the clinical practice. In this work, we investigate the impact of 164 parameters – ranging from ionic conductances to cardiac fibre orientation and tissue conductivities – onto scalar quantities extracted from a 12-lead ECG. The latter results from a forward EP simulation, able to reproduce the cardiac electrical activation, performed on a patient-specific whole torso geometry. By making use of 512 nodes per simulation on the ARCHER2 computing facilities, we collected a dataset of more than 3000 input-output pairs to train
 Gaussian process emulators (GPEs), which were ultimately employed to evaluate the GSA indices in an efficient manner.
+
+[DOI: 10.5281/zenodo.10847937](https://doi.org/10.5281/zenodo.10847937)
+
 
 <a name="11"></a>
 ### 11 	 	Implementing spin-lattice dynamics within the VAMPIRE software package
@@ -183,6 +213,9 @@ We have developed several new features for the existing software, such as positi
 
 This work provides new functionality into the leading code for atomistic spin dynamics, allowing for novel simulations in exciting areas of magnetism, such as THz excitation, modelling of magnetic insulators, the Einstein de Haas effect and hyperthermia. These new features will have a high impact on the magnetism community and will further encourage the use of HPC facilities to develop new research for future technologies. 
 
+[DOI: 10.5281/zenodo.10848507](https://doi.org/10.5281/zenodo.10848507)
+
+
 <a name="12"></a>
 ### 12 		Linking Molecular to Whole-organ Function Using Multi-scale, Multi-physics Four-chamber Computational Models
 Marina Strocchi, Imperial College London & King’s College London 
@@ -192,6 +225,9 @@ Multi-scale, multi-physics models provide a physics-constrained framework to exp
 We developed a framework for a scalable, multi-scale and multi-physics whole-heart model that is able to simulate molecular function up to whole heart electrical activation, mechanical contraction and the circulatory system. We broke down this model into five hierarchical sub-models to identify unimportant parameters and reduce the complexity of the analysis. This allowed us to reduce the number of parameters from 117 to 45.
 
 Using the ARCHER2 computing facilities, we used this platform to vary these 45 parameters, ranging across all scales and physics in the model, and run 500 simulations to generate a training dataset for Gaussian Processes Emulators. The trained emulators were then used to run a global sensitivity analysis and to build an interaction map between the model parameters and the clinically measurable outputs simulated by the model. This provides a robust method for mapping between molecular processes and clinical measurements.
+
+[DOI: 10.5281/zenodo.10848600](https://doi.org/10.5281/zenodo.10848600)
+
 
 <a name="13"></a>
 ### 13 	 	Multi-Layered MPI parallelisation for the R-matrix with time-dependence code
@@ -203,7 +239,9 @@ To 'view' electrons in an atom or a molecule, we must capture their motion on a 
 
 RMT divides physical space occupied by the electronic wavefunction into two regions. In the compact inner region, centred on the nuclear centre of mass, a basis set expansion includes full multi-electron effects allowing accurate description of correlation. In the outer region, an ionised electron is sufficiently isolated that exchange with residual electrons can be neglected and the wavefunction is described on a finite-difference grid. This eCSE project added new layers to the distinct parallelization schemes for each region. We describe performance improvements and systematic choice of the correct balance of inner- and outer-region MPI tasks, along with newly enabled application possibilities. 
 
- 
+[DOI: 10.5281/zenodo.10848761](https://doi.org/10.5281/zenodo.10848761)
+
+
 <a name="14"></a>
 ### 14 	 	Future-proof Parallelism for Plane-Wave Density Functional Theory
 Matt Smith, University of York
@@ -218,6 +256,8 @@ plane-wave DFT community. A 2D logical process-grid, or generally a convex
 polyomino, not only avoids global communications but also reduces the total number of messages transmitted. Recognising optimal load-balancing in this context as a well-known deterministic scheduling problem, we adopt several task-scheduling polynomial time approximation schemes to distribute efficiently. 
  
 We illustrate efficient scaling of CASTEP to 4x as many processes as was previously possible, with 6x relative speed-ups regularly achieved on ARCHER2 and other U.K. HPC resources. The decomposition proves so efficient that FFT communications are no longer necessarily the limit to strong scaling; others, previously negligible by comparison, may now account for a significant fraction of the runtime. 
+
+*No DOI*
  
 <a name="15"></a>
 ### 15 	 EPIC: The Elliptical Parcel-In-Cell method
@@ -231,6 +271,9 @@ analysing a graph of nearest neighbouring parcels, which can be on different MPI
 communication in this algorithm was implemented using one-sided (RMA) communication. The EPIC 
 method has proven to outperform non-deformable PIC methods and comparable Eulerian models for buoyancy-driven turbulent fluid flows in terms of effective small-scale resolution.
 
+[DOI: 10.5281/zenodo.10848819](https://doi.org/10.5281/zenodo.10848819)
+
+
 <a name="16"></a>
 ### 16 	 	Public engagement in High Performance Computing
 Lorna Smith, EPCC, The University of Edinburgh	
@@ -239,6 +282,9 @@ EPCC operates a wide range of data facilities and High Performance Computing pla
  
 In this poster we will demonstrate the different fun, hands-on activities we deliver for participants. These range from Wee Archie, our suitcase-sized supercomputer, to logic puzzles to encourage problem-solving skills. We will showcase out work placement opportunities, provided to school children to help experience the world of work and explore careers in computational science.
  
+[DOI: 10.5281/zenodo.10848862](https://doi.org/10.5281/zenodo.10848862)
+
+
 <a name="17"></a>
 ### 17 	 	Adding ADIOS2 to the Xcompact3D CFD code
 Paul Bartholomew, EPCC, University of Edinburgh
@@ -248,6 +294,9 @@ An often-overlooked component in scientific codes is the I/O system. As a conseq
 A comparison of Xcompact3D I/O performance using the original MPIIO-based and ADIOS2-based backends achieves better scaling on ARCHER2. This becomes significant as we consider large-scale problems running on 64-1,024 ARCHER2 nodes, with the ADIOS2-based backend achieving near the theoretical limit of I/O performance on ARCHER2. 
 
 The parallelisation of Py4Incompact3D follows the same approach used in Xcompact3D by developing a Python wrapper for the 2DECOMP&FFT library. As would be expected based on Xcompact3D, the parallelised Py4Incompact3D demonstrates excellent scalability. When testing the in-situ analysis configuration it was found that the Python implementation of the numerical methods used became a bottleneck. A pure numpy solution was implemented, and Xcompact3D-Py4Incompact3D in-situ analysis demonstrated with performance equivalent to the pure Fortran solution. 
+
+[DOI: 10.5281/zenodo.10849005](https://doi.org/10.5281/zenodo.10849005)
+
 
 <a name="18"></a>
 ### 18 		Implementing an implicit solvent model in a periodic DFT code
@@ -261,6 +310,9 @@ adsorption and reactions on surfaces. Such systems and processes are routinely s
 The poster will showcase the computational benefits achieved, newly enabled features of the 
 FHI-aims code, and challenges encountered during the project.
 
+[DOI: 10.5281/zenodo.10849218](https://doi.org/10.5281/zenodo.10849218)
+
+
 <a name="19"></a>
 ### 19 	 	Unravelling Attosecond Dynamics: A General Approach To Ultrafast Atomic Simulations
 Sean Mashallsay, Queen’s University Belfast
@@ -269,11 +321,17 @@ The 2023 Nobel-prize was awarded for work which pushed the field of ultrafast at
 
 In recent years there are two key areas in which RMT has been used to further the field: light-atom interactions in the perturbative regime, and laser-atom interactions in the strong-field regime. The perturbative regime is particularly important in understanding how atomic structure affects interactions. However, perturbative models neglect many atomic processes by necessity, whereas RMT can provide vital information about the effects of non-perturbative processes in and near that regime. On the other hand, strong field ionisation is central to our understanding of quantum phenomena like tunnelling, and RMT’s full description of electron dynamics, alongside the detailed atomic structure it can use, provides novel insights. 
 
+[DOI: 10.5281/zenodo.10849345](https://doi.org/10.5281/zenodo.10849345)
+
+
 <a name="20"></a>
 ### 20 	 	Small-scale mixing in a parcel-based model of moist convection
 Steven Boeing, University of Leeds
 
 The Elliptical Parcel-in-Cell (EPIC) model is used to simulate cumulus clouds. For the first time, this includes both idealised single clouds and a realistic tradewind cumulus case study. In EPIC, mixing is modelled as the stretching, splitting and merging of parcels. Previous studies have already shown that mixing between parcels is relatively weak at coarse resolution in EPIC, and large (parallel) simulations are needed to capture all the relevant turbulent scales. A modification to EPIC is made to represent the effects of mixing by eddies that are not resolved on the grid scale. This modification is inspired by subgrid formulations in Large Eddy Simulation models, and is designed in such a way that e.g. heat and humidity are conserved. Although this modification reduces the issue of weak mixing at low resolution, it also leads to the undesirable suppression of fine-scale circulations when applied to the vorticity field 
+
+[DOI: 10.5281/zenodo.10849385](https://doi.org/10.5281/zenodo.10849385)
+
 
 <a name="21"></a>
 ### 21 	 	Laser-plasma instabilities at Shock Ignition scales
@@ -285,11 +343,17 @@ In the Shock-Ignition scheme, the laser intensity is varied over time to suppres
 
 These complex laser-plasma systems can be modelled using particle-in-cell (PIC) codes, but the length and time-scales involved in Shock-Ignition simulations can be prohibitively expensive for most computers. However, using Archer2, we have performed multiple scans over the design space with the PIC code EPOCH, to gain a greater understanding of laser-plasma coupling. 
 
+[DOI: 10.5281/zenodo.10849407](https://doi.org/10.5281/zenodo.10849407)
+
+
 <a name="22"></a>
 ### 22 	 	The consequences of tritium mix for simulated ion cyclotron emission spectra from deuterium-tritium plasmas
 Tobias Slade-Harajda, University of Warwick
 
 Measurements of ion cyclotron emission (ICE) from magnetically confined fusion (MCF) plasmas are helpful for understanding the physics of energetic ion populations therein. ICE is studied in most large MCF experiments, and may be used in future to measure properties of the fusion-born alpha-particle population in deuterium-tritium (DT) plasmas in ITER. Diagnostic exploitation of ICE is assisted by particle-in-cell (PIC) kinetic code EPOCH which self-consistently solves the Maxwell-Lorentz system of equations for millions of computational ions and fully resolves gyromotion, hence capturing the cyclotron resonant phenomenology underlying ICE, which is driven by an energetic, spatially localised, strongly non-Maxwellian ion population relaxing under the magnetoacoustic cyclotron instability (MCI). Here, for the first time, we incorporate a population of thermal tritons in addition to deuterons in EPOCH simulations of ICE relevant to MCF DT plasmas. Physically, the tritium population may support additional cyclotron harmonic waves; and tritons may also participate in wave-particle cyclotron resonant interactions involving thermal deuterons and the alpha-particles driving ICE, particularly at frequencies where deuteron and triton cyclotron harmonics are degenerate. We quantify the resulting variation in the distribution of ICE spectral peak intensities with tritium concentration. This is noticeable, and therefore important for the development of ICE diagnostics for future DT plasmas; nevertheless, simulations involving only thermal deuterons remain a good overall guide. Our conclusions are reinforced by analysis of the time-evolution of kinetic and field energy densities in the simulations, together with bicoherence analysis of the nonlinear interactions which couple energy flow between different cyclotron harmonics. 
+
+[DOI: 10.5281/zenodo.10849452](https://doi.org/10.5281/zenodo.10849452)
+
 
 <a name="23"></a>
 ### 23 	 	OpenEP Workbench: A computational platform for identifying fibrotic regions and conduction disturbances in the atria using conduction velocity.
@@ -310,11 +374,17 @@ posterior wall of a test case.
 
 **Conclusion:** The enhanced OpenEP Workbench provides a pre-built pipeline for researcher and clinicians to optimise CV and fibrotic region classifiers and quantify conduction velocity heterogeneity in electro-anatomical mapping data.
 
+[DOI: 10.5281/zenodo.10849540](https://doi.org/10.5281/zenodo.10849540)
+
+
 <a name="24"></a>
 ### 24  Introducing GeoChemFoam to Archer2
 Hannah Menke, Heriot-Watt University 	
 
 GeoChemFoam (GCF) (http://github.com/GeoChemFoam) is the Institute for GeoEnergy Engineering at Heriot-Watt University’s open-source pore-scale modelling code that is built on the OpenFOAM computational toolbox. Recently, we have successfully developed several new modules in GCF that have diverse applications to a range of processes relevant to the clean energy transition. These include low capillary number multiphase flow (e.g. hydrogen storage), equilibrium reactions (e.g. CO2 capture and storage), heat transfer (e.g. fuel cells and geothermal energy), the integration of machine learning tools (e.g. upscaling permeability in reservoirs), and the Darcy-Brinkman-Stokes transport and reactive transport (e.g. contaminant transport, low-carbon building materials). However, the meshing strategies are not optimised for an HPC environment. The goal of this project is to parallelise and upgrade the meshing and the pre-, and post-processing modules so that they are optimised for high performance computing environments and to create an on-demand multiscale adaptive meshing module to improve the scientific applicability of our solvers to highly heterogenous porous systems. As part of the project, we have also released a new module ‘GCFv5.0’ which is centrally available to all Archer2 users, along with user documentation and installation guide.  
+
+[DOI: 10.5281/zenodo.10849917](https://doi.org/10.5281/zenodo.10849917)
+
 
 <a name="25"></a>
 ### 25  ExCALIBUR: An exascale software programme
@@ -323,3 +393,5 @@ The Exascale Computing ALgorithms & Infrastructures Benefiting UK Research (ExCA
 Funded by the UK, running between 2019 and 2025, and having leveraged ARCHER2 extensively throughout its lifetime, the programme comprises four major themes; use-cases, exascale techniques and technologies, next-generation computing hardware, and investment in people. Initially activities identifying specific exascale use-cases and requirements across key scientific and engineering domains were undertaken which then fed into calls for exascale techniques and technology projects. Working with the use-cases to support their use of large-scale HPC, these have ranged across domain specific languages, quantum computing, machine learning for computation, exascale IO, workflows, simulation code coupling, task-based parallelism, and parallel in time methods.
 Concurrently, testbeds have been stood-up to explore next-generation computing architectures which include FPGAs, RISC-V, Graphcore, Arm, and Cerebras CS-2, and benchmarking for evaluation. Lastly, projects supporting, encouraging, and training HPC scientific software developers (RSEs) have run, exploring how to ensure RSE careers are fulfilling and valued, addressing the skills shortage faced by the HPC community.
 The work undertaken benefits not only the ARCHER2 community, but also future exascale supercomputers. The poster will summarize the programme, highlight key outcomes and how ARCHER2 has been key to meeting our objectives. 
+
+[DOI: 10.5281/zenodo.10849992](https://doi.org/10.5281/zenodo.10849992)
