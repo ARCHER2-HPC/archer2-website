@@ -13,15 +13,15 @@ banner: web_banners_03.jpg
 - [Usage statistics](#usage-statistics)
 
 
-## Current System Load - Full System
+## Current System Load - CPU
 
 The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
 of the status types is provided below the plot.
 
 ![image](https://safe.epcc.ed.ac.uk/Graphs/archer2.png)
 {: .img-center style="width: 80%" 
-alt="ARCHER2 Node Status over time" 
-title="ARCHER2 Node Status over time"}
+alt="ARCHER2 CPU Node Status over time" 
+title="ARCHER2 CPU Node Status over time"}
 
 - *alloc*: Nodes running user jobs
 - *idle*: Nodes available for user jobs
@@ -33,28 +33,24 @@ title="ARCHER2 Node Status over time"}
 Note: the long running reservation visible in the plot corresponds to the *short* QoS which
 is used to support small, short jobs with fast turnaround time.
 
-<!--
 
-## Current System Load - 4-cabinet
+## Current System Load - GPU
 
-The plot below shows the status of nodes on the current ARCHER2 4-cabinet service. A description of each
-of the status types is provided below the plot.
 
-![image](https://safe.epcc.ed.ac.uk/Graphs/4cab.png)
+![image](https://safe.epcc.ed.ac.uk/Graphs/archer2_gpu.png)
 {: .img-center style="width: 80%" 
-alt="ARCHER2 Node Status over time" 
-title="ARCHER2 Node Status over time"}
+alt="ARCHER2 GPU Node Status over time" 
+title="ARCHER2 GPU Node Status over time"}
 
 - *alloc*: Nodes running user jobs
 - *idle*: Nodes available for user jobs
 - *resv*: Nodes in reservation and not available for standard user jobs
-- *down*, *drain*, *maint*, *drng*, *comp*: Nodes unavailable for user jobs
+- *plnd*: Nodes are planned to be used for a future jobs. If pending jobs can fit in the space before the future job is due to start they can run on these nodes (often referred to as *backfilling*).
+- *down*, *drain*, *maint*, *drng*, *comp*, *boot*: Nodes unavailable for user jobs
 - *mix*: Nodes in multiple states 
 
-Note: the long running reservation visible in the plot corresponds to the *short* QoS which
-is used to support small, short jobs with fast turnaround time.
 
--->
+
 
 
 ## Service Alerts
