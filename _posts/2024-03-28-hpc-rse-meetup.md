@@ -14,7 +14,7 @@ On March 14, UK HPC RSEs came together in an online meetup to talk about the HPC
 ![image]({{ site.baseurl }}/img/blog/2024-03_hpc-rse.png)
 {: .img-center style="width: 60%" alt="Screenshot of online HPC RSE online meetup"  }
  
-We had 42 registrations for the event, with a maximum of 29 people in the room at any one time. This event was a follow-up from the []"ExCALIBUR RSEs meet HPC Champions" satellite event after RSECon22](https://excalibur.ac.uk/hpc-and-rse-workshop/) and the [HPC RSE BoF at RSECon23](https://www.archer2.ac.uk/news/2023/11/30/hpc-bof-rsecon23.html). While these events were mainly driven by people involved with the ExCALIBUR Knowledge Exchange Coordinator group and the HPC Champions that started from the [ARCHER UK national supercomputing service](https://www.archer2.ac.uk/), the aim was to share what we are working on, reach out to the wider community for input, and to give the opportunity to join in with the organisation of events and shaping of the community. 
+We had 42 registrations for the event, with a maximum of 29 people in the room at any one time. This event was a follow-up from the ["ExCALIBUR RSEs meet HPC Champions" satellite event after RSECon22](https://excalibur.ac.uk/hpc-and-rse-workshop/) and the [HPC RSE BoF at RSECon23](https://www.archer2.ac.uk/news/2023/11/30/hpc-bof-rsecon23.html). While these events were mainly driven by people involved with the ExCALIBUR Knowledge Exchange Coordinator group and the HPC Champions that started from the [ARCHER UK national supercomputing service](https://www.archer2.ac.uk/), the aim was to share what we are working on, reach out to the wider community for input, and to give the opportunity to join in with the organisation of events and shaping of the community. 
 
 ## The HPC RSE Community
 
@@ -26,7 +26,7 @@ In-person meetups of RSEs with an interest in HPC have been a feature of most ma
 
 ## Technical Talks and Discussions
 
-An important opportunity provided by these sort of meetups is for members of the community to share what they are working on more widely, and invite comments and suggestions from attendees around specific challenges that they might be sitting with. To this end, we had three technical talks; one from Tuomas Koskela from UCL talking about the ExCALIBUR benchmarking project, Ricky Olivier from Exeter talked about exoplanet science with LFRic, and Justs Zarins from EPCC talked about the CS-2 as part of the ExCALIBUR hardwaer and enabling software PETSc on CS-2 project.
+An important opportunity provided by these sort of meetups is for members of the community to share what they are working on more widely, and invite comments and suggestions from attendees around specific challenges that they might be sitting with. To this end, we had three technical talks; one from Tuomas Koskela from UCL talking about the ExCALIBUR benchmarking project, Ricky Olivier from Exeter talked about exoplanet science with LFRic, and Justs Zarins from EPCC talked about the CS-2 as part of the ExCALIBUR hardware and enabling software PETSc on CS-2 project.
 
 After each presenter had given a 10 minute talk, we then split into three breakout rooms, with each room discussing the topic in more detail and then reporting back. There were some themes identified across the topics, including the importance of benchmarks that are easily deployed on a range of HPC machines, how critical RSE skills are to work with large software applications such as LFRic, and challenges around programming architectures such as the CS-2.
 
