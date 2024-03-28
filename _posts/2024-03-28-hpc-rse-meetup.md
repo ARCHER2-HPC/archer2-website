@@ -38,4 +38,4 @@ The next events to look out for are [our talk at the Durham HPC days](https://sc
 
 We plan to start work at setting up a [SocRSE Special Interest Group](https://society-rse.org/information-for-setting-up-a-working-group-or-special-interest-group/) in early summer.
 
-There is still the chance to get involved, simply contact us or sign up here: https://bit.ly/hpc-rse-volunteer .
+There is still the chance to get involved, simply contact us or [sign up online](https://bit.ly/hpc-rse-volunteer) .
