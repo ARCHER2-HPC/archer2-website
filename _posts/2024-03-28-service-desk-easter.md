@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 Service Desk - Easter closure
-date: 2024-03-27 11:00:00
+date: 2024-03-28 11:00:00
 author: ARCHER2 Service
 tags: [newsletters] 
 categories: [news]
