@@ -47,7 +47,7 @@ Details to follow
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -58,7 +58,7 @@ Details to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2024-01-23   ">
+          href="https://epcced.github.io/2024-04-16_containers_bham/  ">
           <strong>Course materials</strong> 
         </a>
       </div>
@@ -67,7 +67,7 @@ Details to follow
  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/240123-advanced-openmp ">
+          href="https://pad.archer2.ac.uk/p/240416-containers ">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -76,7 +76,7 @@ Details to follow
  	</div>
 		
 		
--->					
+				
 
 <!--
  		
@@ -137,7 +137,7 @@ Details to follow
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=NNNNNN-xxxxxx"
+		   href="https://www.archer2.ac.uk/training/feedback/?course=240416-containers"
 
 		>
           <strong>Feedback</strong><br/>
