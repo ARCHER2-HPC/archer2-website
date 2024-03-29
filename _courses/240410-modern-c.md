@@ -51,26 +51,29 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 **Wednesday**:
 
 - 9:30 – 10:45 : Introduction
-- 10:45 – 11 : coffee break
-- 11 – 12:30 : class types
+- 10:45 – 11:00 : coffee break
+- 11:00 – 12:30 : class types
 
 - 12:30 – 1:30 : lunch
 
-- 1:30 – 3:00 : loops, containers, and iterators
-- 3:00 – 3:15 : coffee
-- 3:15 – 4:30 : Managing resources.
+- 1:30 – 2:45 : loops, containers, and iterators
+- 2:45 – 3:00 : coffee
+- 3:00 – 4:00 : Managing resources
+
+
 
 **Thursday**
 
-- 9:30 – 10:45 : Templates for generic programming
-- 10:45 – 11 : coffee break
-- 11 – 12:30 : Algorithms, lambdas, and traits
+-  9:30 – 10:45 : Templates for generic programming
+- 10:45 – 11:00 : coffee break
+- 11:00 – 12:30 : Algorithms, lambdas, and traits
 
 - 12:30 – 1:30 : lunch
 
-- 1:30 – 3:00 : Linear algebra with Eigen
-- 3:00 – 3:15 : coffee
-- 3:15 – 4:00 : Threads with C++
+- 1:30 – 2:45 : Linear algebra with Eigen
+- 2:45 – 3:00 : coffee
+- 3:00 – 4:00 : Threads with C++
+
 
 
 <section id="service">
