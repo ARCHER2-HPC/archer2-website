@@ -56,17 +56,25 @@ Details to follow
     <div class="row ">	
 
 		
+
+
+
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
+          href="https://epcced.github.io/2024-04-16_containers_bham/setup.html  ">
+          <strong>Pre-course setup</strong> 
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://epcced.github.io/2024-04-16_containers_bham/  ">
           <strong>Course materials</strong> 
         </a>
       </div>
-
-
  
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" 
+        <a class="ar2_linkbox ar2_linkbox-green" 
           href="https://pad.archer2.ac.uk/p/240416-containers ">
           <strong>Course Chat</strong>       
         </a>
