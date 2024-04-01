@@ -2,7 +2,7 @@
 layout: course
 title: Modern C++ for Computational Scientists
 banner: web_banners_05.jpg 
-human_dates: 10 - 11 April 2024  09:30 - 16:30  GMT
+human_dates: 10 - 11 April 2024  09:30 - 16:00  GMT
 start_date: 2024-04-10 09:30:00
 end_date: 2024-04-11 16:00:00
 trainers: James Richings EPCC
