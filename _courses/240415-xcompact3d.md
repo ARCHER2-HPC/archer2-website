@@ -7,7 +7,7 @@ start_date: 2024-04-15 10:00:00
 end_date: 2024-04-15 17:00:00
 trainers: Stefano Rolfo, Charles Moulinec, Jamie Quinn, Peter Brearley, Cedric Flageul, Sylvain Laizet
 course_type: course
-registration_status: open
+registration_status: full
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240415-xcompact3d
 location: Room 309, City and Guilds Building, Imperial College London, South Kensington Campus
 location_url: https://www.archer2.ac.uk/training/locations/imperial-city-guilds
