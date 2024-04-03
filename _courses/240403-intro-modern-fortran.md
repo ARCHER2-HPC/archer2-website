@@ -7,7 +7,7 @@ start_date: 2024-04-03 09:30:00
 end_date: 2024-04-04 16:30:00
 trainers: Kevin Stratford EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=240403-intro-modern-fortran
 location: Durham
 location_url: https://www.archer2.ac.uk/training/locations/durham
@@ -157,7 +157,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -169,7 +169,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=240403-intro-modern-fortran"
+		   href="../../feedback/?course=240403-intro-modern-fortran"
 
 		>
           <strong>Feedback</strong><br/>
@@ -178,7 +178,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
--->		
+	
 
  
 </section>
