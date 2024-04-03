@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Reproducible computational environments using containers&amp; introduction to Docker and Singularity
+title: Reproducible computational environments using containers - introduction to Docker and Singularity
 banner: web_banners_05.jpg 
 human_dates: 16 -17 April 2024   10:00 - 16:30 &amp; 09:00 - 14:30
 start_date: 2024-04-16 10:00:00
