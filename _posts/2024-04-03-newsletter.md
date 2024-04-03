@@ -11,8 +11,8 @@ categories: [news]
 - [Introduction to CP2K]({{ page.url }}#introduction-to-cp2k), Online, 8 April 2024 09:00 - 17:00 
 - [Intermediate Modern Fortran]({{ page.url }}#intermediate-modern-fortran), Edinburgh, 10 - 11 April 2024 09:30 - 16:30 
 - [Reproducible computational environments using containers &amp; introduction to Docker and Singularity]({{ page.url }}#reproducible-computational-environments-using-containers--introduction-to-docker-and-singularity), Birmingham, 16 -17 April 2024 10:00 - 16:30 & 09:00 - 14:30
-- [Introduction to GPU programming with HIP]({{ page.url }}#introduction-to-gpu-programming-with-hip) 	 Intermediate 	Online 	18 - 19 April 2024 09:30 - 16:00 
-- [Parallel Performance Analysis using Scalasca/Score-P on the ARCHER2 AMD GPUs]({{ page.url }}#parallel-performance-analysis-using-scalascascore-p-on-the-archer2-amd-gpus) 	 Advanced 	Edinburgh 	29 - 30 April 2024 09:30 - 17:00 GMT 
+- [Introduction to GPU programming with HIP]({{ page.url }}#introduction-to-gpu-programming-with-hip), Online, 18 - 19 April 2024 09:30 - 16:00 
+- [Parallel Performance Analysis using Scalasca/Score-P on the ARCHER2 AMD GPUs]({{ page.url }}#parallel-performance-analysis-using-scalascascore-p-on-the-archer2-amd-gpus), Edinburgh, 29 - 30 April 2024 09:30 - 17:00 GMT 
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)
 
@@ -84,6 +84,9 @@ The course will not discuss programming with compiler directives, but does provi
 
 Note that the course is also appropriate for those wishing to use NVIDIA GPUs via the CUDA API, although we will not specifically use CUDA.
 
+[Further details and registration](https://www.archer2.ac.uk/training/#upcoming-training)
+
+
 ## Parallel Performance Analysis using Scalasca/Score-P on the ARCHER2 AMD GPUs
 
 Edinburgh, 29 - 30 April 2024 09:30 - 17:00 GMT
@@ -94,8 +97,7 @@ Scalasca/Score-P targets scientific and engineering applications based on the pr
 
 This in-person course will cover how to use the tools in practice, delivered by members of the development team.  Scalasca/Score-P is portable across HPC systems, but for this course practical exercises will be conducted on the GPU-enabled partition of the UK National HPC Service ARCHER2 (an HPE/Cray EX system); all attendees will be given accounts on ARCHER2 for the duration of the course.  Although example parallel programs will be provided, attendees are encouraged to analyse the performance of their own applications.  
 
-
-
+[Further details and registration](https://www.archer2.ac.uk/training/#upcoming-training)
 
 
 ## Recently added known issues
