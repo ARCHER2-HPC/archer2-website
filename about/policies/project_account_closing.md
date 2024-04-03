@@ -6,7 +6,7 @@ summary: What happens when an account or project is no longer required on ARCHER
 
 These situations are most likely to come about during one of the following scenarios:
 
-1.    The retirement of project (usually three months after project end)
+1.    The retirement of project (usually one month after project end)
 2.    A PI tidying up a project requesting the removal of user(s) no longer working on the project
 3.    A user wishing his/her own account to be removed
 4.    A failure by a user to respond to the annual request to verify their email address held in the SAFE
@@ -24,9 +24,10 @@ A user’s right to use ARCHER2 is granted by a project. Our policy is to treat 
 A project manager can revoke your access accounts within their project at any time; locking, removing or re-owning the account as appropriate.
 
 You may give up access to an account and return it to the control of the project at any time.
-When a project is due to end, the PI will receive notification of the closure of the project and its accounts 3 months before the accounts are closed and cleaned. This includes all data stored on ARCHER2 and RDFaaS. 
+When a project is due to end, the PI will receive notification of the closure of the project and its accounts one month before the accounts are closed and cleaned. This includes all data stored on ARCHER2 and RDFaaS. 
 
 Update Logs
 * 2020-05-05 Updated Policy
 * 2020-03-13 Copied from ARCHER and Updated for ARCHER2
 * 2023-09-01 Information updated to include the deletion of RDFaaS data when project is deleted from ARCHER2
+* 2023-04-03 Reduction of grace access period after project ends to one month
