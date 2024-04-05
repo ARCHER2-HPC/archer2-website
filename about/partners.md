@@ -115,7 +115,7 @@ The University is home to the Advance Computing Facility, EPCC’s High performa
 	<div class="cstext">
 
 		<h3>
-			<a href="https://www.cray.com/">Cray, a Hewlett Packard Enterprise company</a>
+			<a href="https://www.cray.com/">Hewlett Packard Enterprise</a>
 		</h3>
 
 
