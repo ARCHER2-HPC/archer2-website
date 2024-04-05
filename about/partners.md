@@ -78,7 +78,7 @@ UKRI brings together the seven disciplinary research councils, Research England,
 
 	<div class="csimage">
 		<a href="https://www.ed.ac.uk/"><img
-			src="../img/logos/uoe_logo.png" alt="jet noise" style="width: 200px; padding: 20px;"  /></a>
+			src="../img/logos/uoe_logo.png" alt="UoE logo" style="width: 200px; padding: 20px;"  /></a>
 	</div>
 
 	<div class="cstext">
@@ -109,7 +109,7 @@ The University is home to the Advance Computing Facility, EPCC’s High performa
 
 	<div class="csimage">
 		<a href="https://www.cray.com/"><img
-			src="../img/logos/hpesm_pri_grn_pos_rgb.png" alt="cloud" style="width: 200px;  padding: 20px;"  /></a>
+			src="../img/logos/hpesm_pri_grn_pos_rgb.png" alt="HPE" style="width: 200px;  padding: 20px;"  /></a>
 	</div>
 
 	<div class="cstext">
@@ -118,12 +118,30 @@ The University is home to the Advance Computing Facility, EPCC’s High performa
 			<a href="https://www.cray.com/">Cray, a Hewlett Packard Enterprise company</a>
 		</h3>
 
+
+
 		<p>
-
-    <!--    Cray info  -->
-
-
+		ARCHER2 is a Cray EX Supercomputer system that was procured from Cray. In late 2019 Cray was acquired by Hewlett Packard Enterprise (HPE).  There are two teams directly involved in supporting the ARCHER2 Service.
 		</p>
+		
+		
+		<p><b>On-site Support Team</b></p>
+		<p>		
+		This team is dedicated to the support of ARCHER2 and is based at the Advanced Compute Facility (ACF). The team manages hardware and system software support on a 7 x 24 basis, liaising closely with EPCC and the HPE Centre of Excellence team to provide comprehensive support for the user community.
+		Activities such as the diagnosis and repair of hardware failures, proactive monitoring and the planning and execution of software updates are handled by this team. In addition to repair and maintenance activities, potential service enhancements are investigated and development activities undertaken as specific areas for improving the user experience are identified.
+		</p>
+		<p><b>The ARCHER Centre of Excellence</b></p>
+		
+		<p>The Centre of Excellence (CoE) supports the ARCHER2 service by providing, for example, deep support accessed through helpdesk channels, tailored training and specific community support.  The CoE team has two members based in the Bayes Building hosted in EPCC, with other members working remotely. 
+		</p>
+		<p><a href="coe">Additional details on the CoE</a>.</p>
+
+
+
+
 
 	</div>
 </div>
+
+
+
