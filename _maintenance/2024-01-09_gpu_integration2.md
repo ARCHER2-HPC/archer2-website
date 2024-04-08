@@ -1,5 +1,5 @@
 ---
-status: Ongoing
+status: Completed
 type: Partial
 start_date: 2024-01-09 12:00 GMT
 end_date: 2024-01-18 12:00 GMT
