@@ -101,7 +101,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -112,7 +112,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2024-01-23   ">
+          href="https://github.com/ARCHER2-HPC/archer2-fortran-inter  ">
           <strong>Course materials</strong> 
         </a>
       </div>
@@ -130,7 +130,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  	</div>
 		
 		
--->					
+				
 
 <!--
  		
