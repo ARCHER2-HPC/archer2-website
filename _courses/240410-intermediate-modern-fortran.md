@@ -7,7 +7,7 @@ start_date: 2024-04-10 09:30:00
 end_date: 2024-04-11 16:30:00
 trainers: Kevin Stratford
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=240410-intermediate-modern-fortran
 location: Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/edinburgh-patersons-land
@@ -179,7 +179,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 -->
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -191,7 +191,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=NNNNNN-xxxxxx"
+		   href="https://www.archer2.ac.uk/training/feedback/?course=240410-intermediate-modern-fortran"
 
 		>
           <strong>Feedback</strong><br/>
@@ -200,7 +200,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
--->
+
  
 </section>
 
