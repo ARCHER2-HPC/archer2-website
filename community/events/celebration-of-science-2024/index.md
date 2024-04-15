@@ -44,7 +44,7 @@ Thanks for attending the event and we look forward to seeing you again.
 - 10:20 - 11:20	Talk Session 3 
   -	10:20 - 10:40 Prof. Scott Woodley (UCL, MCC)
   -	10:40 - 11:00 [Dr Peter Hill](slides/Plasma HEC.pdf "PDF of slides") (University of York, Plasma HEC)
-  -	11:00 - 11:20 Dr Grenville Lister (University of Reading, Atmospheric and Polar Sciences Consortium)
+  -	11:00 - 11:20 [Dr Grenville Lister](slides/n02-celebration.pdf "PDF of slides") (University of Reading, Atmospheric and Polar Sciences Consortium)
 - 11:20 - 11:50	Coffee Break
 - 11:50 - 12:50	Talk Session 4 
   -	11:50 - 12:10 [Prof. Kai Luo](slides/ARCHER2 Celebration of Science Kai Luo EPCC.pdf "PDF of slides") (UCL, UKCOMES) 
