@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 16 -17 April 2024   10:00 - 16:30 &amp; 09:00 - 14:30
 start_date: 2024-04-16 10:00:00
 end_date: 2024-04-17 14:30:00
-trainers: Andy Turner EPCC
+trainers: Juan Rodriguez Herrera EPCC
 course_type: course
 registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=240416-containers
