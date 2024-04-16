@@ -7,7 +7,7 @@ start_date: 2024-04-16 10:00:00
 end_date: 2024-04-17 14:30:00
 trainers: Juan Rodriguez Herrera EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=240416-containers
 location: Room LG14, Murray Learning Centre, University of Birmingham
 location_url: https://www.archer2.ac.uk/training/locations/birmingham
@@ -133,11 +133,10 @@ Details to follow
 
 -->
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
-
 
     <div class="row ">	
 
@@ -153,8 +152,6 @@ Details to follow
         </a>
       </div>
     </div>
-		
--->
  
 </section>
 
