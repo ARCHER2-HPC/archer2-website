@@ -22,7 +22,7 @@ Thanks for attending the event and we look forward to seeing you again.
 - 10:10 - 11:10	Talk Session 1 
   -	10:10 - 10:30 Dr Phil Hasnip (University of York, UKCP)
   -	10:30 - 10:50 [Adrian Jackson](slides/NetZeroTalk.pdf "PDF of slides") (EPCC, NetZero)
-  -	10:50 - 11:10 Prof. Tom Penfold (Newcastle University, HPC-CONEXS)
+  -	10:50 - 11:10 [Prof. Tom Penfold](slides/HPC-CONEXS_presentation.pdf "PDF of slides") (Newcastle University, HPC-CONEXS)
 - 11:10 - 11:30	Coffee Break 
 - 11:30 - 12:00	Keynote on Exascale (Prof. Mark Parsons, EPCC)
 - 12:00 - 13:00	Panel Session - Ensuring Exascale Benefit UK Research
