@@ -1,5 +1,5 @@
 ---
-status: At-Risk
+status: Resolved
 type: Service Alert
 start_date: 2024-04-22 08:00 
 end_date: 2024-04-22 12:00 
