@@ -197,11 +197,13 @@ If you are from a commercial organisation and wish to attend a particular course
 
 
 
-## ARCHER2 year four planned courses
+## ARCHER2 year five planned courses
 
- |  February 2024 - April 2024 |
+ |  May 2024 - July 2024 |  August 2024 - October 2024 |  November 2024 - January 2025 | February 2025 - April 2025 |
  | ---  |
- |           Introduction to CP2K  <br>	Introduction to GROMACS <br>    Modern C++ for Computational Scientists  <br>  Debugging and Profiling on ARCHER2 |
+ |  Software Carpentry	 <br> HPC Carpentry	 <br> Modern C++ for Computational Scientists  <br> Reproducible research using containers	 <br> Shared Memory Programming with OpenMP	 <br> Introduction to Data Science and Machine Learning	 <br> Advanced MPI	 <br> GPU programming with HIP |  ARCHER2 for Data Scientists  <br>Using ReFrame for performance benchmarking  <br>Data Carpentry	 <br>	HPC Carpentry	 <br>Data Analysis and Visualisation in Python <br>	How to run software packages using GPUs  <br>HPC and AI  <br>How to write GPU code using directives <br>Efficient Parallel IO	 <br>Single Node Performance Optimisation | Introduction to Modern Fortran	<br>How to write GPU code using directives	<br>Reproducible research using containers	<br>GPU programming with HIP	<br>Advanced OpenMP |  How to run software packages using GPUs	<br>Intermediate Modern Fortran<br>Modern C++ for Computational Scientists	<br>Message Passing Programming with MPI	<br>Efficient Use of the HPE Cray EX Supercomputer |
+
+
 
 Once course details are confirmed, the course will be move up to the [Upcoming Training section](#upcoming-training) above.
 
