@@ -7,7 +7,7 @@ start_date: 2024-04-29 09:30:00
 end_date: 2024-04-30 17:00:00
 trainers: Brian Wylie (Juelich)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240429-scalasca-gpu
 location: Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/edinburgh-charteris-land
@@ -97,7 +97,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -106,7 +106,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=XXXX" 
+           href="../../feedback/?course=240429-scalasca-gpu" 
 
 		>
           <strong>Feedback</strong><br/>
@@ -115,7 +115,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
