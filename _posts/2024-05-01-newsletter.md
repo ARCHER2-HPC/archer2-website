@@ -20,7 +20,7 @@ categories: [news]
 
 ## Service Desk holiday Monday 6th May
 
-The ARCHER2 Service desk will be closed on Monday 6th April 2024.<br>
+The ARCHER2 Service desk will be closed on Monday 6th May 2024.<br>
 It will reopen as normal on Tuesday 7th May at 08:00.
 
 
