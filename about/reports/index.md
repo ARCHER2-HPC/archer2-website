@@ -86,6 +86,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2024
 
+* [April 2024](monthly/2024/apr24_safe.pdf)
 * [March 2024](monthly/2024/mar24_safe.pdf)
 * [February 2024](monthly/2024/feb24_safe.pdf)
 * [January 2024](monthly/2024/jan24_safe.pdf)
