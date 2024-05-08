@@ -1,5 +1,5 @@
 ---
-status: Planned
+status: Completed
 type: Full 
 start_date:  2024-05-08 09:00
 end_date:  2024-05-08 21:00
