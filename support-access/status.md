@@ -188,7 +188,7 @@ This section lists recent and upcoming maintenance sessions.
 
 ### Previous Service Alerts
 
-This section lists resolved service alerts from the past 30 days. 
+This section lists the five most recent resolved service alerts from the past 30 days. 
 [A full list of historical resolved service alerts is available](history/alerts).
 
 {% assign resolved_alerts = site.alerts | where_exp: "alert", "alert.status == 'Resolved'" %}
@@ -214,6 +214,7 @@ This section lists resolved service alerts from the past 30 days.
     </thead>
     <tbody>
         {% endif %}
+{% if count < 5 %}
       <tr>
       <td>
         {{ alert.status }}
@@ -238,6 +239,7 @@ This section lists resolved service alerts from the past 30 days.
       </td>
       </tr>
         {% assign count = count | plus: 1 %}
+{% endif %}
     {% endif %}
 {% endfor %}
 {% if count > 0 %}
