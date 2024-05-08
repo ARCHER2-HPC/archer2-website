@@ -14,6 +14,15 @@ banner: web_banners_03.jpg
 - [Usage statistics](#usage-statistics)
 
 
+## ARCHER2 Full system maintenance on Wednesday 8th May
+
+There will be a full ARCHER2 maintenance on Wednesday 8th May from 0900 - 2100. This is to allow an essential system update to take place.
+
+During this maintenance, users will not be able to connect to the login nodes, jobs will not run and users will be unable to access data.
+
+We will notify users once ARCHER2 is returned to service.
+
+
 ## Current System Load - CPU
 
 The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
