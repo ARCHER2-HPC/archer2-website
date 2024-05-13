@@ -114,7 +114,7 @@ The job size distribution by software is shown by the boxplots in Figure 2. This
  
 Figure 1: % CU use on Capability Day broken down by software used.
 
-![image]({{ site.baseurl }}/img/blog/2024-05_capday_software_usage.png)
+![image]({{ site.baseurl }}/img/blog/2024-05_capday_software_use.png)
 {: .img-center style="width: 60%" alt="Bar plot of software usage on ARCHER2 Capability Day"  }
 
 Table 4: Research areas associated with software used during Capability Day.
