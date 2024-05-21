@@ -65,7 +65,7 @@ Details to follow
 <section id="service">
 
  
-<!--
+
 <h2><a name="materials">Course materials</a></h2>
 
 
@@ -75,7 +75,7 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://epcced.github.io/2024-01-18-hpc-shell-noc/  ">
+          href=" https://epcced.github.io/2024-06-19-hpc-shell-shampton/  ">
           <strong>Day 1: Course materials</strong>         
         </a>
       </div>
@@ -83,7 +83,7 @@ Details to follow
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/2024-01-19-hpc-intro-noc/   ">
+          href=" https://epcced.github.io/2024-06-20-hpc-intro-shampton/   ">
           <strong>Day 2: Course materials</strong>         
         </a>
       </div>
@@ -95,7 +95,7 @@ Details to follow
   
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/240118-hpc-carpentry">
+          href="https://pad.archer2.ac.uk/p/240619-hpc-carpentry">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -104,7 +104,7 @@ Details to follow
  	</div>
 		
 		
--->				
+			
 
 
 <!-- 		
