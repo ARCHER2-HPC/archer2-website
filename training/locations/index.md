@@ -28,4 +28,5 @@ banner: web_banners_05.jpg
 * [Oxford e-Science Research Centre](oxford)
 * [Oxford University Doctoral Training Centre](oxford-dtc)
 * [Queen's University, Belfast](qub)
+* [University of Southampton](southampton)
 * [University of York](york)
