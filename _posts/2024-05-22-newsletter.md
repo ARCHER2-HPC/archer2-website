@@ -22,7 +22,7 @@ categories: [news]
 
 ## Service Desk Holiday on Monday 27th May. 
 
-Service desk will be closed. <br>  Service Desk will resume at 08:00 on Tuesday 28th May.
+Service desk will be closed on Monday 27th May. <br>  Service Desk will resume at 08:00 on Tuesday 28th May.
 
 
 ## ARCHER2 Capability Days 2: 4-6 June 2024
