@@ -10,7 +10,7 @@ categories: [news]
 
 - [Service Desk Holiday on Monday 27th May]({{ page.url }}#service-desk-holiday-on-monday-27th-may). Service desk will be closed. 
 - [ARCHER2 Capability Days 2]({{ page.url }}#archer2-capability-days-2-4-6-june-2024): 4-6 June 2024
-- [Cray Programming Environment Version 23.09]({{ page.url }}#cray-programming-environment-version-2309-available-from-21st-may) available from 21st May
+- [Cray Programming Environment Version 23.09]({{ page.url }}#cray-programming-environment-version-2309-available-from-21st-may) available from 24th May
 - [Hackathon Workshop on Generative Modelling]({{ page.url }}#hackathon-workshop-on-generative-modelling-in-edinburgh) in Edinburgh 8th -12th of July 2024
 - [2024 Educational Award For Outstanding Contribution to Computational Science Education]({{ page.url }}#2024-educational-award-for-outstanding-contribution-to-computational-science-education)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
@@ -47,9 +47,9 @@ A full description of the Capability Days, including example job submission scri
 [ARCHER2 Capability Days](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days)
 
 
-## Cray Programming Environment Version 23.09 available from 21st May
+## Cray Programming Environment Version 23.09 available from 24th May
 
-We will be installing a new version of the Cray Programming Environment (CPE) onto ARCHER2 on 20th May. CPE Version 23.09 will be available as a non-default programming environment from 21st May on both the main (CPU) system and the GPU development cluster.
+We began installing a new version of the Cray Programming Environment (CPE) onto ARCHER2 on 20th May. CPE Version 23.09 will be available as a non-default programming environment from 24th May on both the main (CPU) system and the GPU development cluster.
 
 Your login session will continue to default to the current default version (that is, CPE Version 22.12), though you can opt to switch to the newer CPE using the Module system. Full details will be provided in the [ARCHER2 documentation](https://docs.archer2.ac.uk/).
 
