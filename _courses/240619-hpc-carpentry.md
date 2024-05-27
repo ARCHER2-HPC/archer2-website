@@ -9,7 +9,7 @@ trainers: Tony Hallam EPCC
 course_type: course
 registration_status: open
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240619-hpc-carpentry
-location: Room 34/2003 - Seminar Room, B34 Education, Highfield Campus
+location: Southampton University, Room 34/2003 - Seminar Room, B34 Education, Highfield Campus
 location_url: https://www.archer2.ac.uk/training/locations/southampton
 prace_course: 
 audience: [ researcher, data-scientist, developer ]
