@@ -21,13 +21,15 @@ video:
 
 #### Target Audience:
 
-This course is aimed at programmers seeking to deepen their understanding of MPI and explore some of its more recent and advanced features. We cover topics including exploiting shared-memory access from MPI programs, communicator management and neighbourhood collectives. We also look at performance aspects such as which MPI routines to use for scalability, MPI internal implementation issues and overlapping communication and calculation. Intended learning outcomes
+This course is aimed at programmers seeking to deepen their understanding of MPI and explore some of its more recent and advanced features. We cover more advanced MPI functionality including exploiting shared-memory access from MPI programs and advanced use of collectives. We also look at performance aspects such as which MPI routines to use for scalability, MPI internal implementation details and overlapping communication and calculation.
 
--     Understanding of how internal MPI implementation details affect performance
--     Techniques for overlapping communications and calculation
--     Knowledge of MPI memory models for RMA operations
--     Understanding of best practice for MPI+OpenMP programming
--     Familiarity with neighbourhood collective operations in MPI
+Intended learning outcomes
+
+-    Understanding of how internal MPI implementation details affect performance
+-    Techniques for overlapping communications and calculation
+-    Knowledge of MPI memory models for RMA operations
+-    Understanding of best practice for MPI+OpenMP programming
+-    Familiarity with advanced collective operations in MPI such as neighbourhood collectives and use of derived datatypes
 
 
 #### Prerequisites:
