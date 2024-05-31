@@ -62,6 +62,13 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td>EPSRC remit only. Only for users with an existing ARCHER2 allocation who require additional resource.</td>
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
+ 	<tr>
+		<td><a href="#Director's Time:University of Edinburgh ">University of Edinburgh</a></td>
+		<td>Always Open</td>
+		<td></td>
+		<td>University of Edinburgh academics only.</td>
+		<td><a href="./ta/ARCHER2-DT-TA-form.docx">TA Form</a></td>
+	</tr>
 </table>
 
 [How to prepare a successful Technical Assessment](https://www.archer2.ac.uk/news/2022/08/03/technical-assessments.html) - a blog post with lots of helpful advice on how to complete TA forms. **Note:** Technical Assessments are not required at application time for Access to HPC calls
