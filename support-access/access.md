@@ -63,7 +63,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
  	<tr>
-		<td><a href="#Director's Time:University of Edinburgh ">University of Edinburgh</a></td>
+		<td><a href="#DirectorTime">Director Time - University of Edinburgh</a></td>
 		<td>Always Open</td>
 		<td></td>
 		<td>University of Edinburgh academics only.</td>
@@ -103,6 +103,10 @@ You can apply for access to national HPC systems (both ARCHER2 and most of the T
 <a id="topup"></a>
 ### ARCHER2 Top Up
 Only available for existing EPSRC grant holders with an ARCHER allocation. Provides additional resource for users who already have an allocation from an EPSRC grant, but need more to complete the objectives of their grant. Successor to the ARCHER Top Up process.
+
+<a id="DirectorTime"></a>
+### Director Time - University of Edinburgh Researchers
+EPCC have a small allocation on ARCHER2 and we encourage applications from University of Edinburgh researchers.
 
 <a id="consortia"></a>
 ### Access via the EPSRC High End Computing Consortia
