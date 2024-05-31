@@ -12,7 +12,7 @@ The ARCHER2 CSE Team can also provide [assistance with completing a Technical As
 
 This page has a number of sections:
 
-- [Calls for ARCHER2 time only](#archer2-time-calls) - this includes Access to HPC calls, Pioneer Projects, Pump Priming access and Driving Test access
+- [Calls for ARCHER2 time only](#archer2-time-calls) - this includes Access to HPC calls, Pioneer Projects, Pump Priming access, Driving Test and Director Time access 
 - EPSRC remit access through [Grants](#epsrc-grants)
 - [NERC remit access](#nerc) 
 - [UKRI calls, fellowships and responsive mode](#ukri-calls)
