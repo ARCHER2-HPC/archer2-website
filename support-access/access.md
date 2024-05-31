@@ -66,7 +66,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="#DirectorTime">Director Time - University of Edinburgh</a></td>
 		<td>Always Open</td>
 		<td></td>
-		<td>University of Edinburgh academics only.</td>
+		<td>University of Edinburgh researchers only.</td>
 		<td><a href="./ta/ARCHER2-DT-Application.docx">Director Time TA Form</a></td>
 	</tr>
 </table>
