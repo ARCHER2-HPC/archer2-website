@@ -13,13 +13,6 @@ banner: web_banners_03.jpg
 - [FAQ](#faq)
 - [Usage statistics](#usage-statistics)
 
-## ARCHER2 Capability Days
-
-The second ARCHER2 Capability Days session will run from 4-6 June 2024.
-
-This may result in slightly longer queue times for other work while some nodes are reserved for the Capability QoS.
-
-[Full details of the Capability Day](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days).
 
 ## Current System Load - CPU
 
