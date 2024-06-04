@@ -13,11 +13,12 @@ The ARCHER2 CSE Team can also provide [assistance with completing a Technical As
 This page has a number of sections:
 
 - [Calls for ARCHER2 time only](#archer2-time-calls) - this includes Access to HPC calls, Pioneer Projects, Pump Priming access, Driving Test and Director Time access 
-- EPSRC remit access through [Grants](#epsrc-grants)
+- [EPSRC remit access through Grants](#epsrc-grants)
 - [NERC remit access](#nerc) 
 - [UKRI calls, fellowships and responsive mode](#ukri-calls)
 - [Access via non-UKRI calls, fellowships and other routes](#other-calls)
 - [Access via the EPSRC High End Computing Consortia](#consortia)
+- [Commercial access](#commercial)
 
 <!-- TODO: add section "Which access route should I choose" -->
 
@@ -63,11 +64,11 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="./ta/ARCHER2-TA-form.docx">TA Form</a></td>
 	</tr>
  	<tr>
-		<td><a href="#DirectorTime">Director Time - University of Edinburgh</a></td>
+		<td><a href="#DirectorTime">Director's Time - University of Edinburgh</a></td>
 		<td>Always Open</td>
 		<td></td>
 		<td>University of Edinburgh researchers only.</td>
-		<td><a href="./ta/ARCHER2-DT-Application.docx">Director Time TA Form</a></td>
+		<td><a href="./ta/ARCHER2-DT-Application.docx">Director's Time TA Form</a></td>
 	</tr>
 </table>
 
@@ -167,6 +168,11 @@ For access as part of applications from non-UKRI funded researchers please
 discuss your requirements and plans. Please note that these discussions may take some time, and UKRI cannot guarantee that an agreement will be reached. 
 
 <!-- TODO: add industry access details -->
+
+<a id="commercial"></a>
+## Access for Commercial and Industrial users
+
+Access for Commercial and Industrial users is provided by EPCC.  Please see our [Industry Engagement page](../community/industry) for more details and contact routes.
 
 
 <!--
