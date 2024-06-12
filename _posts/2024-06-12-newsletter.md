@@ -23,7 +23,7 @@ Have you ever wondered what happens inside the MPI library when you send a messa
 
 For more details and to register, see:
 
-- [Advanced MPI](https://www.archer2.ac.uk/training/courses/240627-advanced-mpi/)
+- [Advanced MPI, Online, 27-28 June 2024](https://www.archer2.ac.uk/training/courses/240627-advanced-mpi/)
 
 ## SIGHPC Education Webinar: HPC Carpentry
 
