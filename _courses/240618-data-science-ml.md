@@ -7,7 +7,7 @@ start_date: 2024-06-18 09:30:00
 end_date: 2024-06-19 14:30:00
 trainers: Ioanna Lampaki, Michael Bareford EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240618-data-science-ml
 location: Online
 location_url:
