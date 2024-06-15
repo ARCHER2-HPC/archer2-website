@@ -40,13 +40,15 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 #### Timetable:
 
 - **Day 1**: 18th June 09:30-16:30
-- **Day 2**: 19th June 09:30-14:30 
+- **Day 2**: 19th June 09:30-14:30
+
+[Complete course timetable](https://github.com/EPCCed/archer2-intro-ds-and-ml)
 
 
 
 <section id="service">
 
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
  
@@ -74,7 +76,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
  	</div>
 		
--->		
+
 					
 
 <!--
