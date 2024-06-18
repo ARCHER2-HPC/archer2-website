@@ -7,7 +7,7 @@ start_date: 2024-06-19 09:00:00
 end_date: 2024-06-20 16:00:00
 trainers: Tony Hallam EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240619-hpc-carpentry
 location: University of Southampton
 location_url: https://www.archer2.ac.uk/training/locations/southampton
