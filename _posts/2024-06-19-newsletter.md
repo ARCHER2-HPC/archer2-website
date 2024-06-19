@@ -7,13 +7,24 @@ tags: [newsletters]
 categories: [news]
 ---
 
-
+- [Introduction to Porting and Running Applications on AMD GPUs]({{ page.url }}#introduction-to-porting-and-running-applications-on-amd-gpus), online webinar, Tuesday 25th June 2024 14:00 - 15:30
 - [Advanced MPI, Online, 27-28 June 2024]({{ page.url }}#advanced-mpi-online-27-28-june-2024)
 - [2024 Educational Award For Outstanding Contribution to Computational Science Education]({{ page.url }}#2024-educational-award-for-outstanding-contribution-to-computational-science-education)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
 <!--more-->
+
+## Introduction to Porting and Running Applications on AMD GPUs
+
+Tuesday 25th June 2024 14:00 - 15:30
+
+The porting to run on GPUs continues to get easier with improvements in GPU programming languages and tools. In this presentation, we first look at the wide range of AMD GPU architectures. Then we review the many language options for programming AMD GPUs. AMD is a strong proponent of application portability to run on all types of GPUs and CPUs. The languages covered will be HIP, ROCm, OpenMP, and some portability frameworks. We’ll briefly touch on the many optimized libraries that can be used in GPU applications. We’ll also take a look at the rich set of tools now available for AMD GPU programming.
+
+This online session is open to all. It will use the Blackboard Collaborate platform.
+
+[Full information and join link](https://www.archer2.ac.uk/training/courses/240625-amd-vt/)
+
 
 ## Advanced MPI, Online, 27-28 June 2024
 
@@ -50,6 +61,7 @@ No recent issues.
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, Always open - self-service 
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service 
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service     <br><br>
+- [Introduction to Porting and Running Applications on AMD GPUs](https://www.archer2.ac.uk/training/courses/240625-amd-vt/), online webinar, Tuesday 25th June 2024 14:00 - 15:30
 - [Advanced MPI](https://www.archer2.ac.uk/training/courses/240627-advanced-mpi/), Online, 27 - 28 June 2024 09:30 - 17:30
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
