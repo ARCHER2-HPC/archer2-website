@@ -2,9 +2,9 @@
 layout: course
 title: Advanced MPI
 banner: web_banners_05.jpg 
-human_dates: 27 - 28 June 2024  09:30 - 17:30  
+human_dates: 27 - 28 June 2024  09:30 - 17:00  
 start_date: 2024-06-27 09:30:00
-end_date: 2024-06-28 17:30:00
+end_date: 2024-06-28 17:00:00
 trainers: David Henty
 course_type: course
 registration_status: open
@@ -50,7 +50,7 @@ Details to follow
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -61,7 +61,7 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://github.com/EPCCed/archer2-AMPP-2023-09-06  ">
+          href=" https://github.com/EPCCed/archer2-AMPP-2024-06-27  ">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -80,7 +80,7 @@ Details to follow
 		
 		
 					
--->
+
 
 <!--
 		
