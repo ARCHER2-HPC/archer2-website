@@ -45,7 +45,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+[Timetable](https://github.com/EPCCed/archer2-AMPP-2024-06-27#timetable-all-times-are-in-british-summer-time)
 
 <section id="service">
 
