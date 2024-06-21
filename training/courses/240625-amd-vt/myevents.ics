@@ -27,7 +27,7 @@ DTSTAMP:20240610T104826Z
 UID:1718016467602-37878@ical.marudot.com
 DTSTART;TZID=Europe/London:20240625T140000
 DTEND;TZID=Europe/London:20240625T153000
-SUMMARY:ARCHER2 webinar: Introduction to Porting and Running Applications to AMD GPUs
+SUMMARY:ARCHER2 webinar: Introduction to Porting and Running Applications on AMD GPUs
 DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/240625-amd-vt/\nJoin link: https://eu.bbcollab.com/guest/3ebfd280418041198e767ff33d384e00
 END:VEVENT
 END:VCALENDAR
