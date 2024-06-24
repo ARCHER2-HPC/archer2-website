@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 7 - 8 February 2024  09:30 - 17:00  GMT
 start_date: 2024-02-07 09:30:00
 end_date: 2024-02-08 17:00:00
-trainers: Juan Herera
+trainers: Arno Proeme
 course_type: course
 registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=240207-data-analysis-visualisation-python
