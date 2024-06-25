@@ -24,13 +24,13 @@ The full ARCHER2 system has been available to users since 22 November 2021.
 | Interconnect | HPE Cray Slingshot, 2&times; 100 Gbps bi-directional per node |
 
 
-### GPU nodes
+### AMD GPU Development Platform
 
 | Nodes | 4 nodes |
 | Processor per node | 1x AMD EPYC 7534P (Milan) processor, 32 core, 2.8 GHz |
 | Accelerator per node | 4x AMD Instinct MI210 accelerator |
 | Memory per node | 512 GiB host memory |
-| Interconnect | 2× 100 Gb/s Slingshot interfaces per node |
+| Interconnect | HPE Cray Slingshot, 2&times; 100 Gbps bi-directional per node |
 
 ### Login and data analysis nodes
 
