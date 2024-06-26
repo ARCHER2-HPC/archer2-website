@@ -34,7 +34,7 @@ banner: web_banners_03.jpg
       </div>
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="cu-calc/">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="cu-calc">
           <strong>CU Calculator</strong><br/>
           Handy online tool to calculate the values you need to fill in the ARCHER2 Technical Assessment Form.
         </a>
