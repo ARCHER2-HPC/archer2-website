@@ -47,7 +47,7 @@ There are currently no ARCHER2 eCSE calls open but please do take a look at [rec
 [Older projects funded under the ARCHER service](http://www.archer.ac.uk/community/eCSE/eCSE-projects.php)
 
 
-## [eCSE Observers call](observers/)
+## eCSE Observers call
 
 One of the aims of the eCSE programme is to provide support for researchers in the early stages of their careers and we will be offering a small number of early career researchers the opportunity to attend the eCSE panel meeting as observers. 
 
