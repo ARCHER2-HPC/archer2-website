@@ -69,7 +69,7 @@ Funding can be requested for staff located at the institution of the PI, third p
 
 Reasonable travel will be funded for travel within the UK to meetings with other project partners. In addition to this, travel funds may be requested to send each technical member of staff to one national or international conference or workshop to help disseminate their work on the project. We recognise that carrying out this travel can cause challenges for individuals with caring responsibilities. Funds may be requested to help towards increased caring costs resulting from this travel. Please see the guidance document for further details.  
 
-When submitting your proposal, all costs must be included in your submission. Please ensure your budget is accurate and inclusive of all costs before submission and that you provide a costing breakdown. Please see the guidance document for details of allowable costs and associated documents. 
+When submitting your proposal, all costs must be included in your submission. Please ensure your budget is accurate and inclusive of all costs before submission and that you provide a costing breakdown. Please see [the guidance document](GPU_eCSE02_ApplicationGuidance.pdf) for details of allowable costs and associated documents. 
 
 ### Application and Review Process
 
