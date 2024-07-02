@@ -33,9 +33,9 @@ summary: ARCHER2 Embedded CSE (eCSE) support to improve software on ARCHER2.
 </section>
 
 
-## [GPU eCSE software development calls](calls/).
+## [GPU eCSE software development calls](calls/)
 
-We are very pleased to announce a new programme of eCSE calls focussing on GPU development. GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. We invite proposals to develop software that facilitates research targeted at UKRI’s digital research infrastructure e.g. future Exascale supercomputing services, UK national AI services, national Tier-2 HPC services. The call is open to research across all of UKRI’s remit. The GPU eCSE call (GPU-eCSE01) opened on the **17 Jan 2024**. The final deadline for proposal submission is **16:00 on 19 Mar 2024** via the ARCHER2 SAFE. Plese see the [GPU eCSE call information](calls/) for further information.
+We are very pleased to announce a new programme of eCSE calls focussing on GPU development. GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. We invite proposals to develop software that facilitates research targeted at UKRI’s digital research infrastructure e.g. future Exascale supercomputing services, UK national AI services, national Tier-2 HPC services. The call is open to research across all of UKRI’s remit. The 2nd GPU eCSE call (GPU-eCSE02) opened on the **2 July 2024**. The final deadline for proposal submission is **16:00 on 17 Sep 2024** via the ARCHER2 SAFE. Plese see the [GPU eCSE call information](calls/) for further information.
 
 
 ## ARCHER2 eCSE software development calls
@@ -49,7 +49,9 @@ There are currently no ARCHER2 eCSE calls open but please do take a look at [rec
 
 ## [eCSE Observers call](observers/)
 
-One of the aims of the eCSE programme is to provide support for researchers in the early stages of their careers and we will be offering a small number of early career researchers the opportunity to attend the eCSE panel meeting as observers. The early career eCSE Panel Observers opened alongside the eCSE call and the deadline for applications for this call is **16:00 on 27 Feb 2024**. Please see the [eCSE observer call information](observers/) for further details.
+One of the aims of the eCSE programme is to provide support for researchers in the early stages of their careers and we will be offering a small number of early career researchers the opportunity to attend the eCSE panel meeting as observers. 
+
+There is currently no eCSE Observers call open.
 
 
 ## Upcoming eCSE Calls
@@ -79,9 +81,7 @@ Note future dates are provisional and subject to change depending on earlier dem
    <tr><td>10th: ARCHER2 eCSE10</td><td>18 Apr 2023</td><td>16:00 on 23 May 2023</td><td>16:00 on 13 Jun 2023</td></tr>
    <tr><td>11th: ARCHER2 eCSE11</td><td>12 Sep 2023</td><td>16:00 on 10 Oct 2023</td><td>16:00 on 31 Oct 2023</td></tr>
    <tr><td>GPU eCSE01</td><td>17 Jan 2024</td><td>N/A</td><td>19 Mar 2024</td></tr>
-   <tr><td>GPU eCSE02</td><td>Spring 2024</td><td>N/A</td><td>Summer 2024</td></tr>
-   <tr><td>GPU eCSE03</td><td>Autumn 2024</td><td>N/A</td><td>Late 2024</td></tr>
-   <tr><td>GPU eCSE04</td><td>Early 2025</td><td>N/A</td><td>Early 2025</td></tr>
+   <tr><td>GPU eCSE02</td><td>2 Jul 2024</td><td>N/A</td><td>17 Sep 2024</td></tr>
    </tbody>
   </table>
 </div>
