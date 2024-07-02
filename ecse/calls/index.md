@@ -31,7 +31,7 @@ We are very keen to encourage software developers at the early stage of their ca
 
 Please follow the links here for [the guidance for submitting a proposal](GPU_eCSE02_ApplicationGuidance.pdf) to this call, along with [the project proposal template](GPU_eCSE02_ProposalTemplate.docx). Each call has its own guidance document and associated forms. Please ensure that the correct guidance and forms are used for this call. Please note submission will not be accepted if the correct version of template is not used for your application. 
 
-If your eCSE proposal is selected for funding, you will be provided with an award letter and will be asked to agree to the [eCSE Terms](../Terms/ARCHER2_GPU_eCSE_Terms.pdf). in advance of submitting your eCSE proposal. Please get in touch via the ARCHER2 service desk if you have any questions about this. 
+If your eCSE proposal is selected for funding, you will be provided with an award letter and will be asked to agree to the [eCSE Terms](../Terms/ARCHER2_GPU_eCSE_Terms.pdf) in advance of submitting your eCSE proposal. Please get in touch via the ARCHER2 service desk if you have any questions about this. 
 
 ### Scope of eCSE call
 
