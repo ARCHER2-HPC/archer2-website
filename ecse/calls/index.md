@@ -86,7 +86,7 @@ template is provided for the report will be provided to successful candidates.
 
 ### Intellectual Property
 
-IPR will belong to the project, alt.g. converting CUDA-based software to run on a wider range of architectures)
+IPR will belong to the project, e.g. converting CUDA-based software to run on a wider range of architectures.
 
 ### Links and documents
 
