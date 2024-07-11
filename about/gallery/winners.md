@@ -33,7 +33,7 @@ banner: ../../img/banners/web_banners_02_800.jpg
   		<b>{{ imagecomp.entry_no }}. {{ imagecomp.title }}  </b><br /><br />
 			 
 		{% if imagecomp.winner  %}
-			<strong>* * * {{ imagecomp.winner }} * * *</strong><br /><br />
+			<strong>* * * {{ imagecomp.year }} {{ imagecomp.winner }} * * *   </strong><br /><br />
 		{% endif %}
 
 		<i><strong>{{ imagecomp.name }}, {{ imagecomp.institution }}</strong></i><br /><br />  
