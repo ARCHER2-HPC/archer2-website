@@ -63,23 +63,15 @@ Anika is a MSc student with experience developing simple serial programs as an u
 ----------
 
 
-## Novice Developer with HPC expertise
+## Novice through to Experienced Developer with HPC expertise
 
 Dan is a climate and ocean modeller. He would like to compile the Unstructured Grid Finite Volume Community Ocean Model (FVCOM), both hydrostatic and non-hydrostatic models, and the Weather Research and Forecasting model, and maybe MITgcm. These will be used to develop coastal forecasting systems.
 
 
-![image](img/Novice-dev-with-exp.jpg){: style="width: 80%; float:center"}
+![image](img/Dev-with-exp.jpg){: style="width: 80%; float:center"}
 
 
 ----------
 
 
-## Experienced Developer with HPC expertise
 
-
-Dan is a climate and ocean modeller. He would like to compile the Unstructured Grid Finite Volume Community Ocean Model (FVCOM), both hydrostatic and non-hydrostatic models, and the Weather Research and Forecasting model, and maybe MITgcm. These will be used to develop coastal forecasting systems.
-
-
-![image](img/Exp-dev-with-exp.jpg){: style="width: 80%; float:center"}
-
-----------
