@@ -9,21 +9,21 @@ banner: web_banners_07.jpg
 <p>
 <ol>
     <li>The promoter of the ARCHER2 Image Competition is the ARCHER2 CSE Team.</li>
-    <li>The competition is open to all ARCHER and ARCHER2 users.  ARCHER2 staff 
+    <li>The competition is open to all ARCHER2 users.  ARCHER2 staff 
 			members directly involved with the competition administration or judging are not eligible to enter.</li>
-    <li>All entrants are required to provide their ARCHER or ARCHER2 username for 
+    <li>All entrants are required to provide their ARCHER2 username for 
 			validation purposes.</li>
     <li>Entry to the competition is free.</li>
     <li>The competition opens on 22 July 2024. <b>The closing date is 2 September 2024</b>. The ARCHER2 CSE Team reserves the right to extend the duration of the competition if necessary.</li>
     <li>The total prize fund is &pound;550.</li>
-    <li>Entries will be judged on their visual impact, public appeal  		and ability to convey the impact of ARCHER and ARCHER2 on scientific research. 
+    <li>Entries will be judged on their visual impact, public appeal and ability to convey the impact of  ARCHER2 on scientific research. 
   	The entries will be judged alongside the extended caption putting  		the image into context. Judges appointed by ARCHER2 CSE Team will   		nominate the winning entries and their decision is final.</li>
     <li>Please complete the <a href="ARCHER2_Image_Competition_2024_-_submission_form.pdf">
       ARCHER2 Image Competition 2024 submission form</a> and then send
       in your entry by email       to <a href="mailto:image@archer.ac.uk?subject=ARCHER Image Competition submission" >image@archer.ac.uk</a>, 
       attaching your image and/or including the url where we can download your video.</li>
     <li>Entrants may submit up to five entries.</li>
-    <li>All entries must demonstrate <strong>"ARCHER/ARCHER2 enabling research"</strong>.</li>
+    <li>All entries must demonstrate <strong>"ARCHER2 enabling research"</strong>.</li>
     <li>Images must be in a digital format (for example jpg).  Ideally 	images should be at a minimum of 300dpi and between a minimum file 		size of 5MB and a maximum file size of 25MB. Images can be downsized   		for submission but winners will be required to provide a   		high-resolution version of their submitted image. Images that   		are selected for a prize in any other major photo competition   		are not eligible.</li>
     <li>Videos must be in digital format (for example mp4 or animated .gif).  They should be <b>no more than   		one minute long</b>.  Please also include one still image from the video for use as a cover image. Videos that are selected for a prize in any other major competition are not eligible.</li>
     <li>Winner will be chosen and announced in September/October 2024 and prizes 	will be awarded thereafter. Winner will be contacted directly by email.</li>
