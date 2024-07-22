@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 Image Competition
+title: ARCHER2 Image and Video Competition
 summary: ARCHER2 Image and Video Competition 2024
 banner: web_banners_07.jpg
 ---
