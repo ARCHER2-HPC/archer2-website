@@ -7,16 +7,41 @@ tags: [newsletters]
 categories: [news]
 ---
 
+- [Shared memory programming with OpenMP]({{ page.url }}#shared-memory-programming-with-openmp), Online,  19th - 29th August 2024 9.30 - 12:30
 - [ARCHER2 Image and Video competition 2024]({{ page.url }}#archer2-image-and-video-competition-2024)
 - [UKRI are advertising for new members of the ARCHER2 User Advisory Group]({{ page.url }}#ukri-are-advertising-for-new-members-of-the-archer2-user-advisory-group)
 - [GPU programming with HIP]({{ page.url }}#gpu-programming-with-hip), Online, 7 - 9 August 2024 09:30 - 16:30 
-- [Shared memory programming with OpenMP]({{ page.url }}#shared-memory-programming-with-openmp), Online,  19th - 29th August 2024 9.30 - 12:30
 - [The 2nd GPU eCSE software development call ]({{ page.url }}#the-2nd-gpu-ecse-software-development-call)
 - [RDFaaS tape backup unavailable : Monday 2nd - Friday 9th August]({{ page.url }}#rdfaas-tape-backup-unavailable--monday-2nd---friday-9th-august)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
 <!--more-->
+
+
+
+
+## Shared memory programming with OpenMP
+
+Mornings, Mon 19th, Tue 20th, Thu 22nd, Tue 27th  and Thu 29th August 2024 9.30 - 12:30
+Online
+
+Almost all modern computers now have a shared-memory architecture with multiple CPUs connected to the same physical memory, for example multicore laptops or large multi-processor compute servers. This course covers OpenMP, the industry standard for shared-memory programming, which enables serial programs to be parallelised easily using compiler directives. Users of desktop machines can use OpenMP on its own to improve program performance by running on multiple cores; users of parallel supercomputers can use OpenMP in conjunction with MPI to better exploit the shared-memory capabilities of the compute nodes.
+
+This course will cover an introduction to the fundamental concepts of the shared variables model, followed by the syntax and semantics of OpenMP and how it can be used to parallelise real programs. Hands-on practical programming exercises will be included, with access to HPC provided for the duration of the course.
+
+- Session 1 (Mon 19) - Shared memory concepts and Introduction to OpenMP
+- Session 2 (Tue 20) – Parallel regions and Worksharing
+- Session 3 (Thu 22) – Synchronisation and Further Topics 
+- Session 4 (Tue 27) – Tips, Tricks and Gotchas, and Performance Issues
+- Session 5 (Thu 29) – Practical exercise tutorial 
+
+This course is aimed at attendees with prior experience of programming in C, C++ or Fortran. Some familiarity with HPC systems is helpful but not essential.
+
+At the end of the course, attendees should be equipped with the skills to write correct parallel programs using the core functionality of OpenMP, and understand the main issues affecting performance of shared memory parallel programs
+
+[Futher details and registration](https://www.archer2.ac.uk/training/#upcoming-training)
+
 
 ## ARCHER2 Image and Video competition 2024
 
@@ -40,7 +65,6 @@ The ARCHER2 Image and Video Competition is an event for all users of ARCHER2 to 
 [Full details and entry forms](https://www.archer2.ac.uk/community/image-comp/)
 
 
-
 ## UKRI are advertising for new members of the ARCHER2 User Advisory Group
 
 [Please follow this link for more details on how to apply](https://www.ukri.org/who-we-are/work-for-us/join-an-advisory-committee-panel-or-network/academic-research-computing-high-end-resource-archer2-user-advisory-group-vacancies/)
@@ -57,23 +81,6 @@ The course will not discuss programming with compiler directives, but does provi
 Note that the course is also appropriate for those wishing to use NVIDIA GPUs via the CUDA API, although we will not specifically use CUDA.
 
 [Futher details and registration](https://www.archer2.ac.uk/training/#upcoming-training)
-
-
-## Shared memory programming with OpenMP
-
-Mornings, Mon 19th, Tue 20th, Thu 22nd, Tue 27th  and Thu 29th August 2024 9.30 - 12:30
-Online
-
-Almost all modern computers now have a shared-memory architecture with multiple CPUs connected to the same physical memory, for example multicore laptops or large multi-processor compute servers. This course covers OpenMP, the industry standard for shared-memory programming, which enables serial programs to be parallelised easily using compiler directives. Users of desktop machines can use OpenMP on its own to improve program performance by running on multiple cores; users of parallel supercomputers can use OpenMP in conjunction with MPI to better exploit the shared-memory capabilities of the compute nodes.
-
-This course will cover an introduction to the fundamental concepts of the shared variables model, followed by the syntax and semantics of OpenMP and how it can be used to parallelise real programs. Hands-on practical programming exercises will be included, with access to HPC provided for the duration of the course.
-
-This course is aimed at attendees with prior experience of programming in C, C++ or Fortran. Some familiarity with HPC systems is helpful but not essential.
-
-At the end of the course, attendees should be equipped with the skills to write correct parallel programs using the core functionality of OpenMP, and understand the main issues affecting performance of shared memory parallel programs
-
-[Futher details and registration](https://www.archer2.ac.uk/training/#upcoming-training)
-
 
 
 ## The 2nd GPU eCSE software development call 
