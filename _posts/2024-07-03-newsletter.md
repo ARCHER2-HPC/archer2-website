@@ -9,7 +9,7 @@ categories: [news]
 
 
 - [The 2nd GPU eCSE software development call ]({{ page.url }}#the-2nd-gpu-ecse-software-development-call)
-- [RDFaaS tape backup unavailable : Monday 2nd - Friday 9th August]({{ page.url }}#rdfaas-tape-backup-unavailable--monday-2nd---friday-9th-august)
+- [RDFaaS tape backup unavailable : Friday 2nd - Friday 9th August]({{ page.url }}#rdfaas-tape-backup-unavailable--monday-2nd---friday-9th-august)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
@@ -29,7 +29,7 @@ More details of how to apply are available by following the link to the [eCSE ca
 Deadline for final GPU-eCSE02 submission: 16:00 on 17 Sep 2024 (via the [ARCHER2 SAFE](https://safe.epcc.ed.ac.uk/))
 
 
-## RDFaaS tape backup unavailable : Monday 2nd - Friday 9th August
+## RDFaaS tape backup unavailable : Friday 2nd - Friday 9th August
 
 
 Due to work taking place at the Advanced Computing Facility (ACF) , the tape backup system will be unavailable for the week of 2nd - 9th August 2024. 
