@@ -8,7 +8,7 @@ banner: web_banners_07.jpg
 
 Share your images and videos to support excellence and promote the contribution of ARCHER2 to outstanding research.
 The winner of the competition will be awarded £250.
-The winning image or video, along with a selection of other entries, will also be featured on the ARCHER2 website and in EPCC and ARCHER publications. Credit will be given to the entrant in all cases.
+The winning image or video, along with a selection of other entries, will also be featured on the ARCHER2 website and in EPCC and ARCHER2 publications. Credit will be given to the entrant in all cases.
 
 ### Key Details 
 
