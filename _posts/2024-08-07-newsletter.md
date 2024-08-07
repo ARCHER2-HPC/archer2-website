@@ -10,6 +10,7 @@ categories: [news]
 - [Shared memory programming with OpenMP]({{ page.url }}#shared-memory-programming-with-openmp), Online,  19th - 29th August 2024 9.30 - 12:30
 - [ARCHER2 Image and Video competition 2024]({{ page.url }}#archer2-image-and-video-competition-2024)
 - [Centrally supported software refresh]({{ page.url }}#centrally-supported-software-refresh)
+- [The 20th International Women in HPC Workshop: Diversity and Inclusion for All]({{ page.url }}#the-20th-international-women-in-hpc-workshop-diversity-and-inclusion-for-all) 
 - [UKRI are advertising for new members of the ARCHER2 User Advisory Group]({{ page.url }}#ukri-are-advertising-for-new-members-of-the-archer2-user-advisory-group)
 - [The 2nd GPU eCSE software development call ]({{ page.url }}#the-2nd-gpu-ecse-software-development-call)
 - [RDFaaS tape backup unavailable : Friday 2nd - Friday 9th August]({{ page.url }}#rdfaas-tape-backup-unavailable--monday-2nd---friday-9th-august)
@@ -84,6 +85,29 @@ We are also updating some existing centrally support software with the following
 - SuperLU Version 6.01
 
 These changes are being made during August. For more information please see the [ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide) or contact the [ARCHER2 Service Desk](mailto: support@archer2.ac.uk).
+
+
+## The 20th International Women in HPC Workshop: Diversity and Inclusion for All  
+
+The Women in HPC Workshop is the leading SC event focused on Diversity, Equity and Inclusion (DEI). This year we celebrate our 20th international workshop, aiming to raise awareness and address issues around diversity and inclusion within the HPC community and workforce.
+
+### Early Career Opportunities:  
+
+An important part of our workshop is offering a platform for early-career researchers to present at an international conference, build valuable networks, and experience their first SC. We invite anyone from an underrepresented group who considers themselves to be ‘early career’ to submit an extended abstract (up to 2 pages) in any area involving High-Performance Computing. Successful authors will be asked to provide a version of their work highlighting its goals, accomplishments, and impact to present in a short lightning talk (3 minutes) at the workshop.
+
+### Benefits for successful authors:  
+
+- Showcase your research at an international conference.
+- Receive mentorship from experienced colleagues.
+- Apply for a travel fellowship of up to $3,800 (approximately £3,000).
+- Have your extended abstract published in our proceedings.
+- **DEADLINE FOR SUBMISSIONS: AUGUST 16, 2024 – ANYWHERE ON EARTH**  
+
+[More information and submit](https://womeninhpc.org/events/sc-2024-workshop)
+
+### Call for Volunteers:
+We are assembling a committee of volunteers to help review the submissions and mentor our early career participants. If you are interested in contributing, please contact [e.broadway@epcc.ed.ac.uk](mailto:e.broadway@epcc.ed.ac.uk).
+
 
 
 ## UKRI are advertising for new members of the ARCHER2 User Advisory Group
