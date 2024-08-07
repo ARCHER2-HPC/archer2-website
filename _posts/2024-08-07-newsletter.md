@@ -9,6 +9,7 @@ categories: [news]
 
 - [Shared memory programming with OpenMP]({{ page.url }}#shared-memory-programming-with-openmp), Online,  19th - 29th August 2024 9.30 - 12:30
 - [ARCHER2 Image and Video competition 2024]({{ page.url }}#archer2-image-and-video-competition-2024)
+- [Centrally supported software refresh]({{ page.url }}#centrally-supported-software-refresh)
 - [UKRI are advertising for new members of the ARCHER2 User Advisory Group]({{ page.url }}#ukri-are-advertising-for-new-members-of-the-archer2-user-advisory-group)
 - [The 2nd GPU eCSE software development call ]({{ page.url }}#the-2nd-gpu-ecse-software-development-call)
 - [RDFaaS tape backup unavailable : Friday 2nd - Friday 9th August]({{ page.url }}#rdfaas-tape-backup-unavailable--monday-2nd---friday-9th-august)
@@ -61,6 +62,28 @@ Key Details
 The ARCHER2 Image and Video Competition is an event for all users of ARCHER2 to share their images or videos of “ARCHER2 Enabling Research”
 
 [Full details and entry forms](https://www.archer2.ac.uk/community/image-comp/)
+
+
+## Centrally supported software refresh
+
+The CSE team is refreshing the catalogue of centrally supported software, based on user feedback and usage. The following changes are being made during August:
+- ADIOS Version 2 is being installed, replacing ADIOS Version 1
+- Blender is being added
+- Likwid is being added 
+- PyTorch has recently been added (w/ support for the GPU Development System)
+- ARPACK, GLM, Matio and Trilinos are being removed.
+
+We are also updating some existing centrally support software with the following new versions:
+- CP2K Version 2024.01
+- GROMACS Version 2022.4 for the GPU Development System
+- FHI-aims Version 231212_1
+- LAMMPS Version 2Aug2024 for the GPU Development System
+- VASP 6.4.3
+- MKL Version 2023.0.0
+- PETSc Version 3.21
+- SuperLU Version 6.01
+
+These changes are being made during August. For more information please see the [ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide) or contact the [ARCHER2 Service Desk](mailto: support@archer2.ac.uk).
 
 
 ## UKRI are advertising for new members of the ARCHER2 User Advisory Group
