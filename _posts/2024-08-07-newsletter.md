@@ -152,7 +152,7 @@ No recent issues.
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service     <br><br>
 - [GPU programming with HIP](https://www.archer2.ac.uk/training/courses/240807-gpu-hip), Online, 7 - 9 August 2024 09:30 - 16:30 
 - [Shared memory programming with OpenMP](https://www.archer2.ac.uk/training/courses/240819-openmp), Online, Mornings, Mon 19th, Tue 20th, Thu 22nd, Tue 27th  and Thu 29th August 2024 9.30 - 12:30 
-- [Re-Introducing WHPC: How We're Driving Change and How You Can Help](https://www.archer2.ac.uk/training/courses/240821-whpc-vt/), online webinar, Tuesday 21st August 2024 15:00 - 16:00 
+- [Re-Introducing WHPC: How We're Driving Change and How You Can Help](https://www.archer2.ac.uk/training/courses/240821-whpc-vt/), online webinar, Wednesday 21st August 2024 15:00 - 16:00 
 
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
