@@ -194,14 +194,14 @@ Attendance by non-academics at online courses is free, but we would normally req
 
 If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
 
-
+Software Carpentry	 
 
 
 ## ARCHER2 year five planned courses
 
- |  May 2024 - July 2024 |  August 2024 - October 2024 |  November 2024 - January 2025 | February 2025 - April 2025 |
+  |  August 2024 - October 2024 |  November 2024 - January 2025 | February 2025 - April 2025 |
  | ---  |
- |  Software Carpentry	 <br>  Modern C++ for Computational Scientists  <br> Reproducible research using containers	  |  ARCHER2 for Data Scientists  <br>Using ReFrame for performance benchmarking  <br>Data Carpentry	 <br>	HPC Carpentry	 <br>Data Analysis and Visualisation in Python <br>	How to run software packages using GPUs  <br>HPC and AI  <br>How to write GPU code using directives <br>Efficient Parallel IO	 <br>Single Node Performance Optimisation | Introduction to Modern Fortran	<br>How to write GPU code using directives	<br>Reproducible research using containers	<br>GPU programming with HIP	<br>Advanced OpenMP |  How to run software packages using GPUs	<br>Intermediate Modern Fortran<br>Modern C++ for Computational Scientists	<br>Message Passing Programming with MPI	<br>Efficient Use of the HPE Cray EX Supercomputer |
+ |      ARCHER2 for Data Scientists  <br>Using ReFrame for performance benchmarking  	 <br>Data Analysis and Visualisation in Python <br>	How to run software packages using GPUs  <br>HPC and AI  <br>How to write GPU code using directives <br>Efficient Parallel IO	 <br>Single Node Performance Optimisation <br> LAMMPS <br> Accelerating your Applications with AMD GPUs <br>  Modern C++ for Computational Scientists  <br> Reproducible research using containers	 | Introduction to Modern Fortran	<br>How to write GPU code using directives	<br>Reproducible research using containers	<br>GPU programming with HIP	<br>Advanced OpenMP <br> HPC Carpentry <br> Intermediate Research Software Development <br> Data Carpentry|  How to run software packages using GPUs	<br>Intermediate Modern Fortran<br>Modern C++ for Computational Scientists	<br>Message Passing Programming with MPI	<br>Efficient Use of the HPE Cray EX Supercomputer |
 
 
 
