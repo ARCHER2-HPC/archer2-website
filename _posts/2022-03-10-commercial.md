@@ -31,8 +31,7 @@ title="ARCHER2"}
 
 
 Contact the Commercial team:
-- [Thomas Blyth](mailto:t.blyth@epcc.ed.ac.uk)
-- [Julien Sindt](mailto:j.sindt@epcc.ed.ac.uk)
+- [Julien Sindt](mailto:Commercial@epcc.ed.ac.uk)
 
 
 
