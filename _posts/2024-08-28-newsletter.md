@@ -49,19 +49,17 @@ The third ARCHER2 Capability Days session will run from 24-26 September 2024. AR
 
 Capability Days are made up of three parts:
 
-0800-2000 BST, 24 September 2024 - pre-Capability Days session (pre-capabilityday QoS) to allow users to test scaling and job setup ahead of full Capability Day
-- Supports jobs 256-1024 nodes, 20 min maximum run time
-- Jobs are uncharged
-  
-0800-1600 BST, 24 Sep 2024 - NERCcapability reservation to allow NERC users to test scaling
-- Only available to users in NERC projects
-- Supports up to 1024 nodes
-- Jobs are uncharged
-  
-2000 BST, 24 September - 1400 BST, 26 September 2024 - Capability Days session (capabilityday QoS)
-- Supports jobs 512-4096 nodes, 1 hour maximum run time
-- Jobs are uncharged
-
+- 0800-2000 BST, 24 September 2024 - pre-Capability Days session (pre-capabilityday QoS) to allow users to test scaling and job setup ahead of full Capability Day
+    - Supports jobs 256-1024 nodes, 20 min maximum run time
+    - Jobs are uncharged
+- 0800-1600 BST, 24 Sep 2024 - NERCcapability reservation to allow NERC users to test scaling
+    - Only available to users in NERC projects
+    - Supports up to 1024 nodes
+    - Jobs are uncharged  
+- 2000 BST, 24 September - 1400 BST, 26 September 2024 - Capability Days session (capabilityday QoS)
+    - Supports jobs 512-4096 nodes, 1 hour maximum run time
+    - Jobs are uncharged
+      
 For all Capability Days QoS/reservation jobs can be submitted ahead of time and will start when the session starts.
 
 [A full description of the Capability Days, including example job submission scripts can be found in the ARCHER2 Documentation at]([https://www.archer2.ac.uk/community/image-comp/](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days))
