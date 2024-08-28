@@ -62,8 +62,8 @@ Capability Days are made up of three parts:
       
 For all Capability Days QoS/reservation jobs can be submitted ahead of time and will start when the session starts.
 
-[A full description of the Capability Days, including example job submission scripts can be found in the ARCHER2 Documentation at](https://www.archer2.ac.uk/community/image-comp/](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days)
-
+A full description of the Capability Days, including example job submission scripts can be found in the ARCHER2 Documentation at:
+[ARCHER2 Capability Days](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days)
 
 ## UKRI are advertising for new members of the ARCHER2 User Advisory Group
 
