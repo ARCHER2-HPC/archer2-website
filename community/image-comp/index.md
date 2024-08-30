@@ -13,7 +13,7 @@ The winning image or video, along with a selection of other entries, will also b
 ### Key Details 
 
 - Competition Opens: 22 July 2024
-- Submission Deadline: 2 September 2024
+- Submission Deadline: **extended to 17 September 2024**
 - Judging: September/October 2024
 - Prizes:
     - Best image : £150
