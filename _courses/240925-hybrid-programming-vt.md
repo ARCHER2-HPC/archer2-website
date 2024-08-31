@@ -13,7 +13,7 @@ location: Online
 location_url:
 prace_course: false
 video: 
-ecse:
+ecse: ecse01-26
 ---
 
 Parallelism is central to modern scientific computing in that it provides
