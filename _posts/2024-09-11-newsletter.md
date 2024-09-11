@@ -64,6 +64,7 @@ For all Capability Days QoS/reservation jobs can be submitted ahead of time and 
 A full description of the Capability Days, including example job submission scripts can be found in the ARCHER2 Documentation at:
 [ARCHER2 Capability Days](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days)
 
+During Capability Days a significantly reduced number of nodes are available for standard ARCHER2 jobs so users should expect to experience longer than usual wait times and reduced throughput.
 
 ## UKRI are advertising for new members of the ARCHER2 User Advisory Group
 
