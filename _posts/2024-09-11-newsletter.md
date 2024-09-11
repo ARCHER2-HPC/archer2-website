@@ -17,7 +17,7 @@ categories: [news]
 <!--more-->
 
 
-## EXTENDED: ARCHER2 Image and Video competition 2024
+## FINAL REMINDER: ARCHER2 Image and Video competition 2024
 
 
 Share your images and videos to support excellence and promote the contribution of ARCHER2 to outstanding research. The winner of the competition will be awarded £250.
@@ -65,6 +65,9 @@ A full description of the Capability Days, including example job submission scri
 [ARCHER2 Capability Days](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days)
 
 During Capability Days a significantly reduced number of nodes are available for standard ARCHER2 jobs so users should expect to experience longer than usual wait times and reduced throughput.
+
+There will be a webinar detailing Capability Days on Wednesday 18th September at 1500 (TBC). Details can be found:
+[ARCHER2 Webinars](https://www.archer2.ac.uk/training/materials/webinars/)
 
 ## UKRI are advertising for new members of the ARCHER2 User Advisory Group
 
