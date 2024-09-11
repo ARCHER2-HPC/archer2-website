@@ -66,8 +66,8 @@ A full description of the Capability Days, including example job submission scri
 
 During Capability Days a significantly reduced number of nodes are available for standard ARCHER2 jobs so users should expect to experience longer than usual wait times and reduced throughput.
 
-There will be a webinar detailing Capability Days on Wednesday 18th September at 1500 (TBC). Details can be found:
-[ARCHER2 Webinars](https://www.archer2.ac.uk/training/materials/webinars/)
+There will be a webinar detailing Capability Days on Wednesday 18th September at 1500 (TBC). Details can be found at:
+[ARCHER2 Webinars](https://www.archer2.ac.uk/training/materials/webinars)
 
 ## UKRI are advertising for new members of the ARCHER2 User Advisory Group
 
