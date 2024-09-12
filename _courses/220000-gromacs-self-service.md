@@ -7,7 +7,7 @@ start_date: 2022-01-01 10:00:00
 end_date: 2028-12-31 16:00:00
 trainers: Dmitry Morozov, Emiliano Ippoliti, Holly Judge, Arno Proeme, and Julien Sindt
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=220000-gromacs-self-service
 location: Online
 location_url:
