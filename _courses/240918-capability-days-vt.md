@@ -26,7 +26,6 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 <a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
 {% endif %}
 
-<!--
 <section id="service">
 
 
@@ -34,12 +33,13 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://eu.bbcollab.com/guest/fdc3dd1378d84824955b4b28a11d60eb">
+          href="https://eu.bbcollab.com/guest/0b05e93d41ae47259c42554671cc208c">
           <strong>Join Session</strong><br/>
           Join this online session in your browser
         </a>
       </div>
 
+<!--
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
            href="myevents.ics">
@@ -48,10 +48,10 @@ This online session is open to all. It will use the Blackboard Collaborate platf
         </a>
       </div>
 
+-->
 
 											
   </div>
--->
 
 
 <!--
