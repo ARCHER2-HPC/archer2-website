@@ -5,8 +5,24 @@ summary:
 banner: web_banners_05.jpg
 ---
 
+6.19. Henry Daysh Building<br>
+Newcastle upon Tyne<br>
+NE1 7RX
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9158.313646038687!2d-1.6145985!3d54.9804921!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e71335d82bf2b%3A0x681fe50991e8e2d6!2sHenry%20Daysh%20Building!5e0!3m2!1sen!2suk!4v1726492954784!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+
+
+
+
+
+
+
+
+
+
+<!--
 Barbara Strang Teaching Centre (room 3.30)  <br>
 The Bedson Building <br>
 Newcastle University <br>
@@ -17,7 +33,7 @@ Newcastle upon Tyne NE1 8QB
 
 
 
-<!--
+
 
 Newcastle University
 
