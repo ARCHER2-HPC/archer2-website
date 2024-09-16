@@ -16,9 +16,9 @@ video:
 ecse: 
 ---
 
-Capability Days are periods on the ARCHER2 system where a large fraction of the system will be reserved for very large, capability jobs only which will run free of charge. For this purpose, capability jobs are defined as those that use 512 nodes or more. The aim of the Capability Days is to allow researchers to test and understand the performance of their applications at large scale.
+[Capability Days](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days) are periods on the ARCHER2 system where a large fraction of the system will be reserved for very large, capability jobs only which will run free of charge. For this purpose, capability jobs are defined as those that use 512 nodes or more. The aim of the Capability Days is to allow researchers to test and understand the performance of their applications at large scale.
 
-This webinar will introduce how the Capability Days work, how users can take advantage of the initiative and tips for scaling jobs to very large node counts on ARCHER2.
+This webinar will introduce how the [Capability Days work](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days), how users can take advantage of the initiative and tips for scaling jobs to very large node counts on ARCHER2.
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
