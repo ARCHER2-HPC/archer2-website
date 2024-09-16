@@ -3,8 +3,8 @@ layout: course
 title: Adventures and misadventures in hybrid programming
 banner: web_banners_05.jpg
 human_dates: Wednesday 25th September 2024 15:00 - 16:00
-start_date: 2024-08-25 15:00:00
-end_date: 2024-08-25 16:00:00
+start_date: 2024-09-25 15:00:00
+end_date: 2024-09-25 16:00:00
 trainers: Kevin Stratford EPCC
 course_type: vt
 registration_status:

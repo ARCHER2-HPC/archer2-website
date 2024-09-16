@@ -116,3 +116,4 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 </section>
 
 
+We are currently updating this course - Registration will reopen once the update is completed.
