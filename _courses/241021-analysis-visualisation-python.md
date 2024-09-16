@@ -67,7 +67,7 @@ Tuesday 22nd October
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -78,16 +78,23 @@ Tuesday 22nd October
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-advanced-OpenMP/tree/2024-01-23   ">
+          href="https://datacarpentry.org/python-ecology-lesson/index.html   ">
           <strong>Course materials</strong> 
         </a>
       </div>
 
 
- 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/240123-advanced-openmp ">
+          href="https://datacarpentry.org/python-ecology-lesson/index.html#setup   ">
+          <strong>Pre-course Setup</strong> <br> Please try to complete setup prior to the course
+        </a>
+      </div>
+
+ 
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="https://pad.archer2.ac.uk/p/241021-analysis-visualisation-python ">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -96,7 +103,7 @@ Tuesday 22nd October
  	</div>
 		
 		
--->					
+		
 
 <!--
  		
