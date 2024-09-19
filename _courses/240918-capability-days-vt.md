@@ -65,7 +65,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 </div>
 
 
-<!--
+
 
 
 <section id="service">
@@ -75,7 +75,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
-           href="   ">
+           href=" 2024-09-18_CapabilityDaysWebinar.pdf  ">
           <strong>Slides</strong><br/>
           Download pdf of the presentations.
         </a>
@@ -85,4 +85,4 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 </section>
 
--->
+
