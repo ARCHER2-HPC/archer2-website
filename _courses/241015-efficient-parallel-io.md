@@ -2,7 +2,7 @@
 layout: course
 title: Efficient Parallel IO
 banner: web_banners_05.jpg 
-human_dates: 15 October 2024  09:30 - 16:30  GMT
+human_dates: 15 October 2024  09:30 - 16:30  
 start_date: 2024-10-15 09:30:00
 end_date: 2024-10-15 16:30:00
 trainers: David Henty EPCC
