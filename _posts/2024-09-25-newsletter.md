@@ -11,7 +11,7 @@ categories: [news]
 - [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), Online, 15 October 2024 09:30 - 16:30  	
 - [Introduction to LAMMPS]({{ page.url }}#introduction-to-lammps), Online, 17 October 2024 10:00 - 16:30 
 - [Data transfer via Globus]({{ page.url }}#data-transfer-via-globus)
-- [Accessibility of EPSRC Large Scale Facilities]({{ page.url }}#accessibility-of-epsrc-large-scale-facilities) - User survey
+- [Accessibility of EPSRC Large Scale Facilities]({{ page.url }}#accessibility-of-epsrc-large-scale-facilities---user-survey) - User survey
 - [Capability Days]({{ page.url }}#capability-days) including [webinar]({{ page.url }}#capability-days-webinar) on how to get the most from the Capability Days
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
