@@ -11,6 +11,7 @@ categories: [news]
 - [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), Online, 15 October 2024 09:30 - 16:30  	
 - [Introduction to LAMMPS]({{ page.url }}#introduction-to-lammps), Online, 17 October 2024 10:00 - 16:30 
 - [Data transfer via Globus]({{ page.url }}#data-transfer-via-globus)
+- [Accessibility of EPSRC Large Scale Facilities]({{ page.url }}#accessibility-of-epsrc-large-scale-facilities) - User survey
 - [Capability Days]({{ page.url }}#capability-days) including [webinar]({{ page.url }}#capability-days-webinar) on how to get the most from the Capability Days
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
@@ -69,8 +70,17 @@ The ARCHER2 filesystems have a Globus Collection (formerly known as an endpoint)
 https://docs.archer2.ac.uk/user-guide/data/#data-transfer-via-globus)
 
 
+## Accessibility of EPSRC Large Scale Facilities - User survey 
 
+We have been asked by EPSRC to circulate this survey to all users to collect the experiences of facility users.
 
+With this survey their aim is not to single out any individual facilities but instead to identify and share what is working well. Once they have analysed the responses, the aggregated results will be shared with all the facilities, so we can jointly explore ways in which the range of facilities can become more inclusive, e.g. through good practice sharing.
+
+[Complete the survey](  https://engagementhub.ukri.org/epsrc-researchinfrastructure/lsfusersurvey/)
+
+EPSRC are keen to reach as many users as possible, to help them understand what barriers, if any, exist to providing greater accessibility.
+
+Please do complete the survey.
 
 ## Capability Days
 
@@ -98,6 +108,11 @@ A full description of the Capability Days, including example job submission scri
 [ARCHER2 Capability Days](https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days)
 
 During Capability Days a significantly reduced number of nodes are available for standard ARCHER2 jobs so users should expect to experience longer than usual wait times and reduced throughput.
+
+**Currently, the nodes reserved for Capability Days are not fully utilised so we would encourage users to make use of them.  We will continue to monitor utilisation and if utilisation reduces further then we will return to nodes to normal service.** Users will be notified if we do this.
+
+Please contact the service desk if you have any questions or require assistance regarding Capability Days.
+
 
 ### Capability Days webinar
 
