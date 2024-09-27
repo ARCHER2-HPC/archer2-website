@@ -1,5 +1,5 @@
 ---
-status: On-going
+status: Resolved
 type: Service Alert
 start_date: 2024-09-24 08:00  
 end_date: 2024-09-26 14:00
