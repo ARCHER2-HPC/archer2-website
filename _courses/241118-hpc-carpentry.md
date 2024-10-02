@@ -7,7 +7,7 @@ start_date: 2024-11-18 09:30:00
 end_date: 2024-11-19 16:00:00
 trainers:  EPCC
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=241118-hpc-carpentry
 location: University of Newcastle
 location_url: https://www.archer2.ac.uk/training/locations/newcastle
@@ -150,4 +150,4 @@ Details to follow
  
 </section>
 
-
+This course is fully booked with a full waiting list
