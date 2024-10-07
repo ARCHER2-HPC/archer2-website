@@ -199,9 +199,11 @@ Software Carpentry
 
 ## ARCHER2 year five planned courses
 
-  |  August 2024 - October 2024 |  November 2024 - January 2025 | February 2025 - April 2025 |
+ |  November 2024 - January 2025 | February 2025 - April 2025 |
  | ---  |
- |      ARCHER2 for Data Scientists  <br>Using ReFrame for performance benchmarking  	 <br>	How to run software packages using GPUs  <br>HPC and AI  <br>How to write GPU code using directives  <br>Single Node Performance Optimisation <br>   Modern C++ for Computational Scientists  <br> Reproducible research using containers	 | Introduction to Modern Fortran	<br>How to write GPU code using directives	<br>Reproducible research using containers	<br>GPU programming with HIP	<br>Advanced OpenMP <br>  Data Carpentry|  How to run software packages using GPUs	<br>Intermediate Modern Fortran<br>Modern C++ for Computational Scientists	<br>Message Passing Programming with MPI	<br>Efficient Use of the HPE Cray EX Supercomputer |
+ | Message Passing Programming with MPI	<br> Single Node Performance Optimisation <br> Reproducible research using containers	<br> How to write GPU code using directives  <br> Efficient Use of the HPE Cray EX Supercomputer <br> Data Carpentry | GPU programming with HIP	<br> Advanced OpenMP <br> Modern C++ for Computational Scientists	<br>  Reproducible research using containers <br> Introduction to Modern Fortran	<br> How to write GPU code using directives	<br> Intermediate Modern Fortran <br> Modern C++ for Computational Scientists  |
+
+
 
 
 
