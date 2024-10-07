@@ -201,7 +201,7 @@ Software Carpentry
 
   |  August 2024 - October 2024 |  November 2024 - January 2025 | February 2025 - April 2025 |
  | ---  |
- |      ARCHER2 for Data Scientists  <br>Using ReFrame for performance benchmarking  	 <br>	How to run software packages using GPUs  <br>HPC and AI  <br>How to write GPU code using directives  <br>Single Node Performance Optimisation <br>   Modern C++ for Computational Scientists  <br> Reproducible research using containers	 | Introduction to Modern Fortran	<br>How to write GPU code using directives	<br>Reproducible research using containers	<br>GPU programming with HIP	<br>Advanced OpenMP <br> HPC Carpentry <br> Intermediate Research Software Development <br> Data Carpentry|  How to run software packages using GPUs	<br>Intermediate Modern Fortran<br>Modern C++ for Computational Scientists	<br>Message Passing Programming with MPI	<br>Efficient Use of the HPE Cray EX Supercomputer |
+ |      ARCHER2 for Data Scientists  <br>Using ReFrame for performance benchmarking  	 <br>	How to run software packages using GPUs  <br>HPC and AI  <br>How to write GPU code using directives  <br>Single Node Performance Optimisation <br>   Modern C++ for Computational Scientists  <br> Reproducible research using containers	 | Introduction to Modern Fortran	<br>How to write GPU code using directives	<br>Reproducible research using containers	<br>GPU programming with HIP	<br>Advanced OpenMP <br>  Data Carpentry|  How to run software packages using GPUs	<br>Intermediate Modern Fortran<br>Modern C++ for Computational Scientists	<br>Message Passing Programming with MPI	<br>Efficient Use of the HPE Cray EX Supercomputer |
 
 
 
