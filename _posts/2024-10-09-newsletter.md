@@ -82,7 +82,7 @@ No recent issues.
 - [Data Analysis and Visualisation in Python](https://www.archer2.ac.uk/training/courses/241021-analysis-visualisation-python/), Online, 21 - 22 October 2024 09:30 - 16:30 	
 - [HPC Carpentry](https://www.archer2.ac.uk/training/courses/241118-hpc-carpentry/), University of Newcastle, 18 - 19 November 2024 09:30 - 16:00 (Fully booked)	
 - [Intermediate Research Software Development](https://www.archer2.ac.uk/training/courses/241126-int-sw-dev/), Queen's University, Belfast, 26 - 28 November 2024 09:30 - 17:00
-- [Message Passing programming with MPI](https://www.archer2.ac.uk/training/courses/241126-mpi/), Birmingham, 26 - 27 November 2024 09:00 - 17:00 
+- [Message Passing programming with MPI](https://www.archer2.ac.uk/training/courses/241126-mpi/), 26 - 27 November 2024 09:00 - 17:00 in Birmingham, Tuesday 3rd December 14:00 to 16:30 online
 
 
 
