@@ -32,11 +32,11 @@ A list of any currently open calls through which you can apply for access to ARC
 
 <table>
 	<tr>
-		<th>Call (Web Link)</th>
-		<th>Closing Date</th>
-		<th>TA Receipt Deadline</th>
-		<th>Notes</th>
-		<th>TA Form Link</th>
+		<th >Call (Web Link)</th>
+		<th >Closing Date</th>
+		<th >TA Receipt Deadline</th>
+		<th >Notes</th>
+		<th >TA Form Link</th>
 	</tr>
 	<tr>
 		<td><a href="#pump-priming">Pump-priming</a></td>
@@ -69,7 +69,9 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td>University of Edinburgh researchers only.</td>
 		<td><a href="./ta/ARCHER2-DT-Application.docx">Director's Time TA Form</a></td>
 	</tr>
-</table>
+ </table>
+
+
 
 [How to prepare a successful Technical Assessment](https://www.archer2.ac.uk/news/2022/08/03/technical-assessments.html) - a blog post with lots of helpful advice on how to complete TA forms. **Note:** Technical Assessments are not required at application time for Access to HPC calls
 
