@@ -2,7 +2,7 @@
 layout: course
 title: Single Node Performance Optimisation
 banner: web_banners_05.jpg 
-human_dates: 12 - 13 November 2024  09:30 - 17:30  
+human_dates: 12 - 13 November 2024  09:30 - 17:30 Day 1,  09:30 - 16.30 Day 2
 start_date: 2024-11-12 09:30:00
 end_date: 2024-11-13 17:30:00
 trainers: Mark Bull and Adrian Jackson (EPCC)
@@ -39,12 +39,15 @@ This course is targeted at users interested in optimising the performance of the
 
 ### Requirements:
 
-Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.).
 
 They are also required to abide by the [ARCHER2  Code of Conduct](../../../about/policies/code-of-conduct.html). 
 
 
 #### Timetable:
+
+- Day 1 : 09:30 - 17:30 
+- Day 2 : 09:30 - 16.30 
 
 Details to follow
 
