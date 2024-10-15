@@ -7,7 +7,7 @@ start_date: 2024-10-15 09:30:00
 end_date: 2024-10-15 16:30:00
 trainers: David Henty EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://www.archer2.ac.uk/training/register/?course=241015-efficient-parallel-io
 location: Online
 location_url:
@@ -124,7 +124,6 @@ Wednesday 15th November 2024
 
 -->	
 
-<!--
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -145,7 +144,7 @@ Wednesday 15th November 2024
     </div>
 		
 	
--->	
+
  
 </section>
 
