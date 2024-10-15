@@ -47,11 +47,12 @@ A list of any currently open calls through which you can apply for access to ARC
 	</tr>
 
 	<tr>
-		<td><a href="#access-to-hpc">Access to HPC</a> (<a href="https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2024/">Call page on UKRI website </a>) </td>
-		<td>16:00 GMT, 28 Nov 2024/td>
+		<td><a href="#access-to-hpc">Access to HPC</a>  </td>
+		<td>16:00 GMT, 28 Nov 2024</td>
 		<td>N/A</td>
 		<td>EPSRC remit only<br/>
 		&nbsp; - Projects on ARCHER2 can be up to 12 months in length.<br/>
+		<a href="https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2024/">Call page on UKRI website </a>
 		 </td>
 		<td>No TA form required at application stage</td>
 	</tr>
