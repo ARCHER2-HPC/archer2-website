@@ -49,7 +49,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       <tr>
         <td><a href="https://hec-plasma.github.io">Plasma HEC Consortium</a></td>
         <td>Dr. David Dickinson (University of York)</td>
-        <td>Kevin Stratford</td>
+        <td>Nathan Mannall</td>
         <td>e281</td>
       </tr>
       <tr>
