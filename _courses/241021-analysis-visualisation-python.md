@@ -7,7 +7,7 @@ start_date: 2024-10-21 09:30:00
 end_date: 2024-10-22 16:30:00
 trainers: Rui Apóstolo, Laura Moran and Nathan Mannall (EPCC)
 course_type: course
-registration_status: full
+registration_status: open
 registration_url: https://www.archer2.ac.uk/training/register/?course=241021-analysis-visualisation-python
 location: Online
 location_url:
