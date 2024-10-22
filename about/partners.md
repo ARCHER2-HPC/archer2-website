@@ -91,7 +91,7 @@ UKRI brings together the seven disciplinary research councils, Research England,
      
 		The University of Edinburgh is a world-leading University of academic excellence. Opened in 1583, it is one of the UK’s oldest Universities and boasts many notable alumini and scholars including Joseph Black and James Hume. More recent highlights include Dolly the Sheep (the first animal to cloned from an adult somatic cell) and Emeritus Professor Peter Higgs, who was jointly awarded the Nobel prize for predicting the Higgs Boson.  <br><br>
 
-The University is home to the Advance Computing Facility, EPCC’s High performance Computing Data Centre. The facility hosts a range of HPC and Data equipment with associated plant rooms for the power and infrastructure. 
+The University is home to the Advancde Computing Facility (ACF), EPCC’s High performance Computing Data Centre. The facility hosts a range of HPC and Data equipment with associated plant rooms for the power and infrastructure. 
 
 
 		</p>
