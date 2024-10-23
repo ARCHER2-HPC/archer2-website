@@ -7,7 +7,7 @@ start_date: 2024-11-26 09:30:00
 end_date: 2024-11-28 17:00:00
 trainers: Chris Wood, Evgenij Belikov (EPCC)
 course_type: course
-registration_status: open
+registration_status: full
 registration_url:  https://www.archer2.ac.uk/training/register/?course=241126-int-sw-dev
 location: Queen's University, Belfast
 location_url: https://www.archer2.ac.uk/training/locations/qub
