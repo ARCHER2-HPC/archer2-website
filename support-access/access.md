@@ -147,7 +147,7 @@ If you have any questions about accessing ARCHER2 via EPSRC, please see
 ## NERC Remit
 
  First contact the relevant NERC science area leader and check the
-current NERC policy on access. Full details are on the [NERC website](https://www.ukri.org/councils/nerc/facilities-and-resources/find-a-nerc-facility-or-resource/applying-to-use-high-performance-computing-services/).  Applicants within the NERC remit wishing to access ARCHER2 via this route must contact the relevant consortia leader for advice ahead of submission. Once you have authorisatio nto proceed from NERC and if you are submitting through the UKRI Funding Service portal, NERC applicants should add ARCHER2 as a facility in the portal.
+current NERC policy on access. Full details are on the [NERC website](https://www.ukri.org/councils/nerc/facilities-and-resources/find-a-nerc-facility-or-resource/applying-to-use-high-performance-computing-services/).  Applicants within the NERC remit wishing to access ARCHER2 via this route must contact the relevant consortia leader for advice ahead of submission. Once you have authorisation to proceed from NERC and if you are submitting through the UKRI Funding Service portal, NERC applicants should add ARCHER2 as a facility in the portal.
 
 
 <a id="ukri-calls"></a>
