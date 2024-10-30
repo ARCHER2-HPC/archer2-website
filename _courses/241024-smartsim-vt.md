@@ -66,13 +66,13 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 
-<!--
+
 
 <section id="service">
 
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -81,17 +81,19 @@ This online session is open to all. It will use the Blackboard Collaborate platf
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
-          <strong>Slides</strong><br/>
-          Download pdf of the presentation.
+           href="SmartSim_Webinar-AM.pdf">
+          <strong>Andrew Mole Slides</strong><br/>
+          Download pdf of the presentation
         </a>
       </div>
 										
     </div>
 
+Other slides to follow
+
 </section>
--->
+
