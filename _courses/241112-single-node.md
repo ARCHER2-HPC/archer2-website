@@ -7,7 +7,7 @@ start_date: 2024-11-12 09:30:00
 end_date: 2024-11-13 17:30:00
 trainers: Mark Bull and Adrian Jackson (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.archer2.ac.uk/training/register/?course=241112-single-node
 location: Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/epcc.html
