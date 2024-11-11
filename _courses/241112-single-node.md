@@ -70,15 +70,15 @@ Details to follow
       </div>
  -->
 
-<!--  
+ 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/241112-single-node">
+          href="https://pad.archer2.ac.uk/p/241111-PAX-single-node">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
