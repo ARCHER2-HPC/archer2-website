@@ -69,12 +69,6 @@ Deadline: 28 November 2024 4:00pm  UK time
 
 No TA form required at application stage
 
-### Webinar for potential applicants
-
-UKRI will hold a webinar on 7 November from 11:00am to 12:00 noon. This will provide more information about the funding opportunity and a chance to ask questions.
-
-[Register for the webinar]( https://ukri.zoom.us/webinar/register/WN_G2YVsSj3QL-YmoKcCJl3VA)
-
 
 ## Cross-vendor GPU development with C++ and SYCL
 
