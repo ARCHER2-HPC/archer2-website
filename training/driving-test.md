@@ -11,7 +11,7 @@ The ARCHER2 Driving Test is an online assessment tool which allows those new to 
 It is suitable for anyone who has completed an Introduction to ARCHER2 training course (or [followed the material online](#online-introductory-course-materials)), or for users of other HPC systems who have familiarised themselves with the specifics of running jobs on ARCHER2 by reading up the appropriate preparation material resources.
 
 
-On successful completion of the Driving Test, you will be invited to apply for an account on ARCHER2 and awarded a small allowance of 800 CUs to use to run jobs over a period of up to 12 months.  This will also allow you access to the uncharged GPU nodes.
+On successful completion of the Driving Test, eligible users will be invited to apply for an account on ARCHER2 and awarded a small allowance of 800 CUs to use to run jobs over a period of up to 12 months.  This will also allow access to the uncharged GPU nodes.
 
 This scheme is intended to promote access to HPC to new users and communities who would not otherwise be able to gain initial experience on HPC systems. In particular we hope to give a head start to potential future ARCHER2 users. Applicants would normally be resident in the UK, perhaps with an existing connection to a research institution such as those listed at [http://www.epsrc.ac.uk/funding/howtoapply/fundingguide/eligibility/organisations/](http://www.epsrc.ac.uk/funding/howtoapply/fundingguide/eligibility/organisations/). However, if you feel you fall outwith this group, please do get in touch with [training@epcc.ed.ac.uk](mailto:training@epcc.ed.ac.uk) to discuss whether we can help. Only one Driving Test account application per person is permitted as it is intended for new users to gain first-time, hands-on experience.
 
@@ -41,7 +41,7 @@ The GPU Driving test includes questions relating to the use of the [ARCHER2 AMD 
 
 - [Take the ARCHER2 GPU Driving Test](https://www.quia.com/quiz/8519232.html)
 
-On successful completion of the GPU Driving Test, you will be invited to apply for an account on ARCHER2 and awarded a minimal allocation (10 CUs) which will allow you to run uncharged jobs on the GPU nodes over a period of up to 12 months.
+On successful completion of the GPU Driving Test, eligible users will be invited to apply for an account on ARCHER2 and awarded a minimal allocation (10 CUs) which will allow the running of uncharged jobs on the GPU nodes over a period of up to 12 months.
 
 If you require a greater number of CPUs, please use one of the original Driving Test options as they include access to the GPUs. 
 
