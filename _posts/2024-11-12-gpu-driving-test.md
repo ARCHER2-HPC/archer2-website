@@ -34,7 +34,7 @@ The GPU Driving Test uses the same online assessment tool format but includes a 
 
 The GPU Driving Test is open to everyone, including those who have previously completed the ARCHER2 Driving Test.
 
-On successful completion, eligble users will be invited to sign up for an account on ARCHER2 for access to the GPU cluster for a year.
+On successful completion, eligible users will be invited to sign up for an account on ARCHER2 for access to the GPU cluster for a year.
 
 
 <img src="{{ site.baseurl }}/img/blog/220124-driving-test-certificate.jpg" alt="ARCHER2 Driving Test Certificate" title="ARCHER2" style="width: 20%"   />
