@@ -2,8 +2,8 @@
 forename: Sylvain
 surname: Laizet
 title: x
-role:  
-uag_sort: 5
+role:  EPSRC-UKRI User Rep 4
+uag_sort: 14
 org: Imperial College London
 image_src: null.jpg
 bio: 

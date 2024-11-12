@@ -39,7 +39,7 @@ teams:  [Servicedesk, User Admin, CSE, Systems, eCSE, Training, Outreach,  Quali
             {{ uag.forename }} {{ uag.surname }}
 		</h3>
 		<p><b>{{ uag.org }}</b><br>
-			
+			{{ uag.role }}
 		</p>
 		<p>
 	        {{ uag.bio }}		 		

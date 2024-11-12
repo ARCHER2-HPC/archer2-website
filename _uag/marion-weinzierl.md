@@ -2,8 +2,8 @@
 forename: Marion
 surname: Weinzierl
 title: x
-role:  
-uag_sort: 5
+role:  EPSRC-UKRI User Rep 10
+uag_sort: 20
 org: Durham University
 image_src: null.jpg
 bio: 

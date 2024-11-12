@@ -2,9 +2,9 @@
 forename: Lorna
 surname: Smith
 title: D
-role:  
-uag_sort: 20
-org: EPCC (SP) *
+role:  CSE representative (By invitation)
+uag_sort: 62
+org: EPCC *
 image_src: Lorna Smith.jpg
 bio: 
 tags: 

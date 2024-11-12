@@ -2,9 +2,9 @@
 forename: Andrea
 surname: Sharpe
 title: x
-role: 
-uag_sort: 10
-org:  UKRI - NERC *
+role: NERC-UKRI Representative 1
+uag_sort: 90
+org:  NERC-UKRI *
 image_src: null.jpg
 bio: 
 tags: 
