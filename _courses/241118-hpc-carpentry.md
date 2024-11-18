@@ -126,7 +126,7 @@ Details to follow
 
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -146,8 +146,7 @@ Details to follow
     </div>
 		
 
--->
- 
+
 </section>
 
-This course is fully booked with a full waiting list
+
