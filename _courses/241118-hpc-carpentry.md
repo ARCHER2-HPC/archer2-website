@@ -80,7 +80,7 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://epcced.github.io/2024-06-19-hpc-shell-shampton/  ">
+          href=" https://epcced.github.io/2024-11-18-hpc-carpentry/  ">
           <strong>Day 1: Course materials</strong>         
         </a>
       </div>
@@ -136,7 +136,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=240619-hpc-carpentry" 
+           href="../../feedback/?course=241118-hpc-carpentry" 
 
 		>
           <strong>Feedback</strong><br/>
