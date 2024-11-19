@@ -21,7 +21,9 @@ however the [Register link](https://safe.epcc.ed.ac.uk/TransitionServlet/Trainin
 
 If you do not already have a SAFE account, you should [create one](../safe-for-users/#how-to-register-on-safe).
 
-The new application form will ask for your "Reason for applying", and your "Requested username" for use in the training project.
+The new application form will ask for your "Reason for applying" - explain briefly why you wish to attend.
+
+A machine account username will be auto-generated for you, for use in the training project.
 
 You will need to accept the Terms and Conditions of Access.
 
