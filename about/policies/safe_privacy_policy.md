@@ -17,7 +17,7 @@ We will hold the personal data you provide us throughout the period that you hav
 
 In addition, emails and other information communicated to our service desk may be retained to allow us to provide a better service desk service. We will not retain such information longer than 2 years after the end of the service they relate to.
 
-If you have any questions, please contact The [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
+If you have any questions, please contact The [ARCHER2 Service Desk]({{ site.baseurl }}/support-access/servicedesk).
 
 
 This Privacy Statement is continued at [edin.ac/privacy](http://edin.ac/privacy)

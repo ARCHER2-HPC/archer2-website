@@ -32,7 +32,7 @@ Depending on the nature of the event, there will likely be a group of organisers
 
 ARCHER2 has a Code of Conduct that applies to all events:
 
-*    [Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)
+*    [Training Code of Conduct]({{ site.baseurl }}/training/code-of-conduct/)
 
 ARCHER2 staff members will promote awareness of the CoC before and during events. In particular they will make sure that everyone involved in the event is aware that the CoC applies to them: this not only includes participants, but also speakers, sponsors, committee members, etc. Guidance to achieve this:
 
@@ -128,7 +128,7 @@ A survey of participants after the event can help to establish whether your dive
     https://github.com/numfocus/DISCOVER-Cookbook/blob/master/index.md
 *    The University of Edinburgh's Dignity and Respect Policy
     https://www.ed.ac.uk/files/atoms/files/dignity_and_respect_policy.pdf
-*    [ARCHER2 Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)  
+*    [ARCHER2 Training Code of Conduct]({{ site.baseurl }}/training/code-of-conduct/)  
 *    ARCHER2 Best Practice Guide: Improving Accessibility to HPC Training
     http://www.hpc-diversity.ac.uk/best-practice-guide/best-practice-guide-training
 *    ARCHER2 Best Practice Guide: Improving diversity at HPC conferences and events

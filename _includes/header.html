@@ -17,7 +17,7 @@
 <!-- 		<div class="col-sm-offset-4 col-md-offset-6 col-sm-6 col-md-5"> -->
 		<div class="col-sm-offset-3 col-md-offset-5 col-sm-6 col-md-5">
       <p class="tiny-status">
-        <strong><a href="https://safe.epcc.ed.ac.uk/">Login to EPCC SAFE <img width="20" src="{{ site.url }}{{ site.baseurl }}/img/safeicon.png" alt="SAFE"/></a>&nbsp;</strong>
+        <strong><a href="https://safe.epcc.ed.ac.uk/">Login to EPCC SAFE <img width="20" src="{{ site.baseurl }}/img/safeicon.png" alt="SAFE"/></a>&nbsp;</strong>
       </p>
     </div>
     <div class="hidden-xs col-sm-2 col-md-1">
@@ -25,7 +25,7 @@
 		
 <!-- 		<div class="col-sm-offset-4 col-md-offset-6 col-sm-6 col-md-5"> -->
       <p class="tiny-status">
-        <strong><a href="{{ site.url }}{{ site.baseurl }}/support-access/status.html">Service&nbsp;Status</a></strong>
+        <strong><a href="{{ site.baseurl }}/support-access/status.html">Service&nbsp;Status</a></strong>
       </p>
     </div>
     <div class="hidden-xs col-sm-2 col-md-1">
@@ -34,7 +34,7 @@
       <p class="search">
         <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch">
           Search
-          <img width="20" src="{{ site.url }}{{ site.baseurl }}/img/archer2_search_icon.png" alt="Search"/>
+          <img width="20" src="{{ site.baseurl }}/img/archer2_search_icon.png" alt="Search"/>
         </a>
       </p>
 
@@ -78,7 +78,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}">
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
               <img src="{{ site.baseurl }}/img/logos/archer2_logo_small.png" alt="ARCHER2 Logo">
             </a>
           </div>
@@ -96,7 +96,7 @@
               {% if link.external == 'True' %}
                 <a href="{{ link.url }}" target="_blank" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
               {% else %}
-							  <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+							  <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
               {% endif %}
               <ul class="dropdown-menu">
 								{% for sublink in link.sublinks %}
@@ -109,7 +109,7 @@
                       </li>
                     {% else %}
 										  <li>
-										  	<a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+										  	<a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                       </li>
                     {% endif %}
 									{% endif %}
@@ -123,7 +123,7 @@
               </li>
             {% else %}
 						  <li class="{{ class }}">
-							  <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+							  <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
 						  </li>
             {% endif %}
 					{% endif %}
