@@ -85,6 +85,14 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
+           href="smartsim.pdf">
+          <strong>Holly Judge Slides</strong><br/>
+          Download pdf of the presentation
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
            href="SmartSim_Webinar-AM.pdf">
           <strong>Andrew Mole Slides</strong><br/>
           Download pdf of the presentation
