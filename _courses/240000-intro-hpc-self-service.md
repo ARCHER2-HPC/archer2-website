@@ -8,7 +8,7 @@ end_date: 2028-12-31 16:00:00
 trainers: James Richings (EPCC)
 course_type: course
 registration_status: open
-registration_url: https://www.archer2.ac.uk/training/register/?course=240000-intro-hpc-self-service
+registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/240000-Introduction-HPC-SS
 location: Online
 location_url:
 prace_course: false

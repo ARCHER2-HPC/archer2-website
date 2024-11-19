@@ -94,6 +94,18 @@ If you would like us to provide a course on a particular topic and/or in a parti
 
 Individual links to course provide more details on the content and prerequisites. Use the <em>Register Link</em> to sign up for a particular course.
 
+### New Training Course registration process 
+
+During November 2024 We are moving to a [new Registration process](../news/2024/11/19/training-registration.html), so registration is done within SAFE, and the account request in the correct project is now part of the approval process, done automatically by the system.
+
+Documentation for this new process can be found in our [SAFE Docs](https://epcced.github.io/safe-docs/training-registrations)
+
+Please do not hesitate to contact the [Service Desk](mailto:support@archer2.ac.uk) if you have any questions or experience any issues with the new process. 
+
+
+
+
+
 <div class="table-responsive">
   <table class="table table-striped">
     <thead>
