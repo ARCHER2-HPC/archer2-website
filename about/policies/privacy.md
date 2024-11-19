@@ -18,7 +18,7 @@ summary: Information about you - how we use it and with whom we share it
 
 *   We may retain the data that we gather on the system for the duration of the ARCHER2 service. Data that could be used to identify you directly will not be retained longer than two years after the end of the service.
 
-If you have any questions about the treatment of your personal data, please contact [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
+If you have any questions about the treatment of your personal data, please contact [ ARCHER2 Service Desk]({{ site.baseurl }}/support-access/servicedesk).
 
 
 Update Logs

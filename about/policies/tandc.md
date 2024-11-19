@@ -30,7 +30,7 @@ Before accepting the Terms and Conditions, please note: you can change any of th
 
 ## We agree:
 
- -    as far as we reasonably can, to provide a 24-hour service as described on [this website](https://www.archer2.ac.uk), it being understood that there will be times when the service is unavailable, for example as a result of unexpected failures, maintenance work or upgrades
+ -    as far as we reasonably can, to provide a 24-hour service as described on [this website]({{ site.baseurl }}/), it being understood that there will be times when the service is unavailable, for example as a result of unexpected failures, maintenance work or upgrades
 -     to take reasonable steps to protect your data from being lost or corrupted.
 -     to protect the security and privacy of the data we hold about you, as described in our [Personal Data and Privacy Policy](privacy.html)
 -     that we will acquire no intellectual property rights over your software and data
@@ -50,7 +50,7 @@ Before accepting the Terms and Conditions, please note: you can change any of th
 
 These Terms and Conditions are governed by the laws of England and the English courts.
 
-If you have any questions about these Terms and Conditions, please mail to the [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
+If you have any questions about these Terms and Conditions, please mail to the [ ARCHER2 Service Desk]({{ site.baseurl }}/support-access/servicedesk).
 
 
 [Update Logs](https://github.com/ARCHER2-HPC/archer2-website/commits/main/about/policies/tandc.md)
