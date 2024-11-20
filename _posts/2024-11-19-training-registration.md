@@ -13,6 +13,8 @@ Previously, all course registrations have been done via a web form, and once reg
 
 We have now streamlined this process, so registration is done within SAFE, and the account request in the correct project is now part of the approval process, done automatically by the system.
 
+<!--more-->
+
 The information about upcoming training courses remains the same, and can be found on our
 
 - [Upcoming Courses page](https://www.archer2.ac.uk/training/#upcoming-training)
