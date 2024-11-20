@@ -26,7 +26,7 @@ For more complex queries a callback may be booked to discuss your issue with an 
 
 When a query is submitted by email or through the SAFE, it is placed in the SAFE query system. Phone queries are entered into the system by the Service Desk operator.
 
-When you email your query, you will normally get an automatic acknowledgement by email, including a tracking ID, within a few minutes. If you submit your query through SAFE, it will give you a tracking ID at once. A few minutes later, your query will be assigned to the appropriate expert within the ARCHER2 team to handle.
+When you email your query, you will normally get an automatic email response, including a tracking ID, within a few minutes. If you submit your query through SAFE, it will give you a tracking ID at once. A few minutes later, your query will be assigned to the appropriate expert within the ARCHER2 team to handle.  A personalised acknowledgement email will be sent, letting you know how your query has been classified, the expected resolution time and any other information which is immediately available.
 
 The expert may contact you to discuss your problem or to get extra information. Finally, the expert will send you an answer, and the query will be closed. At this point the Service Desk will send you another message, telling you that this has happened.
 
