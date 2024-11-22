@@ -105,6 +105,12 @@ be useful.</p>
         <td id="costTyp"></td>
         <td id="costSmall"></td>
     </tr>
+    <tr>
+        <td>Estimated emissions (per job) (kgCO<sub>2</sub>e)</td>
+        <td id="emissionsBig"></td>
+        <td id="emissionsTyp"></td>
+        <td id="emissionsSmall"></td>
+    </tr>
 </table>
 
 <h3>Totals</h3>
@@ -116,7 +122,8 @@ use in the Je-S submission system.</p>
 
 <div style="padding: 10px; border: 3px double black;">
 <p>Total 'Computing Resource (CU)' for these jobs = <strong id="totCUs"></strong> (rounded to whole CU)</p>
-<p>Total 'Notional Costs' for these jobs = &pound;<strong id="totCost"></strong></p>
+<p>Total 'Notional Cost' for these jobs = &pound;<strong id="totCost"></strong></p>
+<p>Total estimated emissions for these jobs = <strong id="totEmissions"></strong> kgCO<sub>2</sub>e</p>
 </div>
 
 <a name="cu-rates-and-costs"> </a>
@@ -184,6 +191,24 @@ use in the Je-S submission system.</p>
   <td id="archer2Mem" class="value">256</td>
   <td id="archer2MaxNode" class="value">5848</td>
   <td id="archer2MaxTime" class="value">48</td>
+</tr> 
+</tbody> 
+</table> 
+
+<a name="emissions"> </a>
+<h3 class="subsection">Emissions rates</h3>
+
+<h4>ARCHER2 Emissions Rates</h4> 
+
+ARCHER2 estimated emissions. For estimation methodology [see ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/energy/#archer2-emissions). Includes estimated Scope 3 emissions and assumes a 6-year service length. Scope 2 emissions are zero as ARCHER2 supplied by 100% renewable energy contract.
+
+<table class="lined"> 
+<tbody> 
+<tr> 
+  <th class="value">kgCO<sub>2</sub>e/CU</th> 
+</tr> 
+<tr> 
+  <td id="archer2Emissions" class="value">0.023</td> 
 </tr> 
 </tbody> 
 </table> 
