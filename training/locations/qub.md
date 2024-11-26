@@ -14,7 +14,7 @@ banner: web_banners_05.jpg
 
 
 
-### 26th Nov, 9:30--1pm : Ruth Lynden-Bell Seminar Room
+### 26th Nov, 9:30am--1pm : Ruth Lynden-Bell Seminar Room
 0G.003 Ruth Lynden-Bell Seminar Room<br />
 QUB School of Mathematics and Physics<br />
 Main Physics Building, University Rd, Belfast BT7 1NN<br />
