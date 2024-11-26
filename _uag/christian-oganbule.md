@@ -1,7 +1,7 @@
 ---
 forename: Christian
 surname: Oganbule
-title: 
+title: .
 role: ARCHER2 portfolio manager
 uag_sort: 80
 org: UKRI - EPSRC *
