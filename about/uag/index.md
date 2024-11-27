@@ -1,7 +1,7 @@
 ---
 layout: section
-title: ARCHER2 User Access Group
-summary: Meet the ARCHER2 User Access Group.
+title: ARCHER2 User Advisory Group
+summary: Meet the ARCHER2 User Advisory Group.
 banner: web_banners_02.jpg
 teams:  [Servicedesk, User Admin, CSE, Systems, eCSE, Training, Outreach,  Quality & Feedback, Web & Docs, Coordination]
 ---
