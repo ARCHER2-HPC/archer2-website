@@ -11,7 +11,6 @@ categories: [news]
 - [Cross-vendor GPU development with C++ and SYCL]({{ page.url }}#cross-vendor-gpu-development-with-c-and-sycl), online, 3 December 2024 09:00 - 17:00
 - [Introduction to LAMMPS]({{ page.url }}#introduction-to-lammps)
 - [ARCHER2 Calendar 2025]({{ page.url }}#archer2-calendar-2025) - sign up for your copy
-- [Accessibility of EPSRC Large Scale Facilities]({{ page.url }}#accessibility-of-epsrc-large-scale-facilities---user-survey) - User survey
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
@@ -55,19 +54,6 @@ The course will be divided into two parts:
 ## ARCHER2 Calendar 2025
 
 As in previous years, we plan to produce a printed calendar featuring some of the images from the competition – you are most warmly invited to [sign up to receive a copy](https://bit.ly/ARCHER2-Calendar-2025), and these will be posted out in time for the new year.
-
-
-## Accessibility of EPSRC Large Scale Facilities - User survey 
-
-We have been asked by EPSRC to circulate this survey to all users to collect the experiences of facility users.
-
-With this survey their aim is not to single out any individual facilities but instead to identify and share what is working well. Once they have analysed the responses, the aggregated results will be shared with all the facilities, so we can jointly explore ways in which the range of facilities can become more inclusive, e.g. through good practice sharing.
-
-[Complete the survey](  https://engagementhub.ukri.org/epsrc-researchinfrastructure/lsfusersurvey/)
-
-EPSRC are keen to reach as many users as possible, to help them understand what barriers, if any, exist to providing greater accessibility.
-
-Please do complete the survey.
 
 
 ## Recently added known issues
