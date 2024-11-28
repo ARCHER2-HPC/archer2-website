@@ -1,20 +1,46 @@
 ---
-layout: section
-title: Sustainability
-summary: Sustainability
-banner: web_banners_07.jpg
+layout: post
+title: Estimating emissions from ARCHER2
+date: 2024-11-28 11:00:00
+author: Andy Turner
+tags: [blog] 
+categories: [news]
 ---
 
-## Emissions
+In this blog post we report on work we have been doing to estimate greenhouse gas (GHG)
+emissions associated with the ARCHER2 service, describe the methodology we use to 
+estimate emissions from the service and the new tools we have developed to help users
+estimate the emissions from their use of ARCHER2.
 
-We are committed to reducing our carbon footprint within the ARCHER2 service and
-contributing to the University of Edinburgh’s commitment to being zero carbon by
-2040.
+<!--more-->
 
-In this section we provide more information on the estimated greenhouse gas (GHG)
-emissions from the ARCHER2 service.
+The rest of the post is structured as follows: first, we provide a brief overview of
+sources of emissions and how they relate to ARCHER2, next we look at what how services
+such as ARCHER2 potentially have a positive impact on emissions. After this we move on
+to discuss how we have estimated emissions for ARCHER2 and describe tools we have
+developed to help users (and prospective users) estimate emissions from their use of
+the service. Finally, we cover briefly future work we have planned in this area.
 
-### Impact on reducing emissions
+## Categories of GHG emissions
+
+Emissions are typically split into three categories. Only Scope 2 and Scope 3 emissions
+are potentially relevant for the ARCHER2 service:
+
+- *Scope 1*: Direct emissions from the service, such as on-site fuel combustion or fleet
+  vehicles. There is nothing of this type currently associated with the ARCHER2 service.
+- *Scope 2*: Indirect emissions related to emission generation of purchased energy, such
+  as heat and electricity. On ARCHER2 this would correspond to any emissions from the
+  electricity used by the service. As we will see, the Scope 2 emissions are reported as
+  zero because the energy contract for the service is based on 100% renewable energy.
+- *Scope 3*: Other indirect emissions from the service. For ARCHER2, this corresponds to
+  the embodied emissions of the hardware and infrastructure from the service, i.e. the
+  emissions from manufacturing, shipping and decommissioning ARCHER2 hardware and
+  supporting physical infrastructure.
+
+The wording above was inspired by the wording used in the
+[Green Software Practitioner course](https://learn.greensoftware.foundation/)
+
+## Impact on reducing emissions
 
 As well as a producer of GHG emissions, HPC systems like ARCHER2 also contribute
 to reducing emissions. The main source of reduced emissions from services such as
@@ -45,9 +71,9 @@ there are other activities that HPC services can potentially take. For example:
   schemes could also potentially be used to reduce emissions if they were undertaken
   as part of the service. 
 
-### Estimating emissions from ARCHER2
+## Estimating emissions from ARCHER2
 
-#### Scope 3 emissions
+### Scope 3 emissions
 
 Scope 3 emissions from the ARCHER2 hardware have been estimated from a subset of
 the components that are expected to make up the majority of the emissions. Note that
@@ -81,7 +107,7 @@ References:
 2. Estimate taken from IBM z16™ multi frame 24-port Ethernet Switch Product Carbon Footprint
 3. [Tannu and Nair, 2023](https://arxiv.org/abs/2207.10793)
 
-#### Scope 2 emissions
+### Scope 2 emissions
 
 Scope 2 emissions from ARCHER2 are zero as the service is supplied by 100% certified renewable energy.
 For information purposes we can calculate what the Scope 2 emissions would have been if the energy
@@ -126,29 +152,38 @@ The final process for calculation the energy use of a job is
 2. Add 15% of this value to estimate energy use by other components.
 3. Add 10% of the new value to estimate overheads from the plant.
 
-#### Tools available to users
+## Tools available to users
 
-Please see the ARCHER2 documentation:
+To help estimate GHG emissions from your use of ARCHER2 and place them in context to other sources of
+GHG emissions we have used the estimation methodology described above to develop two
+tools - one to estimate historical emissions from jobs that have already been run and
+one to estimate future emissions associated with use of ARCHER2.
+
+At the moment, the following tools are available:
+
+- `jobemissions` - a command line tool on ARCHER2 that reports estimated emissions for a specified,
+  completed job. It can also provide comparisons to other GHG emissions sources.
+- [ARCHER2 CU Calculator](https://www.archer2.ac.uk/support-access/cu-calc.html) provides estimated
+  emissions for the specified CU use of ARCHER2.
+
+More detailed information on the use and output from these tools is available in the 
+ARCHER2 documentation:
 [Estimating your emissions](https://docs.archer2.ac.uk/user-guide/energy/#estimating-your-emissions)
-for information on the tools available on ARCHER2 to estimate emissions from use of
-the service.
+
+## Future plans
+
+We are continuing to work on improving the tools available to users and are currently
+developing a command line tool that will allow projects to estimate their historic
+emissions associated with their use of ARCHER2 over different periods. We hope to 
+have this new tool available to users soon. 
+
+We are also continuing to try and improve the emissions estimates we have based on
+updated information and new developments in the area of embodied emissions in
+particular.
 
 
-## Biodiversity
 
-The UK is ranked as the lowest G7 nation for biodiversity intactness and has seen a
-19% decline in species abundance since 1970. The University of Edinburgh is a
-signatory of the Nature Positive Universities Alliance and EPCC is committed to
-understanding the impact our service activities have on biodiversity. We are
-investigating the impact on biodiversity from the production of ARCHER2 and looking at
-ways to reduce the impact during decommissioning through effective waste management.
-As mentioned in the emissions section above, a key aim is also to protect and enhance 
-biodiversity on the ACF site. Firstly, we have worked to protect the existing
-biodiversity on site, with the machine room built around a traditional central tree
-roundel and an area of wetland left untouched for wildlife. We have also worked to
-enhance conditions for biodiversity to thrive, planting diverse native hedgerows,
-creating wildlife meadows for pollinators and creating wildlife corridors through
-fencing. Felled wood has been used to provide habitats for insects on site.
+
 
 
 

@@ -81,6 +81,15 @@ function calculateAll() {
    
    $("#totCost").text(numberFormat(totCost.toFixed(2)));
 
+   // Calculate the total emissions
+   var emissionsBig = parseFloat($('#emissionsBig').text());
+   var emissionsTyp = parseFloat($('#emissionsTyp').text());
+   var emissionsSmall = parseFloat($('#emissionsSmall').text());
+   
+   var totEmissions = nBig*emissionsBig + nTyp*emissionsTyp + nSmall*emissionsSmall;
+   
+   $("#totEmissions").text(numberFormat(totEmissions.toFixed(2)));
+
 }
 
 /*
@@ -112,6 +121,7 @@ function calculateCUs(set) {
       
 	 coresPerNode = parseInt($('#archer2Cores').text());
 	 cuRate = parseFloat($('#archer2Rate').text());
+   emissionsRate = parseFloat($('#archer2Emissions').text());
 	 if (funding == "partner") {
 		 cuCost = parseFloat($('#partarcher2Cost').text());
 	 } else {
@@ -168,6 +178,11 @@ function calculateCUs(set) {
    var cost = cus * cuCost;
    search = "#cost" + set;
    $(search).text(cost.toFixed(2));
+
+   // Calculate the emissions of this job
+   var emissions = cus * emissionsRate;
+   search = "#emissions" + set;
+   $(search).text(emissions.toFixed(2));
 
    // Calculate total time used by these jobs
    var totalTime = time * njobs;
