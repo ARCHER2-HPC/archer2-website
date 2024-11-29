@@ -24,7 +24,7 @@ Before accepting the Terms and Conditions, please note: you can change any of th
 -     to provide an active current email address which will be used to contact you regarding the service
 -     not to misuse the Internet, for example by sending spam or malicious software, by pretending to be someone else or by doing anything that might hinder or prevent someone else from using the Internet legitimately
 -     not to use the service for illegal or immoral purposes, such as theft, fraud, drug-trafficking, money-laundering, terrorism, pornography, violence, cruelty, incitement to racial hatred, prostitution, paedophilia, or for offensive, obscene, abusive, menacing, defamatory or insulting behaviour
--     to observe the [UoE Acceptable Use Policy](https://www.ed.ac.uk/information-services/about/policies-and-regulations/computing-regulations) 
+-     to observe the [UoE Acceptable Use Policy](https://information-services.ed.ac.uk/about/policies-and-regulations/university-computing-acceptable-use-policy)
 -     to observe the [JANET Acceptable Use Policy](https://community.jisc.ac.uk/library/acceptable-use-policy)
 -     to comply with any special conditions that may apply to particular software packages
 
