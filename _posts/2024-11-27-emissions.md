@@ -40,7 +40,7 @@ are potentially relevant for the ARCHER2 service:
 The wording above was inspired by the wording used in the
 [Green Software Practitioner course](https://learn.greensoftware.foundation/)
 
-## Impact on reducing emissions
+## Impact on reducing emissions
 
 As well as a producer of GHG emissions, HPC systems like ARCHER2 also contribute
 to reducing emissions. The main source of reduced emissions from services such as
