@@ -213,7 +213,7 @@ Software Carpentry
 
  |  November 2024 - January 2025 | February 2025 - April 2025 |
  | ---  |
- | Message Passing Programming with MPI	<br> Single Node Performance Optimisation <br> Reproducible research using containers	<br> How to write GPU code using directives  <br> Efficient Use of the HPE Cray EX Supercomputer <br> Data Carpentry | GPU programming with HIP	<br> Advanced OpenMP <br> Modern C++ for Computational Scientists	<br>  Reproducible research using containers <br> Introduction to Modern Fortran	<br> How to write GPU code using directives	<br> Intermediate Modern Fortran <br> Modern C++ for Computational Scientists  |
+ |  Reproducible research using containers	<br> How to write GPU code using directives  <br> | GPU programming with HIP	<br> Advanced OpenMP <br> Modern C++ for Computational Scientists	<br>  Reproducible research using containers <br> Introduction to Modern Fortran	<br> How to write GPU code using directives	<br> Intermediate Modern Fortran <br> Modern C++ for Computational Scientists  |
 
 
 
