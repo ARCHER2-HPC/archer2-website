@@ -14,7 +14,7 @@ contributing to the University of Edinburgh’s commitment to being zero carbon 
 In this section we provide more information on the estimated greenhouse gas (GHG)
 emissions from the ARCHER2 service.
 
-### Impact on reducing emissions
+### Impact on reducing emissions
 
 As well as a producer of GHG emissions, HPC systems like ARCHER2 also contribute
 to reducing emissions. The main source of reduced emissions from services such as
