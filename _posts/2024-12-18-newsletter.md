@@ -57,16 +57,17 @@ From 10:00-11:00 GMT on Wednesday 15 Jan 2025, we will be making some changes to
 - Removing some old software versions
 - Updating the default versions of some software in the modules system
 
-The following old software versions will be removed:
+The following old software versions will be removed (versions to be kept in parenthesis:
+ 
+- CASTEP 22.11 (keep: 23.11, 24.1)
+- Code_Saturne 7.0.1 (keep: 8.0.3)
+- py-chemshell 23.0.1, a4cfb310, cee39100 (keep: 23.0.3)
+- FHI-aims 210716.3 (keep: 221103.0, 240920.0)
+- VASP 6.3.2 (keep: 5.4.4.pl2-vtst, 5.4.4.pl2, 6.4.1-vtst, 6.4.1, 6.4.2, 6.4.2-mkl19, 6.4.3)
+- GMP 6.2.1 (keep: 6.3.0)
+- GSL 2.7 (keep: 2.8)
+- PyTorch 2.0.0 (keep: 2.2.0)
 
-- CASTEP 22.11
-- Code_Saturne 7.0.1
-- py-chemshell 23.0.1, a4cfb310, cee39100
-- FHI-aims 210716.3
-- VASP 6.3.2
-- GMP 6.2.1
-- GSL 2.7
-- PyTorch 2.0.0
 
 The following versions will be made default versions:
 
