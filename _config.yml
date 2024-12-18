@@ -55,6 +55,9 @@ collections:
   staff:
     output: true
     permalink: /about/staff/:path/
+  uag:
+    output: true
+    permalink: /about/uag/:path/
   ecse:
     output: true
     permalink: /ecse/reports/:path/
@@ -63,8 +66,5 @@ collections:
   techreports:
     output: false
     permalink: /research/technical-reports/:path/    
-  uag:
-    output: true
-    permalink: /about/uag/:path/
 
 future: true
