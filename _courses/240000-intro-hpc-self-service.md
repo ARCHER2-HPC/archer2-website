@@ -8,7 +8,7 @@ end_date: 2028-12-31 16:00:00
 trainers: James Richings (EPCC)
 course_type: course
 registration_status: open
-registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/240000-Introduction-HPC-SS
+registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250100-Introduction-HPC-SS
 location: Online
 location_url:
 prace_course: false
