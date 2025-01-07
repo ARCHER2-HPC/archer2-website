@@ -48,3 +48,8 @@ The reports below highlight some of the research carried out on ARCHER and ARCHE
 
 {% endfor %}
 
+
+
+
+Please [Acknowledge ARCHER2](https://docs.archer2.ac.uk/publish/#acknowledging-archer2) in all outputs resulting from use of the ARCHER2 service.
+
