@@ -4,7 +4,7 @@ title: Using ARCHER2 Efficiently
 banner: web_banners_05.jpg 
 human_dates: 28 - 30 January 2025  09:00 - 17:00 GMT
 start_date: 2025-01-28 09:00:00
-end_date: 2025-01-28 17:00:00
+end_date: 2025-01-30 17:00:00
 trainers: Harvey Richardson, Douglas Shanks, Holly Judge,  Jess Jones (all HPE)
 course_type: course
 registration_status: open
@@ -99,7 +99,7 @@ Detailed timetable to follow
 <!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/240312-hpe-gpu">
+          href="https://pad.archer2.ac.uk/p/250128-hpe-archer2">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -135,7 +135,7 @@ Detailed timetable to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=240312-hpe-gpu" 
+           href="../../feedback/?course=250128-hpe-archer2" 
 
 		>
           <strong>Feedback</strong><br/>

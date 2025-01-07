@@ -9,7 +9,7 @@ banner: web_banners_05.jpg
 
 ## Address
 
-East 2 room <br>
+South Room <br>
 West Hub <br>
 J J Thomson Avenue <br>
 Cambridge <br>
@@ -25,3 +25,7 @@ CB3 0US
 
 [Campus map](https://map.cam.ac.uk/West+Hub)
 
+
+### Directions
+
+[Directions](https://www.westcambridgehub.uk/visit)
