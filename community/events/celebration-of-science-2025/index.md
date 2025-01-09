@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Celebration of Science 2025
-summary:  14th - 15th March 2025
+summary:  14th - 15th May 2025
 banner: web_banners_07.jpg
 ---
 
