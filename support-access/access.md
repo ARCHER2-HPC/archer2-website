@@ -81,7 +81,11 @@ If you have any questions about measuring application performance or scaling, or
 <a id="driving-test"></a>
 ### ARCHER2 Driving Test
 
-A small allocation (800 CU) for new ARCHER2 users to get them started using the ARCHER2 Service.  Further details on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).
+A small allocation (800 CU) for new ARCHER2 users to get them started using the ARCHER2 Service.  Further details on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html).  Includes access to GPU nodes.
+
+#### ARCHER2 GPU Driving Test
+
+Similar to the original Driving Test but with additional questions on using the GPUs, this grants access to the GPU nodes (minimal CU allocation), and is open to those who were previously granted CUs via the Driving Test.  Further details on the [Training Driving Test page](https://www.archer2.ac.uk/training/driving-test.html#gpu-driving-test)
 
 
 <a id="pump-priming"></a>
