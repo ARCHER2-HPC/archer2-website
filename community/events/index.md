@@ -5,6 +5,10 @@ summary:
 banner: web_banners_07.jpg
 ---
 
+###  ARCHER2 Celebration of Science  14th - 15th May 2025  Edinburgh
+<p>
+<a href="celebration-of-science-2025"><img src="celebration-of-science-2025/img/250514-celebration-of-science.jpg"  alt="Celebration of Science 2025" style="width: 80%"></a>
+</p>
 
 
 ## Recent events
