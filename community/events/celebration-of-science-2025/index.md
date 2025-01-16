@@ -26,18 +26,15 @@ Please [register here](https://bit.ly/ARCHER2-Celebration-of-Science-2025 "Regis
 <h2><a name="materials">Registration</a></h2>
 	
 
-
 Event: **ARCHER2 Celebration of Science 2025**
 
 Date: **14th - 15th May 2025**
 
 Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Park Road, Edinburgh EH16 5AY 
 
-[Accessible Guide](https://www.accessable.co.uk/venues/south-hall-complex )
+[AccessAble Guide](https://www.accessable.co.uk/venues/south-hall-complex )
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8938.63510169289!2d-3.1696381!3d55.9379531!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b880c677627b%3A0x35e0a7189a01b57c!2sSouth%20Hall%20Complex%2C%20Pollock%20Halls%2C%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1699281768140!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
 
 
 <section id="service">
@@ -55,7 +52,7 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 
 </section>
 
-The registration deadline is 29th April 2025. 
+**The registration deadline is 29th April 2025.** 
 
 
 ## Call for Posters 
@@ -64,15 +61,12 @@ We would like to invite the ARCHER2 community to submit posters for presentation
 
 **Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by Friday 21st March 2025.**
 
-
-
  
 
 ###   Poster Contents 
 
 Posters should demonstrate your work on ARCHER2, showcasing the science outcomes and impact achieved.  
 
- 
 
 ###    Submission Process and Key Dates 
 
@@ -92,11 +86,9 @@ We recommend you produce a poster of A0 portrait paper size (841 mm x 1189 mm) o
 
 All poster presenters should register to attend the event using the [Registration Form](https://bit.ly/ARCHER2-Celebration-of-Science-2025 "Registration form").
 
- 
 
 Each poster presenter will need to print your own poster and bring it to the event. Boards and hanging materials will be provided at the event venue. 
 
- 
 
 All posters will be displayed during the 2-day event. A Lightning Talk session will be scheduled during which each poster presenter will give a brief (~3-5 mins) talk on the content of their poster. There will also be a poster session when the poster presenters will be able to stand beside their posters and discuss their work with other event attendees. 
 
@@ -104,7 +96,6 @@ All posters will be displayed during the 2-day event. A Lightning Talk session w
 ###    Prize 
 
 A prize of £200 will be awarded to the Best Poster. The winner will be announced on the 15th May 2025.  
-
 
 
 ##    Contact 
@@ -116,6 +107,7 @@ If you have any questions about the ARCHER2 Celebration of Science 2025, and/or 
 
 [Add this event to your calendar](myevents.ics).
 
-## Posters for previous event
 
-[The posters for the previous ARCHER2 Celebration of Science in 2024 can be found here: ](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/#lightning-talks)
+## Posters from previous event
+
+[The posters for the previous ARCHER2 Celebration of Science in 2024 can be found here.](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/#lightning-talks)
