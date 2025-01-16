@@ -11,8 +11,11 @@ banner: web_banners_07.jpg
 </p>
 
 
-## Recent events
+## Previous events
 
+- [ARCHER2 Celebration of Science  7th - 8th March 2024  Edinburgh](celebration-of-science-2024)
+
+<!--
 
 ###  ARCHER2 Celebration of Science  7th - 8th March 2024  Edinburgh
 <p>
@@ -20,7 +23,7 @@ banner: web_banners_07.jpg
 </p>
 
 
-
+-->
 
 
 
