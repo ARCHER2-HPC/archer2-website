@@ -75,7 +75,41 @@ There will be morning, lunch, and afternoon breaks. There will be a mixture of p
 
 #### Timetable:
 
-Detailed timetable to follow
+**Tuesday 28th**
+
+- 09:00 Welcome
+- 09.10 Introduction to the HPE Cray Hardware
+- 10.10 Introduction to the HPE Cray Programming Environment
+- 10:40 Break
+- 11:00 First steps for running on Cray EX hardware
+- 11:20 Exercises
+- 12:00 Lunch
+- 13:20 Overview of compilers and Parallel Programming Models
+- 14:20 Exercises
+- 14:50 Break
+- 15:00 Scientific Libraries
+- 15:30 Exercises
+- 16:00 CPE GPU Offloading Models: directives and other approaches
+- 16:45 Q&A
+- 17:00 End
+
+**Wednesday 29th**
+
+- 09:00 Advanced Application Placement
+- 09:45 Exercises
+- 10:15 Break
+- 10:35 Debugging at scale
+- 11:20 Exercises
+- 12:00 Lunch
+- 13:20 Introduction to Perftools
+- 14:20 Exercises
+- 14:55 Break
+- 15:05 Advanced performance analysis
+- 16:05 Exercises
+- 16:45 Q&A
+- 17:00 End
+
+[Detailed timetable (PDF) ](Agenda.pdf)
 
 <section id="service">
 
@@ -96,7 +130,7 @@ Detailed timetable to follow
       </div>
  -->
 
-<!--  
+  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/250128-hpe-archer2">
@@ -104,7 +138,7 @@ Detailed timetable to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
