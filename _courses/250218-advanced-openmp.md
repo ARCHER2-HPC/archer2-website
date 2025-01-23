@@ -38,7 +38,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 #### Timetable:
 
 - 10am-12am Tue 18th Feb 
-- 10am-12am The 20th Feb 
+- 10am-12am Thu 20th Feb 
 - 10am-12am Tue 25th Feb 
 - 10am-12am Thu 27th Feb 
 
