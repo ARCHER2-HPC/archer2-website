@@ -1,9 +1,11 @@
 ---
 layout: section
-title: Sustainability
-summary: Sustainability
+title: Environmental Sustainability
+summary: Continual work to improve carbon efficiency and biodiversity
 banner: web_banners_07.jpg
 ---
+
+Environmental sustainability is a key focus for the ARCHER2 service—both in terms of day-to-day operation and research and development activities—to understand how the environmental sustainability of ARCHER2 can continue to be improved over its lifetime and to develop improvements for future services. This includes work on understanding and communicating emissions from ARCHER2 within the [Greenhouse Gas (GHG) Protocol framework](https://ghgprotocol.org/) to support improving the carbon efficiency of the service and awareness among users; and working to ensure that biodiversity is promoted at the ACF data centre where ARCHER2 is housed.
 
 ## Emissions
 
