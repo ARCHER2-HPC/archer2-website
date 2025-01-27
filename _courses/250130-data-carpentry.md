@@ -29,12 +29,12 @@ Data Carpentry workshops will focus on introductory computational skills needed
 
 This two-day workshop will cover:
 
-- Data Organization in Spreadsheets
-- Data Cleaning with OpenRefine
-- Data Analysis and Visualization in R
-- Data Management with SQL
+- [Data Organization in Spreadsheets](https://datacarpentry.github.io/spreadsheet-ecology-lesson/)
+- [Data Cleaning with OpenRefine](https://datacarpentry.github.io/OpenRefine-ecology-lesson/)
+- [Data Analysis and Visualization in R](https://datacarpentry.github.io/R-ecology-lesson/)
+- [Data Management with SQL](https://datacarpentry.github.io/sql-ecology-lesson/)
 
-This workshop uses a tabular ecology dataset from the Portal Project Teaching Database and teaches data cleaning, management, analysis, and visualization. would use.
+This workshop uses a [tabular ecology dataset](https://datacarpentry.org/ecology-workshop/data/index.html) from the [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) and teaches data cleaning, management, analysis, and visualization. would use.
 
 #### Prerequisites:
 
