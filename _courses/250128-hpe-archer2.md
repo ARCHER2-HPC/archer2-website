@@ -7,7 +7,7 @@ start_date: 2025-01-28 09:00:00
 end_date: 2025-01-30 17:00:00
 trainers: Harvey Richardson, Douglas Shanks, Holly Judge,  Jess Jones (all HPE)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250128-HPE-ARCHER2
 location: Online
 location_url:
@@ -179,7 +179,7 @@ There will be morning, lunch, and afternoon breaks. There will be a mixture of p
 
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -198,7 +198,7 @@ There will be morning, lunch, and afternoon breaks. There will be a mixture of p
       </div>
     </div>
 		
--->	
+
 
  
 </section>
