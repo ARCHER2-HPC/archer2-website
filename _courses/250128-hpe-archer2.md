@@ -109,6 +109,26 @@ There will be morning, lunch, and afternoon breaks. There will be a mixture of p
 - 16:45 Q&A
 - 17:00 End
 
+**Thursday 30th**
+
+- 09:00 60 Understanding Cray MPI on Slingshot, rank reordering and MPMD launch
+- 10:00 30 Exercises 
+- 10:30 20 Break
+- 10:50 30 Python topics on HPE Cray EX GPU application porting strategies
+- 11:20 20 AMD Debugging
+- 11:40 30 Exercises 
+- 12:10 75 Lunch Break
+- 13:25 20 Introduction to AMD Rocprof
+- 13:45 30 Exercises 
+- 14:15 30 Performance Optimization: improving single-core efficiency
+- 14:45 30 Exercises 
+- 15:15 15 Break
+- 15:30 60 I/O Optimisation - Parallel I/O
+    - Advanced Parallel I/O considerations
+    - Being nice to Lustre
+- 16:30 30 Exercises 
+- 17:00 End of the course 
+
 [Detailed timetable (PDF) ](Agenda.pdf)
 
 <section id="service">
