@@ -7,7 +7,7 @@ start_date: 2025-02-17 10:00:00
 end_date: 2025-02-18 16:30:00
 trainers: Andy Turner EPCC
 course_type: course
-registration_status: open
+registration_status: full
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250217-containers
 location: University of Cambridge
 location_url:  https://www.archer2.ac.uk/training/locations/cambridge
