@@ -7,7 +7,7 @@ start_date: 2025-01-30 09:30:00
 end_date: 2025-01-31 17:00:00
 trainers: Evgenij Belikov, José Muñoz Criollo
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250130-Data-Carpentry
 location: Cardiff
 location_url: https://www.archer2.ac.uk/training/locations/cardiff
@@ -100,7 +100,7 @@ Details to follow
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -118,7 +118,7 @@ Details to follow
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
