@@ -37,7 +37,16 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 
 <img src="{{ site.baseurl }}/img/certificates/InformationSecuritySys_ISOIEC27001_col.jpg" alt="Iso 27001" title="Iso 27001" align="right" width="15%"  />
 
+<!--
 
+###  2025
+
+* [Quarter 4 2025](quarterly/2025/2025_Q4/)
+* [Quarter 3 2025](quarterly/2025/2025_Q3/)
+* [Quarter 2 2025](quarterly/2025/2025_Q2/)
+* [Quarter 1 2025](quarterly/2025/2025_Q1/)
+
+-->
 
 ###  2024
 
@@ -82,6 +91,14 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 ## Monthly Reports
 
 The monthly statistical reports are generated automatically from the SAFE. Please follow the link below to access individual monthly reports.
+
+
+### 2025
+
+
+* [January 2025](monthly/2025/jan25_safe.pdf)
+
+
 
 ### 2024
 
