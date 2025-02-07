@@ -9,7 +9,7 @@ trainers: Andy Turner (EPCC)
 course_type: course
 registration_status: open
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250513-green-computing
-location: Online
+location: G.03 Bayes Centre, Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/epcc.html
 prace_course: 
 audience: [ researcher, data-scientist, developer ]
