@@ -69,7 +69,7 @@ Details to follow
 <!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/250313-gpu-directives">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -105,7 +105,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=XXXX" 
+           href="../../feedback/?course=250313-gpu-directives" 
 
 		>
           <strong>Feedback</strong><br/>
