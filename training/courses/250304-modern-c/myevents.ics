@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20240422T053450Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1736258155066-44977@ical.marudot.com
+DTSTART;TZID=Europe/London:20250217T100000
+DTEND;TZID=Europe/London:20250217T163000
+SUMMARY:ARCHER2: Reproducible computational environments using containers: introduction to Docker and Singularity
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/250217-containers/\n\nLocation: https://www.archer2.ac.uk/training/locations/cambridge
+LOCATION:South Room\, West Hub\, University of Cambridge\, J J Thomson Avenue Cambridge CB3 0US
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Reproducible computational environments using containers: introduction to Docker and Singularity
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1736258167250-55055@ical.marudot.com
+DTSTART;TZID=Europe/London:20250218T090000
+DTEND;TZID=Europe/London:20250218T143000
+SUMMARY:ARCHER2: Reproducible computational environments using containers: introduction to Docker and Singularity
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/250217-containers/\n\nLocation: https://www.archer2.ac.uk/training/locations/cambridge
+LOCATION:South Room\, West Hub\, University of Cambridge\, J J Thomson Avenue Cambridge CB3 0US
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Reproducible computational environments using containers: introduction to Docker and Singularity
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1737626321764-93464@ical.marudot.com
+DTSTART;TZID=Europe/London:20250218T100000
+DTEND;TZID=Europe/London:20250218T120000
+SUMMARY:ARCHER2 Advanced OpenMP
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/2e50b305e85c4f1db05f71ea74b5e68d\n\nEvent page: https://www.archer2.ac.uk/training/courses/250218-advanced-openmp/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Advanced OpenMP
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1737626358124-60952@ical.marudot.com
+DTSTART;TZID=Europe/London:20250220T100000
+DTEND;TZID=Europe/London:20250220T120000
+SUMMARY:ARCHER2 Advanced OpenMP
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/2e50b305e85c4f1db05f71ea74b5e68d\n\nEvent page: https://www.archer2.ac.uk/training/courses/250218-advanced-openmp/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Advanced OpenMP
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1737626379498-49923@ical.marudot.com
+DTSTART;TZID=Europe/London:20250225T100000
+DTEND;TZID=Europe/London:20250225T120000
+SUMMARY:ARCHER2 Advanced OpenMP
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/2e50b305e85c4f1db05f71ea74b5e68d\n\nEvent page: https://www.archer2.ac.uk/training/courses/250218-advanced-openmp/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Advanced OpenMP
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1737626398697-98526@ical.marudot.com
+DTSTART;TZID=Europe/London:20250227T100000
+DTEND;TZID=Europe/London:20250227T120000
+SUMMARY:ARCHER2 Advanced OpenMP
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/2e50b305e85c4f1db05f71ea74b5e68d\n\nEvent page: https://www.archer2.ac.uk/training/courses/250218-advanced-openmp/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Advanced OpenMP
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1739207719660-98342@ical.marudot.com
+DTSTART;TZID=Europe/London:20250304T093000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20250304T160000
+SUMMARY:ARCHER2 Modern C++
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/250304-modern-c/\nVenue: https://www.archer2.ac.uk/training/locations/culham
+LOCATION:John Adams Lecture Theatre at the Culham Science Campus Abingdon-on-Thames OX14 3DB
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Modern C++
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1738942878521-59457@ical.marudot.com
+DTSTART;TZID=Europe/London:20250313T090000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20250313T170000
+SUMMARY:ARCHER2: GPU programming using directives
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/250313-gpu-directives\n\nVenue: https://www.archer2.ac.uk/training/locations/edinburgh-charteris-land
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: GPU programming using directives
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1738934336943-47720@ical.marudot.com
+DTSTART;TZID=Europe/London:20250401T100000
+DTEND;TZID=Europe/London:20250401T153000
+SUMMARY:ARCHER2: Green software use on HPC
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/1f84383c52cc44d8adeabe4dc6aefee5\n\nEvent page: https://www.archer2.ac.uk/training/courses/250401-green-computing 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Green software use on HPC
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T171528Z
+UID:1738936245489-10207@ical.marudot.com
+DTSTART;TZID=Europe/London:20250513T100000
+DTEND;TZID=Europe/London:20250513T153000
+SUMMARY:ARCHER2: Green software use on HPC
+DESCRIPTION:Venue: https://www.archer2.ac.uk/training/locations/epcc.html\n\nEvent page: https://www.archer2.ac.uk/training/courses/250513-green-computing 
+LOCATION:Room G0.3\, Bayes Centre\, Potterrow\, Edinburgh EH8 9BT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Green software use on HPC
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
