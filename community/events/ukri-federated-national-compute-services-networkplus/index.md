@@ -11,7 +11,7 @@ The UKRI Federated National Compute Services NetworkPlus meeting will take place
 This is a two-day launch event takes place on 5th and 6th March 2025, starting at 10:00 AM GMT, at One Moorgate Place, London, EC2R 6EA. 
 
 The Federated National Services ComputePlus aims to build collaboration and knowledge exchange across the research stakeholder communities that use and provide computational services. There are also flexible funds available to commission feasibility studies or similar small level projects
- 
+
 Day 1:
 Introduction to the project with goals and objectives followed by invited talks from community federation projects. 
 This will be followed with breakout sessions focusing on the three pillars for FNCS+ : Governance, Technology and Community.  
