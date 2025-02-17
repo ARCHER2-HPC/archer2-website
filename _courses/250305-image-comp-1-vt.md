@@ -17,6 +17,9 @@ ecse:
 ---
 
 
+<img src="https://live.staticflickr.com/65535/53960668124_4b5f74308d_c_d.jpg" align="center"  width="45%">
+
+
 In this webinar, Dr Nikita Chaturvedi, Department of Physics, Imperial College London, will talk about the science behind their image "Pulsed-power driven magnetic reconnection" from the [2024 ARCHER2 Image and Video Competition](https://www.archer2.ac.uk/about/gallery/2024-image-comp/)
 
 
