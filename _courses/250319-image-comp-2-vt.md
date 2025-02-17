@@ -18,7 +18,14 @@ ecse:
 
 <img src="https://live.staticflickr.com/65535/53999083254_a97ba6dd45_c_d.jpg" align="center"  width="45%">
 
-In this webinar, Dr Sébastien Lemaire, EPCC, University of Edinburgh, will talk about the science behind their image " Effects of "wake steering" on wind turbine flows. The upwind turbine on the right is rotated to steer its wake away from the downstream turbine increasing the overall efficiency." from the [2024 ARCHER2 Image and Video Competition](https://www.archer2.ac.uk/about/gallery/2024-image-comp/)
+ "Effects of "wake steering" on wind turbine flows. The upwind turbine on the right is rotated to steer its wake away from the downstream turbine increasing the overall efficiency." from the [2024 ARCHER2 Image and Video Competition](https://www.archer2.ac.uk/about/gallery/2024-image-comp/)
+
+
+In the webinar, Dr Andrew Mole (Imperial College London) and Dr Sébastien Lemaire (EPCC) will talk about the science, data processing and visualisation behind the video "Effects of “wake steering” on wind turbine flows".
+
+Andrew Mole will first discuss the simulations what are shown in the video, their importance for wind turbine farm efficiencies as well as the methodology used.
+
+Sébastien Lemaire will then focus on the visualisations themselves, explaining how to go from the raw output of CFD simulations to visually appealing imagery. Detailing the process and more generally discussing what makes for an impactful visualisations.
 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
