@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: Wednesday 19th March  15:00 - 16:00 
 start_date: 2025-03-19 15:00:00
 end_date: 2025-03-19 16:00:00
-trainers: Dr Sébastien Lemaire
+trainers: Dr Sébastien Lemaire (EPCC), Andrew Mole (Imperial College London)
 course_type: vt
 registration_status:
 registration_url:
@@ -16,6 +16,7 @@ video:
 ecse:
 ---
 
+<img src="https://live.staticflickr.com/65535/53999083254_a97ba6dd45_c_d.jpg" align="center"  width="45%">
 
 In this webinar, Dr Sébastien Lemaire, EPCC, University of Edinburgh, will talk about the science behind their image " Effects of "wake steering" on wind turbine flows. The upwind turbine on the right is rotated to steer its wake away from the downstream turbine increasing the overall efficiency." from the [2024 ARCHER2 Image and Video Competition](https://www.archer2.ac.uk/about/gallery/2024-image-comp/)
 
