@@ -22,7 +22,6 @@ The event is in-person and there is no registration fee.
 Please [register here](https://bit.ly/ARCHER2-Celebration-of-Science-2025 "Registration form") to participate.  
 
 
-
 <h2><a name="materials">Registration</a></h2>
 	
 
@@ -54,6 +53,9 @@ Location: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Pa
 
 **The registration deadline is 29th April 2025.** 
 
+
+
+Note: there is a [“Green software use on HPC”](https://www.archer2.ac.uk/training/courses/250513-green-computing/) in person course running at EPCC 10:00-15:30, Tuesday 13 May 2025 (the day before the Celebration of Science) at a venue close to the conference venue. Participants are also able to register to attend this course if they wish. More information on the course and registration can be found on the [ARCHER2 website]( https://www.archer2.ac.uk/training/courses/250513-green-computing/)
 
 ## Call for Posters 
 
