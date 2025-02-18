@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: Wednesday 19th March  15:00 - 16:00 
 start_date: 2025-03-19 15:00:00
 end_date: 2025-03-19 16:00:00
-trainers: Dr Sébastien Lemaire (EPCC), Andrew Mole (Imperial College London)
+trainers: Dr Sébastien Lemaire (EPCC), Dr Andrew Mole (Imperial College London)
 course_type: vt
 registration_status:
 registration_url:
@@ -25,7 +25,7 @@ In the webinar, Dr Andrew Mole (Imperial College London) and Dr Sébastien Lemai
 
 Andrew Mole will first discuss the simulations what are shown in the video, their importance for wind turbine farm efficiencies as well as the methodology used.
 
-Sébastien Lemaire will then focus on the visualisations themselves, explaining how to go from the raw output of CFD simulations to visually appealing imagery. Detailing the process and more generally discussing what makes for an impactful visualisations.
+Sébastien Lemaire will then focus on the visualisations themselves, explaining how to go from the raw output of CFD simulations to visually appealing imagery. Detailing the process and more generally discussing what makes for impactful visualisations.
 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
