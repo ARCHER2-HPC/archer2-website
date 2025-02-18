@@ -20,6 +20,27 @@ ecse:
 In this webinar, there will be a series of lightening talks from the creators of some of the images from the [2024 ARCHER2 Image and Video Competition](https://www.archer2.ac.uk/about/gallery/2024-image-comp/)
 
 
+## Global sea-surface waves
+
+<img src="https://live.staticflickr.com/65535/53903749113_6dd150eeee_c_d.jpg" align="center"  width="45%">
+
+
+Dr Lucy Bricheno, Marine Systems Modelling (Dept. Science and Technology), National Oceanography Centre
+
+
+## Turbulent times
+
+<img src="https://live.staticflickr.com/65535/54000650767_ee5c36ac0d_c_d.jpg" align="center"  width="45%">
+
+Eric Breard, School of Geoscience, University of Edinburgh
+
+## Molecular dynamics computation of Glycerol monooleate (GMO) molecules gathering around water droplets to form reverse-micelles helping lubrication efficiency
+
+<img src="https://live.staticflickr.com/65535/53999185605_89111d2b46_c_d.jpg" align="center"  width="45%">
+
+Dr Sébastien Lemaire, Rui Apóstolo, EPCC, University of Edinburgh
+
+
 This online session is open to all. It will use the Blackboard Collaborate platform.
 
 {% if page.ecse.size > 1 %}
