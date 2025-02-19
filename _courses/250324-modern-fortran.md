@@ -11,7 +11,9 @@ registration_status: open
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250324-modern-fortran
 location: Imperial College London
 location_url: https://www.archer2.ac.uk/training/locations/imperial
-prace_course: 
+audience: [  developer ]
+level: [ introductory ]
+video: 
 ---
 
 #### Location:
