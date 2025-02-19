@@ -4,7 +4,7 @@ title: Introduction to Modern Fortran
 banner: web_banners_05.jpg 
 human_dates: 24 - 25 March 2025  09:30 - 16:30  GMT
 start_date: 2025-03-24 09:30:00
-end_date: 2025-03-25 16:60:00
+end_date: 2025-03-25 16:30:00
 trainers: Kevin Stratford EPCC
 course_type: course
 registration_status: open
