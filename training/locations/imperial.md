@@ -9,17 +9,15 @@ banner: web_banners_05.jpg
 
 ## Address
 
-MPI Course
+Introduction to Modern Fortran
 
-- February 22, 2023 SALC 10
-- February 23, 2023 SALC 1
-- February 24, 2023 SALC 10
 
+SLAC 5, <br>
 Seminar and Learning Centre,<br> 
 5th Floor,<br> 
 Sherfield Building,<br>
 Imperial College,<br>
-London (Kensington Campus),<br>
+London (South Kensington Campus),<br>
 SW7 2BB
 
 Find Sherfield Building on Google Maps
@@ -35,4 +33,4 @@ The nearest Underground station is South Kensington. If you’re arriving by Und
 
 Enter the campus via the Imperial College Road entrance, passing alongside the car park. Take the diagonal path across Dangoor Plaza (alongside Queen’s Tower) to reach the entrance to the Sherfield Building.
 
-Tea/coffee will be available from 09:30 and the course will start at 10:00.
+
