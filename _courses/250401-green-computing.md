@@ -7,7 +7,7 @@ start_date: 2025-04-01 10:00:00
 end_date: 2025-04-01 15:30:00
 trainers: Andy Turner (EPCC)
 course_type: course
-registration_status: open
+registration_status: full
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250401-green-computing
 location: Online
 location_url:
