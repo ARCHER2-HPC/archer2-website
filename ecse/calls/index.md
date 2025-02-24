@@ -12,7 +12,7 @@ banner: web_banners_06.jpg
 
 GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. We invite proposals to develop software that facilitates research targeted at UKRI’s digital research infrastructure e.g. future Exascale supercomputing services, UK national AI services, national Tier-2 HPC services. The call is open to research across all of UKRI’s remit. 
 
-The 2nd GPU eCSE call (GPU-eCSE02) opened on the **2 July 2024**. The final deadline for proposal submission is **16:00 on 17 September 2024** via the ARCHER2 SAFE. Please note that for this call there is no separate technical evaluation stage or separate technical evaluation form.  
+The 2nd GPU eCSE call (GPU-eCSE02) opened on the **2 July 2024**. The final deadline for proposal submission was **16:00 on 17 September 2024** via the ARCHER2 SAFE. Please note that for this call there is no separate technical evaluation stage or separate technical evaluation form.  
 
 ### GPU eCSE call
 

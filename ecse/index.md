@@ -15,21 +15,28 @@ summary: ARCHER2 Embedded CSE (eCSE) support to improve software on ARCHER2.
       </div>
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="reports/">
+        <a class="ar2_linkbox ar2_linkbox-green" href="panels/">
+          <strong>ARCHER2 and GPU eCSE projects funded </strong><br/>
+          A list of all the projects funded under the ARCHER2 and GPU eCSE programmes.
+        </a>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="reports/">
           <strong>ARCHER2 eCSE Project Reports</strong><br/>
           Details and reports from previously funded eCSE projects on the ARCHER2 service.
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="../research/case-studies">
+        <a class="ar2_linkbox ar2_linkbox-green" href="../research/case-studies">
           <strong>Case Studies</strong><br/>
           Some eCSE projects have led to Case Studies highlighting research on ARCHER2.
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="../training/materials/ecse-webinars">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="../training/materials/ecse-webinars">
           <strong>ARCHER2 eCSE Project Webinars</strong><br/>
           Webinars from previously funded eCSE projects on the ARCHER2 service.
         </a>
@@ -42,7 +49,7 @@ summary: ARCHER2 Embedded CSE (eCSE) support to improve software on ARCHER2.
 
 ## [GPU eCSE software development calls](calls/)
 
-We are very pleased to announce a new programme of eCSE calls focussing on GPU development. GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. We invite proposals to develop software that facilitates research targeted at UKRI’s digital research infrastructure e.g. future Exascale supercomputing services, UK national AI services, national Tier-2 HPC services. The call is open to research across all of UKRI’s remit. The 2nd GPU eCSE call (GPU-eCSE02) opened on the **2 July 2024**. The final deadline for proposal submission is **16:00 on 17 Sep 2024** via the ARCHER2 SAFE. Plese see the [GPU eCSE call information](calls/) for further information.
+GPU eCSE support provides funding to the UKRI research community to develop software in a sustainable manner to run on GPU-based architectures. Within this programme, projects have been funded to develop software that facilitates research targeted at UKRI’s digital research infrastructure e.g. future Exascale supercomputing services, UK national AI services, national Tier-2 HPC services. Calls are open to research across all of UKRI’s remit.
 
 
 ## ARCHER2 eCSE software development calls
