@@ -101,7 +101,7 @@ No recent issues.
 - [The Science behind the Image Competition - 2](https://www.archer2.ac.uk/training/courses/250319-image-comp-2-vt/), online webinar,  Wednesday 19th March 15:00 - 16:00 
 - [GPU programming with HIP](https://www.archer2.ac.uk/training/courses/250324-gpu-hip/), Online, 24 - 26 March 2025 10:00 - 16:00 GMT
 - [Introduction to Modern Fortran](https://www.archer2.ac.uk/training/courses/250324-modern-fortran/), Imperial College London, 24 - 25 March 2025 09:30 - 16:30 GMT 
-- [The Science behind the Image Competition](https://www.archer2.ac.uk/training/courses/250326-image-comp-3-vt/) - 3, online webinar, Wednesday 26th March 15:00 - 16:00 
+- [The Science behind the Image Competition](https://www.archer2.ac.uk/training/courses/250326-image-comp-3-vt/) - 3, online webinar, Wednesday 26th March **14:00 - 15:00** 
 - [Green software use on HPC](https://www.archer2.ac.uk/training/courses/250401-green-computing/), Online, 1 April 2025 10:00 - 15:30 BST
 - [Green software use on HPC](https://www.archer2.ac.uk/training/courses/250513-green-computing/), Edinburgh, 13 May 2025 10:00 - 15:30 BST
 
