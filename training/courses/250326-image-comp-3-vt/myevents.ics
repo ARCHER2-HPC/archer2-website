@@ -25,8 +25,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20250212T141237Z
 UID:1739369496468-77836@ical.marudot.com
-DTSTART;TZID=Europe/London:20250326T150000
-DTEND;TZID=Europe/London:20250326T160000
+DTSTART;TZID=Europe/London:20250326T140000
+DTEND;TZID=Europe/London:20250326T150000
 SUMMARY:ARCHER2: The Science behind the Image Competition - 3
 DESCRIPTION:Join link: https://eu.bbcollab.com/guest/82729ccdf61e47ee89f715b4cbc298cc\n\nEvent page: https://www.archer2.ac.uk/training/courses/250326-image-comp-3-vt/
 BEGIN:VALARM
