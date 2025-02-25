@@ -2,9 +2,9 @@
 layout: course
 title: The Science behind the Image Competition - 3
 banner: web_banners_05.jpg
-human_dates: Wednesday 26th March  15:00 - 16:00 
-start_date: 2025-03-26 15:00:00
-end_date: 2025-03-26 16:00:00
+human_dates: Wednesday 26th March  14:00 - 15:00 
+start_date: 2025-03-26 14:00:00
+end_date: 2025-03-26 15:00:00
 trainers: 
 course_type: vt
 registration_status:
