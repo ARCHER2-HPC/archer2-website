@@ -7,7 +7,7 @@ start_date: 2025-03-04 09:30:00
 end_date: 2025-03-05 16:00:00
 trainers: Adrian Jackson EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250304-modern-c
 location: Culham
 location_url: https://www.archer2.ac.uk/training/locations/culham
