@@ -7,14 +7,14 @@ start_date: 2025-02-18 10:00:00
 end_date: 2025-02-27 12:00:00
 trainers: Mark Bull EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250218-Advanced-OpenMP
 location: Online
 location_url:
 prace_course: false
 audience: [developer]
 level: [advanced]
-video: 
+video: true
 ---
 
 
@@ -101,15 +101,15 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 	<iframe title="Video" width="560" height="315" src=" https://www.youtube.com/embed/1CpAN1sSD3c                                      " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--
+
 
 <h3>Session 4</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src=" https://www.youtube.com/embed/xxxxxx                                     " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src=" https://www.youtube.com/embed/49g2UaoMufU                                      " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
--->
+
 
 
 
