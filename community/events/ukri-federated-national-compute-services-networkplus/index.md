@@ -18,11 +18,7 @@ This will be followed by breakout sessions focusing on the three pillars for NFC
 <b>Day 2: Networking and Community Building </b>
 The second day is focused on building networks and community, in the context of the three pillars and exploring ideas for projects that might attract funding to support the goals of the NetworkPlus. As well as sharing ideas, this will also provide the opportunity to meet with potential future collaborators.
 
-Please complete the [Registration form](https://bit.ly/FNCS-NetworkPlus) if you wish to attend the UKRI Federated National Compute Services NetworkPlus launch event.  
-
-[Registration form](https://bit.ly/FNCS-NetworkPlus)
-	
-The event is in-person with remote participation available and there is no registration fee.  
-The deadline for registration is 26th February 2025. 
+Registration for the event is now closed. 
+We may consider late registrations for remote attendance and if you would like to be considered please email info@epcc.ed.ac.uk stating that you would like to be considered for remote attendance at the NFCS.  
 
 A draft agenda and the flexible funding call will be added to this page shortly.
