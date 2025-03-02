@@ -25,21 +25,34 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 
 <b>Day 1: Wednesday 5th March </b>
 * 0900 Arrival Tea/Coffee served with Cookies and Pastries <nl>
-* 1000 Welcome – aims of goals of the project UKRI <nl> 
-* 1015 Overview of the Project - Jon Hays (QMUL) <nl>
-	 Pillars Talk: Governance, Community, Technology 
+* 1000 Welcome – aims of goals of the project: UKRI <nl> 
+* 1015 Overview and Pillars of the Project: Governance, Community, Technology :  Jon Hays (QMUL)
 * 1100 Louise Chisholm (UCL) 
 * 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1200 Paul Calleja AIRRFED (Cambridge) 
+* 1200 Paul Calleja: AIRRFED (Cambridge) 
 * 1230 Chris Cole (Dundee)
 * 1300 LUNCH
-* 1400 Data Centre API Elia Palme (CSCS)
-* 1430 Martin O’Reilly 
-* 1500 Edge AI Hub Raj Ranjan (Newcastle)
+* 1400 Data Centre API : Elia Palme (CSCS)
+* 1430 Martin O’Reilly (Turing Institute) 
+* 1500 Edge AI Hub Raj Ranjan (Newcastle University)
 * 1530 Afternoon Tea / Coffee served with Cookies and Cake  
 * 1600 Plenary Discussion: How can we maximise success of the flexible funding call 
-* 1700 Wrap Up:Space available for further collaborations 
+* 1700 Day Wrap Up: Space available for further collaborations 
 * 1900 Evening Networking: Drinks and Bowl food served in Members Room 
 * 2100 Close
 
 * <b>Day 2: Thursday 6th March </b>
+* 0830 Arrival Tea / Coffee served with Cookies and Pastries 
+* 0930 Summary of Day 1
+* 1000 Working with UK Industry & Public Sector,  Adam Sanderson, Hartree Centre
+* 1030 Extreme Scale Computing Competence profiles: Education and Training RTP pathways,Evguenia Alexandrova, Hartree Centre
+* 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
+* 1130 Juan Bicarregui (Governance) 
+* 1200 Phil Kershaw (Governance)  
+* Jens IRIS 
+* 1300 LUNCH
+* 1400 Facilitating Proposals with mentimeter 
+* 1500 Afternoon Tea / Coffee served with Cookies and Cake 
+* 1530 Pillar Surgeries with lead team  
+* Space available for continued networking 
+* 1700 CLOSE 
