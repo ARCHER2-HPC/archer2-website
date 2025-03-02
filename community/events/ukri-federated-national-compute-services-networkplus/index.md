@@ -49,7 +49,7 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 * 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
 * 1130 Juan Bicarregui (Governance) 
 * 1200 Phil Kershaw (Governance)  
-* Jens IRIS 
+* 1230 Jens Jensen IRIS 
 * 1300 LUNCH
 * 1400 Facilitating Proposals with mentimeter 
 * 1500 Afternoon Tea / Coffee served with Cookies and Cake 
