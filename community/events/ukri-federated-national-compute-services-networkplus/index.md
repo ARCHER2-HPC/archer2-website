@@ -24,22 +24,20 @@ We may consider late registrations for remote attendance and if you would like t
 A draft agenda and the flexible funding call will be added to this page shortly.
 
 <b>Agenda : Day 1: Wednesday 5th March </b>
-0900 Arrival Tea/Coffee served with Cookies and Pastries <nl>
-1000 Welcome – aims of goals of the project UKRI <nl> 
-1015 Overview of the Project - Jon Hays (QMUL) <nl>
+* 0900 Arrival Tea/Coffee served with Cookies and Pastries <nl>
+* 1000 Welcome – aims of goals of the project UKRI <nl> 
+* 1015 Overview of the Project - Jon Hays (QMUL) <nl>
 	 Pillars Talk: Governance, Community, Technology 
-1100 Louise Chisholm (UCL) 
-1130 Mid-morning Tea / Coffee served with Cookies and Cake 
-1200 Paul Calleja AIRRFED (Cambridge) 
-1230 Chris Cole (Dundee)
-1300 LUNCH
-Rui chair this session
-1400 Data Centre API Elia Palme (CSCS)
-1430 Martin O’Reilly 
-1500 Edge AI Hub Raj Ranjan (Newcastle)
-1530 Afternoon Tea / Coffee served with Cookies and Cake  
-Jo lead this session
-1600 Plenary Discussion: How can we maximise success of the flexible funding call 
-1700 Wrap Up:Space available for further collaborations 
-1900 Evening Networking: Drinks and Bowl food served in Members Room 
-2100 Carriages 
+* 1100 Louise Chisholm (UCL) 
+* 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
+* 1200 Paul Calleja AIRRFED (Cambridge) 
+* 1230 Chris Cole (Dundee)
+* 1300 LUNCH
+* 1400 Data Centre API Elia Palme (CSCS)
+* 1430 Martin O’Reilly 
+* 1500 Edge AI Hub Raj Ranjan (Newcastle)
+* 1530 Afternoon Tea / Coffee served with Cookies and Cake  
+* 1600 Plenary Discussion: How can we maximise success of the flexible funding call 
+* 1700 Wrap Up:Space available for further collaborations 
+* 1900 Evening Networking: Drinks and Bowl food served in Members Room 
+* 2100 Close 
