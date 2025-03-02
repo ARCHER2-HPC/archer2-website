@@ -23,7 +23,7 @@ We may consider late registrations for remote attendance and if you would like t
 
 A draft agenda and the flexible funding call will be added to this page shortly.
 
-<b>Agenda : Day 1: Wednesday 5th March </b>
+<b>Day 1: Wednesday 5th March </b>
 * 0900 Arrival Tea/Coffee served with Cookies and Pastries <nl>
 * 1000 Welcome – aims of goals of the project UKRI <nl> 
 * 1015 Overview of the Project - Jon Hays (QMUL) <nl>
@@ -40,4 +40,6 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 * 1600 Plenary Discussion: How can we maximise success of the flexible funding call 
 * 1700 Wrap Up:Space available for further collaborations 
 * 1900 Evening Networking: Drinks and Bowl food served in Members Room 
-* 2100 Close 
+* 2100 Close
+
+* <b>Day 2: Thursday 6th March </b>
