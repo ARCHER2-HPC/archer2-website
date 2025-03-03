@@ -24,7 +24,7 @@ The ARCHER2 Annual User Survey consists of just a few questions and should take 
 
 For each survey response received, we will donate £1 to Save The Children.
 
-We are also offering 5 prizes of 2000 CUs on ARCHER2 for users who complete the survey. Winners can choose to forgo the CU prize and for each winner that does this we will donate a further £20 to [Save The Children](www.savethechildren.org.uk). Winners will be drawn at random from all respondents who have left contact details after the closing date of Thursday 30th June 2022 and the winners notified by e-mail. The prizes are only available to people with existing ARCHER2 user accounts.
+We are also offering 5 prizes of 2000 CUs on ARCHER2 for users who complete the survey. Winners can choose to forgo the CU prize and for each winner that does this we will donate a further £20 to [Save The Children](https://www.savethechildren.org.uk). Winners will be drawn at random from all respondents who have left contact details after the closing date of Thursday 30th June 2022 and the winners notified by e-mail. The prizes are only available to people with existing ARCHER2 user accounts.
 
 You can find the survey at:
 
