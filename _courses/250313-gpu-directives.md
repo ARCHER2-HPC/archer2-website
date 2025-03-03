@@ -45,7 +45,31 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+**Day 1 (Thursday 13 March)**
+
+- 09:00-10:00 Lectures: Overview, GPU programming APIs
+- 10:00-11:00 Lecture: GPU Architecture 
+- 11:00-11:30 Break
+- 11:30-12:00 Lecture: Introduction to OpenMP 
+- 12:30-13:30 Lunch
+- 13:30-14:15 Practical
+- 14:15-15:15 Lecture: Introduction to OpenMP - data movement 
+- 15:15 -15:45 Break
+- 15:45-17:00Practical
+- 17:00 Close
+ 
+**Day 2 (Friday 14 March)**
+ 
+- 09:00-10:00 Lecture: Advanced Topics 
+- 10:00-11:00 Practical
+- 11:00-11:30 Break
+- 11:30-12:30 Lecture: Performance 
+- 12:30-13:30 Lunch
+- 13:30-14:15 Practical
+- 14:15-15:00 Lecture: OpenACC  
+- 15:00-15:30 Break
+- 15:30-16:00 Practical/ wrap up
+
 
 <section id="service">
 
