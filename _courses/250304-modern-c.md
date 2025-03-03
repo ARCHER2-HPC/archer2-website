@@ -56,7 +56,26 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+
+**Tuesday:**
+
+- 9:30 – 10:45 : Introduction
+- 10:45 – 11:00 : Break
+- 11:00 – 12:30 : Class types
+- 12:30 – 13:30 : Lunch
+- 13:30 – 14:45 : Loops, containers, and iterators
+- 14:45 – 15:00 : Break
+- 15:00 – 16:00 : Managing resources
+
+**Wednesday:**
+
+- 10:00 – 10:45 : Templates for generic programming
+- 10:45 – 11:00 : Break
+- 11:00 – 12:30 : Algorithms, lambdas, and traits
+- 12:30 – 13:30 : Lunch
+- 13:30 – 14:45 : Linear algebra with Eigen
+- 14:45 – 15:00 : Break
+- 15:00 – 16:00 : Threads with C++
 
 
 
