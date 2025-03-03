@@ -9,7 +9,7 @@ This page helps you to calculate the values you need to fill in the
 [ARCHER2 Technical Assessment Form](ta/) when applying for academic access to ARCHER2.
 
 **The calculator on this page is to help compute costs for academic access to ARCHER2 only.
-For access from non-academic organisations, please see the [Industry Engagement page](../community/industry/").**
+For access from non-academic organisations, please see the [Industry Engagement page](../community/industry/).**
 
 To use the calculator fill in the values in the input section and the remaining
 entries will be calculated automatically. You do not need to fill in all the fields if you
@@ -177,7 +177,7 @@ use in the Je-S submission system.</p>
 
 <h4>Costs per CU for non-academic access</h4> 
  
-Please see the [Industry Engagement page](../community/industry/").
+Please see the [Industry Engagement page](../community/industry/).
 
 <h3 class="subsection">Hardware Layout</h3>
 
