@@ -129,7 +129,7 @@ lists all current open known issues including a description of the issue, its sy
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, always-open self-service course
 - [QM/MM with GROMACS + CP2K](https://www.archer2.ac.uk/training/courses/220000-gromacs-self-service/), Online, Always open - self-service course
 - [Message Passing programming with MPI](https://www.archer2.ac.uk/training/courses/230222-mpi/), Imperial College London, 22 - 24 February 2023 10:00 - 17:30 (Day 1 and 2) 10:00 - 15:00 (Day 3) 
-- [ARCHER2 Training Forum meeting](http://localhost:4000/training/courses/230308-archer2-training-forum/), Wednesday 8th March 2023 15:00 - 16:00
+- [ARCHER2 Training Forum meeting](https://www.archer2.ac.uk/training/courses/230308-archer2-training-forum/), Wednesday 8th March 2023 15:00 - 16:00
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
 
