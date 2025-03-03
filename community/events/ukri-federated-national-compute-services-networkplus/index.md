@@ -49,7 +49,7 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 * 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
 * 1130 Governance in EOSC : Juan Bicarregui (STFC) 
 * 1200 Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)  
-* 1230 IRIS_IAM Federation : Jens Jensen (UKRI-STFC) 
+* 1230 TBC
 * 1300 LUNCH
 * 1400 Facilitating Proposals with mentimeter 
 * 1500 Afternoon Tea / Coffee served with Cookies and Cake 
