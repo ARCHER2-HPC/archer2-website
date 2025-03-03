@@ -41,7 +41,7 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 * 1900 Evening Networking: Drinks and Bowl food served in Members Room 
 * 2100 Close
 
-* <b>Day 2: Thursday 6th March </b>
+  <b>Day 2: Thursday 6th March </b>
 * 0830 Arrival Tea / Coffee served with Cookies and Pastries 
 * 0930 Summary of Day 1 : Jo Beech-Brandt (EPCC)
 * 1000 Working with UK Industry & Public Sector: Adam Sanderson (Hartree Centre)
