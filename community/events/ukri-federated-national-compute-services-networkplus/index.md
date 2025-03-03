@@ -25,12 +25,12 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 
 <b>Day 1: Wednesday 5th March </b>
 * 0900 Arrival Tea/Coffee served with Cookies and Pastries <nl>
-* 1000 Welcome – aims of goals of the project: UKRI <nl> 
-* 1015 Overview and Pillars of the Project: Governance, Community, Technology :  Jon Hays (QMUL)
+* 1000 Welcome – aims and goals of the project: Sophie Janacek UKRI <nl> 
+* 1015 Overview and pillars of the project: Governance, Community, Technology :  Jon Hays (QMUL)
 * 1100 Louise Chisholm (UCL) 
 * 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1200 Paul Calleja: AIRRFED (Cambridge) 
-* 1230 Chris Cole (Dundee)
+* 1200 AIRRFED : Paul Calleja (University of Cambridge) 
+* 1230 Chris Cole (University of Dundee)
 * 1300 LUNCH
 * 1400 Data Centre API : Elia Palme (CSCS)
 * 1430 Martin O’Reilly (Turing Institute) 
@@ -43,13 +43,13 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 
 * <b>Day 2: Thursday 6th March </b>
 * 0830 Arrival Tea / Coffee served with Cookies and Pastries 
-* 0930 Summary of Day 1
-* 1000 Working with UK Industry & Public Sector,  Adam Sanderson, Hartree Centre
-* 1030 Extreme Scale Computing Competence profiles: Education and Training RTP pathways,Evguenia Alexandrova, Hartree Centre
+* 0930 Summary of Day 1 : Jo Beech-Brandt (EPCC)
+* 1000 Working with UK Industry & Public Sector: Adam Sanderson (Hartree Centre)
+* 1030 Extreme Scale Computing Competence profiles: Education and Training RTP pathways: Evguenia Alexandrova (Hartree Centre)
 * 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1130 Juan Bicarregui (Governance) 
-* 1200 Phil Kershaw (Governance)  
-* 1230 Jens Jensen IRIS 
+* 1130 Governance in EOSC : Juan Bicarregui (STFC) 
+* 1200 Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)  
+* 1230 IRIS_IAM Federation : Jens Jensen (UKRI-STFC) 
 * 1300 LUNCH
 * 1400 Facilitating Proposals with mentimeter 
 * 1500 Afternoon Tea / Coffee served with Cookies and Cake 
