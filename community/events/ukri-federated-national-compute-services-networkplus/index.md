@@ -29,7 +29,7 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 * 1015 Overview and pillars of the project: Governance, Community, Technology :  Jon Hays (QMUL)
 * 1100 Louise Chisholm (UCL) 
 * 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1200 AIRRFED : Paul Calleja (University of Cambridge) 
+* 1200 AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) 
 * 1230 Chris Cole (University of Dundee)
 * 1300 LUNCH
 * 1400 Data Centre API : Elia Palme (CSCS)
