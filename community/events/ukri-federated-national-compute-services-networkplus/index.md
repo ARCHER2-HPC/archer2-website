@@ -24,8 +24,8 @@ We may consider late registrations for remote attendance and if you would like t
 A draft agenda and the flexible funding call will be added to this page shortly.
 
 <b>Day 1: Wednesday 5th March </b>
-* 0900 Arrival Tea/Coffee served with Cookies and Pastries <nl>
-* 1000 Welcome – aims and goals of the project: Sophie Janacek UKRI <nl> 
+* 0900 Arrival Tea/Coffee served with Cookies and Pastries
+* 1000 Welcome – aims and goals of the project: Sophie Janacek UKRI 
 * 1015 Overview and pillars of the project: Governance, Community, Technology :  Jon Hays (QMUL)
 * 1100 Louise Chisholm (UCL) 
 * 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
@@ -49,7 +49,7 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 * 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
 * 1130 Governance in EOSC : Juan Bicarregui (STFC) 
 * 1200 Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)  
-* 1230 TBC
+* 1230 Token based authorisation : Jens Jensen (UKRI-STFC)
 * 1300 LUNCH
 * 1400 Facilitating Proposals with mentimeter 
 * 1500 Afternoon Tea / Coffee served with Cookies and Cake 
