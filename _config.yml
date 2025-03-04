@@ -18,6 +18,7 @@ subtitle: "The UK National Supercomputing Service, ARCHER2"
 url: "https://www.archer2.ac.uk" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
+encoding: utf-8
 
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
