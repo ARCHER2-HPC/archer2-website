@@ -32,7 +32,7 @@ A draft agenda and the flexible funding call will be added to this page shortly.
 * 1200 AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) 
 * 1230 Chris Cole (University of Dundee)
 * 1300 LUNCH
-* 1400 Data Centre API : Elia Palme (CSCS)
+* 1400 FirecREST: a common interface for HPC and AI workflows: Elia Palme (CSCS)
 * 1430 FRIDGE: Federated Research Infrastructure by Data Governance Extension: Martin O’Reilly (Turing Institute) 
 * 1500 Edge AI Hub Raj Ranjan (Newcastle University)
 * 1530 Afternoon Tea / Coffee served with Cookies and Cake  
