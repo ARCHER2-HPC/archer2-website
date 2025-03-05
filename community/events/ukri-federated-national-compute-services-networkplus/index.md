@@ -21,7 +21,7 @@ The second day is focused on building networks and community, in the context of 
 Registration for the event is now closed. 
 We may consider late registrations for remote attendance and if you would like to be considered please email info@epcc.ed.ac.uk stating that you would like to be considered for remote attendance at the NFCS.  
 
-The draft flexible funding call can be found at [draft Flexible Funding Call ](flexible_funding.pdf "PDF of call"))
+The draft flexible funding call can be found at [draft Flexible Funding Call ](Flexible Funding Call DRAFT copy.pdf ("PDF of call"))
 
 <b>Day 1: Wednesday 5th March </b>
 * 0900 Arrival Tea/Coffee served with Cookies and Pastries
