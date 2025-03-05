@@ -237,7 +237,7 @@ On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you wi
 
 *  [Training offered by other UK HPC centres](https://www.hpc-uk.ac.uk/training/)
 *   [EPCC MSc in High Performance Computing](http://www.epcc.ed.ac.uk/msc)
-*   [ Software Sustainability Institute - Guides](http://www.software.ac.uk/resources/guides-everything)
+*   [ Software Sustainability Institute - Guides](https://www.software.ac.uk/resource-hub)
 *   [Software Sustainability Institute - Top Tips](http://www.software.ac.uk/resources/top-tips)
 
 ## Support for training on ARCHER2
