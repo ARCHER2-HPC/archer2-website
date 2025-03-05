@@ -56,3 +56,6 @@ The draft flexible funding call can be found at [draft Flexible Funding Call ](F
 * 1530 Pillar Surgeries with lead team  
 * Space available for continued networking 
 * 1700 CLOSE 
+
+
+Please register for the mailing list at: [Mailing list] (https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
