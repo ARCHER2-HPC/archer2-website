@@ -26,11 +26,11 @@ The draft flexible funding call can be found at [draft Flexible Funding Call (pd
 <b>Day 1: Wednesday 5th March </b>
 * 0900 Arrival Tea/Coffee served with Cookies and Pastries
 * 1000 Welcome – aims and goals of the project: Sophie Janacek UKRI 
-* 1015 Overview and pillars of the project: Governance, Community, Technology :  Jon Hays (QMUL)
+* 1015 Overview and pillars of the project: Governance, Community, Technology:  Jon Hays (QMUL)
 * 1100 Louise Chisholm (UCL) 
 * 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
 * 1200 AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) 
-* 1230 Chris Cole (University of Dundee)
+* 1230 SATRE - A UK Specification for Trusted Research Environments: Chris Cole (University of Dundee)
 * 1300 LUNCH
 * 1400 FirecREST: a common interface for HPC and AI workflows: Elia Palme (CSCS)
 * 1430 FRIDGE: Federated Research Infrastructure by Data Governance Extension: Martin O’Reilly (Turing Institute) 
