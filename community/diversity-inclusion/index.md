@@ -4,7 +4,11 @@ title: Diversity and Inclusion
 banner: web_banners_07.jpg
 ---
 
-EPCC and ARCHER have taken a leadership role in encouraging Diversity in HPC, having founded [Women in HPC](https://womeninhpc.org) and now running the UK Women in HPC Chapter, and having developed the [Diversity in HPC web site](http://www.hpc-diversity.ac.uk/) with a range of people profiles to celebrate diversity in our community. 
+EPCC and ARCHER have taken a leadership role in encouraging Diversity in HPC, having founded [Women in HPC](https://womeninhpc.org) and now running the UK Women in HPC Chapter.
+
+<!--
+, and having developed the [Diversity in HPC web site](http://www.hpc-diversity.ac.uk/) with a range of people profiles to celebrate diversity in our community. 
+-->
  
 Under ARCHER2, we will continue with our commitment to enhancing diversity through a series of activities in areas such as: diversity within the ARCHER2 service; encouraging diversity through outreach; celebrating diversity; and Women in HPC.
  

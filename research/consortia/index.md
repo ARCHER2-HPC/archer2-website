@@ -29,7 +29,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
         <td>e01</td>
       </tr>
       <tr>
-        <td><a href="https://www.ucl.ac.uk/klmc/mcc/">Materials Chemistry Consortium (MCC)</a></td>
+        <td><a href="https://mcc.hec.ac.uk/">Materials Chemistry Consortium (MCC)</a></td>
         <td>Prof. Scott Woodley (UCL)</td>
         <td>William Lucas</td>
         <td>e05</td>
