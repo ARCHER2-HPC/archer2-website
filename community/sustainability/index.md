@@ -96,7 +96,7 @@ on how we report and estimate ARCHER2 emissions.
 
 UK National Grid based Scope 2 emissions are calculated using the compute node energy use for particular
 jobs along with the carbon intensity of the South Scotland region of the UK National Grid at the start
-time of the job. The carbon intensity is retrieved from the [carbonintensity.org.uk](carbonintensity.org.uk)
+time of the job. The carbon intensity is retrieved from the [carbonintensity.org.uk](https://carbonintensity.org.uk/)
 web API.
 
 If the energy use of a job is not available (which happens occasionally due to, e.g. counter failures) then
