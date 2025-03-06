@@ -49,7 +49,7 @@ The draft flexible funding call can be found at [draft Flexible Funding Call (pd
 * 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
 * 1130 Governance in EOSC : Juan Bicarregui (STFC) [Slides (pdf) ](NFCS_Bicarregui.pdf)
 * 1200 Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)  
-* 1230 Token based authorisation : Jens Jensen (UKRI-STFC)
+* 1230 Token based authorisation : Jens Jensen (UKRI-STFC) [Slides (pdf) ](NFCS_Hays.pdf)
 * 1300 LUNCH
 * 1400 Facilitating Proposals with mentimeter 
 * 1500 Afternoon Tea / Coffee served with Cookies and Cake 
