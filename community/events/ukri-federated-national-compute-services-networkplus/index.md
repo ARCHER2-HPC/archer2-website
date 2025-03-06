@@ -26,15 +26,15 @@ The draft flexible funding call can be found at [draft Flexible Funding Call (pd
 <b>Day 1: Wednesday 5th March </b>
 * 0900 Arrival Tea/Coffee served with Cookies and Pastries
 * 1000 Welcome – aims and goals of the project: Sophie Janacek UKRI 
-* 1015 Overview and pillars of the project: Governance, Community, Technology:  Jon Hays (QMUL)
-* 1100 UK SKA Regional Centre: Enabling radio astronomy in the exabyte era: Louise Chisholm (UCL) 
+* 1015 Overview and pillars of the project: Governance, Community, Technology:  Jon Hays (QMUL)[Slides (pdf) ](NFCS_Hays.pdf)
+* 1100 UK SKA Regional Centre: Enabling radio astronomy in the exabyte era: Louise Chisholm (UCL) [Slides (pdf) ](NFCS_Chisholm.pdf)
 * 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
 * 1200 AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) [Slides (pdf) ](NFCS_Calleja.pdf)
-* 1230 SATRE - A UK Specification for Trusted Research Environments: Chris Cole (University of Dundee)
+* 1230 SATRE - A UK Specification for Trusted Research Environments: Chris Cole (University of Dundee)[Slides (pdf) ](NFCS_Cole.pdf)
 * 1300 LUNCH
-* 1400 FirecREST: a common interface for HPC and AI workflows: Elia Palme (CSCS)
-* 1430 FRIDGE: Federated Research Infrastructure by Data Governance Extension: Martin O’Reilly (Turing Institute) 
-* 1500 UK’s National Edge AI Hub: Raj Ranjan (Newcastle University)
+* 1400 FirecREST: a common interface for HPC and AI workflows: Elia Palme (CSCS)[Slides (pdf) ](NFCS_Palme.pdf)
+* 1430 FRIDGE: Federated Research Infrastructure by Data Governance Extension: Martin O’Reilly (Turing Institute)[Slides (pdf) ](NFCS_Oreilly.pdf) 
+* 1500 UK’s National Edge AI Hub: Raj Ranjan (Newcastle University)[Slides (pdf) ](NFCS_Ranjan.pdf)
 * 1530 Afternoon Tea / Coffee served with Cookies and Cake  
 * 1600 Plenary Discussion: How can we maximise success of the flexible funding call 
 * 1700 Day Wrap Up: Space available for further collaborations 
