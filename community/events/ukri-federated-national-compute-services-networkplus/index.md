@@ -47,7 +47,7 @@ The draft flexible funding call can be found at [draft Flexible Funding Call (pd
 * 1000 Working with UK Industry & Public Sector: Adam Sanderson (Hartree Centre)
 * 1030 Extreme Scale Computing Competence profiles: Education and Training RTP pathways: Evguenia Alexandrova (Hartree Centre)
 * 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1130 Governance in EOSC : Juan Bicarregui (STFC) 
+* 1130 Governance in EOSC : Juan Bicarregui (STFC) [Slides (pdf) ](NFCS_Bicarregui.pdf)
 * 1200 Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)  
 * 1230 Token based authorisation : Jens Jensen (UKRI-STFC)
 * 1300 LUNCH
