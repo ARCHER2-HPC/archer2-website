@@ -29,7 +29,7 @@ The draft flexible funding call can be found at [draft Flexible Funding Call (pd
 * 1015 Overview and pillars of the project: Governance, Community, Technology:  Jon Hays (QMUL)
 * 1100 UK SKA Regional Centre: Enabling radio astronomy in the exabyte era: Louise Chisholm (UCL) 
 * 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1200 AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) Slides [Slides (pdf) ](NFCS_Calleja.pdf)
+* 1200 AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) [Slides (pdf) ](NFCS_Calleja.pdf)
 * 1230 SATRE - A UK Specification for Trusted Research Environments: Chris Cole (University of Dundee)
 * 1300 LUNCH
 * 1400 FirecREST: a common interface for HPC and AI workflows: Elia Palme (CSCS)
