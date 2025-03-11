@@ -7,7 +7,7 @@ start_date: 2025-03-13 09:00:00
 end_date: 2025-03-14 17:00:00
 trainers: Mark Bull, Luca Parisi, Michael Bareford (all EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250313-gpu-directives
 location: Room 4.20 Charteris Land, Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/edinburgh-charteris-land
