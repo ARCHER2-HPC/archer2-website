@@ -9,7 +9,9 @@ categories: [news]
 
 - [Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT]({{ page.url }}#Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT)
 - [Exhibits and Engagement Activities for the ARCHER2 Celebration of Science 2025]({{ page.url }}#exhibits-and-engagement-activities-for-the-archer2-celebration-of-science-2025)
-- [ARCHER2 Celebration of Science 2025 - Poster Abstract Submission Due by Friday 21 March ]({{ page.url }}#archer2-celebration-of-science-2025) - Poster Abstract Submission Due by Friday 21 March 
+- [ARCHER2 Celebration of Science 2025 - Poster Abstract Submission Due by Friday 21 March ]({{ page.url }}#archer2-celebration-of-science-2025) - Poster Abstract Submission Due by Friday 21 March
+- [Invitation to Data Interoperability Workshop]({{ page.url }}#Invitation to Data Interoperability Workshop)
+- [SSI Research Software Maintenance Fund]({{ page.url }}#SSI Research Software Maintenance Fund)
 - [Exploring Dataflow Architectures for Improved Efficiency in Earth System Models]({{ page.url }}#exploring-dataflow-architectures-for-improved-efficiency-in-earth-system-models), CONTINENTS project webinar, Thursday 13 March 16:00 GMT
 - [The Science behind the Image Competition - 2]({{ page.url }}#the-science-behind-the-image-competition---2), webinar, Wednesday 19th March 15:00 - 16:00 GMT
 - [Software Carpentry]({{ page.url }}#software-carpentry), Online, 17 - 21 March 2025 09:30 - 13:00 GMT
@@ -48,7 +50,18 @@ Posters should demonstrate your work on ARCHER2, showcasing the science outcomes
 
 [Full details and registration forms](https://www.archer2.ac.uk/community/events/celebration-of-science-2025/) 
 	
+## Invitation to Data Interoperability Workshop
+Hoping this finds you well. As one of the outcomes of the work done by the Data Working Group, we would like to invite you to the Data Interoperability Workshop that will be held on the 26th of March in Unique Venues Birmingham (The Birmingham Rep, B1 2SN), from 10:00  to 16:00. The workshop is being held in order to identify key opportunities and highlight priorities for UKRI action in promoting and building an interoperable research data infrastructure environment. We value the input of our diverse communities and believe that your experience will be a valuable addition to this project.
+If you are interested in attending, [sign up](https://engagementhub.ukri.org/ukri-infrastructure/data-interoperability-workshop/)
+ 
+We would love to have you. Please feel free to share this information with anyone you think might be interested in the event.
+ 
+Best regards,
+The DRI Team
 
+## SSI Research Software Maintenance Fund
+The SSI is excited to formally announce a new funding initiative: the Research Software Maintenance Fund (RSMF) https://www.software.ac.uk/research-software-maintenance-fund . The fund provides £4.8 million to support existing research software, improve maintenance practices, and reduce technical debt—ensuring that essential tools remain accessible to the research community. 
+ 
 ## Exploring Dataflow Architectures for Improved Efficiency in Earth System Models
 
 CONTINENTS project webinar
