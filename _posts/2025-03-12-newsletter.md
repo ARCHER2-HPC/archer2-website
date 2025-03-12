@@ -56,7 +56,6 @@ CONTINENTS project webinar
 The International Collaboration Towards Net Zero Computational Modelling and Simulation (CONTINENTS), is starting a webinar series that will run monthly. The first instance will be on Thursday, the 13th of March at 16:00 GMT, and will be delivered by Justs Zarins (EPCC), with the title: "Exploring Dataflow Architectures for Improved Efficiency in Earth System Models", the abstract is available below. No registration needed, please feel free to re-share.
 
 ### Abstract: 
-
 Earth system models are crucial for simulating environmental processes but demand significant computational resources and energy. In this presentation we will explore the potential of dataflow architectures to enhance both computational and energy efficiency of ESMs. We will primarily discuss the Cerebras Wafer Scale Engine, examining its capabilities and evaluating its suitability for the shallow water equation.
 
 [Event link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjY5MWU3MjEtM2JmZi00ODQ0LWE3Y2YtZDYzNWYxMmIxMmY0%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%224eadb54a-a580-48a9-bb33-e85b9b62c7d1%22%7d)
