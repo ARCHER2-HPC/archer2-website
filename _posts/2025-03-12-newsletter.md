@@ -14,7 +14,7 @@ categories: [news]
 - [The Science behind the Image Competition - 2]({{ page.url }}#the-science-behind-the-image-competition---2), webinar, Wednesday 19th March 15:00 - 16:00 GMT
 - [Software Carpentry]({{ page.url }}#software-carpentry), Online, 17 - 21 March 2025 09:30 - 13:00 GMT
 - [Introduction to Modern Fortran]({{ page.url }}#introduction-to-modern-fortran), Imperial College London, 24 - 25 March 2025 09:30 - 16:30 GMT
-- [AMD MI300 Series Hackathon]({{ page.url }}### AMD MI300 Series Hackathon : Deadline 31 March 2025), Edinburgh, 27 - 29 May 2025 10:00 - 16:00 GMT
+- [AMD MI300 Series Hackathon]({{ page.url }}### AMD MI300 Series Hackathon : Registration deadline 31 March 2025), Edinburgh, 27 - 29 May 2025 10:00 - 16:00 GMT
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
@@ -100,7 +100,7 @@ The course requires a Fortran compiler, for which a local machine or laptop may 
 
 [Full details and registration]( https://www.archer2.ac.uk/training/#upcoming-training)
 
-## AMD MI300 Series Hackathon : Deadline 31 March 2025
+## AMD MI300 Series Hackathon : Registration deadline 31 March 2025
 
 Edinburgh, 27 - 29 May 2025 10:00 - 16:00 BST
 
