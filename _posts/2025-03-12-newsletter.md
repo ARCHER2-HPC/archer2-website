@@ -9,13 +9,12 @@ categories: [news]
 
 - [Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT]({{ page.url }}#Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT)
 - [Exhibits and Engagement Activities for the ARCHER2 Celebration of Science 2025]({{ page.url }}#exhibits-and-engagement-activities-for-the-archer2-celebration-of-science-2025)
-- [ARCHER2 Celebration of Science 2025]({{ page.url }}#archer2-celebration-of-science-2025) - Registration, and Call for Posters, now open
-- [Exploring Dataflow Architectures for Improved Efficiency in Earth System Models]({{ page.url }}#exploring-dataflow-architectures-for-improved-efficiency-in-earth-system-models), CONTINENTS project webinar, Thursday, the 13th of March at 16:00 GMT
+- [ARCHER2 Celebration of Science 2025 - Poster Abstract Submission Due by Friday 21 March ]({{ page.url }}#archer2-celebration-of-science-2025) - Poster Abstract Submission Due by Friday 21 March 
+- [Exploring Dataflow Architectures for Improved Efficiency in Earth System Models]({{ page.url }}#exploring-dataflow-architectures-for-improved-efficiency-in-earth-system-models), CONTINENTS project webinar, Thursday 13 March 16:00 GMT
 - [The Science behind the Image Competition - 2]({{ page.url }}#the-science-behind-the-image-competition---2), webinar, Wednesday 19th March 15:00 - 16:00 GMT
-- [GPU programming using directives]({{ page.url }}#gpu-programming-using-directives), Edinburgh, 13 - 14 March 2025 09:00 - 17:00 GMT - Registration closes tomorrow, Thursday 6th March 16:00 GMT
 - [Software Carpentry]({{ page.url }}#software-carpentry), Online, 17 - 21 March 2025 09:30 - 13:00 GMT
-- [GPU programming with HIP]({{ page.url }}#gpu-programming-with-hip), Online, 24 - 26 March 2025 10:00 - 16:00 GMT
 - [Introduction to Modern Fortran]({{ page.url }}#introduction-to-modern-fortran), Imperial College London, 24 - 25 March 2025 09:30 - 16:30 GMT
+- [AMD MI300 Series Hackathon]({{ page.url }}### AMD MI300 Series Hackathon : Deadline 31 March 2025), Edinburgh, 27 - 29 May 2025 10:00 - 16:00 GMT
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
@@ -37,7 +36,7 @@ We are looking for exhibits and/or activities to participate in the ARCHER2 Cele
 If you are interested in showcasing your activities at the event please email [events@archer2.ac.uk](mailto:events@archer2.ac.uk) to discuss.
 
 	
-## ARCHER2 Celebration of Science 2025
+## ARCHER2 Celebration of Science 2025 - Poster Abstract Submission Due by Friday 21 March 
 
 Following the success of ARCHER2 Celebration of Science 2024, we are pleased to announce that [ARCHER2 Celebration of Science 2025](https://www.archer2.ac.uk/community/events/celebration-of-science-2025/) will take place on the 14th - 15th May 2025 in Edinburgh at South Hall, The University of Edinburgh. 
 The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from ARCHER2 researchers and other invited presenters involved in the ARCHER2 service, a poster session and a panel session.
@@ -45,7 +44,7 @@ The event will provide ARCHER2 users with the opportunity to showcase their scie
 The event is in-person and there is no registration fee.
 
 We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2025.
-Posters should demonstrate your work on ARCHER2, showcasing the science outcomes and impact achieved.
+Posters should demonstrate your work on ARCHER2, showcasing the science outcomes and impact achieved. Please complete the Poster Abstract Submission Form and email it to events@archer2.ac.uk by Friday 21st March 2025.
 
 [Full details and registration forms](https://www.archer2.ac.uk/community/events/celebration-of-science-2025/) 
 	
@@ -69,24 +68,6 @@ In the webinar, Dr Andrew Mole (Imperial College London) and Dr Sébastien Lemai
 
 [More details and join link]( https://www.archer2.ac.uk/training/courses/250319-image-comp-2-vt/)
 
-
-## GPU programming using directives
-
-Edinburgh, 13 - 14 March 2025 09:00 - 17:00 GMT
-
-The OpenMP offload and OpenACC APIs support portable GPU programing using directives in Fortran, C and C++. This course will provide an introduction to GPU programming with directives, aimed at scientific application programmers wishing to develop their own software. The course will give a background on GPU architecture and programming API, and then focus on using OpenMP offload directives. The course will cover offloading code and data movement, as well as more advanced topics such as interoperability with HIP and performance tuning. We will also cover the similarities and differences between OpenMP and OpenACC.
-
-Note that although the course will use AMD GPUs for practical exercises, it is also appropriate for those wishing to use NVIDIA or Intel GPUs.
-
-### Pre-requisite Programming Languages:
-
-Attendees must be able to program in Fortran, C or C++ (course examples and exercises will limit themselves to Fortran and C). A familiarity with threaded programming models (especially OpenMP for CPUs) would be useful, but no previous knowledge of GPU programming is required.
-
-Registration closes tomorrow, Thursday 6th March 16:00 GMT
-
-[Full details and registration]( https://www.archer2.ac.uk/training/#upcoming-training)
-
-
 ## Software Carpentry
 
 Online, 17 - 21 March 2025 09:30 - 13:00 GMT
@@ -98,22 +79,6 @@ Software Carpentry aims to help researchers get their work done in less time and
 -  The Unix Shell
 
 [Full details and registration]( https://www.archer2.ac.uk/training/#upcoming-training)
-
-
-## GPU programming with HIP
-
-Online, 24 - 26 March 2025 10:00 - 16:00 GMT
-
-This three-day course will provide an introduction to GPU computing with HIP aimed at scientific application programmers wishing to develop their own software. The course will give a background on the difference between CPU and GPU architectures as a prelude to introductory exercises in HIP programming. The course will discuss the execution of kernels, memory management, among other topics.
-
-The course will not discuss programming with compiler directives, but does provide a concrete basis of understanding of the underlying principles of the HIP model which is useful for programmers ultimately wishing to make use of OpenMP or OpenACC. The course will not consider graphics programming, nor will it consider machine learning packages.
-
-Note that the course is also appropriate for those wishing to use NVIDIA GPUs via the CUDA API, although we will not specifically use CUDA.
-
-Attendees must be able to program in C or C++. A familiarity with threaded programming models would be useful, but no previous knowledge of GPU programming is required.
-
-[Full details and registration]( https://www.archer2.ac.uk/training/#upcoming-training)
-
 
 ## Introduction to Modern Fortran
 
@@ -136,6 +101,17 @@ The course requires a Fortran compiler, for which a local machine or laptop may 
 
 [Full details and registration]( https://www.archer2.ac.uk/training/#upcoming-training)
 
+## AMD MI300 Series Hackathon : Deadline 31 March 2025
+
+Edinburgh, 27 - 29 May 2025 10:00 - 16:00 BST
+
+ARCHER2 and AMD are hosting a three-day in-person hackathon to explore the potential of AMD GPUs for research. The event will focus on porting and optimizing code using the latest AMD development suite. This event is ideal for both expert practitioners and less experienced users who want to convert CPU-focused codes into efficient GPU-ready applications, and enhance the performance of current GPU-based codes using AMD’s next-gen MI300x GPU cards or the new MI300A APU superchip.
+
+We're looking for teams of 2-5 members. Participants will work with AMD experts and have access to AMD resources. In-house experts from the ARCHER2 team are also on hand.
+
+Deadline for applications is on 31st March 2025.
+[Full details and registration](https://www.archer2.ac.uk/training/courses/250527-amd-hackathon/)
+Limited spaces: Applications will be reviewed as received, so early submission increases your chances.
 
 ## Recently added known issues
  
@@ -151,7 +127,6 @@ No recent issues.
 - [Message-passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/), Online, Always open - self-service  
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, Always open - self-service 
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service     <br><br>
-- [The Science behind the Image Competition - 1](https://www.archer2.ac.uk/training/courses/250305-image-comp-1-vt/), online webinar, Wednesday 5th March 15:00 - 16:00 
 - [GPU programming using directives](https://www.archer2.ac.uk/training/courses/250313-gpu-directives/), Edinburgh, 13 - 14 March 2025 09:00 - 17:00 GMT
 - [Software Carpentry](https://www.archer2.ac.uk/training/courses/250317-software-carpentry/), Online, 17 - 21 March 2025 09:30 - 13:00 GMT
 - [The Science behind the Image Competition - 2](https://www.archer2.ac.uk/training/courses/250319-image-comp-2-vt/), online webinar,  Wednesday 19th March 15:00 - 16:00 
