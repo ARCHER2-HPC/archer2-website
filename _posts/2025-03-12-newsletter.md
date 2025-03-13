@@ -9,7 +9,7 @@ categories: [news]
 
 - [Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT]({{ page.url }}#full-archer2-maintenance-wednesday-26th-march-0700---2359-gmt)
 - [Exhibits and Engagement Activities for the ARCHER2 Celebration of Science 2025]({{ page.url }}#exhibits-and-engagement-activities-for-the-archer2-celebration-of-science-2025)
-- [ARCHER2 Celebration of Science 2025 - Poster Abstract Submission Due by Friday 21 March ]({{ page.url }}#archer2-celebration-of-science-2025) - Poster Abstract Submission Due by Friday 21 March
+- [ARCHER2 Celebration of Science 2025]({{ page.url }}#archer2-celebration-of-science-2025---poster-abstract-submission-due-by-friday-21-march) - Poster Abstract Submission Due by Friday 21 March
 - [Invitation to Data Interoperability Workshop]({{ page.url }}#invitation-to-data-interoperability-workshop)
 - [SSI Research Software Maintenance Fund]({{ page.url }}#ssi-research-software-maintenance-fund)
 - [Exploring Dataflow Architectures for Improved Efficiency in Earth System Models]({{ page.url }}#exploring-dataflow-architectures-for-improved-efficiency-in-earth-system-models), CONTINENTS project webinar, Thursday 13 March 16:00 GMT
