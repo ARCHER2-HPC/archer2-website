@@ -7,16 +7,16 @@ tags: [newsletters]
 categories: [news]
 ---
 
-- [Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT]({{ page.url }}#Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT)
+- [Full ARCHER2 Maintenance: Wednesday 26th March 07:00 - 23:59 GMT]({{ page.url }}#full-archer2-maintenance-wednesday-26th-march-0700---2359-gmt)
 - [Exhibits and Engagement Activities for the ARCHER2 Celebration of Science 2025]({{ page.url }}#exhibits-and-engagement-activities-for-the-archer2-celebration-of-science-2025)
 - [ARCHER2 Celebration of Science 2025 - Poster Abstract Submission Due by Friday 21 March ]({{ page.url }}#archer2-celebration-of-science-2025) - Poster Abstract Submission Due by Friday 21 March
-- [Invitation to Data Interoperability Workshop]({{ page.url }}#Invitation to Data Interoperability Workshop)
-- [SSI Research Software Maintenance Fund]({{ page.url }}#SSI Research Software Maintenance Fund)
+- [Invitation to Data Interoperability Workshop]({{ page.url }}#invitation-to-data-interoperability-workshop)
+- [SSI Research Software Maintenance Fund]({{ page.url }}#ssi-research-software-maintenance-fund)
 - [Exploring Dataflow Architectures for Improved Efficiency in Earth System Models]({{ page.url }}#exploring-dataflow-architectures-for-improved-efficiency-in-earth-system-models), CONTINENTS project webinar, Thursday 13 March 16:00 GMT
 - [The Science behind the Image Competition - 2]({{ page.url }}#the-science-behind-the-image-competition---2), webinar, Wednesday 19th March 15:00 - 16:00 GMT
 - [Software Carpentry]({{ page.url }}#software-carpentry), Online, 17 - 21 March 2025 09:30 - 13:00 GMT
 - [Introduction to Modern Fortran]({{ page.url }}#introduction-to-modern-fortran), Imperial College London, 24 - 25 March 2025 09:30 - 16:30 GMT
-- [AMD MI300 Series Hackathon]({{ page.url }}### AMD MI300 Series Hackathon : Registration deadline 31 March 2025), Edinburgh, 27 - 29 May 2025 10:00 - 16:00 GMT
+- [AMD MI300 Series Hackathon]({{ page.url }}#amd-mi300-series-hackathon--registration-deadline-31-march-2025), Edinburgh, 27 - 29 May 2025 10:00 - 16:00 GMT
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
