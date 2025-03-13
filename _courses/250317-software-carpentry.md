@@ -24,56 +24,45 @@ Software Carpentry aims to help researchers get their work done in less time and
 - Program design (Python)
 - Version control with Git
 - The Unix Shell
-
+- Automating Tasks with Make
 
 Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
+#### Requirements:
 
-### Requirements:
-
-Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+Participants must have a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.).
+Before the workshop, participants must follow the [setup instructions](https://epcced.github.io/2025-03-17-swc-online/#setup).
 
 They are also required to abide by the [ARCHER2  Code of Conduct](../../../about/policies/code-of-conduct.html). 
 
 
 #### Timetable:
 
-To follow
-
+[Course timetable](https://epcced.github.io/2025-03-17-swc-online/#schedule)
 
 
 <section id="service">
 
- <!--
 
 <h2><a name="materials">Course materials</a></h2>
 
 
 
-    <div class="row ">	
-
+<div class="row ">	
+   <div class="col-xs-6 col-sm-4">
+    <a class="ar2_linkbox ar2_linkbox-green" 
+       href="https://epcced.github.io/2025-03-17-swc-online/">
+       <strong>Course materials</strong>
+    </a>
+   </div>
+   <div class="col-xs-6 col-sm-4">
+    <a class="ar2_linkbox ar2_linkbox-teal" 
+       href="https://pad.archer2.ac.uk/p/250317-software-carpentry">
+       <strong>Course Chat</strong>       
+    </a>
+   </div>
+</div>
 		
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://epcced.github.io/xxxxx/  ">
-          <strong>Course materials</strong>         
-        </a>
-      </div>
-
-
- 
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/250317-software-carpentry">
-          <strong>Course Chat</strong>       
-        </a>
-      </div>
-		
-
- 	</div>
-		
-		
--->				
 
 
 <!-- 		

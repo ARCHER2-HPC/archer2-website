@@ -15,6 +15,7 @@ banner: web_banners_05.jpg
 * [Durham University](durham)
 * [Edinburgh Napier University](napier-merchiston)
 * [University of Edinburgh, Charteris Land](edinburgh-charteris-land)
+* [University of Edinburgh, James Clerk Maxwell Building](edinburgh-jcmb)
 * [University of Edinburgh, Paterson's Land](edinburgh-patersons-land)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
 * [Heriot-Watt The National Robotarium](hw-robotarium)
