@@ -18,15 +18,21 @@ banner: web_banners_07.jpg
 
 ## Previous events
 
+- [UKRI Federated National Compute Services NetworkPlus London](ukri-federated-national-compute-services-networkplus)
+ 
 - [ARCHER2 Celebration of Science  7th - 8th March 2024  Edinburgh](celebration-of-science-2024)
-
+  
 <!--
+
+###  UKRI  Federated National Compute Services NetworkPlus 5th - 6th March 2025  London
+<p>
+<a href="ukri-federated-national-compute-services-networkplus"> UKRI Federated National Compute Services NetworkPlus</a>
+</p>
 
 ###  ARCHER2 Celebration of Science  7th - 8th March 2024  Edinburgh
 <p>
 <a href="celebration-of-science-2024"><img src="celebration-of-science-2024/img/240307-celebration-of-science.jpg"  alt="Celebration of Science" style="width: 80%"></a>
 </p>
-
 
 -->
 
