@@ -18,45 +18,28 @@ This will be followed by breakout sessions focusing on the three pillars for NFC
 <b>Day 2: Networking and Community Building </b>
 The second day is focused on building networks and community, in the context of the three pillars and exploring ideas for projects that might attract funding to support the goals of the NetworkPlus. As well as sharing ideas, this will also provide the opportunity to meet with potential future collaborators.
 
-Registration for the event is now closed. 
-We may consider late registrations for remote attendance and if you would like to be considered please email info@epcc.ed.ac.uk stating that you would like to be considered for remote attendance at the NFCS.  
-
 The draft flexible funding call can be found at [draft Flexible Funding Call (pdf) ](Flexible Funding Call DRAFT copy.pdf)
 
+Links to the slides are below.  
+
 <b>Day 1: Wednesday 5th March </b>
-* 0900 Arrival Tea/Coffee served with Cookies and Pastries
-* 1000 Welcome – aims and goals of the project: Sophie Janacek UKRI 
-* 1015 Overview and pillars of the project: Governance, Community, Technology:  Jon Hays (QMUL) [Slides (pdf) ](NFCS_Hays.pdf)
-* 1100 UK SKA Regional Centre: Enabling radio astronomy in the exabyte era: Louise Chisholm (UCL) [Slides (pdf) ](NFCS_Chisholm.pdf)
-* 1130 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1200 AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) [Slides (pdf) ](NFCS_Calleja.pdf)
-* 1230 SATRE - A UK Specification for Trusted Research Environments: Chris Cole (University of Dundee) [Slides (pdf) ](NFCS_Cole.pdf)
-* 1300 LUNCH
-* 1400 FirecREST: a common interface for HPC and AI workflows: Elia Palme (CSCS)[Slides (pdf) ](NFCS_Palme.pdf)
-* 1430 FRIDGE: Federated Research Infrastructure by Data Governance Extension: Martin O’Reilly (Turing Institute) [Slides (pdf) ](NFCS_Oreilly.pdf) 
-* 1500 UK’s National Edge AI Hub: Raj Ranjan (Newcastle University) [Slides (pdf) ](NFCS_Ranjan.pdf)
-* 1530 Afternoon Tea / Coffee served with Cookies and Cake  
-* 1600 Plenary Discussion: How can we maximise success of the flexible funding call [Slides (pdf) ](NFCS_Menti.pdf)
-* 1700 Day Wrap Up: Space available for further collaborations 
-* 1900 Evening Networking: Drinks and Bowl food served in Members Room 
-* 2100 Close
-
-  <b>Day 2: Thursday 6th March </b>
-* 0830 Arrival Tea / Coffee served with Cookies and Pastries 
-* 0930 Summary of Day 1 : Jo Beech-Brandt (EPCC)
-* 1000 Working with UK Industry & Public Sector: Adam Sanderson (Hartree Centre)
-* 1030 Extreme Scale Computing Competence profiles: Education and Training RTP pathways: Evguenia Alexandrova (Hartree Centre)
-* 1100 Mid-morning Tea / Coffee served with Cookies and Cake 
-* 1130 Governance in EOSC : Juan Bicarregui (STFC) [Slides (pdf) ](NFCS_Bicarregui.pdf)
-* 1200 Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)  
-* 1230 Token based authorisation : Jens Jensen (UKRI-STFC) [Slides (pdf) ](NFCS_Hays.pdf)
-* 1300 LUNCH
-* 1400 Facilitating Proposals with mentimeter 
-* 1500 Afternoon Tea / Coffee served with Cookies and Cake 
-* 1530 Pillar Surgeries with lead team  
-* Space available for continued networking 
-* 1700 CLOSE 
-
+* Welcome – aims and goals of the project: Sophie Janacek UKRI 
+* Overview and pillars of the project: Governance, Community, Technology:  Jon Hays (QMUL) [Slides (pdf) ](NFCS_Hays.pdf)
+* UK SKA Regional Centre: Enabling radio astronomy in the exabyte era: Louise Chisholm (UCL) [Slides (pdf) ](NFCS_Chisholm.pdf)
+* AIRRFED -  DSIT /UKRI AI Research Resource Federation Demonstrator Project: Paul Calleja (University of Cambridge) [Slides (pdf) ](NFCS_Calleja.pdf)
+* SATRE - A UK Specification for Trusted Research Environments: Chris Cole (University of Dundee) [Slides (pdf) ](NFCS_Cole.pdf)
+* FirecREST: a common interface for HPC and AI workflows: Elia Palme (CSCS)[Slides (pdf) ](NFCS_Palme.pdf)
+* FRIDGE: Federated Research Infrastructure by Data Governance Extension: Martin O’Reilly (Turing Institute) [Slides (pdf) ](NFCS_Oreilly.pdf) 
+* UK’s National Edge AI Hub: Raj Ranjan (Newcastle University) [Slides (pdf) ](NFCS_Ranjan.pdf)  
+* Plenary Discussion: How can we maximise success of the flexible funding call [Slides (pdf) ](NFCS_Menti.pdf)
+  
+  <b>Day 2: Thursday 6th March </b> 
+* Summary of Day 1 : Jo Beech-Brandt (EPCC)
+* Working with UK Industry & Public Sector: Adam Sanderson (Hartree Centre)
+* Extreme Scale Computing Competence profiles: Education and Training RTP pathways: Evguenia Alexandrova (Hartree Centre) [Slides (pdf) ](NFCS_Alexandrova.pdf) 
+* Governance in EOSC : Juan Bicarregui (STFC) [Slides (pdf) ](NFCS_Bicarregui.pdf)
+* Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)[Slides (pdf) ](NFCS_Kershaw.pdf) 
+* Token based authorisation : Jens Jensen (UKRI-STFC) [Slides (pdf) ](NFCS_Hays.pdf)
 
 Please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
 
