@@ -11,11 +11,6 @@ banner: web_banners_07.jpg
 </p>
 
 
-###  UKRI  Federated National Compute Services NetworkPlus 5th - 6th March 2025  London
-<p>
-<a href="ukri-federated-national-compute-services-networkplus"> UKRI Federated National Compute Services NetworkPlus</a>
-</p>
-
 ## Previous events
 
 - [UKRI Federated National Compute Services NetworkPlus London](ukri-federated-national-compute-services-networkplus)
