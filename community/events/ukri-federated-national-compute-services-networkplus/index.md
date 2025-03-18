@@ -39,7 +39,7 @@ Links to the slides are below.
 * Extreme Scale Computing Competence profiles: Education and Training RTP pathways: Evguenia Alexandrova (Hartree Centre) [Slides (pdf) ](NFCS_Alexandrova.pdf) 
 * Governance in EOSC : Juan Bicarregui (STFC) [Slides (pdf) ](NFCS_Bicarregui.pdf)
 * Earth System Grid Federation : Phil Kershaw (Centre for Environmental Data Analysis, RAL Space, STFC)[Slides (pdf) ](NFCS_Kershaw.pdf) 
-* Token based authorisation : Jens Jensen (UKRI-STFC) [Slides (pdf) ](NFCS_Hays.pdf)
+* Token based authorisation : Jens Jensen (UKRI-STFC) [Slides (pdf) ](NFCS_Jensen.pdf)
 
 Please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
 
