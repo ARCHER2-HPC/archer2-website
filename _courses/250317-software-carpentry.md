@@ -13,7 +13,7 @@ location: Online
 location_url: 
 audience: [  developer ]
 level: [ introductory ]
-video: false
+video: true
 ---
 
 
