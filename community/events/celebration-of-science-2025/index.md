@@ -61,7 +61,7 @@ Note: there is a [“Green software use on HPC”](https://www.archer2.ac.uk/tra
 
 We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2025. 
 
-**Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by Friday 21st March 2025.**
+**Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by Friday 28th March 2025.**
 
  
 
@@ -72,7 +72,7 @@ Posters should demonstrate your work on ARCHER2, showcasing the science outcomes
 
 ###    Submission Process and Key Dates 
 
--    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Friday 21st March 2025**.  
+-    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) extended to **Friday 28th March 2025**.  
 -    All submissions received will be reviewed and the abstracts for the accepted posters will be published on the ARCHER2 website.  
 -    Notifications of acceptance will be sent out by **Monday 7th April 2025**.  
 -    An electronic version of your poster (PDF file) should be submitted to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Tuesday 13th May 2025**.  
