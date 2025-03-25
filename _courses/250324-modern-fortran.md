@@ -7,7 +7,7 @@ start_date: 2025-03-24 09:30:00
 end_date: 2025-03-25 16:30:00
 trainers: Kevin Stratford EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250324-modern-fortran
 location: Imperial College London
 location_url: https://www.archer2.ac.uk/training/locations/imperial
@@ -101,7 +101,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -110,9 +110,8 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=XXXX" 
-  or
-		   href="https://events.prace-ri.eu/event/NNNN/surveys/NNN"
+		   href="https://www.archer2.ac.uk/training/feedback/?course=250324-modern-fortran"
+
 
 		>
           <strong>Feedback</strong><br/>
@@ -121,7 +120,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
