@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
+video: true
 ecse:
 ---
 
@@ -75,18 +75,18 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 
 
-<!--
+
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/xxxxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/X4xek3SYNmg  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
 
--->
+
 
 <!--
 
