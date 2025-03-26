@@ -17,7 +17,7 @@ ecse:
 ---
 
 
-In this webinar, there will be a series of lightening talks from the creators of some of the images from the [2024 ARCHER2 Image and Video Competition](https://www.archer2.ac.uk/about/gallery/2024-image-comp/)
+In this webinar, there will be a series of lightning talks from the creators of some of the images from the [2024 ARCHER2 Image and Video Competition](https://www.archer2.ac.uk/about/gallery/2024-image-comp/)
 
 
 ## Global sea-surface waves
