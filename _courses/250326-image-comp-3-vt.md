@@ -49,7 +49,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 <section id="service">
 
-
+<!--
 
   <div class="row ">	
 
@@ -73,7 +73,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
     </div>
 
 
-
+-->
 
 
 
