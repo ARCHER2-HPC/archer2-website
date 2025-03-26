@@ -113,3 +113,7 @@ If you have any questions about the ARCHER2 Celebration of Science 2025, and/or 
 ## Posters from previous event
 
 [The posters for the previous ARCHER2 Celebration of Science in 2024 can be found here.](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/#lightning-talks)
+
+## Draft agenda and event details
+
+[Details of confirmed speakers](info)
