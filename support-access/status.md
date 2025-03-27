@@ -16,11 +16,11 @@ banner: web_banners_03.jpg
 
 ## Delayed return to service 27th March 2025
 
-As you will be aware, ARCHER2 was unavailable to users yesterday, 26th March, due to a planned maintenance session that was scheduled between 07:00 and 23:59.
+As you will be aware, ARCHER2 was unavailable to users yesterday, 26th March, due to a planned maintenance session that was scheduled between 07:00 and 23:59.  Unfortunately, the work was not been completed within that timeframe, so the maintenance had to be extended.
 
-Unfortunately, the work has not been completed within that timeframe, so the maintenance has had to be extended.
+We are pleased to report that access was restored at 14:10 today, Thursday 27th March.
 
-We do not have a current estimated time for the return to service at this moment, but we will provide further updates as we have them.
+We apologise for the extended outage and the impact caused.
 
 
 
