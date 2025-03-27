@@ -14,6 +14,17 @@ banner: web_banners_03.jpg
 - [Usage statistics](#usage-statistics)
 
 
+## Delayed return to service 27th March 2025
+
+As you will be aware, ARCHER2 was unavailable to users yesterday, 26th March, due to a planned maintenance session that was scheduled between 07:00 and 23:59.
+
+Unfortunately, the work has not been completed within that timeframe, so the maintenance has had to be extended.
+
+We do not have a current estimated time for the return to service at this moment, but we will provide further updates as we have them.
+
+
+
+
 ## Current System Load - CPU
 
 The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
