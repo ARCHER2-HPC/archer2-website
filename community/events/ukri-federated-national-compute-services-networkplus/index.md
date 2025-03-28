@@ -18,9 +18,8 @@ This will be followed by breakout sessions focusing on the three pillars for NFC
 <b>Day 2: Networking and Community Building </b>
 The second day is focused on building networks and community, in the context of the three pillars and exploring ideas for projects that might attract funding to support the goals of the NetworkPlus. As well as sharing ideas, this will also provide the opportunity to meet with potential future collaborators.
 
-The flexible funding call can be found at [Flexible Funding Call ](NFCS NetworkPlus Flexible Fund ApplicationForm Spring 2025 FINAL.docx) </b>
-Guidance for  call can be found at [Guidanace for Flexible Funding Call ](NFCS Flexible Funding Call Guidance FINAL.docx)</b>
-
+The Flexible funding call document: [Flexible Funding Call ](NFCS_NetworkPlus_FlexibleFundAppForm_Spring2025Final.docx)
+Guidanace for the call: [Guidanace ](NFCS_FlexibleFundCall_GuidanaceFINAL.docx) 
 
 Links to the slides are below.  
 
