@@ -7,14 +7,14 @@ start_date: 2025-04-01 10:00:00
 end_date: 2025-04-01 15:30:00
 trainers: Andy Turner (EPCC)
 course_type: course
-registration_status: full
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250401-green-computing
 location: Online
 location_url:
 prace_course: 
 audience: [ researcher, data-scientist, developer ]
 level: [ introductory ]
-video: false
+video: true
 ---
 
 
@@ -75,16 +75,16 @@ See [schedule on the course website](https://epcced.github.io/2025-04-01_GreenHP
 					
 
 
-<!-- 		
-<h2><a name="videos">Videos</a></h2>
+		
+<h2><a name="videos">Video</a></h2>
 
-<h3>Session 1</h3>
+
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/pYKw2Q3tuoo " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+
 
 
 
