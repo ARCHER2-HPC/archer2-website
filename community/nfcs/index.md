@@ -12,22 +12,29 @@ The project lead team are: Jon Hays (Queen Mary University London), Sadaf Alum (
 
 ## Flexible Funding Call 
 
-The Flexible funding call document: [Flexible Funding Call ](NFCS_FF_Application.docx)
+We invite applications for the flexible funding call. The Flexible Funding call is designed to support projects that:
+(a) collect relevant evidence and documentation to contribute to the development of the federation roadmaps; 
+(b) contribute to building the community around NFCS. 
+
+The flexible nature of the call will enable the selection of projects on various scales that span the three pillars of the NetworkPlus: Community, Technology, and Governance. The selection of projects will seek to achieve a balance across these pillars and between large and small projects. The Flexible Funding call is the principal mechanism through which the community can contribute to developing the insights needed for the roadmaps, and the project selection will look to ensure that a range of communities of different sizes and maturities with respect to large-scale computing and data services are engaged.  
+
+Applicants are strongly recommended to engage with the NetworkPlus lead team, as early as possible, prior to final submission for feedback to ensure good alignment with the scope of the call. We will endeavour to respond to all enquiries made before <b> 22nd April. </b>
+
+Further details are available within the full Flexible Funding Call document: [Flexible Funding Call ](NFCS_FF_Application.docx)
 
 Guidance for the call: [Guidance ](NFCS_FF_Guidance.docx) 
 
 Draft collaboration agreement: [Collaboration Agreement ](NFCS_FF_CollaborationAgreement.pdf) 
 
 
-Please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
+If you would like to be kept informed of the work of the NFCS Network+, please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
 
 
 ## Launch Event : London 5th and 6th March 2025
 
 The launch event for the UKRI NetworkPlus on National Federated Compute Services (NFCS+) was a two-day event and took place on 5th and 6th March 2025. 
-- [UKRI Federated National Compute Services NetworkPlus London](https://www.archer2.ac.uk/community/events/ukri-federated-national-compute-services-networkplus/) 5 – 6th March 2025
 
-Slides and videos from the event can be accessed 
+Slides and videos from the event can be accessed at the event page: [UKRI Federated National Compute Services NetworkPlus London](https://www.archer2.ac.uk/community/events/ukri-federated-national-compute-services-networkplus/) 5 – 6th March 2025
 
 
 
