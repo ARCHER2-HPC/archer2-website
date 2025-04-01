@@ -36,7 +36,7 @@ Participants will work with AMD experts and have access to AMD resources. In-hou
  - Opportunities to share ideas, develop good practices, and test new software and hardware.
 
 ### Application Information:
-**Deadline: 31st March AoE.**
+**Deadline extended to: 7th April AoE.**
 
 Limited spaces: Applications will be reviewed as received, so early submission increases your chances.
 
