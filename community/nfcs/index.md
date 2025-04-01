@@ -1,6 +1,6 @@
 ---
 layout: section
-title: UKRI National Federated Compute Services NetworkPlus
+title: UKRI National Federated Compute Services Network+
 banner: web_banners_07.jpg
 ---
 
@@ -12,21 +12,22 @@ The project lead team are: Jon Hays (Queen Mary University London), Sadaf Alum (
 
 ## Flexible Funding Call 
 
-The Flexible funding call document: [Flexible Funding Call ](NFCS_NetworkPlus_FlexibleFundAppForm_Spring2025FINAL.docx)
-Guidance for the call: [Guidance ](NFCS_FlexibleFundCall_GuidanceFINAL.docx) 
-Draft collaboration agreement : [Collaboration Agreement ](NFCS_Collaboration_Agreement.docx) 
+The Flexible funding call document: [Flexible Funding Call ](NFCS_FF_Application.docx)
 
+Guidance for the call: [Guidance ](NFCS_FF_Guidance.docx) 
 
+Draft collaboration agreement: [Collaboration Agreement ](NFCS_FF_CollaborationAgreement.docx) 
 
 
 Please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
 
 
- 
-Previous events
+## Launch Event : London 5th and 6th March 2025
 
 The launch event for the UKRI NetworkPlus on National Federated Compute Services (NFCS+) was a two-day event and took place on 5th and 6th March 2025. 
 - [UKRI Federated National Compute Services NetworkPlus London](https://www.archer2.ac.uk/community/events/ukri-federated-national-compute-services-networkplus/) 5 – 6th March 2025
+
+Slides and videos from the event can be accessed 
 
 
 
