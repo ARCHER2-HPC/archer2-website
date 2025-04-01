@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 23 - 24 April 2025 09:30 - 16:00  
 start_date: 2025-04-23 09:30:00
 end_date: 2025-04-23 16:00:00
-trainers: tbc EPCC
+trainers: Tutors tbc EPCC
 course_type: course
 registration_status: open
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250423-modern-c
