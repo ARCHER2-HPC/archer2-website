@@ -22,9 +22,9 @@ Applicants are strongly recommended to engage with the NetworkPlus lead team, as
 
 Further details are available within the full Flexible Funding Call document: [Flexible Funding Call ](NFCS_FF_Application.docx)
 
-Guidance for the call: [Guidance ](NFCS_FF_Guidance.docx) 
+[Guidance ](NFCS_FF_Guidance.docx) document for the call. 
 
-Draft collaboration agreement: [Collaboration Agreement ](NFCS_FF_CollaborationAgreement.pdf) 
+To ensure prompt delivery of funds, please spend time reviewing the Draft collaboration agreement and share with the relevant team at your institution: [Draft Collaboration Agreement ](NFCS_FF_CollaborationAgreement.pdf) 
 
 
 If you would like to be kept informed of the work of the NFCS Network+, please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
