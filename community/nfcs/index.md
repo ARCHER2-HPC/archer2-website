@@ -16,7 +16,7 @@ The Flexible funding call document: [Flexible Funding Call ](NFCS_FF_Application
 
 Guidance for the call: [Guidance ](NFCS_FF_Guidance.docx) 
 
-Draft collaboration agreement: [Collaboration Agreement ](NFCS_FF_CollaborationAgreement.docx) 
+Draft collaboration agreement: [Collaboration Agreement ](NFCS_FF_CollaborationAgreement.pdf) 
 
 
 Please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
