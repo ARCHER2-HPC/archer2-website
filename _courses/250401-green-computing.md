@@ -90,7 +90,7 @@ See [schedule on the course website](https://epcced.github.io/2025-04-01_GreenHP
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -108,7 +108,7 @@ See [schedule on the course website](https://epcced.github.io/2025-04-01_GreenHP
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
