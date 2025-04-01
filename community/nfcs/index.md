@@ -4,7 +4,7 @@ title: UKRI National Federated Compute Services Network+
 banner: web_banners_07.jpg
 ---
 <p>
-<b> Note </b> The National Federated Compute Services Network+ involves staff from the ARCHER2 team but it is not an ARCHER2 project. ARCHER2 have agreed to host the webpages while we develop the project's website.</p>
+<b> Note: </b> <I>The National Federated Compute Services Network+ involves staff from the ARCHER2 team but it is not an ARCHER2 project. ARCHER2 have agreed to host the webpages while we develop the project's website.</I></p>
 
 The National Federated Compute Services Network+ aims to build collaboration and knowledge exchange for federating across the stakeholder communities that use and provide computational services. A key objective is to produce a roadmap for the future of federated compute services in the UK.
 
