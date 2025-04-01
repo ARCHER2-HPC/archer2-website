@@ -20,7 +20,7 @@ We invite applications for the flexible funding call. The Flexible Funding call 
 
 The flexible nature of the call will enable the selection of projects on various scales that span the three pillars of the NetworkPlus: Community, Technology, and Governance. The selection of projects will seek to achieve a balance across these pillars and between large and small projects. The Flexible Funding call is the principal mechanism through which the community can contribute to developing the insights needed for the roadmaps, and the project selection will look to ensure that a range of communities of different sizes and maturities with respect to large-scale computing and data services are engaged.  
 
-# Flexible Funding Call Process
+### Flexible Funding Call Process
 
 Applicants are strongly recommended to engage with the NetworkPlus lead team, as early as possible, prior to final submission for feedback to ensure good alignment with the scope of the call. We will endeavour to respond to all enquiries made before <b> 22nd April. </b>
 
@@ -30,12 +30,12 @@ Further details are available within the full Flexible Funding Call document: [F
 
 To ensure prompt delivery of funds, please spend time reviewing the Draft collaboration agreement and share with the relevant team at your institution: [Draft Collaboration Agreement ](NFCS_FF_CollaborationAgreement.pdf) 
 
-# Register for Mailing List
+### Register for Mailing List
 
 If you would like to be kept informed of the work of the NFCS Network+, please register for the [National Federated Compute Services Network+ mailing list]( https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE)
 
 
-## Launch Event : London 5th and 6th March 2025
+### Launch Event : London 5th and 6th March 2025
 
 The launch event for the UKRI NetworkPlus on National Federated Compute Services (NFCS+) was a two-day event and took place on 5th and 6th March 2025. 
 
