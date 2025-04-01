@@ -39,7 +39,7 @@ If you would like to be kept informed of the work of the NFCS Network+, please r
 
 The launch event for the UKRI NetworkPlus on National Federated Compute Services (NFCS+) was a two-day event and took place on 5th and 6th March 2025. 
 
-Slides and videos from the event can be accessed at the event page: [UKRI Federated National Compute Services NetworkPlus London](https://www.archer2.ac.uk/community/events/ukri-federated-national-compute-services-networkplus/) 5 – 6th March 2025
+Slides and videos from the event can be accessed at the event page: [UKRI Federated National Compute Services NetworkPlus London](https://www.archer2.ac.uk/community/events/ukri-federated-national-compute-services-networkplus/)
 
 
 
