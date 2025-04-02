@@ -142,7 +142,7 @@ ARCHER2 and AMD are hosting a three-day in-person hackathon to explore the poten
 
 We're looking for teams of 2-5 members. Participants will work with AMD experts and have access to AMD resources. In-house experts from the ARCHER2 team are also on hand.
 
-Deadline for applications is on 31st March 2025.
+Deadline for applications is extended to 7th April 2025.
 [Full details and registration](https://www.archer2.ac.uk/training/courses/250527-amd-hackathon/)
 Limited spaces: Applications will be reviewed as received, so early submission increases your chances.
 
