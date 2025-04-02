@@ -10,7 +10,7 @@ The National Federated Compute Services Network+ aims to build collaboration and
 
 An important component of the NetworkPlus is the distribution of funding to support the building of community and contributing to the development of the roadmap. Approximately £2m of total funding is available for short term projects built around the three pillars of the NetworkPlus: Governance, Technology, and Community.
 
-The project lead team are: Jon Hays (Queen Mary University London), Sadaf Alum (University of Bristol), Josephine Beech-Brandt (EPCC, University of Edinburgh), Adrian Hines (JASMIN, STFC) and Aassil Alexandrov (Hartree, STFC). 
+The project lead team are: Jon Hays (PI, Queen Mary University London), Sadaf Alum (University of Bristol), Josephine Beech-Brandt (EPCC, University of Edinburgh), Adrian Hines (JASMIN, STFC) and Aassil Alexandrov (Hartree, STFC). The team is supported by John Masih (Project Manager), Rui Apóstolo (Community Enagement), David Meredith (Industry Engagement) and will be joined by a project administrator and a technical coordinator.  
 
 ## Flexible Funding Call 
 
