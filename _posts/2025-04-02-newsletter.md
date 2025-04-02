@@ -71,7 +71,7 @@ We are looking for exhibits and/or activities to participate in the ARCHER2 Cele
 If you are interested in showcasing your activities at the event please email [events@archer2.ac.uk](mailto:events@archer2.ac.uk) to discuss.
 
 	
-## ARCHER2 Celebration of Science 2025 - Poster Abstract Submission extended Friday 28 March 
+## ARCHER2 Celebration of Science 2025
 
 Following the success of ARCHER2 Celebration of Science 2024, we are pleased to announce that [ARCHER2 Celebration of Science 2025](https://www.archer2.ac.uk/community/events/celebration-of-science-2025/) will take place on the 14th - 15th May 2025 in Edinburgh at South Hall, The University of Edinburgh. 
 The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from ARCHER2 researchers and other invited presenters involved in the ARCHER2 service, a poster session and a panel session.
@@ -160,8 +160,6 @@ No recent issues.
 - [Message-passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/), Online, Always open - self-service  
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, Always open - self-service 
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service     <br><br>
-- [The Science behind the Image Competition](https://www.archer2.ac.uk/training/courses/250326-image-comp-3-vt/) - 3, online webinar, Wednesday 26th March **14:00 - 15:00** 
-- [Green software use on HPC](https://www.archer2.ac.uk/training/courses/250401-green-computing/), Online, 1 April 2025 10:00 - 15:30 BST
 - [From 0 to ARCHER2 in 65k lines of Rust](https://www.archer2.ac.uk/training/courses/250409-rust-vt/), webinar, Wednesday 9th April 2025 15:00 - 16:00 BST
 - [GPU programming using directives](https://www.archer2.ac.uk/training/courses/250422-gpu-directives/), online, 22, 24, 28 and 30 April 2025 10:00 - 12:00 BST
 - [High Performance Algorithms for the Computation of the Hardy Function - Dissemination & Development](https://www.archer2.ac.uk/training/courses/250423-ecse11-07-vt/), webinar, Wednesday 23rd April 15:00 - 16:00
