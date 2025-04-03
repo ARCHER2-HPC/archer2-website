@@ -55,7 +55,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://github.com/EPCCed/archer2-GPU-directives/  ">
+          href=" https://github.com/EPCCed/archer2-GPU-directives/tree/2025-04-22  ">
           <strong>Course materials</strong>         
         </a>
       </div>
