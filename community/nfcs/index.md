@@ -22,13 +22,13 @@ The flexible nature of the call will enable the selection of projects on various
 
 ### Flexible Funding Call Process
 
-Applicants are strongly recommended to engage with the NetworkPlus lead team, as early as possible, prior to final submission for feedback to ensure good alignment with the scope of the call. We will endeavour to respond to all enquiries made before <b> 22nd April. </b>
+Applicants are strongly recommended to engage with the NetworkPlus lead team, as early as possible, prior to final submission for feedback to ensure good alignment with the scope of the call. We will endeavour to respond to all enquiries made before <b> 22nd April.</b>
 
-Further details are available within the full Flexible Funding Call document: [Flexible Funding Call ](NFCS_FF_Application.docx)
+Further details are available within the full Flexible Funding Call document: [Flexible Funding Call](NFCS_FF_Application.docx)
 
-[Guidance ](NFCS_FF_Guidance.docx) document for the call. 
+[Guidance](NFCS_FF_Guidance.docx) document for the call.
 
-To ensure prompt delivery of funds, please spend time reviewing the Draft collaboration agreement and share with the relevant team at your institution: [Draft Collaboration Agreement ](NFCS_FF_CollaborationAgreement.pdf) 
+To ensure prompt delivery of funds, please spend time reviewing the Draft collaboration agreement and share with the relevant team at your institution: [Draft Collaboration Agreement ](NFCS_FF_CollaborationAgreement.pdf)
 
 ### Register for Mailing List
 
@@ -39,7 +39,4 @@ If you would like to be kept informed of the work of the NFCS Network+, please r
 
 The launch event for the UKRI NetworkPlus on National Federated Compute Services (NFCS+) was a two-day event and took place on 5th and 6th March 2025. 
 
-Slides and videos from the event can be accessed at the event page: [UKRI Federated National Compute Services NetworkPlus London](https://www.archer2.ac.uk/community/events/ukri-federated-national-compute-services-networkplus/)
-
-
-
+Slides and videos from the event can be accessed at the event page: [UKRI Federated National Compute Services NetworkPlus London](../events/ukri-federated-national-compute-services-networkplus/)
