@@ -111,7 +111,7 @@ banner: web_banners_07.jpg
 | 33 | Harry J Dunn, Newcastle University | [DNS/ iLES Vortex Dynamics for Vertical-Axis Wind Turbines](#33) |
 | 34 | Guglielmo Vivarelli, Imperial College London Aeronautics | [Turbomachinery applications of the Spectral-h/p element solver Nektar++](#34) |
 | 35 | Maurice Jamieson, EPCC, The University of Edinburgh | [ExaHyPE-DSL: Empowering black hole simulations on ARCHER2 through leveraging DSLs](#35) |
-| 36 | Nick Brown, EPCC, The University of Edinburgh | [Computational Abilities Knowledge Exchange (CAKE): Knowledge exchange for the DRI programme](#36) |
+| 36 | Eleanor Broadway, EPCC, The University of Edinburgh | [Computational Abilities Knowledge Exchange (CAKE): Knowledge exchange for the DRI programme](#36) |
 | 37 | Julien Maes, Heriot-Watt University | [CFD Simulations in Ultra-Large Micro-CT Images of Porous Materials Using OpenFOAM on ARCHER2](#37) |
 | 38 | Lorna Smith, EPCC, The University of Edinburgh | [EPCC Outreach](#38) |
 
