@@ -206,14 +206,14 @@ Attendance by non-academics at online courses is free, but we would normally req
 
 If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
 
-Software Carpentry	 
+ 
 
 
 ## ARCHER2 year five planned courses
 
- |  November 2024 - January 2025 | February 2025 - April 2025 |
+ | February 2025 - April 2025 | May 2025 - July 2025 |  August 2025 - October 2025 |
  | ---  |
- |  Reproducible research using containers	<br> How to write GPU code using directives  <br> | GPU programming with HIP	<br> Advanced OpenMP <br> Modern C++ for Computational Scientists	<br>  Reproducible research using containers <br> Introduction to Modern Fortran	<br> How to write GPU code using directives	<br> Intermediate Modern Fortran <br> Modern C++ for Computational Scientists  |
+ | GPU programming with HIP	<br> Advanced OpenMP <br> Modern C++ for Computational Scientists	<br>  Reproducible research using containers <br> Introduction to Modern Fortran	<br> How to write GPU code using directives	<br> Intermediate Modern Fortran <br> Modern C++ for Computational Scientists  |  Green software use on HPC 	<br> AMD Hackathon 	<br>  Software Carpentry 	<br>   Modern C++ for Computational Scientists 	<br>  Introduction to Data Science and Machine Learning 	<br>  Advanced MPI 	<br>  GPU Programming with HIP  |  Introduction to LAMMPS 	<br>  Data Carpentry 	<br>  HPC Carpentry 	<br>  Data Analysis and Visualisation in Python 	<br>  Intermediate Research Software Development 	<br>  GPU Programming using directives 	<br>  Efficient Parallel IO 	<br>  Single Node Performance Optimisation |
 
 
 
