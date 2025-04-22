@@ -7,14 +7,14 @@ start_date: 2025-04-22 10:00:00
 end_date: 2025-04-30 12:00:00
 trainers: David Henty, William Lucas, Michael Bareford, Mark Bull, Luca Parisi
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250422-gpu-directives
 location: Online
 location_url:
 prace_course: 
 audience: [  developer ]
 level: [  intermediate ]
-video: false
+video: true
 ---
 
 The OpenMP offload and OpenACC APIs support portable GPU programing using directives in Fortran, C and C++. This course will provide an introduction to GPU programming with directives, aimed at scientific application programmers wishing to develop their own software. The course will give a background on GPU architecture and programming API, and then focus on using OpenMP offload directives. The course will cover offloading code and data movement, as well as more advanced topics such as interoperability with HIP and performance tuning. We will also cover the similarities and differences between OpenMP and OpenACC.
@@ -75,11 +75,30 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
 					
 
-
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ENL-Hx23F0U " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!-- 
+
+<h3>Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 3</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 4</h3>
 
 <div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -91,7 +110,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -109,7 +128,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
