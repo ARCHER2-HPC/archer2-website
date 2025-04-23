@@ -7,7 +7,7 @@ start_date: 2025-05-27 10:00:00
 end_date: 2025-05-29 16:00:00
 trainers: AMD
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://forms.office.com/e/EKjqbwt9da 
 location: Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/edinburgh-jcmb
