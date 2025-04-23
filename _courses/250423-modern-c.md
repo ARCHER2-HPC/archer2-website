@@ -93,7 +93,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/adrianjhpc/archer2-cpp ">
+          href="https://epcced.github.io/archer2-cpp/ ">
           <strong>Course materials</strong> 
         </a>
       </div>
