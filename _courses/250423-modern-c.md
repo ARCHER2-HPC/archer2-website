@@ -7,7 +7,7 @@ start_date: 2025-04-23 09:30:00
 end_date: 2025-04-23 16:00:00
 trainers: Nathan Mannall, Luca Parisi, EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250423-modern-c
 location: Durham
 location_url: https://www.archer2.ac.uk/training/locations/durham
@@ -149,7 +149,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 -->
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -169,7 +169,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 	
--->
+
 
 </section>
 
