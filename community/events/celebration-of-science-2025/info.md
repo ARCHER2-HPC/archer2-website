@@ -18,28 +18,43 @@ banner: web_banners_07.jpg
 - 09:30 - 10:00 Day 1 Register and Welcome Coffee
 - 10:00 - 10:10 Welcome from EPCC
 - 10:10 - 11:25 Talk Session 1
+    - 10:10 - 10:35 Prof. Andrew Morris (University of Birmingham) 
+    - 10:35 - 11:00 Dr Eric Breard (University of Edinburgh) 
+    - 11:00 - 11:25 Prof. Phil Biggin (University of Oxford) 
 - 11:25 - 11:45 Coffee Break
 - 11:45 - 12:45 [Lightning Talk Session 1](#lightning-talk-session-1) (Poster 1 - 20, 3 mins each)
 - 12:45 - 13:45 Lunch
 - 13:45 - 14:45 Women in HPC Session
 - 14:45 - 14:55 Mini break
 - 14:55 - 16:10 Talk Session 2
+    - 14:55 - 15:20 Prof. Garth Wells (University of Cambridge) 
+    - 15:20 - 15:45 Dr Andrew Orr (British Antarctic Survey) 
+    - 15:45 - 16:10 Dr Bo Liu (STFC) 
 - 16:10 - 16:30 Coffee Break
 - 16:30 - 17:30 [Lightning Talk Session 2](#lightning-talk-session-2) (Poster 21 - 38, 3 mins each)
 - 17:30 - 19:30 Poster Session / Drink Reception
-- 19:30 Day 1 Finish
+- 20:00 Day 1 Finish
 
 ### Day 2: Thursday 15th May 2025
 
-- 9:00 Day 2 Start
+- 08:30 - 9:00 Day 2 Arrival Coffee
 - 09:00 - 09:50 User Group Session
 - 09:50 - 10:00 Mini Break
 - 10:00 - 11:15 Talk Session 3
+    - 10:00 - 10:15 Dr Chris Richardson (University of Cambridge) 
+    - 10:15 - 10:30 Dr Abouzied Nasar (University of Manchester) 
+    - 10:30 - 10:45 Dr Chris Cantwell (Imperial College London) 
+    - 10:45 - 11:00 Dr Chris Maynard (Met Office) 
+    - 11:00 - 11:15 Dr Phil Hasnip (University of York) 
 - 11:15 - 11:30 Coffee Break
 - 11:30 - 12:00 Prof. Mark Parsons (EPCC, The University of Edinburgh) - Keynote
 - 12:00 - 13:00 Panel Session
 - 13:00 - 14:00 Lunch
 - 14:00 - 15:40 Talk Session 4
+    - 14:00 - 14:25 Kaitao Tang (University of Oxford) 
+    - 14:25 - 14:50 Katherine Turner (British Antarctic Survey)
+    - 14:50 - 15:15 Annabel Basford (Imperial College London) 
+    - 15:15 - 15:40 Dr Derek Groen (Brunel University of London) 
 - 15:40 - 15:50 Poster winner announcement & ARCHER2 Celebration of Science 2025 wrap-up
 - 15:50 Day 2 Finish
 
@@ -47,24 +62,24 @@ banner: web_banners_07.jpg
 
 | Speaker | Title  |
 | --- | --- |
-| Dr Abouzied Nasar (University of Manchester)	| SWIFT: Optimising GPU acceleration of Smoothed Particle Hydrodynamics with task-based parallelism  | 
 | Prof. Andrew Morris (University of Birmingham)	| WAM! Fishing for the energy landscape of framework materials without a topological net  | 
+| Dr Eric Breard (University of Edinburgh)	| Modelling Volcanic Hazards with Supercomputers  | 
+| Prof. Phil Biggin (University of Oxford)	| TBC, talk from HECBioSim  | 
+| Prof. Garth Wells (University of Cambridge)	| UKRI Living Benchmarks  | 
 | Dr Andrew Orr (British Antarctic Survey)	| Improving snowfall prediction in mountain regions by running a regional atmospheric model at kilometre grid-scales over the Himalayas and Alps  | 
-| Annabel Basford (Imperial College London)	| Streamlining the automated discovery of supramolecular cage assemblies  | 
 | Dr Bo Liu (STFC)	| Leveraging Large-Scale CFD to Improve Nuclear Reactor Safety and Support the Development of Engineering Modelling Tools.  | 
+| Dr Chris Richardson (University of Cambridge)	| FEniCSx Finite Element Methods on HPC  | 
+| Dr Abouzied Nasar (University of Manchester)	| SWIFT: Optimising GPU acceleration of Smoothed Particle Hydrodynamics with task-based parallelism  |
 | Dr Chris Cantwell (Imperial College London)	| TBC, talk on Nektar++  | 
 | Dr Chris Maynard (Met Office)	| Building Momentum: Developing a weather and climate modelling system for the Met Office and partners.  | 
-| Dr Chris Richardson (University of Cambridge)	| FEniCSx Finite Element Methods on HPC  | 
-| Dr Derek Groen (Brunel University of London)	| Migration modelling using HPC for UNHCR: challenges in doing it timely and robustly  | 
-| Dr Eric Breard (University of Edinburgh)	| Modelling Volcanic Hazards with Supercomputers  | 
-| Prof. Garth Wells (University of Cambridge)	| UKRI Living Benchmarks  | 
+| Dr Phil Hasnip (University of York)	| TBC, talk on CASTEP  | 
 | Kaitao Tang (University of Oxford)	| Direct Numerical Simulations of Droplet Bag Breakup  | 
 | Katherine Turner (British Antarctic Survey)	| TBC  | 
-| Prof. Phil Biggin (University of Oxford)	| TBC, talk from HECBioSim  | 
-| Dr Phil Hasnip (University of York)	| TBC, talk on CASTEP  | 
+| Annabel Basford (Imperial College London)	| Streamlining the automated discovery of supramolecular cage assemblies  | 
+| Dr Derek Groen (Brunel University of London)	| Migration modelling using HPC for UNHCR: challenges in doing it timely and robustly  | 
 
 
-
+ 
 
 ## Lightning Talk Session 1 
 
@@ -72,7 +87,7 @@ banner: web_banners_07.jpg
 | 1  | Chi Cheng (Cecilia) Hong, University of Edinburgh | [Insight into the Correlated Disorder of Fumarate-Based MIL-53 Frameworks: A Computational Study of Free-Energy Landscapes](#1) |
 | 2 | Holly Lavery, Queen’s University Belfast  | [Computational Pump-Probe Spectroscopy for XFEL Experiments](#2) |
 | 3 |Nathan Mannall, EPCC, University of Edinburgh  | [ngprMax + MPI: Large-scale open-source computational electrodynamics](#3) | 
-| 4 | Ryan Kerr, United Kingdom Atomic Energy Authority  | [Modelling the long-range diffusion of chromium through W-Cr alloys using temperature accelerated dynamics](#4)  |
+| 4 | - | -  |
 | 5 | Jacques Xing, Imperial College London | [Porting Nektar++ for Heterogeneous Computing](#5) |
 | 6 | Matthias Frey, University of St Andrews  | [Performance comparison between two-sided MPI, MPI-3 RMA and OpenSHMEM for a particle cluster algorithm](#6)  |
 | 7 | Bo Liu, UKRI-STFC Scientific Computing  | [Implementing a multiphase flow modelling capability in the high-fidelity software CHAPSim2](#7)  |
@@ -109,7 +124,7 @@ banner: web_banners_07.jpg
 | 31 | Torsten Auerswald, NCAS Reading | [High resolution climate simulations on Archer2](#31) |
 | 32 | M. Arif Sajjad, University of St Andrews | [Mapping the Trajectory for C−H Activation in Solid-State σ-Alkane Complexes](#32) |
 | 33 | Harry J Dunn, Newcastle University | [DNS/ iLES Vortex Dynamics for Vertical-Axis Wind Turbines](#33) |
-| 34 | Guglielmo Vivarelli, Imperial College London Aeronautics | [Turbomachinery applications of the Spectral-h/p element solver Nektar++](#34) |
+| 34 | Junjie Ye, Imperial College London Aeronautics | [Turbomachinery applications of the Spectral-h/p element solver Nektar++](#34) |
 | 35 | Maurice Jamieson, EPCC, The University of Edinburgh | [ExaHyPE-DSL: Empowering black hole simulations on ARCHER2 through leveraging DSLs](#35) |
 | 36 | Eleanor Broadway, EPCC, The University of Edinburgh | [Computational Abilities Knowledge Exchange (CAKE): Knowledge exchange for the DRI programme](#36) |
 | 37 | Julien Maes, Heriot-Watt University | [CFD Simulations in Ultra-Large Micro-CT Images of Porous Materials Using OpenFOAM on ARCHER2](#37) |
@@ -153,14 +168,7 @@ Before this project, simulations ran using a CPU solver parallelised using OpenM
 
 Here we present benchmarking and profiling results to demonstrate performance gains and new capabilities enabled by this work. Additional improvements focused on file formats for parallel I/O, a new suite of regression tests using the ReFrame framework, and creating visualisations of the model geometry and resultant electromagnetic field. 
 
-	
-<a name="4"></a>
-### 4 Modelling the long-range diffusion of chromium through W-Cr alloys using temperature accelerated dynamics  
-Ryan Kerr, United Kingdom Atomic Energy Authority 
 
-To address the growing demand for low-carbon energy, the United Kingdom has committed to building the world’s first nuclear power plant by 2040, the Spherical Tokamak for Energy Production (STEP). One of the challenges faced by the STEP project concerns the oxidation of the reactor’s tungsten-based first wall, which may occur during a loss of coolant accident or during remote maintenance handling. To mitigate the oxidation of tungsten, there has been a growing interest in the use of ‘SMART’ alloys in future tokamak fusion reactor designs. In particular, the ternary alloy W-11.4Cr-0.6Y has been identified as a potential candidate for fusion reactor first walls owing to its favourable oxidation resistance and self-passivating behaviour. However, the role of the alloy elements, Cr and Y, is not fully understood from both the kinetic and thermodynamic standpoints. To investigate this behaviour, we have employed temperature accelerated dynamics using the LAMMPS code and density functional theory using the VASP code to study the behaviour of the binary W-Cr alloy. We demonstrate the vacancy-mediated segregation of Cr and quantitatively assess the effect of Cr concentration on the microstructural evolution of the alloy, and the role of oxygen impurities in the degradation of oxygen resistance in these alloys. By combining these techniques, we present our current understanding of the role of Cr and Y in tungsten SMART alloys and why the proposed composition offers the greatest oxidation resistance. 
-
-This work presents atomistic simulations carried out on the ARCHER2 system, constituting novel research into the behaviour of the W-Cr system, which may apply to other binary alloys as well. It is aimed at those interested in materials modelling and materials for nuclear fusion, as well as the broader metallurgical community. 
  
 	
 <a name="5"></a>
@@ -588,7 +596,7 @@ Here, DNS/ implicit LES (iLES) were conducted for a one-, two-, and three-bladed
 	
 <a name="34"></a>
 ### 34 Turbomachinery applications of the Spectral-h/p element solver Nektar++ 
-Guglielmo Vivarelli, Imperial College London Aeronautics 
+Junjie Ye, Imperial College London Aeronautics 
 
 Nowadays high-order methods have reached a degree of
 maturity providing the industrial community with more accurate
