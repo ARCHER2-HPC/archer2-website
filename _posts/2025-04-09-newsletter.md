@@ -18,7 +18,7 @@ categories: [news]
 - [The International Collaboration Towards Net Zero Computational Modelling and Simulation (CONTINENTS) webinar]({{ page.url }}#the-international-collaboration-towards-net-zero-computational-modelling-and-simulation-continents-webinar), Tuesday the 22nd of April at 16:00
 - [GPU programming using directives]({{ page.url }}#gpu-programming-using-directives), Online, 22, 24, 28 and 30 April 2025 10:00 - 12:00 BST
 - [Modern C++ for Computational Scientists]({{ page.url }}#modern-c-for-computational-scientists), Durham, 23 - 24 April 2025 09:30 - 16:00
-- [Green software use on HPC]({{ page.url }}#green-software-use-on-HPC), Edinburgh, 13 May 2025 10:00 - 15:30 BST
+- [Green software use on HPC]({{ page.url }}#green-software-use-on-hpc), Edinburgh, 13 May 2025 10:00 - 15:30 BST
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
