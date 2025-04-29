@@ -116,4 +116,4 @@ If you have any questions about the ARCHER2 Celebration of Science 2025, and/or 
 
 ## Draft agenda and event details
 
-[Details of confirmed speakers](info)
+[Draft agenda and details of confirmed speakers](info)
