@@ -5,7 +5,7 @@ summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 --- 
 
-- [Current System Load - Full System](#current-system-load---full-system)
+- [Current System Load - CPU](#current-system-load---cpu), [GPU](#current-system-load---gpu)
 - [Service Alerts](#service-alerts)
 - [Maintenance Sessions](#maintenance-sessions)
 - [Previous Service Alerts](#previous-service-alerts)
