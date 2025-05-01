@@ -100,6 +100,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2025
 
+* [April 2025](monthly/2025/apr25_safe.pdf)
 * [March 2025](monthly/2025/mar25_safe.pdf)
 * [February 2025](monthly/2025/feb25_safe.pdf)
 * [January 2025](monthly/2025/jan25_safe.pdf)
