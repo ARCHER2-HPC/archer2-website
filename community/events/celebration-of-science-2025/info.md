@@ -89,7 +89,7 @@ banner: web_banners_07.jpg
 | 3 |Nathan Mannall, EPCC, University of Edinburgh  | [ngprMax + MPI: Large-scale open-source computational electrodynamics](#3) | 
 | 4 | - | -  |
 | 5 | Jacques Xing, Imperial College London | [Porting Nektar++ for Heterogeneous Computing](#5) |
-| 6 | Matthias Frey, University of St Andrews  | [Performance comparison between two-sided MPI, MPI-3 RMA and OpenSHMEM for a particle cluster algorithm](#6)  |
+| 6 | Steven Boeing, University of Leeds  | [Performance comparison between two-sided MPI, MPI-3 RMA and OpenSHMEM for a particle cluster algorithm](#6)  |
 | 7 | Bo Liu, UKRI-STFC Scientific Computing  | [Implementing a multiphase flow modelling capability in the high-fidelity software CHAPSim2](#7)  |
 | 8 | Yongxin Wang, Imperial College London  | [Multi-scale numerical modelling of polymer permeation in sands](#8)  |
 | 9 | Aristos Christou, Cardiff University | [Large Eddy Simulations for Fluid-Structure Interactions](#9) |
@@ -121,7 +121,7 @@ banner: web_banners_07.jpg
 | 28 | Rodolfo Freitas, Queen Mary University of London | [An a posteriori assessment of AI-designed diesel blends: Molecular dynamics simulation of pollutant formation](#28) |
 | 29 | Paul Bartholomew, EPCC, The University of Edinburgh | [A high-order accurate iterative Poisson solver for x3d2 ](#29)
 | 30 | Jaya Vignesh Madana Gopal, Loughborough University | [Implementing a conservative level set method for multiphase simulation in spectral/hp element framework Nektar++](#30) |
-| 31 | Torsten Auerswald, NCAS Reading | [High resolution climate simulations on Archer2](#31) |
+| 31 | Annette Osprey, NCAS Reading | [High resolution climate simulations on Archer2](#31) |
 | 32 | M. Arif Sajjad, University of St Andrews | [Mapping the Trajectory for C−H Activation in Solid-State σ-Alkane Complexes](#32) |
 | 33 | Harry J Dunn, Newcastle University | [DNS/ iLES Vortex Dynamics for Vertical-Axis Wind Turbines](#33) |
 | 34 | Junjie Ye, Imperial College London Aeronautics | [Turbomachinery applications of the Spectral-h/p element solver Nektar++](#34) |
@@ -203,7 +203,7 @@ host/device data consistency.
 
 <a name="6"></a>
 ### 6 Performance comparison between two-sided MPI, MPI-3 RMA and OpenSHMEM for a particle cluster algorithm 
-Matthias Frey, University of St Andrews 
+Steven Boeing, University of Leeds 
 
 We present a performance benchmark of a parcel cluster algorithm for N-body simulations that uses either MPI point-to-point, MPI-3 remote memory access (RMA) or OpenSHMEM communication for the nearest-neighbour graph splitting step. The benchmarks are performed on ARCHER2 (Slingshot 10 interconnect), Cirrus (InfiniBand interconnect) and hotlum (Slingshot 11 interconnect).
  
@@ -559,7 +559,7 @@ The poster will showcase some of the current capabilities of our multiphase leve
 	
 <a name="31"></a>
 ### 31 High resolution climate simulations on Archer2 
-Torsten Auerswald, NCAS Reading 
+Annette Osprey, NCAS Reading 
 
 The HRCM group at NCAS Reading has produced several high resolution global climate simulations using Archer2 over the last years. We will present some highlights of these simulations which include results from several UM experiments with N1280 resolution and NEMO global runs on an ORCA25 grid. Analyses shown will include e.g. tropical cyclone and mesoscale convective system statistics. We will also show performance statistics of our simulations on Archer2.
 	
