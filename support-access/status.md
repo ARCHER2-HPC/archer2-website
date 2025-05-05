@@ -13,7 +13,9 @@ banner: web_banners_03.jpg
 - [FAQ](#faq)
 - [Usage statistics](#usage-statistics)
 
+## Bank Holiday 5th May 2025
 
+The ARCHER2 Service Desk will be closed on the Bank Holiday on 5th May 2005. The service will continue to be operational but new queries will not be answered until Tuesday 6th May. 
 
 
 ## Current System Load - CPU
