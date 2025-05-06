@@ -9,6 +9,7 @@ categories: [news]
 
 
 - [User Survey - ARCHER2 Evaluation Activity]({{ page.url }}#user-survey---archer2-evaluation-activity)
+- [ARCHER2 Service Desk - holiday closure]({{ page.url }}#archer2-service-desk---holiday-closure)
 - [Spring 2025 UKRI Access to HPC Call open]({{ page.url }}#spring-2025-ukri-access-to-hpc-call-open) (deadline 22 May 2025):
 - [UKRI National Federated Compute Services Network+ Flexible Funding Call ]({{ page.url }}#ukri-national-federated-compute-services-network-flexible-funding-call)
 - [Exhibits and Engagement Activities for the ARCHER2 Celebration of Science 2025]({{ page.url }}#exhibits-and-engagement-activities-for-the-archer2-celebration-of-science-2025)
@@ -31,6 +32,12 @@ Your input to this study is fundamental to ensuring the study captures the impor
 This survey will be open for 5 weeks from the 16th April 2025 to the 21st May 2025.
 
 Please do complete the survey.
+
+## ARCHER2 Service Desk - holiday closure
+
+The ARCHER2 Service desk will be closed on Monday 5th May 2025.
+
+It will reopen as normal on Tuesday 6th May at 08:00.
 
 
 ## Spring 2025 UKRI Access to HPC Call open
