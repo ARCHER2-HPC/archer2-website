@@ -24,7 +24,7 @@ banner: web_banners_07.jpg
 - 11:25 - 11:45 Coffee Break
 - 11:45 - 12:45 [Lightning Talk Session 1](#lightning-talk-session-1) (Poster 1 - 20, 3 mins each)
 - 12:45 - 13:45 Lunch
-- 13:45 - 14:45 Women in HPC Session
+- 13:45 - 14:45 [Women in HPC Session](#women-in-hpc-whpc-session-blooming-good-ideas)
 - 14:45 - 14:55 Mini break
 - 14:55 - 16:10 Talk Session 2
     - 14:55 - 15:20 Prof. Garth Wells (University of Cambridge) 
@@ -79,6 +79,18 @@ banner: web_banners_07.jpg
 | Dr Derek Groen (Brunel University of London)	| Migration modelling using HPC for UNHCR: challenges in doing it timely and robustly  | 
 
 
+## Women in HPC (WHPC) session: Blooming Good Ideas
+ 
+Why should diversity matter to you? This session aims to show - not just tell - the value of diversity to improve our research, idea generation and teamwork.
+ 
+Working in teams, you’ll be helping us to find solutions to key challenges related to HPC service delivery, focusing on:
+
+- Making HPC services more sustainable,
+- Improving accessibility and inclusivity across HPC services,
+- Supporting early-career researchers
+- Encouraging users to share knowledge and collaborate
+
+Using the varied backgrounds, experiences, and viewpoints making up your team, get ready to bloom some great ideas together!
  
 
 ## Lightning Talk Session 1 
