@@ -49,28 +49,28 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 #### Timetable:
 
-Details to follow
+[Schedule](https://epcced.github.io/2025-05-13_GreenHPC_Edinburgh/index.html#schedule)
 
 <section id="service">
 
-<!-- 
+
 
 <h2><a name="materials">Course materials</a></h2>
- -->
+
 
 
     <div class="row ">	
 
-<!-- 		
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href=" https://epcced.github.io/2025-05-13_GreenHPC_Edinburgh/index.html  ">
           <strong>Course materials</strong>         
         </a>
       </div>
- -->
 
-<!--  
+
+
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://pad.archer2.ac.uk/p/250513-green-computing">
@@ -78,7 +78,7 @@ Details to follow
         </a>
       </div>
 		
- -->
+
  	</div>
 		
 		
