@@ -11,6 +11,7 @@ categories: [news]
 - [User Survey - ARCHER2 Evaluation Activity]({{ page.url }}#user-survey---archer2-evaluation-activity)
 - [Spring 2025 UKRI Access to HPC Call open]({{ page.url }}#spring-2025-ukri-access-to-hpc-call-open) (deadline 22 May 2025):
 - [UKRI National Federated Compute Services Network+ Flexible Funding Call ]({{ page.url }}#ukri-national-federated-compute-services-network-flexible-funding-call)
+- [ARCHER2 Capability Days: 17-19 June 2025]({{ page.url }}#archer2-capability-days-17-19-june-2025)
 - [Exhibits and Engagement Activities for the ARCHER2 Celebration of Science 2025]({{ page.url }}#exhibits-and-engagement-activities-for-the-archer2-celebration-of-science-2025)
 - [Green software use on HPC]({{ page.url }}#green-software-use-on-HPC), Edinburgh, 13 May 2025 10:00 - 15:30 BST
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
@@ -62,6 +63,25 @@ Deadline for applications for the call is noon on Friday 16 May 2025.
 If you would like to be kept informed of the work of the NFCS Network+, please register for the [National Federated Compute Services Network+ mailing list ](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NFCS-NETWORKPLUS-ANNOUNCE) 
 
 Finally, the slides (and soon videos) from the  launch event for the NFCS are now available at: [UKRI Federated National Compute Services NetworkPlus London ](https://www.archer2.ac.uk/community/events/ukri-federated-national-compute-services-networkplus/) 
+
+
+## ARCHER2 Capability Days: 17-19 June 2025
+
+The fourth ARCHER2 Capability Days session will run from 17-19 June 2025. ARCHER2 Capability Days are a mechanism to allow users to run large scale tests on the system free of charge. The motivations behind Capability Days are:
+
+- Enhancing world-leading science from ARCHER2 by enabling modelling and simulation at scales that are not otherwise possible.
+- Enabling capability use cases that are not possible on other UK HPC services.
+- Providing a facility that can be used to test scaling to help prepare software and communities for future exascale resources.
+
+Capability Days are made up of two parts:
+
+- 0800-2000 BST, 17 June 2025 - pre-Capability Days session (pre-capabilityday QoS) to allow users to test scaling and job setup ahead of full Capability Day
+    - Supports jobs 256-1024 nodes, 20 min maximum run time
+    - Jobs are uncharged
+- 2000 BST, 17 June - 1400 BST, 19 June 2025 - Capability Days session (capabilityday QoS)
+    - Supports jobs 512-4096 nodes, 1 hour maximum run time
+    - Jobs are uncharged
+
 
 
 ## Exhibits and Engagement Activities for the ARCHER2 Celebration of Science 2025
