@@ -74,7 +74,7 @@ banner: web_banners_07.jpg
 | Dr Chris Maynard (Met Office)	| Building Momentum: Developing a weather and climate modelling system for the Met Office and partners.  | 
 | Dr Phil Hasnip (University of York)	| TBC, talk on CASTEP  | 
 | Kaitao Tang (University of Oxford)	| Direct Numerical Simulations of Droplet Bag Breakup  | 
-| Katherine Turner (British Antarctic Survey)	| TBC  | 
+| Katherine Turner (British Antarctic Survey)	| Feeling under the weather:​ Untangling future ocean warming in ​West  Antarctica​ using a numerical model  | 
 | Annabel Basford (Imperial College London)	| Streamlining the automated discovery of supramolecular cage assemblies  | 
 | Dr Derek Groen (Brunel University of London)	| Migration modelling using HPC for UNHCR: challenges in doing it timely and robustly  | 
 
