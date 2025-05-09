@@ -103,7 +103,7 @@ Using the varied backgrounds, experiences, and viewpoints making up your team, g
 | 5 | Jacques Xing, Imperial College London | [Porting Nektar++ for Heterogeneous Computing](#5) |
 | 6 | Steven Boeing, University of Leeds  | [Performance comparison between two-sided MPI, MPI-3 RMA and OpenSHMEM for a particle cluster algorithm](#6)  |
 | 7 | Bo Liu, UKRI-STFC Scientific Computing  | [Implementing a multiphase flow modelling capability in the high-fidelity software CHAPSim2](#7)  |
-| 8 | Yongxin Wang, Imperial College London  | [Multi-scale numerical modelling of polymer permeation in sands](#8)  |
+| 8 | Yongxin Wang, Imperial College London  | [Using high-resolution CFD to develop new technologies for underground construction](#8)  |
 | 9 | Aristos Christou, Cardiff University | [Large Eddy Simulations for Fluid-Structure Interactions](#9) |
 | 10 | Sophie Guillemot, University of Manchester |  [Bridging Computation and Experiment: Applying Computational Methods to Experimental Insights for Improved Property Estimation of Dy-Doped Cobalt Antimonide](#10) |
 | 11 | Andre Vieira, University of Edinburgh | [HPC in Focus at The University of Edinburgh](#11) |
@@ -230,10 +230,12 @@ The solver has been systematically validated through a series of benchmark tests
 
 	
 <a name="8"></a>
-### 8 Multi-scale numerical modelling of polymer permeation in sands  
+### 8 Using high-resolution CFD to develop new technologies for underground construction
 Yongxin Wang, Imperial College London  
 
-Support fluids are widely used in many geotechnical engineering practice such as piling, tunnelling and well drilling to provide temporal support before permanent structures installed. Polymer support fluids have advantages over conventional bentonite slurries in many situations; they are cheaper and can have a lower environmental impact. However, the incomplete understanding of the flow behaviour has caused a reluctance to use polymer fluids in industry. Polymer fluids exhibit a non-Newtonian rheology. Darcy’s law can therefore not be directly applied. Observations of flow behaviour from permeability tests (with soils) do not agree with predictions based on rheometer tests. Multi-scale fundamental understanding is key to develop and assess the next generation of support fluids. To achieve this goal, we first employed a direct numerical simulation (DNS) to investigate the interaction forces in ordered granular materials. Then, A generalised Darcy’s law is formulated for non-Newtonian fluids, validated through pore network modelling (PNM), which can provide valuable insights for scaling up to the field-scale applications. To further investigate how viscoelasticity impacts the polymer conductance in sands, simulations using more advanced constitutive equations of viscoelastic fluids are conducted.
+Support fluids are used to keep excavations open for underground construction. Polymer fluids (suspensions of polymer in water) have significant advantages over more conventional bentonite suspensions. Polymer fluids are non-Newtonian fluids and so the conventional modelling tools used in geotechnical engineering cannot be employed to predict their behaviour. This has hindered their use in UK ground engineering. We have used a multi-scale modelling approach to answer key questions posed about these fluids by the construction industry.
+
+To achieve this goal, we first employed a direct numerical simulation (DNS) to investigate the fluid-particle interaction forces in ordered granular materials. Then, A generalised Darcy’s law is formulated for non-Newtonian fluids, validated through pore network modelling (PNM), which can provide valuable insights for scaling up to the field-scale applications. To further investigate how viscoelasticity impacts the polymer conductance in sands, simulations using more advanced viscoelastic constitutive equations are conducted.
 	
 <a name="9"></a>
 ### 9 Large Eddy Simulations for Fluid-Structure Interactions
