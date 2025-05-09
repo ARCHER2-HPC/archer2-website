@@ -64,7 +64,7 @@ banner: web_banners_07.jpg
 | --- | --- |
 | Prof. Andrew Morris (University of Birmingham)	| WAM! Fishing for the energy landscape of framework materials without a topological net  | 
 | Dr Eric Breard (University of Edinburgh)	| Modelling Volcanic Hazards with Supercomputers  | 
-| Prof. Phil Biggin (University of Oxford)	| TBC, talk from HECBioSim  | 
+| Prof. Phil Biggin (University of Oxford)	| Using ARCHER to study peptide transporters and antibiotic uptake  | 
 | Prof. Garth Wells (University of Cambridge)	| UKRI Living Benchmarks  | 
 | Dr Andrew Orr (British Antarctic Survey)	| Improving snowfall prediction in mountain regions by running a regional atmospheric model at kilometre grid-scales over the Himalayas and Alps  | 
 | Dr Bo Liu (STFC)	| Leveraging Large-Scale CFD to Improve Nuclear Reactor Safety and Support the Development of Engineering Modelling Tools.  | 
