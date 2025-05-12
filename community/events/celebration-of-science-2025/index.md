@@ -135,7 +135,7 @@ Using the varied backgrounds, experiences, and viewpoints making up your team, g
 | 30 | Jaya Vignesh Madana Gopal, Loughborough University | [Implementing a conservative level set method for multiphase simulation in spectral/hp element framework Nektar++](#30) |
 | 31 | Annette Osprey, NCAS Reading | [High resolution climate simulations on Archer2](#31) |
 | 32 | M. Arif Sajjad, University of St Andrews | [Mapping the Trajectory for C−H Activation in Solid-State σ-Alkane Complexes](#32) |
-| 33 | Harry J Dunn, Newcastle University | [DNS/ iLES Vortex Dynamics for Vertical-Axis Wind Turbines](#33) |
+| 33 | - | - |
 | 34 | Junjie Ye, Imperial College London Aeronautics | [Turbomachinery applications of the Spectral-h/p element solver Nektar++](#34) |
 | 35 | Maurice Jamieson, EPCC, The University of Edinburgh | [ExaHyPE-DSL: Empowering black hole simulations on ARCHER2 through leveraging DSLs](#35) |
 | 36 | Eleanor Broadway, EPCC, The University of Edinburgh | [Computational Abilities Knowledge Exchange (CAKE): Knowledge exchange for the DRI programme](#36) |
@@ -598,14 +598,6 @@ References
 
 <img src="img/poster32-image1.jpg" style="width: 60%">
 
-
-<a name="33"></a>
-### 33 DNS/ iLES Vortex Dynamics for Vertical-Axis Wind Turbines 
-Harry J Dunn, Newcastle University 
-
-Vertical-axis wind turbines (VAWT) have seen increased recent interest within offshore and urban environments, with additional scalability claims. Whilst experimental approaches have been used extensively to characterise VAWT, the typical planar measurements introduce limitations. Computational fluid dynamics (CFD) overcomes these, with explicit large eddy simulations (LES) currently representing the highest-fidelity approach. Using LES allows for good alignment with experimental results but is sensitive to the subgrid model. Additionally, LES is often coupled with the Actuator Line Method (ALM), impacting the near-wake region predictions. 
-
-Here, DNS/ implicit LES (iLES) were conducted for a one-, two-, and three-bladed Darrieus VAWT. In contrast to ALM, the complete VAWT geometry is considered. Additionally, the subgrid models within LES are not present, with Spectral Vanishing Viscosity (SVV) stabilising the under-resolved scales. Most notably, this stream of research is the first use-case of DNS/ iLES within VAWT research. The numerical method employed is the high-order spectral/hp element within the Nektar++ framework. Using these high-order methods benefits from their favourable numerical properties, such as exponential convergence, and low dissipiation and dispersion that are essential for high-fidelity simulation of separated turbulence flows. A moving reference frame (MRF) formulation of the Navier-Stokes (NS) equations robustly handles the dynamics of the turbine geometry. A homogenous extrusion is performed, with periodic boundaries at the spanwise boundaries. The Reynolds number, <i>Re</i>, is kept to <i>O</i>(10<sup>4</sup>), which has applications within extraterrestrial and small-scale VAWT. The wake is presented, with similar near-wake characteristics observed to <i>Re~O</i>(10<sup>5</sup> ). To further investigate these downstream behaviours, the vortex dynamics stemming from the turbine geometry are additionally considered. 
 
 	
 <a name="34"></a>
