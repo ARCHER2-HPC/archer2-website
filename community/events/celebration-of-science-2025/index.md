@@ -38,7 +38,7 @@ banner: web_banners_07.jpg
 ## Day 2: Thursday 15th May 2025
 
 - 08:30 - 9:00 Day 2 Arrival Coffee
-- 09:00 - 09:50 User Group Session
+- 09:00 - 09:50 User Forum
 - 09:50 - 10:00 Mini Break
 - 10:00 - 11:15 Talk Session 3
     - 10:00 - 10:15 Dr Chris Richardson (University of Cambridge) 
