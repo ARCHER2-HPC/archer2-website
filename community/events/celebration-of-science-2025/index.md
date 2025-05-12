@@ -70,9 +70,9 @@ banner: web_banners_07.jpg
 | Dr Bo Liu (STFC)	| Leveraging Large-Scale CFD to Improve Nuclear Reactor Safety and Support the Development of Engineering Modelling Tools.  | 
 | Dr Chris Richardson (University of Cambridge)	| FEniCSx Finite Element Methods on HPC  | 
 | Dr Abouzied Nasar (University of Manchester)	| SWIFT: Optimising GPU acceleration of Smoothed Particle Hydrodynamics with task-based parallelism  |
-| Dr Chris Cantwell (Imperial College London)	| TBC, talk on Nektar++  | 
+| Dr Chris Cantwell (Imperial College London)	| Nektar++: Enabling high-fidelity modelling on heterogeneous HPC platforms  | 
 | Dr Chris Maynard (Met Office)	| Building Momentum: Developing a weather and climate modelling system for the Met Office and partners.  | 
-| Dr Phil Hasnip (University of York)	| TBC, talk on CASTEP  | 
+| Dr Phil Hasnip (University of York)	| Towards exascale first-principles materials modelling with CASTEP  | 
 | Kaitao Tang (University of Oxford)	| Direct Numerical Simulations of Droplet Bag Breakup  | 
 | Katherine Turner (British Antarctic Survey)	| Feeling under the weather:​ Untangling future ocean warming in ​West  Antarctica​ using a numerical model  | 
 | Annabel Basford (Imperial College London)	| Streamlining the automated discovery of supramolecular cage assemblies  | 
