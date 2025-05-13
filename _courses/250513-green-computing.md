@@ -7,7 +7,7 @@ start_date: 2025-05-13 10:00:00
 end_date: 2025-05-13 15:30:00
 trainers: Andy Turner (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250513-green-computing
 location: G.03 Bayes Centre, Edinburgh
 location_url: https://www.archer2.ac.uk/training/locations/epcc.html
@@ -100,7 +100,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 
 
-<!-- 
+
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -118,7 +118,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
