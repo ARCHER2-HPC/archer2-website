@@ -1,8 +1,8 @@
 ---
 status: Planned
 type: Full 
-start_date: 2025-08-29 TBC
-end_date: 2025-09-15 TBC
+start_date: 2025-08-29 12:00
+end_date: 2025-09-15 12:00
 quarter: Q3 2025
 system: Full ARCHER2 System 
 impact: Users will not be able to connect to ARCHER2 and will not be able to access data on any of the ARCHER2 file systems.  The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the ARCHER2 website will be available. 
