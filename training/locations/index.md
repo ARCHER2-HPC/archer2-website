@@ -28,5 +28,6 @@ banner: web_banners_05.jpg
 * [The Open University, Milton Keynes](open-mk)
 * [Oxford University Doctoral Training Centre](oxford-dtc)
 * [Queen's University, Belfast](qub)
+* [University College London](ucl)
 * [University of Southampton](southampton)
 * [University of York](york)
