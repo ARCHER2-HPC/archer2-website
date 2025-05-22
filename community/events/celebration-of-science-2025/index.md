@@ -62,19 +62,19 @@ banner: web_banners_07.jpg
 
 | Speaker | Title  |
 | --- | --- |
-| Prof. Andrew Morris (University of Birmingham)	| WAM! Fishing for the energy landscape of framework materials without a topological net  | 
+| Prof. Andrew Morris (University of Birmingham)	| [WAM! Fishing for the energy landscape of framework materials without a topological net](slides/AndrewJMorris-MOFs.pdf "PDF of slides")  | 
 | Dr Eric Breard (University of Edinburgh)	| Modelling Volcanic Hazards with Supercomputers  | 
 | Prof. Phil Biggin (University of Oxford)	| Using ARCHER to study peptide transporters and antibiotic uptake  | 
 | Prof. Garth Wells (University of Cambridge)	| UKRI Living Benchmarks  | 
-| Dr Andrew Orr (British Antarctic Survey)	| Improving snowfall prediction in mountain regions by running a regional atmospheric model at kilometre grid-scales over the Himalayas and Alps  | 
-| Dr Bo Liu (STFC)	| Leveraging Large-Scale CFD to Improve Nuclear Reactor Safety and Support the Development of Engineering Modelling Tools.  | 
+| Dr Andrew Orr (British Antarctic Survey)	| [Improving snowfall prediction in mountain regions by running a regional atmospheric model at kilometre grid-scales over the Himalayas and Alps](slides/AndrewOrr-ARCHER2_conference_May2025.pdf "PDF of slides")  | 
+| Dr Bo Liu (STFC)	| [Leveraging Large-Scale CFD to Improve Nuclear Reactor Safety and Support the Development of Engineering Modelling Tools](slides/BoLiu-Archer2_Celebration_Science_14May2025.pdf "PDF of slides")  | 
 | Dr Chris Richardson (University of Cambridge)	| FEniCSx Finite Element Methods on HPC  | 
 | Dr Abouzied Nasar (University of Manchester)	| SWIFT: Optimising GPU acceleration of Smoothed Particle Hydrodynamics with task-based parallelism  |
-| Dr Chris Cantwell (Imperial College London)	| Nektar++: Enabling high-fidelity modelling on heterogeneous HPC platforms  | 
+| Dr Chris Cantwell (Imperial College London)	| [Nektar++: Enabling high-fidelity modelling on heterogeneous HPC platforms](slides/ChrisCantwell-archer2-cos2025.pdf "PDF of slides")  | 
 | Dr Chris Maynard (Met Office)	| Building Momentum: Developing a weather and climate modelling system for the Met Office and partners.  | 
-| Dr Phil Hasnip (University of York)	| Towards exascale first-principles materials modelling with CASTEP  | 
-| Kaitao Tang (University of Oxford)	| Direct Numerical Simulations of Droplet Bag Breakup  | 
-| Katherine Turner (British Antarctic Survey)	| Feeling under the weather:​ Untangling future ocean warming in ​West  Antarctica​ using a numerical model  | 
+| Dr Phil Hasnip (University of York)	| [Towards exascale first-principles materials modelling with CASTEP](slides/PhilHasnip-castep.pdf "PDF of slides")  | 
+| Kaitao Tang (University of Oxford)	| [Direct Numerical Simulations of Droplet Bag Breakup](slides/KaitaoTang-Celebration_of_Science_2025_final.pdf "PDF of slides")  | 
+| Katherine Turner (British Antarctic Survey)	| [Feeling under the weather:​ Untangling future ocean warming in ​West  Antarctica​ using a numerical model](slides/KatherineTurner-ARCHER2CelebrationOfScience.pdf "PDF of slides")  | 
 | Annabel Basford (Imperial College London)	| Streamlining the automated discovery of supramolecular cage assemblies  | 
 | Dr Derek Groen (Brunel University of London)	| Migration modelling using HPC for UNHCR: challenges in doing it timely and robustly  | 
 
