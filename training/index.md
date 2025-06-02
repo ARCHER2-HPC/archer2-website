@@ -98,7 +98,7 @@ Individual links to course provide more details on the content and prerequisites
 
 During November 2024 We are moving to a [new Registration process](../news/2024/11/19/training-registration.html), so registration is done within SAFE, and the account request in the correct project is now part of the approval process, done automatically by the system.
 
-Documentation for this new process can be found in our [SAFE Docs](https://epcced.github.io/safe-docs/training-registrations)
+Documentation for this new process can be found in our [SAFE Docs](https://epcced.github.io/safe-docs/training-registrations/)
 
 Please do not hesitate to contact the [Service Desk](mailto:support@archer2.ac.uk) if you have any questions or experience any issues with the new process. 
 
@@ -186,7 +186,7 @@ Recent courses will be moved to the [Past course materials](materials/) or [Webi
 
 <b>Course Levels: </b> <img src="materials/introductory.png" alt="Introductory"/> Introductory
 <img src="materials/intermediate.png" alt="Intermediate"/> Intermediate
-<img src="materials/advanced.png" alt="Advanced"/> Advanced.  See [Course Descriptions](courses) for more information.
+<img src="materials/advanced.png" alt="Advanced"/> Advanced.  See [Course Descriptions](courses/) for more information.
 
 
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.
@@ -236,9 +236,9 @@ On Successful completion of the [ARCHER2 Driving Test](driving-test.html) you wi
 ## Other Training
 
 *  [Training offered by other UK HPC centres](https://www.hpc-uk.ac.uk/training/)
-*   [EPCC MSc in High Performance Computing](http://www.epcc.ed.ac.uk/msc)
-*   [ Software Sustainability Institute - Guides](https://www.software.ac.uk/resource-hub)
-*   [Software Sustainability Institute - Top Tips](http://www.software.ac.uk/resources/top-tips)
+*   [EPCC MSc in High Performance Computing](https://www.epcc.ed.ac.uk/education-training/masters-programmes)
+*   [ Software Sustainability Institute - Training hub](https://www.software.ac.uk/training/training-hub)
+*   [Software Sustainability Institute - Resource hub](http://www.software.ac.uk/resources/resource-hub)
 
 ## Support for training on ARCHER2
 
