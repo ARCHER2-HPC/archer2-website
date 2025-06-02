@@ -31,8 +31,8 @@ Recent course runs with videos and materials available which will provide approp
 
 Two versions of the ARCHER2 Driving Test are available - they are of equal difficulty but have some different questions appropriate to each type of user.  Please attempt whichever test best matches your use.
 
-- [ARCHER2 Driving Test for Package Users](http://www.quia.com/quiz/8151816.html)
-- [ARCHER2 Driving Test for Software Developers](http://www.quia.com/quiz/8151812.html)
+- [ARCHER2 Driving Test for Package Users](https://www.quia.com/quiz/8151816.html)
+- [ARCHER2 Driving Test for Software Developers](https://www.quia.com/quiz/8151812.html)
 
 ## GPU Driving Test
 
