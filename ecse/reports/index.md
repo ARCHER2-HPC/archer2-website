@@ -49,14 +49,14 @@ Subject Areas:
 <div class="casestudy">
 
 	<div class="csimage">
-		<a href="{{ ecse.ecseid }}"><img
+		<a href="{{ ecse.ecseid }}/"><img
 			src="{{ ecse.image_src }}" alt="{{ ecse.image_alt }}" title="{{ ecse.image_alt }}" style="width: 200px;" /></a>
 	</div>
 
 	<div class="cstext">
 
 		<h3>
-			<a href="{{ ecse.ecseid }}">{{ ecse.title }}</a>
+			<a href="{{ ecse.ecseid }}/">{{ ecse.title }}</a>
 		</h3>
 
 		<b>
@@ -71,7 +71,7 @@ Subject Areas:
 		Published &colon; {{ pd }}   <br><br>	
 		<p>
           {{ ecse.summary }}		 
-			<a href="{{ ecse.ecseid }}"> Read more...</a>
+			<a href="{{ ecse.ecseid }}/"> Read more...</a>
 		</p>
 	</div>
 </div>
@@ -97,14 +97,14 @@ Subject Areas:
 <div class="casestudy">
 
 	<div class="csimage">
-		<a href="{{ ecse.ecseid }}"><img
+		<a href="{{ ecse.ecseid }}/"><img
 			src="{{ ecse.image_src }}" alt="{{ ecse.image_alt }}" title="{{ ecse.image_alt }}" style="width: 200px;" /></a>
 	</div>
 
 	<div class="cstext">
 
 		<h3>
-			<a href="{{ ecse.ecseid }}">{{ ecse.title }}</a>
+			<a href="{{ ecse.ecseid }}/">{{ ecse.title }}</a>
 		</h3>
 
 		<b>
@@ -121,7 +121,7 @@ Subject Areas:
 		<p>
           {{ ecse.summary }}
 		 
-			<a href="{{ ecse.ecseid }}"> Read more...</a>
+			<a href="{{ ecse.ecseid }}/"> Read more...</a>
 		</p>
 
 	</div>
