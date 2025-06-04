@@ -29,7 +29,7 @@ summary: ARCHER2 Embedded CSE (eCSE) support to improve software on ARCHER2.
       </div>
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="../research/case-studies">
+        <a class="ar2_linkbox ar2_linkbox-green" href="../research/case-studies/">
           <strong>Case Studies</strong><br/>
           Some eCSE projects have led to Case Studies highlighting research on ARCHER2.
         </a>
