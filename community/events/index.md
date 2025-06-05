@@ -7,15 +7,15 @@ banner: web_banners_07.jpg
 
 ###  ARCHER2 Celebration of Science  14th - 15th May 2025  Edinburgh
 <p>
-<a href="celebration-of-science-2025"><img src="celebration-of-science-2025/img/250514-celebration-of-science.jpg"  alt="Celebration of Science 2025" style="width: 80%"></a>
+<a href="celebration-of-science-2025/"><img src="celebration-of-science-2025/img/250514-celebration-of-science.jpg"  alt="Celebration of Science 2025" style="width: 80%"></a>
 </p>
 
 
 ## Previous events
 
-- [UKRI Federated National Compute Services NetworkPlus London](ukri-federated-national-compute-services-networkplus)
+- [UKRI Federated National Compute Services NetworkPlus London](ukri-federated-national-compute-services-networkplus/)
  
-- [ARCHER2 Celebration of Science  7th - 8th March 2024  Edinburgh](celebration-of-science-2024)
+- [ARCHER2 Celebration of Science  7th - 8th March 2024  Edinburgh](celebration-of-science-2024/)
   
 <!--
 
