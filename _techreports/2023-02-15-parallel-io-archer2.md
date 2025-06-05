@@ -1,6 +1,6 @@
 ---
 status: live
-pdf_link: https://zenodo.org/record/7643563
+pdf_link: https://zenodo.org/records/7643563
 image_src: ./parallelio/parallelio.jpg
 image_alt: Parallel IO on ARCHER2 disk image
 title: Parallel IO on ARCHER2

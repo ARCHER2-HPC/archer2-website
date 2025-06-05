@@ -1,6 +1,6 @@
 ---
 status: live
-pdf_link: https://zenodo.org/record/7524540
+pdf_link: https://zenodo.org/records/7524540
 image_src: ./hybridtasks/hybridtaskslogo.jpg
 image_alt: Hybrid Tasks Logo
 title: Hybrid parallel programming with tasks
