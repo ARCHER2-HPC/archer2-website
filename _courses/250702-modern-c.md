@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 2 - 3 July 2025 09:30 - 17:00  
 start_date: 2025-07-02 09:30:00
 end_date: 2025-07-03 17:00:00
-trainers: James Richings EPCC
+trainers: James Richings, Luca Parisi, EPCC
 course_type: course
 registration_status: open
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250702-modern-c
