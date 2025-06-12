@@ -154,6 +154,8 @@ Metal-organic frameworks (MOFs) are porous, crystalline materials that are highl
 
 My research focusses on unveiling the correlation between the transition metal centres of fumarate-based MIL-53 MOFs and the inherent flexibility of the framework as a result. Furthermore, a series of isoreticular MIL-53 frameworks from different synthetic pathways are being studied to understand how the linker induced correlated disorder affects the breathing mechanics of these frameworks. We gain insight on the flexibility of the frameworks by determining their free energy landscapes through first principles unbiased and biased molecular dynamics simulations. 
 
+[DOI: 10.5281/zenodo.15496881](https://doi.org/10.5281/zenodo.15496881)
+
 
 <a name="2"></a>
 ### 2 Computational Pump-Probe Spectroscopy for XFEL Experiments 	
@@ -169,6 +171,7 @@ We have found that the time delay between the pump and probe pulses manifests as
 
 Full study on pump-probe spectroscopy of inner-shell electrons requires a detailed description of the atomic structure, making these calculations computationally expensive. We therefore require the use of High-Performance Computing Facilities such as ARCHER2 for this work. 
 
+[DOI: 10.5281/zenodo.15497018](https://doi.org/10.5281/zenodo.15497018)
 	
 <a name="3"></a>
 ### 3 gprMax + MPI: Large-scale open-source computational electrodynamics 
@@ -180,7 +183,7 @@ Before this project, simulations ran using a CPU solver parallelised using OpenM
 
 Here we present benchmarking and profiling results to demonstrate performance gains and new capabilities enabled by this work. Additional improvements focused on file formats for parallel I/O, a new suite of regression tests using the ReFrame framework, and creating visualisations of the model geometry and resultant electromagnetic field. 
 
-
+[DOI: 10.5281/zenodo.15497086](https://doi.org/10.5281/zenodo.15497086)
  
 	
 <a name="5"></a>
@@ -213,12 +216,16 @@ well as the memory management model use for
 host/device data consistency.
 
 
+[DOI: 10.5281/zenodo.15497143](https://doi.org/10.5281/zenodo.15497143)
+
 <a name="6"></a>
 ### 6 Performance comparison between two-sided MPI, MPI-3 RMA and OpenSHMEM for a particle cluster algorithm 
 Steven Boeing, University of Leeds 
 
 We present a performance benchmark of a parcel cluster algorithm for N-body simulations that uses either MPI point-to-point, MPI-3 remote memory access (RMA) or OpenSHMEM communication for the nearest-neighbour graph splitting step. The benchmarks are performed on ARCHER2 (Slingshot 10 interconnect), Cirrus (InfiniBand interconnect) and hotlum (Slingshot 11 interconnect).
  
+
+[DOI: 10.5281/zenodo.15497212](https://doi.org/10.5281/zenodo.15497212)
 	
 <a name="7"></a>
 ### 7 Implementing a multiphase flow modelling capability in the high-fidelity software CHAPSim2  
@@ -228,6 +235,7 @@ This work focuses on developing multiphase flow simulation capabilities in the D
 
 The solver has been systematically validated through a series of benchmark tests. The Zalesak’s rotation problem is first used to test the interface capturing and tracking algorithm, assessing its ability in accurately predicting interface motion due to advection while preserving interface sharpness. A well-documented rising bubble test is then conducted to validate the coupling of the interface algorithm with the flow solver. The simulation results show that CHAPSim2’s prediction are in excellent agreement with the benchmarking data in terms of bubble rising speed and bubble shape deformation. In future, we plan to extend the multiphase modelling capabilities of CHAPSim2 to boiling heat transfer.
 
+[DOI: 10.5281/zenodo.15497349](https://doi.org/10.5281/zenodo.15497349)
 	
 <a name="8"></a>
 ### 8 Using high-resolution CFD to develop new technologies for underground construction
@@ -237,11 +245,16 @@ Support fluids are used to keep excavations open for underground construction. P
 
 To achieve this goal, we first employed a direct numerical simulation (DNS) to investigate the fluid-particle interaction forces in ordered granular materials. Then, A generalised Darcy’s law is formulated for non-Newtonian fluids, validated through pore network modelling (PNM), which can provide valuable insights for scaling up to the field-scale applications. To further investigate how viscoelasticity impacts the polymer conductance in sands, simulations using more advanced viscoelastic constitutive equations are conducted.
 	
+[DOI: 10.5281/zenodo.15497597](https://doi.org/10.5281/zenodo.15497597)
+
+
 <a name="9"></a>
 ### 9 Large Eddy Simulations for Fluid-Structure Interactions
 Aristos Christou, Cardiff University 
 
 Energy exploitation through offshore energy resources has experienced a significant increase in efforts to overcome the impact of climate change and global warming. Extreme weather conditions and challenging environments require further investigation into the interaction of offshore devices with realistic wave conditions to generate more cost-effective and reliable structures. In the present study, the in-house open-sourced Large Eddy Simulations (LES) numerical wave tank Hydro3D-NWT is employed to investigate the Fluid-Structure Interactions (FSI) in floating devices and explore the effect of turbulent flow on the efficiency of offshore structures. To examine the validity and efficiency of the code, various cases are examined such as the decaying motion of a floating sphere, the free fall of a triangular wedge, the rolling decaying motion of a rectangular box and the motion of a floating rectangular box interacting with monochromatic waves. In all FSI cases presented here, the wave elevations, the structures’ motion, body exerted forces and moments, as well as screenshots of the water surface and near-structure turbulent flow field are compared with corresponding experimental measurements and good agreement is observed in all cases. Additionally, it has been observed that the flow field imposed by non-linear waves and the motion of the floating structure form complex turbulent flow structures and a turbulent wake near floating devices. For this reason, the hydrodynamic properties such as the velocity, pressure and vorticity fields, as well as the exerted forces on the structures, are presented and discussed together with three-dimensional visualisations of the turbulent flow field.
+
+[DOI: 10.5281/zenodo.15497653](https://doi.org/10.5281/zenodo.15497653)
 	
 <a name="10"></a>
 ### 10 Bridging Computation and Experiment: Applying Computational Methods to Experimental Insights for Improved Property Estimation of Dy-Doped Cobalt Antimonide 
@@ -261,6 +274,8 @@ direct comparison to experimental methods. This
 combined approach refines property prediction
 and offers insight into optimising Dy-doped cobalt
 antimonide for thermoelectric applications
+
+[DOI: 10.5281/zenodo.15554765](https://doi.org/10.5281/zenodo.15554765)
 	
 <a name="11"></a>
 ### 11 HPC in Focus at The University of Edinburgh 
@@ -274,6 +289,7 @@ The events attracted a diverse audience: 46% from the College of Science and Eng
 
 By providing a comprehensive introduction to HPC resources, fostering interdisciplinary collaboration, and offering training opportunities, the HPC in Focus successfully strengthened engagement with HPC research tools and communities at the UoE. 
 
+[DOI: 10.5281/zenodo.15574905](https://doi.org/10.5281/zenodo.15574905)
 	
 <a name="12"></a>
 ### 12 Dipole-Multipole Transition in Rapidly Rotating Spherical Shell Dynamos 
@@ -288,6 +304,8 @@ We report results from around 20 numerical simulations each ran on ARCHER2 using
 
 Along all paths we find that dipolarity increases as more Earth-like conditions are reached, but by moderately increasing convective driving the multipolar/reversing regime can be reached, demonstrating that our approach is an efficient method to seek the transition in rapidly rotating simulations. 
 
+[DOI: 10.5281/zenodo.15575533](https://doi.org/10.5281/zenodo.15575533)
+
 
 <a name="13"></a>
 ### 13 Computational Study of Methane Activation at an Iridium Cyclometallated PONOP Complex in the Solid State 
@@ -299,6 +317,7 @@ This poster describes the results of periodic density functional theory investig
 
 <img src="img/poster13-image1.jpg" style="width: 60%">
 
+
 References	
 
 1. W. H. Bernskoetter, S. K. Hanson, S. K. Buzak, Z. Davis, P. S. White, R. Swartz, K. I. Goldberg and M. Brookhart, J. Am. Chem. Soc., 2009, 131, 8603–8613.
@@ -309,7 +328,7 @@ References
 
 4. M. R. Gyton, M. A. Sajjad, D. J. Storm, K. M. Altus, J. C. Goodall, C. L. Johnson, S. J. Page, A. J. Edwards, R. O. Piltz, S. B. Duckett, S. A. Macgregor and A. S. Weller, J. Am. Chem. Soc., 2025, 147, 10, 8706-8719
 
-
+[DOI: 10.5281/zenodo.15575642](https://doi.org/10.5281/zenodo.15575642)
 	
 <a name="14"></a>
 ### 14 S2X: Accelerated and Differentiable Spherical Harmonic Transforms 
@@ -348,6 +367,7 @@ scattering transforms respectively. S2AI provides
 scalable and equivariant spherical convolution
 neural networks.
 
+[DOI: 10.5281/zenodo.15575966](https://doi.org/10.5281/zenodo.15575966)
 
 <a name="15"></a>
 ### 15 Many-body theory of antimatter interactions with molecules 
@@ -360,6 +380,9 @@ EXCITON+ is built on the underlying all-electron EXCITON code (authored by Co-I 
 Here, we report on progress made on profiling and targeted optimization of EXCITON+ coding, with particular emphasis on opportunities for nested MPI/OpenMP parallelism and passive remote memory access to distribute parallelized tasks. Ongoing performance-enhancing work to introduce point group symmetry-aware calculation of molecular leptonic (positron + electrons) integrals is described. The overall aim is to ensure that EXCITON+ modules are computationally as efficient and future proof as the scientific content of the code is ground-breaking and comprehensive. 
 
 	
+[DOI: 10.5281/zenodo.15576524](https://doi.org/10.5281/zenodo.15576524)
+
+
 <a name="16"></a>
 ### 16 Enhanced parallelisation for R-matrix with time-dependence, double ionisation 
 Martin Plummer, STFC Scientific Computing 
@@ -372,12 +395,16 @@ Each region adopts separate numerical schemes requiring distinct multi-layered p
 We describe a complex additional layer of nested MPI in the new region to improve performance and match sophistication in the other regions. The project also investigates systematic choice of distribution of MPI tasks between regions to identify optimal load-balancing and performance strategies, crucial for large-scale ARCHER2 calculations. 
 
 	
+[DOI: 10.5281/zenodo.15577732](https://doi.org/10.5281/zenodo.15577732)
+
+
 <a name="17"></a>
 ### 17 Patient-Specific and Large-Scale Computational Modelling: Insights for Cardiac Digital Twins 
 Laura Bevis, Queen Mary University of London 
 
 Computational cardiac modelling and cardiac digital twins involve the creation of physiologically accurate computational models of the heart using patient- and population-specific clinical data from baseline, imaging, and diagnostic testing. By facilitating detailed investigations into complex and theoretical cardiovascular scenarios, these in silico cardiac models can provide granular insights that are difficult or high-risk to obtain using traditional clinical techniques, thereby enhancing understanding of cardiac function and the information available for clinical decision-making. We use ARCHER2 and the cardiac arrhythmia research package (CARP) to model atrial and ventricular electrophysiology, as well as aortic blood flow, to investigate underlying mechanisms and treatment of cardiac arrhythmias such as atrial fibrillation and ventricular tachycardia, and aortic stenosis. Using both large-scale population-based studies and patient-specific investigations of individual patients, we simulate different treatment strategies in silico, with the aim of developing novel treatment approaches. Further integration with techniques in machine learning allows predictions to be made on realistic timescales for clinical applications.
 
+[DOI: 10.5281/zenodo.15520768](https://doi.org/10.5281/zenodo.15520768)
 	
 <a name="18"></a>
 ### 18 High throughput electrophysiology data analysis using EP Workbench 
@@ -396,7 +423,7 @@ Finally, we are developing a new pipeline strategy for processing cardiac electr
 
 Taken together, this work demonstrates the ability of large-scale data analysis using EP Workbench and ARCHER2, unlocking previously inaccessible insights from electrophysiology data which may lead to future innovations in arrhythmia patient care.
 
-
+[DOI: 10.5281/zenodo.15577882](https://doi.org/10.5281/zenodo.15577882)
 	
 <a name="19"></a>
 ### 19 Investigating the proteolytic potential of an orphan rhomboid 
@@ -443,12 +470,15 @@ insights reveal that either RHBDL3 is inactive like
 the rhomboid pseudoproteases, or that potential
 regulatory mechanisms unlock RHBDL3 activity.
 
+[DOI: 10.5281/zenodo.15631628](https://doi.org/10.5281/zenodo.15631628)
 	
 <a name="20"></a>
 ### 20 The CANARI HadGEM3 Large Ensemble 
 Jennifer Mecking, National Oceanography Centre Southampton 
 
 As part of the UK wide CANARI project a large ensemble (40 members) has been developed using the HadGEM3 coupled climate model. The resolution of the model is 25 km in the ocean, 60 km in the atmosphere, which is higher than a typical IPCC model.  The simulations were run on ARCHER taking just over 1.5 years to run and using more than 3400 ARCHER kCUwith 30 ‘runners’ and generating over 5 Pb of data. Through collaboration with JASMIN this large volume of data is now being analysed by researchers across the UK. To kick-start the analysis we organised 2 sprints where we collaboratively started the analysis on the historical and future projection model simulations, with over 50 participants in each each sprint.
+
+[DOI: 10.5281/zenodo.15631730](https://doi.org/10.5281/zenodo.15631730)
 	
 <a name="21"></a>
 ### 21 ScalableQM-in-QM Embedding Framework in FHI-aims 
@@ -456,6 +486,9 @@ Danjo De Chavez, University of Warwick
 
 Multiscale embedding techniques provide an optimal balance of high accuracy and computational efficiency for modeling extended materials. These methods focus on highly precise calculations for a small cluster subsystem, such as a catalytically active surface site, extracted from a larger system like a metal surface, while utilizing more efficient, lower-level methods for the surrounding periodic environment. The aim of this project is to develop a novel implementation of quantum mechanics (QM) embedding to describe cluster models embedded in extended periodic environments. The envisioned QM/QM approach takes an embedding potential, which is generated in a periodic Kohn-Sham Density Functional Theory calculation, and applies this as an embedding environment in an aperiodic higher-level calculation of the system. The approach enables the application of highly accurate theory in a localised manner, which will reduce computational cost and improve scalability on ARCHER2. Implementing this approach in FHI-aims will leverage its accurate atom-centered all-electron representation, improving simulations and scaling, particularly important for metallic systems studied by ARCHER2 users. Integration with the Atomic Simulation Interface (ASI) will enhance interoperability, streamline workflows, and extend benefits beyond the current FHI-aims community. This development facilitates highly accurate predictions for surface adsorption, bond dissociation, optical excitations, and charge transfer processes, significantly advancing the modeling of surface catalysis and spectroscopy.
 	
+[DOI: 10.5281/zenodo.15631934](https://doi.org/10.5281/zenodo.15631934)
+
+
 <a name="22"></a>
 ### 22 Future-Proof Parallelism for Plane-Wave DFT in CASTEP 
 Matthew Smith, University of York 
@@ -467,11 +500,16 @@ We present our development of a domain decomposition, implemented in CASTEP (www
 We illustrate how the development performs in real-world simulations, dramatically reducing communication costs and significantly increasing the strong scaling limit. We illustrate efficient scaling on ARCHER2 to 4x as many processes as previously possible.
 
 	
+[DOI: 10.5281/zenodo.15632030](https://doi.org/10.5281/zenodo.15632030)
+
+
 <a name="23"></a>
 ### 23 Density functional perturbation theory and electron-phonon coupling in FHI-aims 
 Connor Box, University of Warwick 
 
 Density-functional perturbation theory (DFPT) extends density functional theory (DFT) to compute the response properties of the electronic density. Depending on the type of external perturbation applied, DFPT can provide insights into a wide range of material properties. These include force constant matrices, phonons, polarizabilities, dielectric properties, electron-phonon coupling, non-adiabatic matrix elements, NMR shifts, and J-couplings. The electronic structure software FHI-aims features a unique local-orbital atom-based real-space implementation of linear response, built on a coupled perturbed self-consistent field (CPSCF) approach within DFPT. This framework enables the prediction of thermal and electrical response properties in materials. Previously, the linear response implementation contained significant code duplication, complicating maintenance and development. In this project, the code was refactored to improve structure and reduce redundancy. Around ten CPSCF implementations were consolidated into a unified DFPT module, reducing code size by over 60% while enhancing functionality. Common low-level routines were merged to streamline future development, and new modules were introduced for calculating specific response properties. The refactored DFPT code is now more modular, scalable, and user-friendly for both researchers and developers. It supports calculations for polarizability, dielectric constants, IR spectra, electron-phonon coupling, electronic friction.  The previous implementation did not allow metallic systems to be studied, but our developments now make this possible. We additionally discuss recent developments to the electron-phonon coupling driver in FHI-aims, which allows phonon modes and linewidths to be evaluated amongst other properties. 
+
+[DOI: 10.5281/zenodo.15632213](https://doi.org/10.5281/zenodo.15632213)
 	
 <a name="24"></a>
 ### 24 Create impactful scientific visualisations on your laptop&#42;! (&#42; also requires access to HPC) 
@@ -484,6 +522,7 @@ Brr allows researchers to work on their scenes and visualisations locally on a l
 
 In practice, Brr is composed of a Blender addon on the client side and a Zero MQ server both implemented in python. The server is tasked with receiving configuration and data files from the client and submitting slurm (or other scheduler) jobs.
 
+[DOI: 10.5281/zenodo.15632457](https://doi.org/10.5281/zenodo.15632457)
 	
 <a name="25"></a>
 ### 25 A multi-scale numerical model for breaking waves using the Lattice Boltzmann method (LBM)
@@ -497,12 +536,15 @@ The in-house numerical model is three-dimensional and multi-scale, utilizing the
 
 By bridging the gap between different physical scales, this model offers a powerful tool for studying breaking waves and their role in air-sea interactions. Its multi-scale capability provides insights that could improve climate modeling, ocean engineering, and environmental predictions.
 
+[DOI: 10.5281/zenodo.15632506](https://doi.org/10.5281/zenodo.15632506)
 	
 <a name="26"></a>
 ### 26 Investigation of transitional shock wave boundary layer interaction (SBLI) using flux reconstruction method and positivity-preserving entropy-based filtering approach 
 Ugyen Wangchuk, Loughborough University 
 
 Scale Resolving Simulations are performed using a python-based flux reconstruction method (PyFR) to investigate a canonical problem of an oblique shock impinging upon a flat plate laminar boundary layer, which induces transition to turbulent boundary layer. Flux Reconstruction method offers high degree of element locality which allows for more efficient parallel computation. A novel positivity preserving entropy-based filter is used for shock-capturing. Unsteadiness of the separation bubble is investigated and compared between flow domain containing boundary layer imposed inlet and viscous leading edge interaction. 
+
+[DOI: 10.5281/zenodo.15632546](https://doi.org/10.5281/zenodo.15632546)
 	
 <a name="27"></a>
 ### 27 The structural dynamics and barocaloric response of organic ionic plastic crystals 
@@ -517,6 +559,9 @@ Organic ionic plastic crystals (OIPCs) exhibit multiple solid-solid phase transi
 This research compares ordered models of the disordered phase to explore its structural flexibility. Ab initio molecular dynamics simulations will assess whether the disorder is static or dynamic.  These insights will advance the understanding of OIPCs as next-generation solid-state refrigerants. Furthermore, once a reliable metric has been established to quantify said disorders, large scale parallel simulations will be conducted to generate data to train a machine learning model.
 
 	
+[DOI: 10.5281/zenodo.15632696](https://doi.org/10.5281/zenodo.15632696)
+
+
 <a name="28"></a>
 ### 28 An a posteriori assessment of AI-designed diesel blends: Molecular dynamics simulation of pollutant formation
 Rodolfo Freitas, Queen Mary University of London 
@@ -553,12 +598,16 @@ growth of nascent soot. The results show that AIdesigned fuels provide a high pe
 of harmful emissions, while keeping key
 combustion properties of conventional diesel fuels,
 allowing them to act as a drop-in.
+
+[DOI: 10.5281/zenodo.15632983](https://doi.org/10.5281/zenodo.15632983)
 	
 <a name="29"></a>
 ### 29 A high-order accurate iterative Poisson solver for x3d2 
 Paul Bartholomew, EPCC, The University of Edinburgh 
 	
 This poster presents the development of an iterative Poisson solver for the Xcompact3d framework. The development of x3d2, the next generation of the Xcompact3d solver targeting massively parallel multicore and GPU-based architectures, has included implementing distributed tridiagonal solvers. These distributed tridiagonal solvers enable a 3-D parallel decomposition of the bulk of the computation, exposing greater opportunity for parallelism than the currently used 2-D decomposition. The present FFT-based spectral Poisson solver however prevents this. In this work an iterative Poisson solver is developed for the high-order schemes employed by Xcompact3d/x3d2 and is used to demonstrate solution of the Navier-Stokes equations using a 3-D parallel decomposition for the first time in the Xcompact3d framework.
+
+[DOI: 10.5281/zenodo.15633111](https://doi.org/10.5281/zenodo.15633111)
 
 
 <a name="30"></a>
@@ -570,12 +619,16 @@ Spectral/hp element methods such as the Nektar++ available in ARCHER2 blend the 
 Through the ARCHER2 eCSE11-5 project, we have implemented a conservative level-set method that exploits the spectral discretisation advantage in Nektar++ to provide better accuracy of the interface at lower computational cost. The benchmark level set method tests of advection (rotating circle) and deformation (vortex) as well as the Zalesak's slotted disk and 3D sphere deformation with the implemented spectral/hp level-set method have all confirmed this when compared against similar level-set methods in CFD and FEM. The current phase of the project aims to couple this conservative level set method with continuum surface tension model and gravity into the incompressible Navier-stokes solver/equations to assemble an effective spectral/hp multiphase solver capable of handling fluids with a density ratio of more than 1000.
 The poster will showcase some of the current capabilities of our multiphase level-set solver implemented in Nektar++. 
 
+
+[DOI: 10.5281/zenodo.15638672](https://doi.org/10.5281/zenodo.15638672)
 	
 <a name="31"></a>
 ### 31 High resolution climate simulations on Archer2 
 Annette Osprey, NCAS Reading 
 
 The HRCM group at NCAS Reading has produced several high resolution global climate simulations using Archer2 over the last years. We will present some highlights of these simulations which include results from several UM experiments with N1280 resolution and NEMO global runs on an ORCA25 grid. Analyses shown will include e.g. tropical cyclone and mesoscale convective system statistics. We will also show performance statistics of our simulations on Archer2.
+
+[DOI: 10.5281/zenodo.15638820](https://doi.org/10.5281/zenodo.15638820)
 	
 <a name="32"></a>
 ### 32 Mapping the Trajectory for C−H Activation in Solid-State σ-Alkane Complexes 
@@ -598,7 +651,7 @@ References
 
 <img src="img/poster32-image1.jpg" style="width: 60%">
 
-
+DOI: Not available
 	
 <a name="34"></a>
 ### 34 Turbomachinery applications of the Spectral-h/p element solver Nektar++ 
@@ -637,6 +690,8 @@ pressure, the flow accelerates from a Mach number of 0.15 to
 blade trailing edge to the outflow whilst interacting with the
 boundary layer and, repeatedly, with the wake.
 
+[DOI: 10.5281/zenodo.15640577](https://doi.org/10.5281/zenodo.15640577)
+
 <a name="35"></a>
 ### 35 ExaHyPE-DSL: Empowering black hole simulations on ARCHER2 through leveraging DSLs 
 Maurice Jamieson, EPCC, The University of Edinburgh 
@@ -646,6 +701,7 @@ the UK, this code is primarily used to study gravitational waves. However, next 
 
 DSLs enable the programmer to express their intentions in a manner that is close to the problem in hand. Then, using this rich source of information the compiler is able to make informed decisions around the tricky, low level details of parallelism. In ExaHyPE-DSL we have developed a Python based DSL which, using the ExCALIBUR xDSL toolkit, generates optimal variants of the kernels and autotunes them at runtime. This work means that the scientific community will be able to use ExaHyPE to run hitherto unfeasible simulations and study novel physics; notably alternative models of gravitation.
 
+[DOI: 10.5281/zenodo.15639817](https://doi.org/10.5281/zenodo.15639817)
 	
 <a name="36"></a>
 ### 36 Computational Abilities Knowledge Exchange (CAKE): Knowledge exchange for the DRI programme 
@@ -659,6 +715,9 @@ CAKE starts the 1st of April 2025, and builds upon the successes and lessons lea
 A poster at the ARCHER2 celebration of science event will enable us to share with the ARCHER2 community plans for this network plus, to encourage and grow existing knowledge exchange activities and also make connections with new people in order to ensure that the community is aware of CAKE and encouraged to get involved. 
 
 	
+[DOI: 10.5281/zenodo.15640416](https://doi.org/10.5281/zenodo.15640416)
+
+
 <a name="37"></a>
 ### 37 CFD Simulations in Ultra-Large Micro-CT Images of Porous Materials Using OpenFOAM on ARCHER2 
 Julien Maes, Heriot-Watt University 
@@ -670,7 +729,12 @@ A key innovation is the Darcy-Brinkman-Stokes approach, which replaces complex m
 We assess both weak and strong scalability through subvolume decomposition, demonstrating that ARCHER2’s computational power, combined with our scalable methodology, allows full-resolution CFD simulations at an unprecedented scale. These results showcase the transformative potential of HPC for simulating flow in geological materials without compromising resolution, paving the way for highly detailed insights into subsurface transport processes critical to energy, hydrology, and engineering applications.
 
 	
+DOI: Not available
+
 <a name="38"></a>
 ### 38 Discover and Learn - Public Engagement at EPCC
 Lorna Smith, EPCC, The University of Edinburgh 
+
+EPCC operates a wide range of data facilities and High Performance Computing platforms. We look to explain the purpose of these facilities and show that this is a valuable use of public funds. We aim to enthuse our young people in STEM (science,technology, engineering and mathematics) and showcase the potential rewards a career in computational science can bring.
 	
+[DOI: 10.5281/zenodo.15641563](https://doi.org/10.5281/zenodo.15641563)
