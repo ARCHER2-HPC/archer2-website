@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20240422T053450Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250617T083837Z
+UID:1738934336943-47720@ical.marudot.com
+DTSTART;TZID=Europe/London:20250401T100000
+DTEND;TZID=Europe/London:20250401T153000
+SUMMARY:ARCHER2: Green software use on HPC
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/1f84383c52cc44d8adeabe4dc6aefee5\n\nEvent page: https://www.archer2.ac.uk/training/courses/250401-green-computing 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Green software use on HPC
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250617T083837Z
+UID:1741195009201-10341@ical.marudot.com
+DTSTART;TZID=Europe/London:20250423T093000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20250423T160000
+SUMMARY:ARCHER2: Modern C++ for Computational Scientists
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/250423-modern-c/\n\nLocation: https://www.archer2.ac.uk/training/locations/durham
+LOCATION:Room D104 Dawson Building DH1 3LE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Modern C++ for Computational Scientists
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250617T083837Z
+UID:1738936245489-10207@ical.marudot.com
+DTSTART;TZID=Europe/London:20250513T100000
+DTEND;TZID=Europe/London:20250513T153000
+SUMMARY:ARCHER2: Green software use on HPC
+DESCRIPTION:Venue: https://www.archer2.ac.uk/training/locations/epcc.html\n\nEvent page: https://www.archer2.ac.uk/training/courses/250513-green-computing 
+LOCATION:Room G0.3\, Bayes Centre\, Potterrow\, Edinburgh EH8 9BT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Green software use on HPC
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250617T083837Z
+UID:1747650863621-83082@ical.marudot.com
+DTSTART;TZID=Europe/London:20250702T100000
+DTEND;TZID=Europe/London:20250702T153000
+SUMMARY:ARCHER2 Training: Green Software use on HPC  UCL
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/250702-green-computing/\n\nLocation: https://www.archer2.ac.uk/training/locations/ucl.html
+LOCATION: G15\, Chandler House\, 2 Wakefield St\,  London WC1N 1PF
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Training: Green Software use on HPC  UCL
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250617T083837Z
+UID:1750149507222-17902@ical.marudot.com
+DTSTART;TZID=Europe/London:20250729T100000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20250729T160000
+SUMMARY:ARCHER2: Advanced MPI
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/250729-advanced-mpi\n\nJoin link: https://eu.bbcollab.com/guest/fa5c06d545354616a478c879b481a1e2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Advanced MPI
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
