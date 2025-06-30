@@ -67,7 +67,7 @@ A list of any currently open calls through which you can apply for access to ARC
 		<td><a href="#DirectorTime">Director's Time - University of Edinburgh</a></td>
 		<td>Always Open</td>
 		<td></td>
-		<td>University of Edinburgh researchers only.</td>
+		<td> Small amount of resource is available for University of Edinburgh researchers only.  </td>
 		<td><a href="./ta/ARCHER2-DT-Application.docx">Director's Time TA Form</a></td>
 	</tr>
 </table>
@@ -111,7 +111,7 @@ Only available for existing EPSRC grant holders with an ARCHER allocation. Provi
 
 <a id="DirectorTime"></a>
 ### Director Time - University of Edinburgh Researchers
-EPCC have a small allocation on ARCHER2 and we encourage applications from University of Edinburgh researchers.
+EPCC have a small allocation on ARCHER2 and we encourage applications from University of Edinburgh researchers. The resource is intended to assist researchers gaining access to ARCHER2 but is not meant as a replacement for applying for time via the EPSRC and NERC calls especially where larger amounts are required.  
 
 <a id="consortia"></a>
 ### Access via the EPSRC High End Computing Consortia
