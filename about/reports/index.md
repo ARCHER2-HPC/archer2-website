@@ -45,11 +45,11 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 
 * [Quarter 4 2025](quarterly/2025/2025_Q4/)
 * [Quarter 3 2025](quarterly/2025/2025_Q3/)
-* [Quarter 2 2025](quarterly/2025/2025_Q2/)
-
 
 -->
 
+
+* [Quarter 2 2025](quarterly/2025/2025_Q2/)
 * [Quarter 1 2025](quarterly/2025/2025_Q1/)
 
 
@@ -100,6 +100,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2025
 
+* [June 2025](monthly/2025/jun25_safe.pdf)
 * [May 2025](monthly/2025/may25_safe.pdf)
 * [April 2025](monthly/2025/apr25_safe.pdf)
 * [March 2025](monthly/2025/mar25_safe.pdf)
