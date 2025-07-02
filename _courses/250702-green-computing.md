@@ -7,7 +7,7 @@ start_date: 2025-07-02 10:00:00
 end_date: 2025-07-02 15:30:00
 trainers: Andy Turner (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250702-green-computing
 location: G15 Chandler House, UCL
 location_url: https://www.archer2.ac.uk/training/locations/ucl.html
