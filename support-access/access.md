@@ -30,6 +30,8 @@ as staff time). ARCHER2 costs are notional rather than real costs.
 
 A list of any currently open calls through which you can apply for access to ARCHER2 time in particular (rather than applying for ARCHER2 time as part of a wider grant or fellowship application).
 
+Note the ARCHER2 service end date is 21 November 2026. HPC provision for ARCHER2 is not guaranteed after this date. Where you require HPC provision after November 2026, under UKRI remit, you are advised to explore alternative provisions such as [other UKRI Digital research infrastructure provisions](https://www.ukri.org/councils/epsrc/facilities-and-resources/find-an-epsrc-facility-or-resource/) or commercial HPC services. Where you are seeking to use other UKRI provisions then you must adhere to the relevant access process. 
+
 <table>
 	<tr>
 		<th>Call (Web Link)</th>
