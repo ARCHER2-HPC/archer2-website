@@ -128,6 +128,12 @@ UKRI provisions include:
 - [Using EPSRC facilities and resources
  – UKRI ](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/#contents-list)
 - [NERC policy on access to high performance computing – UKRI ](https://www.ukri.org/publications/nerc-policy-on-access-to-high-performance-computing/)
+- [Isambard 3 Tier 2 Supercomputer led by University
+ of Bristol](https://docs.isambard.ac.uk/).  
+
+Other HPC facilities that are available to UK researchers are listed at [hpc-uk](https://www.hpc-uk.ac.uk/facilities/) 
+
+
 
 <a id="epsrc"></a>
 ### EPSRC Remit
