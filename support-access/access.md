@@ -13,6 +13,7 @@ The ARCHER2 CSE Team can also provide [assistance with completing a Technical As
 This page has a number of sections:
 
 - [Calls for ARCHER2 time only](#archer2-time-calls) - this includes Access to HPC calls, Pioneer Projects, Pump Priming access, Driving Test and Director Time access 
+- [UKRI remit guidance](#ukri-remit)
 - [EPSRC remit access through Grants](#epsrc-grants)
 - [NERC remit access](#nerc) 
 - [UKRI calls, fellowships and responsive mode](#ukri-calls)
@@ -29,6 +30,8 @@ The following calls only provide access to ARCHER2 resources and not funding for
 as staff time). ARCHER2 costs are notional rather than real costs.
 
 A list of any currently open calls through which you can apply for access to ARCHER2 time in particular (rather than applying for ARCHER2 time as part of a wider grant or fellowship application).
+
+ 
 
 <table>
 	<tr>
@@ -116,9 +119,24 @@ EPCC have a small allocation on ARCHER2 and we encourage applications from Unive
 ### Access via the EPSRC High End Computing Consortia
 If a researcher's work is within remit of one of the Scientific Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. Each consortium has its own way of applying for access and allocating time. The [ARCHER2 Scientific Consortia](https://www.archer2.ac.uk/research/consortia/) pages have more information on the remit of the individual consortia and their contact details. 
 
+## UKRI Remit
+
+Note the ARCHER2 service end date is 21 November 2026. HPC provision for ARCHER2 is not guaranteed after this date. Where you require HPC provision after November 2026, you are advised to explore alternative provisions such as other UKRI provisions listed or commercial HPC services. Where you are seeking to use other UKRI provisions then you must adhere to the relevant access process. Where you are seeking to use commercial HPC services then the full cost of access to commercial HPC services must be included in your application. 
+
+UKRI provisions include: 
+
+- [Using EPSRC facilities and resources
+ – UKRI ](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/#contents-list)
+- [NERC policy on access to high performance computing – UKRI ](https://www.ukri.org/publications/nerc-policy-on-access-to-high-performance-computing/)
+- [Isambard 3 Tier 2 Supercomputer led by University
+ of Bristol](https://docs.isambard.ac.uk/).  
+
+Other HPC facilities that are available to UK researchers are listed at [hpc-uk](https://www.hpc-uk.ac.uk/facilities/) 
+
+
 
 <a id="epsrc"></a>
-## EPSRC Remit
+### EPSRC Remit
 
 <a id="epsrc-grants"></a>
 ### Access through EPSRC grants and fellowships
@@ -146,7 +164,7 @@ If you have any questions about accessing ARCHER2 via EPSRC, please see
 
 
 <a id="nerc"></a>
-## NERC Remit
+### NERC Remit
 
  First contact the relevant NERC science area leader and check the
 current NERC policy on access. Full details are on the [NERC website](https://www.ukri.org/councils/nerc/facilities-and-resources/find-a-nerc-facility-or-resource/applying-to-use-high-performance-computing-services/).  Applicants within the NERC remit wishing to access ARCHER2 via this route must contact the relevant consortia leader for advice ahead of submission. Once you have authorisation to proceed from NERC and if you are submitting through the UKRI Funding Service portal, NERC applicants should add ARCHER2 as a facility in the portal.
