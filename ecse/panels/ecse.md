@@ -57,7 +57,7 @@ Panel meeting 19 August 2020 (virtual meeting)
 
 - *[ARCHER2-eCSE01-6](../reports/eCSE01-06/) PI: Dr Sylvain Laizet (Imperial College) High fidelity simulations of moving objects in a turbulent flow using a Cartesian mesh* (12 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *[ARCHER2-eCSE01-9](../reports/eCSE01-09/) PI: Prof Matt Probert (University of York) CASTEP solvation forces* (6 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *[ARCHER2-eCSE01-9](../reports/eCSE01-09/) PI: Prof Matt Probert (University of York) CASTEP solvation forces* (6 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
 - *[ARCHER2-eCSE01-11](../reports/eCSE01-11/) PI: Dr Andrew Brown (Queen's University Belfast) Multi-Layered MPI parallelisation for the R-matrix with time-dependence code* (8 months) [UKAMOR]
 
@@ -123,7 +123,7 @@ Panel meeting 24 November 2020 (virtual meeting)
 
 ### Projects funded from the 2nd eCSE call
 
-- *[ARCHER2-eCSE02-2](../reports/eCSE02-02/) PI: Dr Nathan L Abraham (Centre for Atmospheric Science) Reducing UM-UKCA data output using flight-track simulation* (12 months) [[NCAS](https://www.ncas.ac.uk/en/)]
+- *[ARCHER2-eCSE02-2](../reports/eCSE02-02/) PI: Dr Nathan L Abraham (Centre for Atmospheric Science) Reducing UM-UKCA data output using flight-track simulation* (12 months) [[NCAS](https://ncas.ac.uk/)]
 
 - *ARCHER2-eCSE02-3 PI: Dr Xuerui Mao (University of Nottingham) Parallel computing of flexible structures in fluid flow based on OpenFOAM* (12 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
@@ -135,7 +135,7 @@ Panel meeting 24 November 2020 (virtual meeting)
 
 - *[ARCHER2-eCSE02-12](../reports/eCSE02-12/) PI: Prof Nicolae C. Panoiu (University College London) Massively parallel and scalable electromagnetic solver for fast analysis of non-linear optical processes in large clusters of nano-particles* (12 months)
 
-- *[ARCHER2-eCSE02-13](../reports/eCSE02-13/) PI: Dr James Harle (National Oceanography Centre) Containerisation of NEMO Employing Singularity (CONES)* (4 months) [[NOC](https://www.noc.ac.uk/)]
+- *[ARCHER2-eCSE02-13](../reports/eCSE02-13/) PI: Dr James Harle (National Oceanography Centre) Containerisation of NEMO Employing Singularity (CONES)* (4 months) [[NOC](https://noc.ac.uk/)]
 
 
 ## 3rd ARCHER2 eCSE call (eCSE03)
@@ -178,19 +178,19 @@ Panel meeting 8 April 2021 (virtual meeting)
 
 - *[ARCHER2-eCSE03-2](../reports/eCSE03-02/) PI: Dr Sylvain Laizet (Imperial College London) Developing in-situ analysis capabilities for pre-Exascale simulations with Xcompact3D* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
-- *[ARCHER2-eCSE03-4](../reports/eCSE03-04/) PI: Prof Matthew Piggott (Imperial College London) Goal-oriented mesh adaptation for Firedrake* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *[ARCHER2-eCSE03-4](../reports/eCSE03-04/) PI: Prof Matthew Piggott (Imperial College London) Goal-oriented mesh adaptation for Firedrake* (12 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
 - *[ARCHER2-eCSE03-5](../reports/eCSE03-05/) PI: Dr Nicholas D M Hine (University of Warwick) Unleashing the Potential for Superior Parallel Performance of the ONETEP Linear-Scaling Density Functional Theory Package on ARCHER2* (6 months)
 
-- *[ARCHER2-eCSE03-6](../reports/eCSE03-06/) PI: Dr Ioana Colfescu (National Centre for Atmospheric Science) Porting, Testing, Optimising, and Configuring the Community Earth System Model (CESM2) on ARCHER2* (8 months) [[NCAS](https://www.ncas.ac.uk/en/)]
+- *[ARCHER2-eCSE03-6](../reports/eCSE03-06/) PI: Dr Ioana Colfescu (National Centre for Atmospheric Science) Porting, Testing, Optimising, and Configuring the Community Earth System Model (CESM2) on ARCHER2* (8 months) [[NCAS](https://ncas.ac.uk/)]
 
 - *[ARCHER2-eCSE03-10](../reports/eCSE03-10/) PI: Dr Andrew Logsdail (Cardiff University) Realising a modular data interface to couple quantum mechanical calculators with external data-driven workflows* (9 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 
-- *[ARCHER2-eCSE03-12](../reports/eCSE03-12/) PI: Dr Grenville GMS Lister (NCAS-CMS, University of Reading) MONC performance portability* (8 months) [[NCAS](https://www.ncas.ac.uk/en/)]
+- *[ARCHER2-eCSE03-12](../reports/eCSE03-12/) PI: Dr Grenville GMS Lister (NCAS-CMS, University of Reading) MONC performance portability* (8 months) [[NCAS](https://ncas.ac.uk/)]
 
 - *ARCHER2-eCSE03-14 PI: Dr Rupert Nash (EPCC, The University of Edinburgh) Enhanced Realism and Scalability for Erythrocyte modelling with HemeLB (ERaSEM-HemeLB)* (12 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
 
-- *ARCHER2-eCSE03-15 PI: Dr Phil Hasnip (University of York) Future-proof parallelism in CASTEP* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *ARCHER2-eCSE03-15 PI: Dr Phil Hasnip (University of York) Future-proof parallelism in CASTEP* (12 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
 
 
@@ -377,7 +377,7 @@ Panel meeting 12 July 2022 (virtual meeting)
 
 - *ARCHER2-eCSE07-1 PI: Dr Timo Betcke (University College London) Towards exascale sparse linear algebra in Rust* (3 months) 
 
-- *[ARCHER2-eCSE07-2](../reports/eCSE07-02/) PI: Dr Laura Ratcliff (University of Bristol) Improving the Performance of Linear-Scaling BigDFT for ARCHER2 and Beyond* (9 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *[ARCHER2-eCSE07-2](../reports/eCSE07-02/) PI: Dr Laura Ratcliff (University of Bristol) Improving the Performance of Linear-Scaling BigDFT for ARCHER2 and Beyond* (9 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
 - *[ARCHER2-eCSE07-3](../reports/eCSE07-03/) PI: Dr Alex Skillen (University of Manchester) Extending the capabilities of the DNS code Xcompact3D by incorporating Magnetohydrodynamics (MHD), for large scale turbulent flows on ARCHER2* (6 months) [[UKTC](https://www.ukturbulence.co.uk/)]
 
@@ -435,7 +435,7 @@ Panel meeting 14 December 2022 (virtual meeting)
 
 - *[ARCHER2-eCSE08-6](../reports/eCSE08-06/) PI: Dr Wei Wang (Daresbury Laboratory) Implementing a multiphase flow modelling capability targeting boiling in the high-fidelity software CHAPSim2* (10 months) 
 
-- *[ARCHER2-eCSE08-10](../reports/eCSE08-10/) PI: Prof David R Bowler (University College London) Improving multi-threaded scaling of CONQUEST* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *[ARCHER2-eCSE08-10](../reports/eCSE08-10/) PI: Prof David R Bowler (University College London) Improving multi-threaded scaling of CONQUEST* (12 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
 - *ARCHER2-eCSE08-11 PI: Dr James Gebbie-Rayet (Daresbury - STFC) Coupling Across the Continuum-Particle Divide with Code_Saturne and GROMACS* (6 months) [[HECBioSim](https://www.hecbiosim.ac.uk/)]
 
@@ -479,7 +479,7 @@ Panel meeting 13 April 2023 (virtual meeting)
 
 ### Projects funded from the 9th eCSE call
 
-- *[ARCHER2-eCSE09-3](../reports/eCSE09-03/) PI: Prof Jonathan R Yates (University of Oxford) Computing infra-red spectra using finite differencing in CASTEP* (6 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *[ARCHER2-eCSE09-3](../reports/eCSE09-03/) PI: Prof Jonathan R Yates (University of Oxford) Computing infra-red spectra using finite differencing in CASTEP* (6 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
 - *ARCHER2-eCSE09-4 PI: Dr Sergiu I Ruta (Sheffield Hallam University) Spin-wave implementation within the VAMPIRE software package* (12 months)
 
@@ -577,7 +577,7 @@ Panel meeting 5 December 2023 (virtual meeting)
 - *[ARCHER2-eCSE11-7](../reports/eCSE11-07/) PI: Dr David M Lewis (University of Liverpool) High Performance Algorithms for the Computation of the Hardy Function - Dissemination & Development* (5 months)
 - *ARCHER2-eCSE11-9 PI: Prof Hugo van der Hart (Queen's University Belfast) Enhanced parallelisation for R-matrix with time-dependence, double ionisation.* (4.8 months)
 - *ARCHER2-eCSE11-10 PI: Prof Benedict Leimkuhler (School of Mathematics) Orthogonal splittings in OpenMM for efficient high-throughput molecular dynamics* (6 months) [[HECBioSim](https://www.hecbiosim.ac.uk/)]
-- *ARCHER2-eCSE11-11 PI: Prof Graeme Ackland (University of Edinburgh) Machine-Learned Interatomic Potentials Tadah!* (12 months) [[UKCP](http://www.ukcp.ac.uk/)]
+- *ARCHER2-eCSE11-11 PI: Prof Graeme Ackland (University of Edinburgh) Machine-Learned Interatomic Potentials Tadah!* (12 months) [[UKCP](https://www.ukcp.ac.uk/)]
 - *ARCHER2-eCSE11-12 PI: Dr Kevin Stratford (The University of Edinburgh) GPU implementation of colloidal suspensions* (9 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
 - *ARCHER2-eCSE11-14 PI: Prof Reinhard Maurer (University of Warwick) Implementation of scalable numeric atomic-orbital-based QM-in-QM embedding in FHI-aims* (14 months) [[MCC](https://www.ucl.ac.uk/klmc/mcc/)]
 - *ARCHER2-eCSE11-15 PI: Dr Zhihua Xie (Cardiff University) Large-eddy simulation of complex multiphase fluid-structure interactions* (18 months)
