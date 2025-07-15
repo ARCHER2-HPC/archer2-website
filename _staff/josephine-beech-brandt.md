@@ -2,8 +2,8 @@
 forename: Josephine
 surname: Beech-Brandt
 title: .
-role: Service Desk function lead
+role: Director of HPC Services 
 image_src: Jo Beech-Brandt.jpg
 bio: 
-tags: [Servicedesk, User Admin   ] 
+tags: [Coordination] 
 ---
