@@ -11,7 +11,7 @@ The ARCHER2 Service Desk is the first point of contact for all questions relatin
 
 - [Email support@archer2.ac.uk](mailto:support@archer2.ac.uk)
 - [Via the SAFE](https://safe.epcc.ed.ac.uk/)
-- Telephone: +44 (0)131 650 5000 (if the above number is unavailable, please use +44 (0)131 618 8313)
+<!-- - Telephone: +44 (0)131 650 5000 (if the above number is unavailable, please use +44 (0)131 618 8313)  -->
 - By post, to:
 
 > ARCHER2 Service Desk  
@@ -22,7 +22,7 @@ Edinburgh EH8 9BT
 
 Please try and provide as much background information as possible as this will speed up the processing time considerably. Existing ARCHER2 users will be asked for their user ID, project code, and, where applicable, the commands they are using and the error message they get. In order to investigate issues, we may ask you to share data (e.g. source code, job scripts, input data) with us. Information on how to share data with us [can be found in the ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/data/#sharing-data-with-all-archer2-users).
 
-For more complex queries a callback may be booked to discuss your issue with an EPCC expert at a time of your convenience. This may be done via Zoom or telephone.
+For more complex queries a callback may be booked to discuss your issue with an EPCC expert at a time of your convenience. This may be done via video call or telephone.
 
 ## About the ARCHER2 Service Desk
 
