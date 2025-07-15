@@ -2,7 +2,7 @@
 forename: Laura
 surname: Moran
 title: Dr
-role: Applications Developer
+role: Project Manager
 image_src: Laura Moran.jpg
 bio: 
 tags: [Servicedesk ] 
