@@ -22,6 +22,7 @@ banner: web_banners_05.jpg
 * [Imperial College London](imperial)
 * [Imperial College London - City and Guilds building](imperial-city-guilds)
 * [Imperial College London - Dept of Electrical and Electronic Engeneering](imperial-elec-eng)
+* [University of Leeds](leeds)
 * [University of Liverpool](liverpool)
 * [Newcastle University](newcastle)
 * [University of Nottingham](nottingham)
