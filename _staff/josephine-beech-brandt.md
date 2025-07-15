@@ -5,5 +5,5 @@ title: .
 role: Director of HPC Services 
 image_src: Jo Beech-Brandt.jpg
 bio: 
-tags: [Coordination] 
+tags: [Coordination, SP, CSE] 
 ---
