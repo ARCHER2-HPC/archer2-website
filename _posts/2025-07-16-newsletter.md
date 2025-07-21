@@ -10,8 +10,8 @@ categories: [news]
 - [ARCHER2 User Survey 2025]({{ page.url }}#archer2-user-survey-2025)  - closing at end July
 - [Advanced Computing Facility (ACF) Power Outage]({{ page.url }}#advanced-computing-facility-acf-power-outage-friday-29th-august---monday-15th-september): Friday 29th August - Monday 15th September
 - [Advanced MPI]({{ page.url }}#advanced-mpi), Online, 29 - 30 July 2025 10:00 - 16:00 
-- [UKRI consultation on draft Research Data policy](ukri-consultation-on-draft-research-data-policy)
-- [7th HPC-AI Advisory Council UK conference](7th-hpc-ai-advisory-council-uk-conference--leicester-1415-october-2025) – Leicester, 14/15 October 2025 – call for abstracts and registration open
+- [UKRI consultation on draft Research Data policy]({{ page.url }}#ukri-consultation-on-draft-research-data-policy)
+- [7th HPC-AI Advisory Council UK conference]({{ page.url }}#7th-hpc-ai-advisory-council-uk-conference--leicester-1415-october-2025) – Leicester, 14/15 October 2025 – call for abstracts and registration open
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
 
@@ -86,18 +86,15 @@ UKRI is currently developing a new research data policy, with the aim of updatin
 
 This integrated policy will apply to research funded by the research councils, Research England, Innovate UK and cross-UKRI schemes. It aims to provide clearer and more consistent expectations and support best practice for different research domains and data types.
 
-There is currently an open consultation process for comments on the draft policy. Full details of the consultation, including the draft policy document, are available at:
-https://engagementhub.ukri.org/ukri-openresearch/developing-ukris-research-data-policy/
+There is currently an open consultation process for comments on the draft policy. [Full details of the consultation, including the draft policy document](https://engagementhub.ukri.org/ukri-openresearch/developing-ukris-research-data-policy/)
 
-We encourage ARCHER2 users to contribute their comments.
+Consultation closes Friday 1st August. We encourage ARCHER2 users to contribute their comments.
 
 
-7th HPC-AI Advisory Council UK conference – Leicester, 14/15 October 2025
-==============================================================
+## 7th HPC-AI Advisory Council UK conference – Leicester, 14/15 October 2025
 
-Registration for the 7th HPC-AI Advisory Council UK Conference, taking place in Leicester on 14/15 October is now open at:
 
-https://dirac.ac.uk/hpc-ai-advisory-council-7th-annual-uk-conference/
+[Registration for the 7th HPC-AI Advisory Council UK Conference](https://dirac.ac.uk/hpc-ai-advisory-council-7th-annual-uk-conference/), taking place in Leicester on 14/15 October is now open 
 
 Places are limited, so if you’re interested in attending, please sign up soon.
 
