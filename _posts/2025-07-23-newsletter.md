@@ -98,7 +98,6 @@ The practical exercises on the course will use Python, and we’ll expect you to
 [Full details and registration](https://www.archer2.ac.uk/training/courses/250812-data-science-ml/)
 
 
-
 ## UKRI consultation on draft Research Data policy
 
 UKRI is currently developing a new research data policy, with the aim of updating and streamlining expectations for sharing and managing research data and other research-relevant digital objects, including algorithms, software code and workflows, arising from UKRI-funded research.
@@ -138,6 +137,7 @@ No recent issues.
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, Always open - self-service 
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service     <br><br>
 - [Advanced MPI](https://www.archer2.ac.uk/training/courses/250729-advanced-mpi/), Online, 29 - 30 July 2025 10:00 - 16:00 BST
+- [Measuring hardware performance counters on ARCHER2 using LIKWID](https://www.archer2.ac.uk/training/courses/250807-likwid-vt/), online webinar, Thursday 7th August 15:00 - 16:00
 - [Introduction to Data Science & Machine Learning](https://www.archer2.ac.uk/training/courses/250812-data-science-ml/), UCL,	12 - 13 August 2025 10:00 - 16:00 BST 
 - [Message Passing programming with MPI](https://www.archer2.ac.uk/training/courses/250818-mpi/), Leeds, Monday 18th August 09:30 - 17:00;Tuesday 19th August 09:30 - 17:00 (face to face), Wednesday 27th August 14:00 - 16:30 (online)
 - [Green software use on HPC](https://www.archer2.ac.uk/training/courses/251022-green-computing/), Birmingham, 22 October 2025 10:00 - 15:30 BST
