@@ -58,12 +58,12 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-To follow
+[Timetable](https://github.com/EPCCed/archer2-AMPP-2025-07-29/?tab=readme-ov-file#timetable-all-times-are-in-british-summer-time)
 
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -74,7 +74,7 @@ To follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://github.com/EPCCed/archer2-AMPP-2025-07-29/   ">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -92,7 +92,7 @@ To follow
  	</div>
 		
 		
--->				
+			
 
 <!--
 
