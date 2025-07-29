@@ -111,20 +111,44 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/yd0nWnvuzf0 " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--
+
 
 <h3>Session 3</h3>  
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ct0X75baD8I " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h3>Session 4</h3>  
 
 <div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ICQ6ky8uCyc " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!--
+
+<h3>Session 5</h3>  
+
+<div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<h3>Session 6</h3>  
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 7</h3>  
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Session 8</h3>  
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 -->
 
 
