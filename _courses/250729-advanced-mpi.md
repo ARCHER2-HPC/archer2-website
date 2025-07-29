@@ -7,14 +7,14 @@ start_date: 2025-07-29 10:00:00
 end_date: 2025-07-30 16:00:00
 trainers: David Henty
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250729-advanced-mpi
 location: Online
 location_url:
 prace_course: 
 audience: [  developers ]
 level: [ advanced ]
-video: true
+video: false
 ---
 
 
@@ -127,7 +127,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!--
+
  
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -148,7 +148,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
 		
--->
+
  
 </section>
 
