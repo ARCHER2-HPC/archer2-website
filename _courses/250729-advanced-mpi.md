@@ -137,13 +137,14 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 <div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Bioak7e0-Xc " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<!--
+
 <h3>Session 7</h3>  
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/PXloqQHrZ3A " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<!--
 <h3>Session 8</h3>  
 
 <div>
