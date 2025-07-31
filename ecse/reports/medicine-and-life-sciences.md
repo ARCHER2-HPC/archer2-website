@@ -1,6 +1,6 @@
 ---
 layout: section
-title: eCSE Reports - Mathematics and Computer Science 
+title: eCSE Reports - Fundamental physics
 banner: web_banners_10.jpg
 tags: [Chemistry and Materials, Earth Sciences and Environment, Engineering and Energy,  Fundamental physics, Mathematics and Computer Science, Medicine and Life Sciences]
 ---
@@ -16,9 +16,9 @@ Subject Areas:
 
 
 {% assign current_ecse = site.ecse | where_exp: "ecse", "ecse.status != 'hidden'" %}
-{% assign mcs_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Mathematics and Computer Science'" %}
+{% assign ee_ecse = current_ecse | where_exp: "ecse", "ecse.subject == 'Medicine and Life Sciences'" %}
 
-{% for ecse in mcs_ecse reversed %}
+{% for ecse in ee_ecse reversed %}
 
 
 
