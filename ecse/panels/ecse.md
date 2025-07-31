@@ -437,7 +437,7 @@ Panel meeting 14 December 2022 (virtual meeting)
 
 - *[ARCHER2-eCSE08-10](../reports/eCSE08-10/) PI: Prof David R Bowler (University College London) Improving multi-threaded scaling of CONQUEST* (12 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
-- *ARCHER2-eCSE08-11 PI: Dr James Gebbie-Rayet (Daresbury - STFC) Coupling Across the Continuum-Particle Divide with Code_Saturne and GROMACS* (6 months) [[HECBioSim](https://www.hecbiosim.ac.uk/)]
+- *[ARCHER2-eCSE08-11](../reports/eCSE08-11/) PI: Dr James Gebbie-Rayet (Daresbury - STFC) Coupling Across the Continuum-Particle Divide with Code_Saturne and GROMACS* (6 months) [[HECBioSim](https://www.hecbiosim.ac.uk/)]
 
 - *ARCHER2-eCSE08-12 PI: Dr Liang Yang (Cranfield University) MPI implementation of open-source fully-differentiable multiphase lattice Boltzmann code* (12 months) 
 
