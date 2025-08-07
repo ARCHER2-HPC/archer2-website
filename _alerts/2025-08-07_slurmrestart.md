@@ -1,5 +1,5 @@
 ---
-status: Planned
+status: Ongoing
 type: Issue
 start_date: 2025-08-07 15:00 BST
 end_date: 2025-08-07 16:00 BST
