@@ -29,7 +29,7 @@ This webinar should be of interest to anyone wanting to assess how well an appli
 <section id="service">
 
 
-
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -53,24 +53,24 @@ This webinar should be of interest to anyone wanting to assess how well an appli
 
 
 
+-->
 
-<!--
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/xxxxx  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/cWhFwElXLew   " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
 
--->
 
-<!--
+
+
 
 <section id="service">
-
+<!--
     <div class="row ">	
 
 
@@ -82,12 +82,12 @@ This webinar should be of interest to anyone wanting to assess how well an appli
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="smartsim.pdf">
-          <strong>Holly Judge Slides</strong><br/>
+           href="LIKWID_performance_counters_ARCHER2.pdf">
+          <strong>Slides</strong><br/>
           Download pdf of the presentation
         </a>
       </div>
@@ -96,4 +96,3 @@ This webinar should be of interest to anyone wanting to assess how well an appli
 
 </section>
 
--->
