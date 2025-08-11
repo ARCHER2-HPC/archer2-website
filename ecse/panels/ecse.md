@@ -320,7 +320,7 @@ Panel meeting 6 April 2022 (virtual meeting)
 ### Early Career Observers
 
 - Ryan Hunt (Lancaster University)
-- Rui Apostolo (University of Edinburgh)
+- Rui Apóstolo (University of Edinburgh)
 - Osama Maklad (University of Greenwich)
 - Pavel Stishenko (Cardiff University)
 
