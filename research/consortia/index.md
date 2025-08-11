@@ -43,7 +43,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       <tr>
         <td><a href="http://www.hecbiosim.ac.uk/">HEC Biomolecular Simulation Consortium (HECBioSim)</a></td>
         <td>Prof. Syma Khalid (University of Oxford)</td>
-        <td>Rui Apostolo</td>
+        <td>Rui Apóstolo</td>
         <td>e280</td>
       </tr>
       <tr>
