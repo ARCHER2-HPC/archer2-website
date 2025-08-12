@@ -7,7 +7,7 @@ start_date: 2025-08-12 10:00:00
 end_date: 2025-08-13 16:00:00
 trainers: Adrian Jackson EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250812-data-science-ml
 location: University College London
 location_url: https://www.archer2.ac.uk/training/locations/ucl
@@ -139,7 +139,7 @@ Times subject to change
 -->
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -149,7 +149,7 @@ Times subject to change
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=240130-data-science-ml" 
+           href="../../feedback/?course=250812-data-science-ml" 
 
 		>
           <strong>Feedback</strong><br/>
@@ -159,7 +159,7 @@ Times subject to change
     </div>
 		
 		
--->
+
  
 </section>
 
