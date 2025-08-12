@@ -39,14 +39,42 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+Times subject to change
 
+### Day 1
+
+ * 10:00 Welcome & Introduction
+ * 10:10 Lecture: Introduction to Data Science
+ * 10:50 Practical: Intro to Jupyter Notebooks & Pandas
+ * 11:30 Break
+ * 11:45 Lecture: Introduction to Machine Learning
+ * 12:15 Lecture: Linear Regression
+ * 13:00 Lunch
+ * 14:00 Practical: Linear Regression
+ * 14:30 Lecture: kNN Classification
+ * 15:00 Practical: kNN Classification
+ * 15:15 Break
+ * 15:30 Lecture: KMeans Clustering
+ * 16:00 Close
+
+### Day 2
+
+ * 10:00 Welcome and recap
+ * 10:10 Practical: KMeans Clustering
+ * 10:30 Lecture: Introduction to Neural Networks
+ * 11:00 Practical: Simple Neural Network
+ * 11:30 Break
+ * 12:00 Lecture: More Neural Networks
+ * 12:30 Practical: Simple Neural Network (Part 2)
+ * 13:00 Lunch
+ * 14:00 Practical: A Neural Network with PyTorch
+ * 15:00 Wrap-Up and Questions
+ * 16:00 Close
 
 
 <section id="service">
 
  
-<!--
 
 <h2><a name="materials">Course materials</a></h2>
  
@@ -74,8 +102,7 @@ Details to follow
 
  	</div>
 		
-		
--->					
+					
 
 
 <!--
