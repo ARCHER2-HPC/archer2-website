@@ -11,13 +11,16 @@ banner: web_banners_05.jpg
 
 
 
-
+Civil Engineering LR C (2.08)
 School of Civil Engineering, <br>
 University of Leeds, <br>
 Woodhouse Loan,<br>
 Woodhouse,<br>
 Leeds, <br>
 LS2 9JT
+
+The entrance is on Woodhouse Lane opposite The Pack Horse pub
+(what3words: ///filled.frogs.glass)
 
 ### Find on Google Maps
 
