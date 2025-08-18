@@ -70,25 +70,9 @@ These pages provide information on the consortia funded on ARCHER2, including de
       <tr>
         <td><a href="https://hec-wsi.ac.uk">High End Computing Consortium for Wave Structure Interaction (HEC WSI)</a></td>
         <td>Prof. Deborah Greaves  (University of Plymouth)</td>
-        <td>Sebastien Lemaire</td>
+        <td>Eleanor Broadway</td>
         <td>e773</td>
       </tr>
-
-<!--
-
-      <tr>
-        <td><a href="https://www.ukctrf.com/">UK Consortium on Turbulent Reacting Flows (UKCTRF)</a></td>
-        <td>Prof. Nilanjan Chakrobarty (University of Newcastle)</td>
-        <td>William Lucas</td>
-        <td>e305</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.ukamor.com/#/">UK Atomic, Molecular and Optical physics R-matrix consortium (UK AMOR)</a></td>
-        <td>Prof. Jonathon Tennyson (UCL)</td>
-        <td>Caoimhin Laoide-Kemp</td>
-        <td>e585</td>
-      </tr>
--->
     </tbody>
   </table>
 </div>
