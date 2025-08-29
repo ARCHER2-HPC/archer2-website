@@ -5,6 +5,19 @@ summary: Information about ARCHER2 Service Status
 banner: web_banners_03.jpg
 --- 
 
+
+## Full system power down
+
+Friday 29th August 2025  09:00 - Monday 15th September 18:00
+
+Due to a significant Health and Safety risk, associated with our power supply to the site, action is required at the Advanced Computing Facility (ACF). There will be a full power outage to the site during this period. Specialised external contractors will be working on a 24/7 basis for the outage period replacing switchgear. 
+
+**Users will not be able to connect to ARCHER2 and will not be able to access data on any of the ARCHER2 file systems. The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the ARCHER2 website will be available.**
+
+
+----------
+
+
 - [Current System Load - CPU](#current-system-load---cpu), [GPU](#current-system-load---gpu)
 - [Service Alerts](#service-alerts)
 - [Maintenance Sessions](#maintenance-sessions)
