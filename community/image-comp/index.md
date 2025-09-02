@@ -13,7 +13,7 @@ The winning image or video, along with a selection of other entries, will also b
 ### Key Details 
 
 - Competition Opens: 29 July 2025
-- Submission Deadline:  5th September 2025
+- Submission Deadline:  **Extended to 19th September 2025**
 - Judging: September/October 2025
 - Prizes:
     - Best image : £150
@@ -63,7 +63,7 @@ The submission form is a PDF form which is editable in ADOBE Acrobat Reader and 
 
 ### Deadline
 
-Submission deadline: 5 September 2025
+Submission deadline:  **Extended to 19th September 2025**
 
 Any queries should be directed to [image@archer.ac.uk](mailto: image@archer.ac.uk)
 
