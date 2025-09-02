@@ -18,6 +18,7 @@ banner: web_banners_05.jpg
 * [University of Edinburgh, James Clerk Maxwell Building](edinburgh-jcmb)
 * [University of Edinburgh, Paterson's Land](edinburgh-patersons-land)
 * [Heriot-Watt Riccarton Campus](hw-riccarton)
+* [Heriot-Watt Riccarton Campus - GRID](hw-grid)
 * [Heriot-Watt The National Robotarium](hw-robotarium)
 * [Imperial College London](imperial)
 * [Imperial College London - City and Guilds building](imperial-city-guilds)
