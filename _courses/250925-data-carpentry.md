@@ -10,7 +10,7 @@ course_type: course
 registration_status: open
 registration_url: https://hw.ac.libcal.com/event/4407230
 location: Heriot Watt University, Edinburgh 
-location_url: /training/locations/hw-robotarium
+location_url: /training/locations/hw-grid
 prace_course: 
 audience: [  data-scientist]
 level: [ introductory ]
