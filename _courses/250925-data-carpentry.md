@@ -44,16 +44,16 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
 
-<!--
-[Schedule](https://epcced.github.io/2023-06-06-hwu/#schedule)
--->
+
+
+[Schedule](https://jevbelikov.github.io/2025-09-25-heriotwatt//#schedule)
+
 
 <section id="service">
 
 
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -64,12 +64,12 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://epcced.github.io/2023-06-06-hwu/  ">
+          href=" https://jevbelikov.github.io/2025-09-25-heriotwatt/  ">
           <strong>Course materials</strong>         
         </a>
       </div>
 
-
+<!--
   
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -78,11 +78,12 @@ Details to follow
         </a>
       </div>
 		
+-->
 
  	</div>
 		
 		
--->					
+				
 
 
 
