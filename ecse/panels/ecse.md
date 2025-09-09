@@ -190,7 +190,7 @@ Panel meeting 8 April 2021 (virtual meeting)
 
 - *ARCHER2-eCSE03-14 PI: Dr Rupert Nash (EPCC, The University of Edinburgh) Enhanced Realism and Scalability for Erythrocyte modelling with HemeLB (ERaSEM-HemeLB)* (12 months) [[UKCOMES](https://www.ucl.ac.uk/mesoscale-modelling-consortium/)]
 
-- *ARCHER2-eCSE03-15 PI: Dr Phil Hasnip (University of York) Future-proof parallelism in CASTEP* (12 months) [[UKCP](https://www.ukcp.ac.uk/)]
+- *[ARCHER2-eCSE03-15](../reports/eCSE03-15/) PI: Dr Phil Hasnip (University of York) Future-proof parallelism in CASTEP* (12 months) [[UKCP](https://www.ukcp.ac.uk/)]
 
 
 
