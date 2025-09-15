@@ -5,6 +5,6 @@ start_date: 2025-08-29 09:00
 end_date: 2025-09-15 18:00
 quarter: Q3 2025
 system: Full ARCHER2 System 
-impact: Users will not be able to connect to ARCHER2 and will not be able to access data on any of the ARCHER2 file systems.  The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the ARCHER2 website will be available. 
+impact: Users will not be able to connect to ARCHER2 and will not be able to access data on any of the ARCHER2 file systems.  The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the ARCHER2 website will be available. <br><b>Update Monday 15th September 14&colon;00</b><br>ARCHER2 is in the process of being returned to service and we will provide further updates as we have them
 reason: Due to a significant Health and Safety risk, associated with our power supply to the site, action is required at the Advanced Computing Facility (ACF). There will be a full power outage to the site during this period. Specialised external contractors will be working on a 24/7 basis for the outage period replacing switchgear. 
 ---
