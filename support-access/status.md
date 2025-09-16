@@ -14,6 +14,11 @@ Due to a significant Health and Safety risk, associated with our power supply to
 
 **Users will not be able to connect to ARCHER2 and will not be able to access data on any of the ARCHER2 file systems. The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the ARCHER2 website will be available.**
 
+## Update Tuesday 16th September 17:00
+
+The HPE ARCHER2 systems team continue the work to return ARCHER2 to full service. The login nodes and file systems are now powered on and the issue with the scratch file system has been resolved. The HPE team are now in the process of powering on the compute nodes. Once all of the nodes are powered up, the EPCC CSE team will complete application tests this evening. We hope to open the service to all users and release jobs to the compute nodes tomorrow morning and will notify  users as soon as the service is available.  
+
+
 ## Update Tuesday 16th September 14:30
 
 The HPE ARCHER2 systems team continue the work to return ARCHER2 to full service. Two network switches have been replaced and work is now progressing on the scratch file system but an issue has been identified.  The team are working to resolve this and once the file systems are in good order, work will progress to power on the compute nodes whilse monitoring the power and cooling load in the data centre. We will provide further updates as we have them. 
