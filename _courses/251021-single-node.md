@@ -7,7 +7,7 @@ start_date: 2025-10-21 09:30:00
 end_date: 2025-10-22 17:30:00
 trainers: Mark Bull and Adrian Jackson (EPCC)
 course_type: course
-registration_status: closed
+registration_status: open
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/251021-single-node
 location: Online
 location_url: 
@@ -17,7 +17,6 @@ level: [ advanced ]
 video: false
 ---
 
-Registration for this course will open on 16th September, once ARCHER2 returns to service.
 
 #### Target Audience:
 
@@ -144,4 +143,3 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  
 </section>
 
-Registration for this course will open on 16th September, once ARCHER2 returns to service.
