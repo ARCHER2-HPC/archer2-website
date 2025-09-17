@@ -14,6 +14,10 @@ Due to a significant Health and Safety risk, associated with our power supply to
 
 **Users will not be able to connect to ARCHER2 and will not be able to access data on any of the ARCHER2 file systems. The system will be drained of jobs ahead of the power outage and jobs will not run during this period. Any queued jobs will remain in the queue during the outage and jobs will start once the service is returned. SAFE and the ARCHER2 website will be available.**
 
+## Update Wednesday 17th September 12:45
+
+We continue to make good progress in the resolution of the issues. Final testing is now in progress and we anticipate a return to service in the early afternoon.  We will send out a user mailing once the system is available to users.
+
 ## Update Wednesday 17th September 10:30
 
 We're making good progress on bringing ARCHER2 back up but are dealing with a small number of issues in collaboration with HPE. The team is confident we can return the majority of the system to service later today.
