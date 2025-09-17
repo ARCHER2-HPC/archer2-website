@@ -33,7 +33,7 @@ As you are aware the service has been powered off for the major electrical work 
 
 We're making good progress on bringing ARCHER2 back up but are dealing with a small number of hardware component issues in collaboration with HPE. The team is confident we can return the majority of the system to service later today. 
 
-We have been updating users via the [status page](https://github.com/ARCHER2-HPC/archer2-website/blob/main/support-access/status.md) and user mailings and will continue to do so.
+We have been updating users via the [status page](https://www.archer2.ac.uk/support-access/status.md) and user mailings and will continue to do so.
 
 ### RDFaaS, /epsrc and /general
 
