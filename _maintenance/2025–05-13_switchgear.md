@@ -1,5 +1,5 @@
 ---
-status: Resolved
+status: Completed
 type: Full 
 start_date: 2025-08-29 09:00
 end_date: 2025-09-15 18:00
