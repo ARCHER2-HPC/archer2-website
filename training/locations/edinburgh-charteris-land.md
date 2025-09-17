@@ -15,7 +15,7 @@ The GPU programming using directives course, 13 - 14 March 2025 will take place 
 
 ## Address
 
-Room CL_4.20<br/>
+Room CL_4.04<br/>
 Charteris Land<br/>
 The University of Edinburgh<br/>
 Holyrood Road, <br/>
