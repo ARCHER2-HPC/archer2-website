@@ -11,8 +11,6 @@ Charteris Land is located in the Moray House area of the University of Edinburgh
 
 
 
-The GPU programming using directives course, 13 - 14 March 2025 will take place in Charteris Land, Room CL_4.20
-
 ## Address
 
 Room CL_4.04<br/>
