@@ -43,8 +43,6 @@ The RDFaaS, /epsrc and /general will return to service on 19 September, allowing
 
 Automated deletions of the NVMe scratch file system will be disabled on Friday August 22nd and re-enabled on Tuesday October 14th to ensure users are given the normal number of working days before deletion.  A reminder will be sent nearer the time.
 
-[Paul Clark, EPCC’s Director of HPC Systems, provided an update on progress in a blog at the end of the first week of work.](https://www.archer2.ac.uk/news/2025/09/05/acf-shut-down-update.html)
-
 We apologise for the inconvenience of this essential outage. Please contact [support@archer2.ac.uk](mailto:support@archer2.ac.uk) if you have any questions.
 
 
