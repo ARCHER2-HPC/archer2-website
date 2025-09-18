@@ -197,15 +197,12 @@ When registering for one of our courses you agree to abide by the [ARCHER2 Code 
 
 ## Eligibility for training
 
-ARCHER2 training courses are provided free of charge to all academics. 
+ARCHER2 training courses are provided free of charge to all UK-based academics. 
 
-Attendance by non-academics at online courses is free, but we would normally require a registration fee for face-to-face courses. 
-
-<!-- Courses marked ![PRACE](img/prace_25.jpg) are also funded by 
-  [PRACE](https://prace-ri.eu/) and are free to everyone including commercial attendees. -->
+<!-- Attendance by non-academics at online courses is free, but we would normally require a registration fee for face-to-face courses. 
 
 If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
-
+-->
  
 
 
