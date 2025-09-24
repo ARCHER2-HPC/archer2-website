@@ -13,9 +13,10 @@ Many thanks to all ARCHER2 users who completed the User Survey this year.
 <!--more-->
 
 We know that when you get asked to review every pair of socks you buy, feedback and survey fatigue sets in very quickly.
-People who provided their contacts details will hear soon if they are one of the lucky winners of 5 £50 Amazon vouchers.  You can see the full report including all user comments and suggestions at
-https://www.archer2.ac.uk/about/reports/
+People who provided their contacts details will hear soon if they are one of the lucky winners of 5 £50 Amazon vouchers.  You can see the full report including all user comments and suggestions on our [reports page](https://www.archer2.ac.uk/about/reports/)
+
 The scores on the doors were:
+
 
 | Service Aspect | 	2024/5 Mean Score <br> (out of 5)	| 2022-2024 Mean Score <br>(out of 5) |
 |  ---  |  ---  |  ---  |
