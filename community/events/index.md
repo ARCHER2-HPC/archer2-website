@@ -7,7 +7,7 @@ banner: web_banners_07.jpg
 
 ###  ARCHER2 Celebration of Science  19th - 20th March 2026  Edinburgh
 <p>
-<a href="celebration-of-science-2026/"><img src="celebration-of-science-2026/img/260319-celebration-of-science-no-message.jpg"  alt="Celebration of Science 2026" style="width: 80%"></a>
+<a href="celebration-of-science-2026/"><img src="celebration-of-science-2026/img/260319-celebration-of-science-with-date.jpg"  alt="Celebration of Science 2026" style="width: 80%"></a>
 </p>
 
 
