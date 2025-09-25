@@ -121,18 +121,44 @@ If a researcher's work is within remit of one of the Scientific Consortia, forme
 
 ## UKRI Remit
 
-Note the ARCHER2 service end date is 21 November 2026. HPC provision for ARCHER2 is not guaranteed after this date. Where you require HPC provision after November 2026, you are advised to explore alternative provisions such as other UKRI provisions listed or commercial HPC services. Where you are seeking to use other UKRI provisions then you must adhere to the relevant access process. Where you are seeking to use commercial HPC services then the full cost of access to commercial HPC services must be included in your application. 
+### ARCHER2 service
 
-UKRI provisions include: 
+As part of the Comprehensive Spending Review in June 2025 the UK government committed up to £750 million into a new national supercomputer service hosted at the University of Edinburgh. The new national supercomputer will replace the current ARCHER2 supercomputer, with this service currently due to end on 21 November 2026.
 
-- [Using EPSRC facilities and resources
- – UKRI ](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/#contents-list)
-- [NERC policy on access to high performance computing – UKRI ](https://www.ukri.org/publications/nerc-policy-on-access-to-high-performance-computing/)
-- [Isambard 3 Tier 2 Supercomputer led by University
- of Bristol](https://docs.isambard.ac.uk/).  
+UKRI are working on options for the period of transition and further details will be communicated in due course.  You are able to continue to apply for time on ARCHER2 or explore use of other UKRI or commercial service provisions, noting these may be different in remit and access process.
 
-Other HPC facilities that are available to UK researchers are listed at [hpc-uk](https://www.hpc-uk.ac.uk/facilities/) 
+Any use of commercial HPC services will require inclusion of full access costs within your application.
 
+Computationally intensive research continues to be of strategic importance to NERC and we strongly encourage applicants to submit proposals requiring HPC access. NERC will ensure proposals using HPC will not be disadvantaged through peer review during this period of change.
+
+### Tier 2 High performance Computing (HPC) Services
+
+UKRI funded researchers are able to use the following tier 2 supercomputing facilities:
+
+-    [Isambard 3](https://www.bristol.ac.uk/research/centres/bristol-supercomputing/#isambard-3), Details on the service are available from [Bristol Centre for Supercomputing](https://docs.isambard.ac.uk/) (BriCS). 
+-    [Baskerville](https://www.baskerville.ac.uk/)
+-    [Bede](https://n8cir.org.uk/bede/)
+-    [Cirrus](https://www.cirrus.ac.uk/)
+-    [CSD3](https://docs.hpc.cam.ac.uk/hpc/)
+-    [Jade](https://www.jade.ac.uk/)
+-    [NI-HPC](https://ni-hpc.ac.uk/)
+-    [Sulis](https://warwick.ac.uk/research/rtp/sc/sulis/)
+
+Access is managed via the [UK Access to HPC opportunity](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/).
+
+### Euro HPC Supercomputers
+
+UK Researchers are able to use the [Euro HPC Supercomputers](https://www.eurohpc-ju.europa.eu/supercomputers_en).
+
+### Artificial Intelligence Research Resource (AIRR)
+
+UK researchers undertaking AI-related research can access the [Artificial Intelligence Research Resource (AIRR)](https://www.gov.uk/government/publications/ai-research-resource) managed by the Department for Science, Innovation and Technology (DSIT).
+
+The AIRR compute clusters comprise [Isambard-AI](https://docs.isambard.ac.uk/), operated by University of Bristol, and [Dawn](https://www.hpc.cam.ac.uk/d-w-n) operated by University of Cambridge.
+
+ 
+
+AIRR is not listed on the facility list in The Funding Service.  Access to AIRR for researchers is via the [Gateway route](https://www.gov.uk/government/publications/ai-research-resource/airr-gateway-route-ukri-guidance). Applications via the Gateway route are open year round.  
 
 
 <a id="epsrc"></a>
