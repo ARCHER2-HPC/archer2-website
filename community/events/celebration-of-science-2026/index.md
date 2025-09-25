@@ -6,7 +6,7 @@ banner: web_banners_07.jpg
 ---
 
 <p align="center">
-<img src="./img/260319-celebration-of-science-no-message.jpg"  alt="Celebration of Science" style="width: 80%">
+<img src="./img/260319-celebration-of-science-with-date.jpg"  alt="Celebration of Science" style="width: 80%">
 </p>
 <br>
 
