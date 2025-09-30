@@ -9,3 +9,7 @@ The Parties shall comply, and shall ensure that their relevant personnel comply,
 Each Party shall immediately notify the other Party if it, or any of its personnel, has acted in breach of any applicable sanctions, export control laws and national security laws or becomes subject to sanctions. Each Party may at any time by written notice terminate this Agreement with immediate effect, without incurring any liability, if it reasonably apprehends that continuing to service this Agreement would be in breach of any applicable sanctions, export control laws or national security laws. 
 
 Each Party agrees to indemnify and hold the other Party harmless from and against any claim, proceeding, loss, liability, cost or damage suffered or incurred by the other Party resulting from or related to the first Party’s violation of this clause.
+
+[Update Logs](https://github.com/clairbarrass/archer2-website/commits/main/about/policies/export-control.md)
+
+2025-09-30  Initial version
