@@ -119,48 +119,6 @@ EPCC have a small allocation on ARCHER2 and we encourage applications from Unive
 ### Access via the EPSRC High End Computing Consortia
 If a researcher's work is within remit of one of the Scientific Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. Each consortium has its own way of applying for access and allocating time. The [ARCHER2 Scientific Consortia](https://www.archer2.ac.uk/research/consortia/) pages have more information on the remit of the individual consortia and their contact details. 
 
-## UKRI Remit
-
-### ARCHER2 service
-
-As part of the Comprehensive Spending Review in June 2025 the UK government committed up to £750 million into a new national supercomputer service hosted at the University of Edinburgh. The new national supercomputer will replace the current ARCHER2 supercomputer, with this service currently due to end on 21 November 2026.
-
-UKRI are working on options for the period of transition and further details will be communicated in due course.  You are able to continue to apply for time on ARCHER2 or explore use of other UKRI or commercial service provisions, noting these may be different in remit and access process.
-
-Any use of commercial HPC services will require inclusion of full access costs within your application.
-
-Computationally intensive research continues to be of strategic importance to NERC and we strongly encourage applicants to submit proposals requiring HPC access. NERC will ensure proposals using HPC will not be disadvantaged through peer review during this period of change.
-
-### Tier 2 High performance Computing (HPC) Services
-
-UKRI funded researchers are able to use the following tier 2 supercomputing facilities:
-
--    [Isambard 3](https://www.bristol.ac.uk/research/centres/bristol-supercomputing/#isambard-3), Details on the service are available from [Bristol Centre for Supercomputing](https://docs.isambard.ac.uk/) (BriCS). 
--    [Baskerville](https://www.baskerville.ac.uk/)
--    [Bede](https://n8cir.org.uk/bede/)
--    [Cirrus](https://www.cirrus.ac.uk/)
--    [CSD3](https://docs.hpc.cam.ac.uk/hpc/)
--    [Jade](https://www.jade.ac.uk/)
--    [NI-HPC](https://ni-hpc.ac.uk/)
--    [Sulis](https://warwick.ac.uk/research/rtp/sc/sulis/)
-
-Access is managed via the [UK Access to HPC opportunity](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/).
-
-### Euro HPC Supercomputers
-
-UK Researchers are able to use the [Euro HPC Supercomputers](https://www.eurohpc-ju.europa.eu/supercomputers_en).
-
-### Artificial Intelligence Research Resource (AIRR)
-
-UK researchers undertaking AI-related research can access the [Artificial Intelligence Research Resource (AIRR)](https://www.gov.uk/government/publications/ai-research-resource) managed by the Department for Science, Innovation and Technology (DSIT).
-
-The AIRR compute clusters comprise [Isambard-AI](https://docs.isambard.ac.uk/), operated by University of Bristol, and [Dawn](https://www.hpc.cam.ac.uk/d-w-n) operated by University of Cambridge.
-
- 
-
-AIRR is not listed on the facility list in The Funding Service.  Access to AIRR for researchers is via the [Gateway route](https://www.gov.uk/government/publications/ai-research-resource/airr-gateway-route-ukri-guidance). Applications via the Gateway route are open year round.  
-
-
 <a id="epsrc"></a>
 ### EPSRC Remit
 
@@ -191,8 +149,7 @@ If you have any questions about accessing ARCHER2 via EPSRC, please see
 
 <a id="nerc"></a>
 ### NERC Remit
-
- First contact the relevant NERC science area leader and check the
+First contact the relevant NERC science area leader and check the
 current NERC policy on access. Full details are on the [NERC website](https://www.ukri.org/councils/nerc/facilities-and-resources/find-a-nerc-facility-or-resource/applying-to-use-high-performance-computing-services/).  Applicants within the NERC remit wishing to access ARCHER2 via this route must contact the relevant consortia leader for advice ahead of submission. Once you have authorisation to proceed from NERC and if you are submitting through the UKRI Funding Service portal, NERC applicants should add ARCHER2 as a facility in the portal.
 
 
