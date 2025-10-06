@@ -7,7 +7,7 @@ start_date: 2025-09-25 09:00:00
 end_date: 2025-09-26 16:30:00
 trainers: Evgenij Belikov EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://hw.ac.libcal.com/event/4407230
 location: Heriot Watt University, Edinburgh 
 location_url: /training/locations/hw-grid
@@ -88,7 +88,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -108,9 +108,9 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
 	
--->
+
  
 </section>
 
 
-Registration for this event is being handled by our hosts at Heriot Watt University.
+
