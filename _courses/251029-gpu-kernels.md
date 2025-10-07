@@ -1,6 +1,6 @@
 ---
 layout: course
-title: GPU programming with HIP
+title: GPU programming with kernels
 banner: web_banners_05.jpg 
 human_dates: 29-30 October, 5-7 November  09:30 - 12:00  
 start_date: 2025-10-29 09:30:00
@@ -8,7 +8,7 @@ end_date: 2025-11-07 12:00:00
 trainers: Juan Herrera, James Richings EPCC
 course_type: course
 registration_status: open
-registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/251029-gpu-hip
+registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/251029-gpu-kernels
 location: Online
 location_url:
 prace_course: false
@@ -71,7 +71,7 @@ Each session will include theory with hands-on activities and exercises which ca
  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/251029-gpu-hip ">
+          href="https://pad.archer2.ac.uk/p/251029-gpu-kernels ">
           <strong>Course Chat</strong>       
         </a>
       </div>
@@ -147,7 +147,7 @@ Each session will include theory with hands-on activities and exercises which ca
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=251029-gpu-hip"
+		   href="https://www.archer2.ac.uk/training/feedback/?course=251029-gpu-kernels"
 
 		>
           <strong>Feedback</strong><br/>
