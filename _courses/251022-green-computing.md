@@ -49,8 +49,6 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 #### Timetable:
 
-To follow
-
 [Schedule](https://epcced.github.io/2025-10-22_GreenHPC_Bham/index.html#schedule)
 
 <section id="service">
