@@ -51,15 +51,9 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 To follow
 
-<!--
-
-[Schedule](https://epcced.github.io/2025-10-22_GreenHPC_Birmingham/index.html#schedule)
-
--->
+[Schedule](https://epcced.github.io/2025-10-22_GreenHPC_Bham/index.html#schedule)
 
 <section id="service">
-
-<!--
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -70,7 +64,7 @@ To follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="  ">
+          href="https://epcced.github.io/2025-10-22_GreenHPC_Bham">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -86,9 +80,7 @@ To follow
 		
 
  	</div>
-		
-		
--->					
+					
 
 
 <!-- 		
