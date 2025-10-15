@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ARCHER2 Weekly Newsletter
-date: 2025-10-08 11:00:00
+date: 2025-10-15 11:00:00
 author: ARCHER2 Service
 tags: [newsletters] 
 categories: [news]
 ---
 
-- [Capability Days]({{ page.url }}#archer2-capability-days-7-9-october-2025) 7-9 October 2025
+- [UKRI National Compute Resources (NCRs): Phase One]({{ page.url }}#ukri-national-compute-resources-ncrs-phase-one) 
 - [Autumn 2025 UKRI Access to HPC Call open]({{ page.url }}#autumn-2025-ukri-access-to-hpc-call-open) (deadline 6 November 2025)
 - [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026)
 - [Green software use on HPC]({{ page.url }}#green-software-use-on-hpc), Birmingham, 22 October 2025 10:00 - 15:30 BST
@@ -21,25 +21,18 @@ categories: [news]
 
 <!--more-->
 
+## UKRI National Compute Resources (NCRs): Phase One 
 
-## ARCHER2 Capability Days: 7-9 October 2025
+This opportunity is seeking potential hosting entities for the first phase of UKRI investment in NCRs. Currently it is anticipated that up to £9.5 million will be available per NCR and at least two NCRs will be supported in this round. Further funds (up to £2 million p.a.) will be provided for each NCR from 2026-2031 to cover NCR service provision, power and other directly relevant costs necessary for user support. These services will support research across the whole UKRI remit.
 
-The fifth ARCHER2 Capability Days session will run from 7-9 October 2025. ARCHER2 Capability Days are a mechanism to allow users to run large scale tests on the system free of charge. The motivations behind Capability Days are:
+This opportunity is open to potential host site providers and their support teams (‘hosting entities’ – hosting entities may be a single site or a partnership co-localised across sites) who have the experience and access to the necessary infrastructure (either through direct ownership or through suitable commercial arrangements) to host an NCR, can deliver the hardware components by March 2026 and can operate a full service for users commencing in the 2026/2027 financial year. The requirements for hosting entities are provided below.
 
--	Enhancing world-leading science from ARCHER2 by enabling modelling and simulation at scales that are not otherwise possible.
--	Enabling capability use cases that are not possible on other UK HPC services.
--	Providing a facility that can be used to test scaling to help prepare software and communities for future large-scale resources.
+It is expected that the 2025/2026 UKRI investment in NCRs will fund:
 
-Capability Days are made up of two parts:
+- At least one CPU-based system and;
+- At least one heterogeneous or accelerated system.
 
--	0900-1900 BST, 7 October 2025 - pre-Capability Days session ("pre-capabilityday" QoS) to allow users to test scaling and job setup ahead of full Capability Day
--	Supports jobs 256-1024 nodes, 1 hour maximum run time
--	Jobs are uncharged
--	0800 BST, 8 October - 1400 BST, 9 October 2025 - Capability Days session (“capabilityday" QoS)
--	Supports jobs 512-4096 nodes, 3 hours maximum run time
--	Jobs are uncharged
-
-[Further details]( https://docs.archer2.ac.uk/user-guide/scheduler/#capability-days )
+There is also an Expression of Interest (EoI) for future (Phase 2) phased investment in Financial Year 2026/2027, which will go live shortly. Applicants for the phase 1 NCR call are welcome to submit EoIs for phase 2. A second NCR hosting opportunity is expected to launch in early 2026.
 
 
 ## Autumn 2025 UKRI Access to HPC Call open
@@ -54,7 +47,30 @@ Deadline: 6 November 2025 4:00pm UK time
 ## ARCHER2 Celebration of Science 2026
 
 
-We are pleased to announce that [ARCHER2 Celebration of Science 2026](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/) will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh. Registration will be opened in October 2025 and further details will be available soon.
+We are pleased to announce that [ARCHER2 Celebration of Science 2026](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/) will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh.
+
+Please **[register here](https://forms.office.com/e/bYHMcP8KLc)** to participate. The event is in-person and there is no registration fee. 
+
+### What to expect at ARCHER2 Celebration of Science 
+
+ARCHER2 Celebration of Science is annual event that brings together the ARCHER2 user community to celebrate their scientific achievements on ARCHER2. You can explore the [highlights of previous events here]({{ base-url }}/community/events/#previous-events) and view the science showcased in the previous years. 
+
+
+The two-day programme of ARCHER2 Celebration of Science 2026 will include: 
+
+-    **Invited talks**: a variety of talks from the invited speakers highlighting their impactful research using ARCHER2. 
+
+-    **Poster programme**: a platform for the ARCHER2 community to present and discuss their successes delivered on ARCHER2 through the lightning talks and the poster session. A Best Poster Prize will be awarded. - [Call for Posters]({{ base-url }}/community/events/celebration-of-science-2026#call-for-posters) is now open!  
+
+-    **Keynote**: the keynote will be given by Professor Mark Parsons, Director of EPCC. 
+
+-    **Panel Session**: focuses on key topics for the ARCHER2 and UK research community. 
+
+-    **ARCHER2 User Forum**: learn about the latest service updates and engage directly with the ARCHER2 team. 
+
+-    **Diversity Session**: an interactive session to discuss the equality, diversity and inclusion challenges related to the delivery of HPC services. 
+
+[Registration](https://forms.office.com/e/bYHMcP8KLc), and [Call for posters]({{ base-url }}/community/events/celebration-of-science-2026#call-for-posters) are open now.  [Full details here ](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/)
 
 
 ## Green software use on HPC
@@ -158,7 +174,6 @@ Following the ACF outage, most services have been returned to service successful
 - [Message-passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/), Online, Always open - self-service  
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, Always open - self-service 
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service     <br><br> 
-- [Introduction to LAMMPS on ARCHER2](https://www.archer2.ac.uk/training/courses/251014-lammps/), Abingdon, 14th and 15th October 2025 09:00 - 17:00 BST
 - [Single Node Performance Optimisation](https://www.archer2.ac.uk/training/courses/251021-single-node/), Online, 21 - 22 October 2025 09:30 - 17:30 Day 1, 09:30 - 16.30 Day 2 (Registration opens this week)
 - [Green software use on HPC](https://www.archer2.ac.uk/training/courses/251022-green-computing/), Birmingham, 22 October 2025 10:00 - 15:30 BST
 - [HPC Carpentry](https://www.archer2.ac.uk/training/courses/251023-hpc-carpentry/), Edinburgh, 23 and 30 October 2025 10:00 - 16:00
