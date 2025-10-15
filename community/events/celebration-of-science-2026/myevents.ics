@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20251015T090403Z
+UID:1760519014201-21156@ical.marudot.com
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260321
+SUMMARY:ARCHER2 Celebration of Science 2026
+URL:https://www.archer2.ac.uk/community/events/celebration-of-science-2026/
+DESCRIPTION:ARCHER2 Celebration of Science
+LOCATION:South Hall\, Pollock Halls\, The University of Edinburgh\, 18 Holyrood Park Road\, Edinburgh EH16 5AY
+END:VEVENT
+END:VCALENDAR
