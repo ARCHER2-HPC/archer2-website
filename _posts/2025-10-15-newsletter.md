@@ -14,6 +14,7 @@ categories: [news]
 - [Single Node Performance Optimisation]({{ page.url }}#single-node-performance-optimisation), Online, 21 - 22 October 2025 09:30 - 17:30 Day 1, 09:30 - 16.30 Day 2  
 - [NetDRIVE Second Call for Community Projects and Champions]({{ page.url }}#netdrive-second-call-for-community-projects-and-champions) 
 - [Understanding the dRTP Training Landscape Workshop]({{ page.url }}#understanding-the-drtp-training-landscape-workshop), London, 5th - 6th November 2025
+- [ARCHER2 Publication database]({{ page.url }}#archer2-publication-database)
 - [Monitoring jobs]({{ page.url }}#monitoring-jobs)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
@@ -149,6 +150,20 @@ This event is co-organised by the following NetworkPlus projects:
 - SCALE UP
 
 This event is not organised by the ARCHER2 team but may be of interest to members of the ARCHER2 user community.
+
+
+## ARCHER2 Publication Database 
+
+The ARCHER2 service maintains a publication database of works that have arisen from ARCHER2 and links them to project IDs that have ARCHER2 access. We ask all users of ARCHER2 to register any publications in the database - all you need is your publication's DOI.
+
+Registering your publications in SAFE has a number of advantages:
+-	For large projects in particular, it allows the project lead to collect publications from all the project members to assist with ResearchFish submissions
+-	Your publication automatically gets added to the ARCHER2 publications page
+-	Your publication is included in reports to UKRI
+-	The better the record we have of publications arising from the ARCHER2 service, the easier it is to demonstrate the impacts and benefits of the service; allowing UKRI to secure funding for future national supercomputing services.
+
+[Further details and instructions on how to add publications](https://docs.archer2.ac.uk/publish/)
+
 
 
 ## Monitoring jobs
