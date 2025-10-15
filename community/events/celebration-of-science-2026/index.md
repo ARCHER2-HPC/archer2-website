@@ -19,7 +19,7 @@ Please **[register here](https://forms.office.com/e/bYHMcP8KLc)** to participate
 
 ## What to expect at ARCHER2 Celebration of Science 
 
-ARCHER2 Celebration of Science is annual event that brings together the ARCHER2 user community to celebrate their scientific achievements on ARCHER2. You can explore the [highlights of previous events here](https://www.archer2.ac.uk/community/events/) and view the science showcased in the previous years. 
+ARCHER2 Celebration of Science is annual event that brings together the ARCHER2 user community to celebrate their scientific achievements on ARCHER2. You can explore the [highlights of previous events here]({{ base-url }}/community/events/#previous-events) and view the science showcased in the previous years. 
 
  
 
@@ -27,7 +27,7 @@ The two-day programme of ARCHER2 Celebration of Science 2026 will include:
 
 -    **Invited talks**: a variety of talks from the invited speakers highlighting their impactful research using ARCHER2. 
 
--    **Poster programme**: a platform for the ARCHER2 community to present and discuss their successes delivered on ARCHER2 through the lightning talks and the poster session. A Best Poster Prize will be awarded. - Call for Posters <link to session> is now open!  
+-    **Poster programme**: a platform for the ARCHER2 community to present and discuss their successes delivered on ARCHER2 through the lightning talks and the poster session. A Best Poster Prize will be awarded. - [Call for Posters](#call-for-posters) is now open!  
 
 -    **Keynote**: the keynote will be given by Professor Mark Parsons, Director of EPCC. 
 
@@ -126,7 +126,7 @@ If you have any questions about the ARCHER2 Celebration of Science, and/or for t
 
 ## Previous events
 
-[Previous events can be found here.](https://www.archer2.ac.uk/community/events/)
+[Previous events can be found here.](https://www.archer2.ac.uk/community/events/#previous-events).
 
 ##  Agenda and event details
 
