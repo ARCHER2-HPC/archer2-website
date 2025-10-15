@@ -98,7 +98,7 @@ These pages provide information on the consortia funded on ARCHER2, including de
       </tr>
       <tr>
         <td>Atmospheric and Polar Sciences Consortium</td>
-        <td>Dr. Grenville Lister (University of Reading)</td>
+        <td>Rosalyn Hatcher (University of Reading)</td>
         <td>Michael Bareford</td>
         <td>n02</td>
       </tr>
