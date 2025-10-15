@@ -11,35 +11,46 @@ banner: web_banners_07.jpg
 <br>
 
 
-We are pleased to announce that ARCHER2 Celebration of Science 2026 will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh. 
+We are pleased to announce ARCHER2 Celebration of Science 2026 will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh.  
 
-Registration will be opened in October 2025 and further details will be available soon.
+ 
 
-<!--
+Please **[register here](https://forms.office.com/e/bYHMcP8KLc)** to participate. The event is in-person and there is no registration fee. 
 
-## Registration and Call for Posters 
+## What to expect at ARCHER2 Celebration of Science 
 
-Following the success of ARCHER2 Celebration of Science 2024, we are pleased to announce that ARCHER2 Celebration of Science 2025 will take place on 14th – 15th May 2025 in Edinburgh at South Hall, The University of Edinburgh. 
+ARCHER2 Celebration of Science is annual event that brings together the ARCHER2 user community to celebrate their scientific achievements on ARCHER2. You can explore the [highlights of previous events here](https://www.archer2.ac.uk/community/events/) and view the science showcased in the previous years. 
 
-The event will provide ARCHER2 users with the opportunity to showcase their science achievements on ARCHER2. The two-day programme will include a variety of talks from ARCHER2 researchers and other invited presenters involved in the ARCHER2 service, a poster session and a panel session.
+ 
 
-The event is in-person and there is no registration fee. 
+The two-day programme of ARCHER2 Celebration of Science 2026 will include: 
 
-Please [register here](https://bit.ly/ARCHER2-Celebration-of-Science-2025 "Registration form") to participate.  
+-    **Invited talks**: a variety of talks from the invited speakers highlighting their impactful research using ARCHER2. 
+
+-    **Poster programme**: a platform for the ARCHER2 community to present and discuss their successes delivered on ARCHER2 through the lightning talks and the poster session. A Best Poster Prize will be awarded. - Call for Posters <link to session> is now open!  
+
+-    **Keynote**: the keynote will be given by Professor Mark Parsons, Director of EPCC. 
+
+-    **Panel Session**: focuses on key topics for the ARCHER2 and UK research community. 
+
+-    **ARCHER2 User Forum**: learn about the latest service updates and engage directly with the ARCHER2 team. 
+
+-    **Diversity Session**: an interactive session to discuss the equality, diversity and inclusion challenges related to the delivery of HPC services. 
+
+ 
 
 
-<h2><a name="materials">Registration</a></h2>
-	
 
-Event: **ARCHER2 Celebration of Science 2025**
+## Registration 
 
-Date: **14th - 15th May 2025**
 
-## Location
+**Event**: ARCHER2 Celebration of Science 2026
 
-South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Park Road, Edinburgh EH16 5AY 
+**Date**: 19th – 20th March 2026
 
-[AccessAble Guide](https://www.accessable.co.uk/venues/south-hall-complex )
+**Location**: South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Park Road, Edinburgh EH16 5AY 
+
+[AccessAble Guide](https://www.accessable.co.uk/the-university-of-edinburgh/conferences-and-events/access-guides/south-hall )
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8938.63510169289!2d-3.1696381!3d55.9379531!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b880c677627b%3A0x35e0a7189a01b57c!2sSouth%20Hall%20Complex%2C%20Pollock%20Halls%2C%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1699281768140!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -50,8 +61,8 @@ South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Park Road, E
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href=" https://bit.ly/ARCHER2-Celebration-of-Science-2025   ">
-          Please complete the Registration form to attend the <br/><strong>ARCHER2 Celebration of Science 2025</strong>         
+          href="https://forms.office.com/e/bYHMcP8KLc?origin=lprLink">
+          Please complete the Registration form to attend the <br/><strong>ARCHER2 Celebration of Science 2026</strong>         
         </a>
       </div>
 
@@ -59,17 +70,12 @@ South Hall, Pollock Halls, The University of Edinburgh, 18 Holyrood Park Road, E
 
 </section>
 
-**The registration deadline is 29th April 2025.** 
+The registration deadline is **26th February 2026.** 
 
-
-
-Note: there is a [“Green software use on HPC”](https://www.archer2.ac.uk/training/courses/250513-green-computing/) in person course running at EPCC 10:00-15:30, Tuesday 13 May 2025 (the day before the Celebration of Science) at a venue close to the conference venue. Participants are also able to register to attend this course if they wish. More information on the course and registration can be found on the [ARCHER2 website]( https://www.archer2.ac.uk/training/courses/250513-green-computing/)
 
 ## Call for Posters 
 
-We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2025. 
-
-**Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by Friday 28th March 2025.**
+We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2026. The poster session and associated lightning talks have been highlights of previous Celebration of Science events, demonstrating the breadth of high-quality research from ARCHER2. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Thursday 5th February 2026.**
 
  
 
@@ -80,11 +86,11 @@ Posters should demonstrate your work on ARCHER2, showcasing the science outcomes
 
 ###    Submission Process and Key Dates 
 
--    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) extended to **Friday 28th March 2025**.  
+-    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Thursday 5th February 2026**.  
 -    All submissions received will be reviewed and the abstracts for the accepted posters will be published on the ARCHER2 website.  
--    Notifications of acceptance will be sent out by **Monday 7th April 2025**.  
--    An electronic version of your poster (PDF file) should be submitted to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Tuesday 13th May 2025**.  
--    Posters will be uploaded to the ARCHER2 repository on [Zenodo ](https://zenodo.org/communities/archer2). DOIs can be arranged as requested in your [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2025_Abstract_Submission_Form.docx).  
+-    Notifications of acceptance will be sent out by **Thursday 12th February 2026**.  
+-    An electronic version of your poster (PDF file) should be submitted to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Wednesday 18th March 2026**.  
+-    Posters will be uploaded to the ARCHER2 repository on [Zenodo ](https://zenodo.org/communities/archer2). DOIs can be arranged as requested in your [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx).  
 
 
 ###    Poster Format and Readability 
@@ -92,9 +98,9 @@ Posters should demonstrate your work on ARCHER2, showcasing the science outcomes
 We recommend you produce a poster of A0 portrait paper size (841 mm x 1189 mm) or A1 landscape paper size (841 mm x 594 mm). Please use accessible and easily readable fonts as well as accessible colour palettes to make it clear and easy to read for everyone.  
 
 
-###    Attending and Presenting at the ARCHER2 Celebration of Science 2025 
+###    Attending and Presenting at the ARCHER2 Celebration of Science 2026 
 
-All poster presenters should register to attend the event using the [Registration Form](https://bit.ly/ARCHER2-Celebration-of-Science-2025 "Registration form").
+All poster presenters should register to attend the event using the [Registration Form](https://forms.office.com/e/bYHMcP8KLc").
 
 
 Each poster presenter will need to print your own poster and bring it to the event. Boards and hanging materials will be provided at the event venue. 
@@ -105,12 +111,12 @@ All posters will be displayed during the 2-day event. A Lightning Talk session w
 
 ###    Prize 
 
-A prize of £200 will be awarded to the Best Poster. The winner will be announced on the 15th May 2025.  
+A prize of £200 will be awarded to the Best Poster. The winner will be announced on the 20th March 2026.  
 
 
 ##    Contact 
 
-If you have any questions about the ARCHER2 Celebration of Science 2025, and/or for the poster submission process, please do not hesitate to contact the Event Organisers by email [events@archer2.ac.uk](mailto:events@archer2.ac.uk). 
+If you have any questions about the ARCHER2 Celebration of Science, and/or for the poster submission, please do not hesitate to contact the Event Organisers by email [events@archer2.ac.uk](mailto:events@archer2.ac.uk). 
 
  
 ##  Calendar 
@@ -118,12 +124,11 @@ If you have any questions about the ARCHER2 Celebration of Science 2025, and/or 
 [Add this event to your calendar](myevents.ics).
 
 
-## Posters from previous event
+## Previous events
 
-[The posters for the previous ARCHER2 Celebration of Science in 2024 can be found here.](https://www.archer2.ac.uk/community/events/celebration-of-science-2024/#lightning-talks)
+[Previous events can be found here.](https://www.archer2.ac.uk/community/events/)
 
 ##  Agenda and event details
 
-[Agenda and details of confirmed speakers](./)
+To be available soon.
 
--->
