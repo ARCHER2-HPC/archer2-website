@@ -7,7 +7,7 @@ start_date: 2025-10-21 09:30:00
 end_date: 2025-10-22 17:30:00
 trainers: Mark Bull and Adrian Jackson (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/251021-single-node
 location: Online
 location_url: 
@@ -117,7 +117,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  -->
 
 
-<!--
+
 
 
 
@@ -129,7 +129,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=241112-single-node" 
+           href="../../feedback/?course=251021-single-node" 
 
 		>
           <strong>Feedback</strong><br/>
@@ -139,7 +139,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
 	
--->
+
  
 </section>
 
