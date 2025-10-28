@@ -39,19 +39,16 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-- 29 Oct 0930-1200
-- 30 Oct 0930-1200
-- 05 Nov 0930-1200
-- 06 Nov 0930-1200
-- 07 Nov 0930-1200
+- Session 1: 29 Oct 0930-1200
+- Session 2: 30 Oct 0930-1200
+- Session 3: 05 Nov 0930-1200
+- Session 4: 06 Nov 0930-1200
+- Session 5: 07 Nov 0930-1200
 
 Each session will include theory with hands-on activities and exercises which can be completed between the sessions.
-
+For further details, please see the Course Materials.
 
 <section id="service">
-
- 
-<!--
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -62,7 +59,7 @@ Each session will include theory with hands-on activities and exercises which ca
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/archer2-gpu-course  ">
+          href="https://github.com/EPCCed/archer2-gpu-course/tree/five-days">
           <strong>Course materials</strong> 
         </a>
       </div>
@@ -78,10 +75,6 @@ Each session will include theory with hands-on activities and exercises which ca
 		
 
  	</div>
-		
-		
-				
--->
 
 <!--
  		
