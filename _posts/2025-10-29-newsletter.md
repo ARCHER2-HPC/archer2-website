@@ -12,7 +12,6 @@ categories: [news]
 - [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026)
 - [GPU programming with kernels]({{ page.url }}#gpu-programming-with-kernels), Online, 29-30 October, 5-7 November 09:30 - 12:00
 - [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), Online, 25 November 2025 09:30 - 16:00
-- [Understanding the dRTP Training Landscape Workshop]({{ page.url }}#understanding-the-drtp-training-landscape-workshop), London, 5th - 6th November 2025
 - [ARCHER2 Image and Video Competition 2025 results]({{ page.url }}#archer2-image-and-video-competition-2025-results)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
@@ -103,41 +102,6 @@ Prerequisites:
 The course assumes an understanding of basic MPI programming in C, C++ or Fortran. Knowledge of MPI derived datatypes would be useful but not essential.
 
 [Full details and registration](https://www.archer2.ac.uk/training/courses/251125-efficient-parallel-io/)
-
-## Understanding the dRTP Training Landscape Workshop
-
-The Understanding the dRTP Training Landscape Workshop will take place on 5th - 6th November 2025 at Bidborough House, UCL, London.
-
-- Event: Understanding the dRTP Training Landscape Workshop
-- Date: 5th - 6th November 2025
-- Location: Bidborough House, 38–50 Bidborough Street, London, WC1H 9BT
-- [Registration form link:]( https://bit.ly/dRTP_landscape_workshop)
-- Registration deadline: **Extended to Noon on Tuesday 28th October 2025**
-
-This event, funded by the UKRI dRTP Skills NetworkPlus Programme, aims to
-
-- Identify existing dRTP roles,
-- Identify existing training courses and resources,
-- Link those roles to specific skills / competencies,
-- Align those skills / competencies with the existing training materials.
-
-The workshop will also identify gaps in provision and areas where new or adapted content is needed, and where teams are working on similar materials and could fruitfully collaborate. Those efforts are another step towards making professional skill development easier and improving career prospects across the whole dRTP ecosystem. The workshop outcomes will be shared with the dRTP community. 
-
-We are hoping to better outline and understand the whole dRTP ecosystem, therefore, we would like to extend an invitation to dRTPs working in different roles and at different institution types, and engaging with a wide range of research communities. 
-
-There will be plenty of opportunities for discussion during the interactive sessions and we look forward to seeing many of you at the event. Please complete the registration form to join. There is no registration fee for the event. The detailed agenda will be circulated close to the event date. 
-
-We would be happy to provide support for a few participants whose organisation/projects cannot cover travel costs. If you would like to attend the event but need any travel support, please apply for the travel support by answering the relevant questions in the registration form.
-
-If there are any questions for the registration, please contact the event organiser.
-
-This event is co-organised by the following NetworkPlus projects: 
-
-- [CHARTED]( https://drtp-skills.ac.uk)
-- [DisCouRSE]( https://discourse-network.github.io)
-- SCALE UP
-
-This event is not organised by the ARCHER2 team but may be of interest to members of the ARCHER2 user community.
 
 
 ## ARCHER2 Image and Video Competition 2025 results
