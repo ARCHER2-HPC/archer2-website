@@ -10,6 +10,8 @@ categories: [news]
 - [UKRI National Compute Resources (NCRs): Phase One and Phase Two]({{ page.url }}#ukri-national-compute-resources-ncrs-phase-one-and-phase-two) 
 - [Autumn 2025 UKRI Access to HPC Call open]({{ page.url }}#autumn-2025-ukri-access-to-hpc-call-open) (deadline 6 November 2025)
 - [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026)
+- [CONTINENTS webinar: Earth Embeddings: Learning Concept Maps in Neural Nets](#continents-webinar-earth-embeddings-learning-concept-maps-in-neural-nets)
+- [ARCHER2 storage](#archer2-storage)
 - [GPU programming with kernels]({{ page.url }}#gpu-programming-with-kernels), Online, 29-30 October, 5-7 November 09:30 - 12:00
 - [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), Online, 25 November 2025 09:30 - 16:00
 - [ARCHER2 Image and Video Competition 2025 results]({{ page.url }}#archer2-image-and-video-competition-2025-results)
@@ -54,11 +56,7 @@ You must be based at a UK research organisation eligible for UKRI funding.
 
 For all routes to access ARCHER2, see [the ARCHER2 access page](https://www.archer2.ac.uk/support-access/access.html)
 
-
-
-
 ## ARCHER2 Celebration of Science 2026
-
 
 We are pleased to announce that [ARCHER2 Celebration of Science 2026](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/) will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh.
 
@@ -80,6 +78,26 @@ The two-day programme of ARCHER2 Celebration of Science 2026 will include:
 
 [Registration](https://forms.office.com/e/bYHMcP8KLc), and [Call for posters]({{ base-url }}/community/events/celebration-of-science-2026#call-for-posters) are open now.  [Full details here ](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/)
 
+## CONTINENTS webinar: Earth Embeddings: Learning Concept Maps in Neural Nets
+
+The International Collaboration Towards Net Zero Computational Modelling and Simulation (CONTINENTS), is hosting its next webinar on Wednesday the 12th of November at 15h30 UK time, and will be delivered by Marc Rußwurm from Wageningen University & Research, with the title: "Earth Embeddings: Learning Concept Maps in Neural Nets"
+
+The abstract and calendar invite can be [found on our website](https://continents-project.github.io/)
+
+There is no registration needed, please share this event with your contacts.
+
+## ARCHER2 storage
+
+A reminder that there are four different file systems on ARCHER2 and each type of storage has different characteristics and policies, and is suitable for different types of use.
+
+- Home file systems (/home)
+- Work file systems (/work)
+- Solid state (NVMe) file system (/scratch)
+- RDFaaS (RDF as a Service) file systems (/epsrc and /general)
+
+It should be noted that all projects have the same, large quota of 250,000 GiB on the solid state file system to allow them to use it as a scratch file system. Remember, any files that have not been accessed in the last 28 days will be automatically deleted.
+
+[Further details can be found in the ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/data/#archer2-storage).
 
 ## GPU programming with kernels
 
