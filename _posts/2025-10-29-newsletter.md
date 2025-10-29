@@ -31,9 +31,9 @@ It is expected that the 2025/2026 UKRI investment in NCRs will fund:
 - At least one CPU-based system and;
 - At least one heterogeneous or accelerated system.
 
-[Full details can be found on the UKRI website](https://engagementhub.ukri.org/ukri-infrastructure/phase-one-of-ukri-national-compute-resources/).
+[Full details can be found on the UKRI website](https://engagementhub.ukri.org/ukri-infrastructure/phase-one-of-ukri-national-compute-resources/). **Deadline: 31 Oct 2025.***
 
-There is also an [Expression of Interest (EoI) for future (Phase 2) phased investment in Financial Year 2026/2027 open](https://engagementhub.ukri.org/ukri-infrastructure/phase2-national-compute-resource-expression-of-int/). Applicants for the phase 1 NCR call are welcome to submit EoIs for phase 2. A second NCR hosting opportunity is expected to launch in early 2026.
+There is also an [Expression of Interest (EoI) for future (Phase 2) phased investment in Financial Year 2026/2027 open](https://engagementhub.ukri.org/ukri-infrastructure/phase2-national-compute-resource-expression-of-int/). Applicants for the phase 1 NCR call are welcome to submit EoIs for phase 2. A second NCR hosting opportunity is expected to launch in early 2026. **Deadline: 20 Nov 2025.**
 
 ## Autumn 2025 UKRI Access to HPC Call open
 
