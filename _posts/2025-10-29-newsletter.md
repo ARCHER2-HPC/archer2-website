@@ -7,7 +7,7 @@ tags: [newsletters]
 categories: [news]
 ---
 
-- [UKRI National Compute Resources (NCRs): Phase One]({{ page.url }}#ukri-national-compute-resources-ncrs-phase-one) 
+- [UKRI National Compute Resources (NCRs): Phase One and Phase Two]({{ page.url }}#ukri-national-compute-resources-ncrs-phase-one-and-phase-two) 
 - [Autumn 2025 UKRI Access to HPC Call open]({{ page.url }}#autumn-2025-ukri-access-to-hpc-call-open) (deadline 6 November 2025)
 - [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026)
 - [GPU programming with kernels]({{ page.url }}#gpu-programming-with-kernels), Online, 29-30 October, 5-7 November 09:30 - 12:00
@@ -20,7 +20,7 @@ categories: [news]
 
 <!--more-->
 
-## UKRI National Compute Resources (NCRs): Phase One 
+## UKRI National Compute Resources (NCRs): Phase One and Phase Two
 
 This opportunity is seeking potential hosting entities for the first phase of UKRI investment in NCRs. Currently it is anticipated that up to £9.5 million will be available per NCR and at least two NCRs will be supported in this round. Further funds (up to £2 million p.a.) will be provided for each NCR from 2026-2031 to cover NCR service provision, power and other directly relevant costs necessary for user support. These services will support research across the whole UKRI remit.
 
@@ -31,16 +31,31 @@ It is expected that the 2025/2026 UKRI investment in NCRs will fund:
 - At least one CPU-based system and;
 - At least one heterogeneous or accelerated system.
 
-There is also an Expression of Interest (EoI) for future (Phase 2) phased investment in Financial Year 2026/2027, which will go live shortly. Applicants for the phase 1 NCR call are welcome to submit EoIs for phase 2. A second NCR hosting opportunity is expected to launch in early 2026.
+[Full details can be found on the UKRI website](https://engagementhub.ukri.org/ukri-infrastructure/phase-one-of-ukri-national-compute-resources/).
 
+There is also an [Expression of Interest (EoI) for future (Phase 2) phased investment in Financial Year 2026/2027 open](https://engagementhub.ukri.org/ukri-infrastructure/phase2-national-compute-resource-expression-of-int/). Applicants for the phase 1 NCR call are welcome to submit EoIs for phase 2. A second NCR hosting opportunity is expected to launch in early 2026.
 
 ## Autumn 2025 UKRI Access to HPC Call open
 
-Deadline: 6 November 2025 4:00pm UK time
+This opportunity provides an open and flexible route to computational support for high quality projects across the entire UK Research and Innovation (UKRI) remit.
 
-[ARCHER2 access page]( https://www.archer2.ac.uk/support-access/access.html)
+We particularly encourage applications that:
 
-[Full details of UKRI call]( https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)
+- involve early career researchers
+- onboard and train new users
+- significantly push the boundaries in computational research using high performance computing (HPC) in your field
+
+This application process is purely for compute resource for up to 12 months. 
+
+You must be based at a UK research organisation eligible for UKRI funding.
+
+**Deadline: 6 November 2025 4:00pm UK time**
+
+[Full details available on the UKRI website](https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/)
+
+For all routes to access ARCHER2, see [the ARCHER2 access page](https://www.archer2.ac.uk/support-access/access.html)
+
+
 
 
 ## ARCHER2 Celebration of Science 2026
