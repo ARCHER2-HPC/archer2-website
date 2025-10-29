@@ -23,14 +23,14 @@ categories: [news]
 
 This opportunity is seeking potential hosting entities for the first phase of UKRI investment in NCRs. Currently it is anticipated that up to £9.5 million will be available per NCR and at least two NCRs will be supported in this round. Further funds (up to £2 million p.a.) will be provided for each NCR from 2026-2031 to cover NCR service provision, power and other directly relevant costs necessary for user support. These services will support research across the whole UKRI remit.
 
-This opportunity is open to potential host site providers and their support teams (‘hosting entities’ – hosting entities may be a single site or a partnership co-localised across sites) who have the experience and access to the necessary infrastructure (either through direct ownership or through suitable commercial arrangements) to host an NCR, can deliver the hardware components by March 2026 and can operate a full service for users commencing in the 2026/2027 financial year. The requirements for hosting entities are provided below.
+This opportunity is open to potential host site providers and their support teams (‘hosting entities’ – hosting entities may be a single site or a partnership co-localised across sites) who have the experience and access to the necessary infrastructure (either through direct ownership or through suitable commercial arrangements) to host an NCR, can deliver the hardware components by March 2026 and can operate a full service for users commencing in the 2026/2027 financial year. The requirements for hosting entities are provided below. **Deadline: 31 Oct 2025.**
 
 It is expected that the 2025/2026 UKRI investment in NCRs will fund:
 
 - At least one CPU-based system and;
 - At least one heterogeneous or accelerated system.
 
-[Full details can be found on the UKRI website](https://engagementhub.ukri.org/ukri-infrastructure/phase-one-of-ukri-national-compute-resources/). **Deadline: 31 Oct 2025.***
+[Full details can be found on the UKRI website](https://engagementhub.ukri.org/ukri-infrastructure/phase-one-of-ukri-national-compute-resources/). 
 
 There is also an [Expression of Interest (EoI) for future (Phase 2) phased investment in Financial Year 2026/2027 open](https://engagementhub.ukri.org/ukri-infrastructure/phase2-national-compute-resource-expression-of-int/). Applicants for the phase 1 NCR call are welcome to submit EoIs for phase 2. A second NCR hosting opportunity is expected to launch in early 2026. **Deadline: 20 Nov 2025.**
 
