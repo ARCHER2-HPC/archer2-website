@@ -7,7 +7,7 @@ start_date: 2025-10-29 09:30:00
 end_date: 2025-11-07 12:00:00
 trainers: Juan Herrera, James Richings EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/251029-gpu-kernels
 location: Online
 location_url:
@@ -76,59 +76,43 @@ For further details, please see the Course Materials.
 
  	</div>
 
-<!--
+
  		
 <h2><a name="videos">Videos</a></h2>
 
-<h3>Day 1 </h3>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/OdgZTJHwqNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/R3hK_nCa06Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 <h3>Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/zgLHUw8D1LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/P4z3lsSP5y8 " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<h3>Day 2 </h3>
 
+<!--
 <h3>Session 3</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/JUXN6xuT_Og  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 <h3>Session 4</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/RvsKPrZ3JMA " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<h3>Day 3 </h3>
-<h3>Session 5</h3>
-
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/HlTo2pxYKzg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-<h3>Session 6</h3>
-
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/nfRQV5OmZGY " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 
 -->
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -140,7 +124,7 @@ For further details, please see the Course Materials.
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=251029-gpu-kernels"
+		   href="{{ base.url }}/training/feedback/?course=251029-gpu-kernels"
 
 		>
           <strong>Feedback</strong><br/>
@@ -149,7 +133,7 @@ For further details, please see the Course Materials.
       </div>
     </div>
 		
--->
+
  
 </section>
 
