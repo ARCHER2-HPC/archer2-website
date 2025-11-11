@@ -197,7 +197,7 @@ When registering for one of our courses you agree to abide by the [ARCHER2 Code 
 
 ## Eligibility for training
 
-ARCHER2 training courses are provided free of charge to all UK-based academics. 
+ARCHER2 training courses are provided free of charge to individuals affiliated with UKRI-eligible institutions. This includes UK-based academics as well as researchers from government organisations such as the Met Office and UKAEA, among others. For full details on eligibility, please refer to the [UKRI eligibility guidance.](https://www.ukri.org/councils/epsrc/guidance-for-applicants/check-if-you-are-eligible-for-funding/)
 
 <!-- Attendance by non-academics at online courses is free, but we would normally require a registration fee for face-to-face courses. 
 
