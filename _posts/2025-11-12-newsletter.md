@@ -11,7 +11,7 @@ categories: [news]
 - [UKRI National Compute Resources (NCRs): Phase Two Expression of interest]({{ page.url }}#ukri-national-compute-resources-ncrs-phase-two-expression-of-interest)
 - [CONTINENTS webinar: Earth Embeddings: Learning Concept Maps in Neural Nets]({{ page.url }}#continents-webinar-earth-embeddings-learning-concept-maps-in-neural-nets)
 - [Knowledge Exchange Funding Opportunities]({{ page.url }}#knowledge-exchange-funding-opportunities)
-- [Parallel Python]({{ page.url }}#parallel-python-webinar)&colon; free webinar, Wednesday 19th November 15:00 - 16:00 
+- [Parallel Python]({{ page.url }}#parallel-python-webinar): free webinar, Wednesday 19th November 15:00 - 16:00 
 - [Efficient Parallel IO]({{ page.url }}#efficient-parallel-io), Online, 25 November 2025 09:30 - 16:00
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
