@@ -208,9 +208,9 @@ If you are from a commercial organisation and wish to attend a particular course
 
 ## ARCHER2 year five planned courses
 
- |    August 2025 - October 2025 | November 2025 - January 2026  |
+ |  November 2025 - January 2026  |   February - April 2026  |
  | ---  |
- |          Data Carpentry 	<br>  HPC Carpentry 	<br>  Data Analysis and Visualisation in Python 	<br>  Intermediate Research Software Development 	<br>   Efficient Parallel IO 	<br>  Single Node Performance Optimisation <br> GPU Programming with HIP 	<br>   Green software use on HPC | Introduction to Modern Fortran <br> Introduction to HPC <br>  Introduction to LAMMPS <br> Reproducible research using containers <br> GPU Programming with HIP <br> Using ARCHER2 efficiently <br>  GPU programming using directives |
+ |           Data Analysis and Visualisation in Python <br>  GPU programming using directives <br> Data Carpentry <br>  Green Computing  <br> Using ARCHER2 efficiently    |  Reproducible research using containers  <br>  Introduction to Modern Fortran  <br>  GPU programming using directives  <br>  Intermediate Modern Fortran  <br>  GPU programming with kernels  <br>  Intermediate Research SW Dev  <br>  Modern C++ for Comp Scientists   |
 
 
 
