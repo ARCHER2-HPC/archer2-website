@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: false
+video: true
 ecse:
 ---
 
@@ -46,7 +46,7 @@ factor of 10,000 compared to the original program.
 
 <section id="service">
 
-
+<!--
 
   <div class="row ">	
 
@@ -69,20 +69,20 @@ factor of 10,000 compared to the original program.
 											
     </div>
 
+-->
 
 
 
-<!--
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/cWhFwElXLew   " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/fD8vgh72XS8   " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 
 
