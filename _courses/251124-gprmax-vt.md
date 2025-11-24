@@ -27,7 +27,7 @@ We will present gprMax from a scientific viewpoint, introducing its existing cap
 
 <section id="service">
 
-
+<!--
 
   <div class="row ">	
 
@@ -51,19 +51,19 @@ We will present gprMax from a scientific viewpoint, introducing its existing cap
     </div>
 
 
+-->
 
 
-<!--
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/cWhFwElXLew   " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/ikFzt1FaJrM    " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 
 
@@ -81,17 +81,17 @@ We will present gprMax from a scientific viewpoint, introducing its existing cap
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="LIKWID_performance_counters_ARCHER2.pdf">
+           href="gprmax-archer2-webinar.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation
         </a>
       </div>
 
--->
+
 
 </section>
 
