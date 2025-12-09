@@ -29,6 +29,7 @@ banner: web_banners_05.jpg
 * [Newcastle University](newcastle)
 * [University of Nottingham](nottingham)
 * [The Open University, Milton Keynes](open-mk)
+* [Oxford Brookes University](brookes)
 * [Oxford University Doctoral Training Centre](oxford-dtc)
 * [Queen's University, Belfast](qub)
 * [University College London](ucl)
