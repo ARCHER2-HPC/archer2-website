@@ -15,12 +15,12 @@ It is not possible to take luggage in to The Alan Turing Institute due to securi
 
 ## Address
 
-The Alan Turing Institute,
-2QR,
-96 Euston Rd,
-London
+The Alan Turing Institute,<br>
+2QR,<br>
+96 Euston Rd,<br>
+London<br>
 NW1 2DB
 
-The course will be held in 'Enigma' (the Institute's events space). 
 
-<iframe title="google map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9928.347630464725!2d-0.1276734!3d51.5299658!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa6f7b8acf648fffd!2sThe%20Alan%20Turing%20Institute!5e0!3m2!1sen!2suk!4v1582732424343!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1221.6512071546167!2d-0.12882666101972579!3d51.52999959295468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b3b76b07c15%3A0xa6f7b8acf648fffd!2sThe%20Alan%20Turing%20Institute!5e1!3m2!1sen!2suk!4v1765365780687!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
