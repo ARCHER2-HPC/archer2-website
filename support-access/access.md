@@ -119,6 +119,19 @@ EPCC have a small allocation on ARCHER2 and we encourage applications from Unive
 ### Access via the EPSRC High End Computing Consortia
 If a researcher's work is within remit of one of the Scientific Consortia, formed around research communities with substantial and continuous computational needs, then they can apply for ARCHER2 time by joining the relevant consortium. Each consortium has its own way of applying for access and allocating time. The [ARCHER2 Scientific Consortia](https://www.archer2.ac.uk/research/consortia/) pages have more information on the remit of the individual consortia and their contact details. 
 
+## UKRI Remit
+
+Note the ARCHER2 service end date is 21 November 2026. HPC provision for ARCHER2 is not guaranteed after this date. Where you require HPC provision after November 2026, you are advised to explore alternative provisions such as other UKRI provisions listed or commercial HPC services. Where you are seeking to use other UKRI provisions then you must adhere to the relevant access process. Where you are seeking to use commercial HPC services then the full cost of access to commercial HPC services must be included in your application.
+
+UKRI provisions include:
+
+-   [Using EPSRC facilities and resources – UKRI](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/#contents-list)
+-   [NERC policy on access to high performance computing – UKRI](https://www.ukri.org/publications/nerc-policy-on-access-to-high-performance-computing/)
+- [Isambard 3 Tier 2 Supercomputer]( https://docs.isambard.ac.uk/ )  led by University of Bristol. 
+
+[Other HPC facilities that are available to UK researchers are listed at 
+hpc-uk]( https://www.hpc-uk.ac.uk/facilities/)
+
 <a id="epsrc"></a>
 ### EPSRC Remit
 
