@@ -7,13 +7,13 @@ start_date: 2025-12-15 09:00:00
 end_date: 2025-12-16 16:30:00
 trainers: Evgenij Belikov, Francisco Trincado-Munoz
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://www.eventbrite.co.uk/e/the-carpentries-training-in-python-and-shell-tickets-1975967453846
 location: Oxford Brookes University
 location_url: https://www.archer2.ac.uk/training/locations/brookes
 audience: [  developer ]
 level: [ introductory ]
-video: true
+video: 
 ---
 
 #### Location:
@@ -105,7 +105,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -125,9 +125,9 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
 	
--->
+
  
 </section>
 
 
-Registration for this event is being handled by our hosts at Oxford Brookes Business School
+
