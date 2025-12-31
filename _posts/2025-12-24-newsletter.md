@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 Weekly Newsletter
-date: 2025-12-24 11:00:00
+date: 2025-12-31 11:00:00
 author: ARCHER2 Service
 tags: [newsletters] 
 categories: [news]
@@ -25,14 +25,12 @@ categories: [news]
 
 ## ARCHER2 Festive Period
 
-The ARCHER2 Service will observe the UK Public holidays and will be closed for Christmas Day, Boxing Day and New Year’s Day.
+The ARCHER2 Service will observe the UK Public holidays and will be closed for New Year’s Day.
 
 We fully expect the ARCHER2 service to be available during these holidays but we will not have staff on the Service Desk to deal with any queries or issues you may experience. Users will be able to connect to the system and submit jobs as usual. The Service Desk will be open as usual on all other workdays (Monday - Friday from 0800-1800) excluding these holidays.
 
 Key Dates:
 
--    Thursday 25th December - ARCHER2 Service Desk Closed
--    Friday 26th December - ARCHER2 Service Desk Closed
 -   Thursday 1st January - ARCHER2 Service Desk Closed
 
 As always please [contact the service desk](mailto: support@archer2.ac.uk) if you have any questions or problems and please check the [ARCHER2 Status page](https://www.archer2.ac.uk/support-access/status.html) for updates
