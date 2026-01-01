@@ -8,7 +8,7 @@ end_date: 2028-12-31 16:00:00
 trainers: Mark Bull (EPCC)
 course_type: course
 registration_status: open
-registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/250900-OpenMP-SS
+registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260100-OpenMP-SS
 location: Online
 location_url:
 prace_course: false
