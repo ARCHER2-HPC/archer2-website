@@ -1,5 +1,5 @@
 ---
-status: Planned
+status: Resolved
 type: Service Alert
 start_date: 2026-01-07 08:00
 end_date: 
