@@ -23,8 +23,8 @@ This workshop will provide insight into and expand on recent efforts to understa
 
 The workshop will have three different sessions: 
 
-- **Session 1: Green Skills** - Over the last few months three Network+ projects (CHARTED, DisCouRSE and NetDRIVE) have run a number of sessions to better understand the concept of 'Green Skills' and how they can be embedded into all roles in the DRI ecosystem to ensure everyone can be part of the net zero efforts. Working with the skillset from the DIRECT framework, we were interested to know which individual skills (both technical and non-technical) can be aligned with Green Practices and how. In this session we will summarise some of our findings and continue the discussion on what training may be needed to make the change possible. In this interactive session we will discuss the existing training resources, identify what is missing and create a list of recommendations for new training courses.   
-- **Session 2: Advocating for Change** -  Many members of the DRI community realise the importance of reducing the environmental impact of computational research, but do not necessarily feel equipped with the right skills to advocate for change in their local communities. The session will explore how best to focus awareness and advocacy to create real change. You will hear from different speakers covering different approaches, techniques and examples - from evidence based actions and data driven recommendations to celebrating success stories and storytelling. 
+- **Session 1: Green Skills** - Over the last few months three Network+ projects [CHARTED](https://drtp-skills.ac.uk/), [DisCouRSE](https://discourse-network.github.io/) and [NetDRIVE](https://eng.ox.ac.uk/netdrive)) have run a number of sessions to better understand the concept of 'Green Skills' and how they can be embedded into all roles in the DRI ecosystem to ensure everyone can be part of the net zero efforts. Working with the skillset from the DIRECT framework, we were interested to know which individual skills (both technical and non-technical) can be aligned with Green Practices and how. In this session we will summarise some of our findings and continue the discussion on what training may be needed to make the change possible. In this interactive session we will discuss the existing training resources, identify what is missing and create a list of recommendations for new training courses. <br/><br/>
+- **Session 2: Advocating for Change** -  Many members of the DRI community realise the importance of reducing the environmental impact of computational research, but do not necessarily feel equipped with the right skills to advocate for change in their local communities. The session will explore how best to focus awareness and advocacy to create real change. You will hear from different speakers covering different approaches, techniques and examples - from evidence based actions and data driven recommendations to celebrating success stories and storytelling. <br/><br/>
 - **Session 3: Changing Community Mindset**  - The final part of the workshop will be more interactive, looking at how we can effectively advocate for change in the way digital infrastructure is managed and run, and how we use it, to move towards a Net Zero DRI. Together we will come up with a list of approaches that can be used to change the mindsets in our communities.   
 
 
@@ -50,14 +50,14 @@ Registration is free. The event is being held alongside the [ARCHER2 Celebration
 
 ## Event Information
 
-Lunch will be provided on the day. The registration form provides the opportunity to note any additional requirements you may have. However if you have any questions or concerns regarding this please do get in via events@archer2.ac.uk.  
+Lunch will be provided on the day. The registration form provides the opportunity to note any additional requirements you may have. However if you have any questions or concerns regarding this please do get in via [events@archer2.ac.uk](mailto:events@archer2.ac.uk).  
 
 
 ## Travel support 
 
 We would be happy to provide support for a few participants whose organisation/projects cannot cover their travel costs to attend the event Championing Green Digital Research only (Day 0 of the ARCHER2 Celebration of Science 2026) or to attend both the Day 0 and the following 2-day ARCHER2 event. 
 
-If you would like to apply for this travel support, please complete the Travel Support Application Form and send it to the event organiser events@archer2.ac.uk by Thursday 5 February. All applications will be reviewed after the given deadline and we aim to inform the results to you as soon as possible.
+If you would like to apply for this travel support, please complete the [Travel Support Application Form](ARCHER2_CoS2026_Day0_Travel_Support_From.docx) and send it to the event organiser [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by Thursday 5 February. All applications will be reviewed after the given deadline and we aim to inform the results to you as soon as possible.
 
 
 ## Draft Agenda
@@ -73,7 +73,7 @@ If you would like to apply for this travel support, please complete the Travel S
 
 ## About the Organisers
 
-This event is being organised by EPCC and supported by ARCHER2 National Service and the UKRI Research Infrastructure Network+ programmes through CHARTED, DisCouRSE and NetDRIVE.  
+This event is being organised by EPCC and supported by ARCHER2 National Service and the UKRI Research Infrastructure Network+ programmes through [CHARTED](https://drtp-skills.ac.uk/), [DisCouRSE](https://discourse-network.github.io/) and [NetDRIVE](https://eng.ox.ac.uk/netdrive).  
 
 
 
