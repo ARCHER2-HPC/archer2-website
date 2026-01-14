@@ -13,9 +13,25 @@ banner: web_banners_07.jpg
 
 We are pleased to announce ARCHER2 Celebration of Science 2026 will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh.  
 
- 
+There will also be a <a href="https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0">Day 0 workshop: <b>Championing Green Digital Research</b></a> which will take place at Sydney Smith - Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG, on Wednesday 18 March 2026, as the Day 0 of the ARCHER2 Celebration of Science 2026.
 
-Please **[register here](https://forms.office.com/e/bYHMcP8KLc)** to participate. The event is in-person and there is no registration fee. 
+
+<section id="service">
+
+    <div class="row ">	
+ 		
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" 
+          href="https://forms.office.com/e/bYHMcP8KLc?origin=lprLink">
+          Please complete the Registration form to attend the <br/><strong>Championing Green Digital Research event</strong><br/> and/or<br/><strong>ARCHER2 Celebration of Science 2026</strong>         
+        </a>
+      </div>
+
+ 	</div>
+
+</section>
+
+The event is in-person and there is no registration fee. 
 
 ## What to expect at ARCHER2 Celebration of Science 
 
@@ -62,7 +78,7 @@ The two-day programme of ARCHER2 Celebration of Science 2026 will include:
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://forms.office.com/e/bYHMcP8KLc?origin=lprLink">
-          Please complete the Registration form to attend the <br/><strong>ARCHER2 Celebration of Science 2026</strong>         
+          Please complete the Registration form to attend the <br/><strong>Championing Green Digital Research event</strong><br/> and/or<br/><strong>ARCHER2 Celebration of Science 2026</strong>         
         </a>
       </div>
 
