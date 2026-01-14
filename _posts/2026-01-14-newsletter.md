@@ -10,6 +10,7 @@ categories: [news]
 - [Refresh of Centrally Supported Software]({{ page.url }}#refresh-of-centrally-supported-software)
 - [ARCHER2 Calendar 2026 ]({{ page.url }}#archer2-calendar-2026)- sign up for your copy now - last chance!
 - [Data Carpentry]({{ page.url }}#data-carpentry), Cardiff, 22nd - 23rd January 2026 09:30 - 17:00
+- [Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026]({{ page.url }}#championing-green-digital-research-workshop---day-0-of-archer2-celebration-of-science-2026)
 - [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026) - Poster abstract submission due 5 Feb 2026
 - [Call for applications for the International HPC Summer School]({{ page.url }}#call-for-applications-for-the-international-hpc-summer-school)
 - [NFCS Network Plus project, UKRI research data landscape survey]({{ page.url }}#nfcs-network-plus-project-ukri-research-data-landscape-survey)
@@ -75,6 +76,19 @@ This two-day workshop will cover:
 -     Data Management with SQL
 
 [Full details and registration]( https://www.archer2.ac.uk/training/courses/260122-data-carpentry/)
+
+
+
+## Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026
+
+We are pleased to let you know the Championing Green Digital Research Workshop will take place at Sydney Smith - Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG, on Wednesday 18 March 2026, as the Day 0 of the [ARCHER2 Celebration of Science 2026.]({{ page.url }}#archer2-celebration-of-science-2026)
+
+The majority of people involved in research using digital research infrastructure (DRI) want to understand and reduce the emissions associated with their research activities to have a positive impact on the path to net zero emissions from research. The term DRI includes a very broad range of infrastructure from personal devices (smartphones, laptops, etc.), through high end servers (HPC and HTC systems) to commercial cloud computing resources. Although most people want to take action, they are hampered by a lack of understanding of the scale and source of DRI emissions, uncertain on what they can do in their day-to-day work, and find it difficult when challenged by colleagues or acquaintances who may be sceptical about taking action. This workshop will provide insight into and expand on recent efforts to understand what skills are needed to empower researchers and other digital research technical professionals to make and advocate for positive impact in using DRI for research.
+
+Registration is open now. Travel support application is due by 5 February 2026. 
+
+[Further details](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0 )
+
 
 
 ## ARCHER2 Celebration of Science 2026
