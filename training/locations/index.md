@@ -27,6 +27,7 @@ banner: web_banners_05.jpg
 * [Imperial College London - Dept of Electrical and Electronic Engeneering](imperial-elec-eng)
 * [University of Leeds](leeds)
 * [University of Liverpool](liverpool)
+* [University of Manchester](manchester)
 * [Newcastle University](newcastle)
 * [University of Nottingham](nottingham)
 * [The Open University, Milton Keynes](open-mk)
