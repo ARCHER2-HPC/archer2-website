@@ -11,8 +11,10 @@ banner: web_banners_07.jpg
 
 Sydney Smith - Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG
 
+[AccessAble Guide for Day 0 workshop](https://www.accessable.co.uk/the-university-of-edinburgh/central-area/access-guides/sydney-smith-lecture-theatre-doorway-1)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2222.61470954713!2d-3.193027987553287!3d55.945012723043995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c784af1c6553%3A0xc1f3d07a6f9ab851!2sMedical%20School%20(Old%20Medical%20School)%2C%20The%20University%20of%20Edinburgh!5e1!3m2!1sen!2suk!4v1768319275053!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 ## Overview
@@ -76,4 +78,6 @@ If you would like to apply for this travel support, please complete the [Travel 
 This event is being organised by EPCC and supported by ARCHER2 National Service and the UKRI Research Infrastructure Network+ programmes through [CHARTED](https://drtp-skills.ac.uk/), [DisCouRSE](https://discourse-network.github.io/) and [NetDRIVE](https://eng.ox.ac.uk/netdrive).  
 
 
+## Calendar
 
+[Add this event to your calendar](myeventsday0.ics).
