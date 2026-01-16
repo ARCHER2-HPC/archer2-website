@@ -9,7 +9,7 @@ trainers: Chris Wood, Evgenij Belikov (EPCC)
 course_type: course
 registration_status: open
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260420-int-sw-dev
-location: Manchester
+location: University of Manchester
 location_url: https://www.archer2.ac.uk/training/locations/manchester
 prace_course: 
 audience: [ developer ]
@@ -168,7 +168,7 @@ Details to follow
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=241126-int-sw-dev" 
+           href="../../feedback/?course=260420-int-sw-dev" 
 
 		>
           <strong>Feedback</strong><br/>
