@@ -5,6 +5,20 @@ summary:  Wednesday 18th March 2026, 10:30am - 5pm
 banner: web_banners_07.jpg
 ---
 
+<section id="service">
+
+    <div class="row ">	
+ 		
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="https://www.archer2.ac.uk/community/events/celebration-of-science-2026/">
+          Day 0 - Part of the <br/><b>Celebration of Science 2026</b>         
+        </a>
+      </div>
+
+ 	</div>
+
+</section>
 
 
 ## Location
