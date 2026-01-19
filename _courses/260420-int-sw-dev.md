@@ -35,11 +35,6 @@ Software is going further than just the small group developing and/or using the 
 
 They now need intermediate software engineering skills to help them design more robust software code that goes beyond a few thrown-together proof-of-concept scripts, taking into consideration the lifecycle of software, writing software for stakeholders, team ethic and applying a process to understanding, designing, building, releasing, and maintaining software.
 
-
-####  Optional Thursday afternoon flexible session
-
-In addition to the three days of structured learning, we’re offering an optional final session, on Thursday 23rd afternoon, for those who want to go further. This bonus session is a flexible, hands-on opportunity to apply what you’ve learned to your own projects, get personalized guidance from our experts, and connect with fellow participants. It’s a relaxed, collaborative environment designed to help you consolidate your knowledge and make the most of the training experience. Please let us know if you plan to attend this extra session when you register for the course.
-
 ### Target audience
 
 This course is for you if:
