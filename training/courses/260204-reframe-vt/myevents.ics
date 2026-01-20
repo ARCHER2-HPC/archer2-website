@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20250410T142247Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20260120T164853Z
+UID:1768927697444-44748@ical.marudot.com
+DTSTART;TZID=Europe/London:20260204T150000
+DTEND;TZID=Europe/London:20260204T160000
+SUMMARY:ARCHER2 Webinar: Getting Started with ReFrame on ARCHER2
+DESCRIPTION:Event page:  http://www.archer2.ac.uk/training/courses/260204-reframe-vt/\n\nJoin link: https://eu.bbcollab.com/guest/b616d41bd2ea432eaff07c9040e8f17c
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Webinar: Getting Started with ReFrame on ARCHER2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T164853Z
+UID:1768919419346-87958@ical.marudot.com
+DTSTART;TZID=Europe/London:20260223T093000
+DTEND;TZID=Europe/London:20260223T163000
+SUMMARY:ARCHER2: Data analysis and visualisation in python
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260223-analysis-visualisation-python/\n\nJoin link: https://eu.bbcollab.com/guest/abd43c8c577045c7b9c1e6f7ddbb9d66
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Data analysis and visualisation in python
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T164853Z
+UID:1768915844001-11952@ical.marudot.com
+DTSTART;TZID=Europe/London:20260225T100000
+RRULE:FREQ=DAILY;COUNT=3
+DTEND;TZID=Europe/London:20260225T160000
+SUMMARY:ARCHER2: GPU programming with kernels
+DESCRIPTION:https://www.archer2.ac.uk/training/courses/2602254-gpu-kernels\n\nJoin link: https://eu.bbcollab.com/guest/2aea9d0ac3e94e67b2696ec0655424b0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: GPU programming with kernels
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T164853Z
+UID:1768566846927-86165@ical.marudot.com
+DTSTART;TZID=Europe/London:20260318T103000
+DTEND;TZID=Europe/London:20260318T170000
+SUMMARY:ARCHER2: Day 0 of ARCHER2 CoS26 Championing Green Digital Research
+DESCRIPTION:Championing Green Digital Research\nEvent page: https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0
+LOCATION:Sydney Smith - Doorway 1\, Medical School\, Teviot Place\, The University of Edinburgh\, Edinburgh\, EH8 9AG
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Day 0 of ARCHER2 CoS26 Championing Green Digital Research
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T164853Z
+UID:1768560320254-97749@ical.marudot.com
+DTSTART;TZID=Europe/London:20260420T133000
+DTEND;TZID=Europe/London:20260423T170000
+SUMMARY:ARCHER2 Training : Intermediate Software Development
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260420-int-sw-dev\n\nLocation: https://www.archer2.ac.uk/training/locations/manchester
+LOCATION:2.4 in Roscoe Building\, University of Manchester\, M13 9PL
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Training : Intermediate Software Development
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
