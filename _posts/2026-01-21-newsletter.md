@@ -243,6 +243,7 @@ No recent issues
 - [Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/), Online, Always open - self-service 
 - [Hands-on Introduction to HPC](https://www.archer2.ac.uk/training/courses/240000-intro-hpc-self-service/), Online, Always open - self-service     <br><br> 
 - [Data Carpentry](https://www.archer2.ac.uk/training/courses/260122-data-carpentry/), Cardiff, 22nd - 23rd January 2026 09:30 - 17:00
+- [Getting Started with ReFrame on ARCHER2](http://www.archer2.ac.uk/training/courses/260204-reframe-vt/), Online webinar, Wednesday 4th February 2026 15:00 - 16:00 
 - [Data Analysis and Visualisation in Python](http://www.archer2.ac.uk/training/courses/260223-analysis-visualisation-python/), Online, 23 - 24 February 2026 09:30 - 16:30
 - [GPU programming with kernels](http://www.archer2.ac.uk/training/courses/260225-gpu-kernels/), Online, 25 - 27 February 2026 10:00 - 16:00 
 - [Green software use on HPC](https://www.archer2.ac.uk/training/courses/260226-green-computing/), ATI London, 26 February 2026 10:00 - 15:30
