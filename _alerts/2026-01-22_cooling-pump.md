@@ -1,7 +1,7 @@
 ---
 status: Planned
 type: Service Alert
-start_date: 2026-01-22 08:30
+start_date: 2026-01-21 18:30
 end_date: 2026-01-22 16:30
 scope: ARCHER2 cooling
 impact: Low probability risk of requirement to throttle compute for ARCHER2 to reduce cooling load
