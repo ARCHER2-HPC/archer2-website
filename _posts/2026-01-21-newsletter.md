@@ -113,7 +113,7 @@ The two-day programme of ARCHER2 Celebration of Science 2026 will include:
 
 The International Collaboration Towards Net Zero Computational Modelling and Simulation (CONTINENTS), is hosting its next webinar on Wednesday the 28th of January at 15h00 UK time, and will be delivered by Ioan Hadade and Sebastian Milinski from the European Centre for Medium-Range Weather Forecasts, with the title "Destination Earth: The Climate Change Adaptation Digital Twin".
 
-The abstract and calendar invite can be found on our website: https://continents-project.github.io/
+[The abstract and calendar invite can be found on our website]( https://continents-project.github.io/)
 
 There is no registration needed, please re-share this event with your contacts.
 
