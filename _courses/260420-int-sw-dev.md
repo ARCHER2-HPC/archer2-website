@@ -69,7 +69,7 @@ After going through this course, participants will be able to:
 
 ### Prerequisites
 
-Before joining this training, participants should meet the following criteria. (You can use [this short quiz](https://carpentries-incubator.github.io/python-intermediate-development/quiz/index.html) to test your prerequisite knowledge.)
+Before joining this training, participants should meet the following criteria. (You can use [this short quiz](https://carpentries-incubator.github.io/python-intermediate-development/quiz.html) to test your prerequisite knowledge.)
 
 #### Git
 
