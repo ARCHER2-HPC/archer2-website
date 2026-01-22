@@ -210,7 +210,7 @@ If you are from a commercial organisation and wish to attend a particular course
 
  |  November 2025 - January 2026  |   February - April 2026  |
  | ---  |
- |           Data Analysis and Visualisation in Python <br>  GPU programming using directives <br> Data Carpentry <br>  Green Computing  <br> Using ARCHER2 efficiently    |  Reproducible research using containers  <br>  Introduction to Modern Fortran  <br>  GPU programming using directives  <br>  Intermediate Modern Fortran  <br>  GPU programming with kernels  <br>  Intermediate Research SW Dev  <br>  Modern C++ for Comp Scientists   |
+ |                Using ARCHER2 efficiently    |  Reproducible research using containers  <br>    GPU programming using directives  <br>  Intermediate Modern Fortran  <br>     Modern C++ for Comp Scientists   |
 
 
 
