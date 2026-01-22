@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 22nd - 23rd January 2026  09:30 - 17:00  
 start_date: 2026-01-22 09:00:00
 end_date: 2026-01-23 16:30:00
-trainers: Evgenij Belikov EPCC
+trainers: Evgenij Belikov EPCC, José Muñoz Criollo
 course_type: course
 registration_status: open
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260122-Data-Carpentry
@@ -88,7 +88,7 @@ To follow
 
 
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -109,7 +109,7 @@ To follow
     </div>
 		
 	
--->
+
  
 </section>
 
