@@ -46,13 +46,11 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
 
-<!--
 
-[Course timetable](https://github.com/ARCHER2-HPC/archer2-fortran-intro?tab=readme-ov-file#timetable)
+[Course timetable](https://epcced.github.io/2026-03-02-Fortran-intro/#schedule)
 
--->
+
 
 
 <section id="service">
@@ -68,7 +66,7 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/ARCHER2-HPC/archer2-fortran-intro   ">
+          href=" https://epcced.github.io/2026-03-02-Fortran-intro   ">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -86,7 +84,7 @@ Details to follow
  	</div>
 		
 		
-					
+				
 
 
 <!-- 		
