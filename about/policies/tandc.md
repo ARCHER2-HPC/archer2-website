@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Term and Conditions of Access
+title: Terms and Conditions of Access
 summary: 
 ---
 
