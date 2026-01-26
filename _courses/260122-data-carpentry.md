@@ -7,7 +7,7 @@ start_date: 2026-01-22 09:00:00
 end_date: 2026-01-23 16:30:00
 trainers: Evgenij Belikov EPCC, José Muñoz Criollo
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260122-Data-Carpentry
 location: Cardiff
 location_url: /training/locations/cardiff
