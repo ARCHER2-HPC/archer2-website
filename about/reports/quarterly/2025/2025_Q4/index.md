@@ -14,7 +14,7 @@ software.  This includes:
     * Disk usage, broken down by project;
 
 
-<!--
+
 
 ### ARCHER SP Service
 
@@ -27,4 +27,4 @@ software.  This includes:
 * [CSE Performance Report: Q4 2025](CSE_Report_4Q25.pdf)
 
 
--->
+
