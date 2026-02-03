@@ -73,7 +73,7 @@ Lunch will be provided on the day. The registration form provides the opportunit
 
 We would be happy to provide support for a few participants whose organisation/projects cannot cover their travel costs to attend the event Championing Green Digital Research only (Day 0 of the ARCHER2 Celebration of Science 2026) or to attend both the Day 0 and the following 2-day ARCHER2 event. 
 
-If you would like to apply for this travel support, please complete the [Travel Support Application Form](ARCHER2_CoS2026_Day0_Travel_Support_From.docx) and send it to the event organiser [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by Thursday 5 February. All applications will be reviewed after the given deadline and we aim to inform the results to you as soon as possible.
+If you would like to apply for this travel support, please complete the [Travel Support Application Form](ARCHER2_CoS2026_Day0_Travel_Support_From.docx) and send it to the event organiser [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Thursday 19 February**. All applications will be reviewed after the given deadline and we aim to inform the results to you as soon as possible.
 
 
 ## Draft Agenda
