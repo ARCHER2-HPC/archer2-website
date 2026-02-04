@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
+video: true
 ecse:
 ---
 
@@ -24,7 +24,7 @@ This webinar will introduce you to ReFrame, a regression testing framework used 
 - How you can use it to make your work on ARCHER2 smoother and more reliable.
 
 
-
+<!--
 
 <section id="service">
 
@@ -53,17 +53,17 @@ This webinar will introduce you to ReFrame, a regression testing framework used 
 
 </section>
 
+-->
 
-<!--
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/GY5cPun7cR8     " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/t9vW3p-IeMI     " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
--->
+
 
 
 
