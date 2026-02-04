@@ -9,7 +9,7 @@ categories: [news]
 
 - [ARCHER2 Capability Days: 3-5 March 2026]({{ page.url }}#archer2-capability-days-3-5-march-2026)
 - [Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026]({{ page.url }}#championing-green-digital-research-workshop---day-0-of-archer2-celebration-of-science-2026)
-- [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026) - Poster abstract **submission extended to 11 Feb 2026**
+- [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026) - Poster abstract **submission extended to 12 Feb 2026**
 - [Getting Started with ReFrame on ARCHER2]({{ page.url }}#getting-started-with-reframe-on-archer2), Free webinar, Wednesday 4th February 2026 15:00 - 16:00 
 - [Data Analysis and Visualisation in Python]({{ page.url }}#data-analysis-and-visualisation-in-python), Online, 23 - 24 February 2026 09:30 - 16:30 
 - [GPU programming with kernels]({{ page.url }}#gpu-programming-with-kernels), Online, 25 - 27 February 2026 10:00 - 16:00 
@@ -58,7 +58,7 @@ Registration is open now. **Travel support application is extended to 19 Februar
 
 ## ARCHER2 Celebration of Science 2026
 
-**Poster abstract submission extended to 11 Feb 2026**
+**Poster abstract submission extended to 12 Feb 2026**
 
 We are pleased to announce that [ARCHER2 Celebration of Science 2026](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/) will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh.
 
