@@ -9,7 +9,7 @@ categories: [news]
 
 - [ARCHER2 Capability Days: 3-5 March 2026]({{ page.url }}#archer2-capability-days-3-5-march-2026)
 - [Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026]({{ page.url }}#championing-green-digital-research-workshop---day-0-of-archer2-celebration-of-science-2026)
-- [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026) - Poster abstract submission due 5 Feb 2026
+- [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026) - Poster abstract **submission extended to 11 Feb 2026**
 - [Getting Started with ReFrame on ARCHER2]({{ page.url }}#getting-started-with-reframe-on-archer2), Free webinar, Wednesday 4th February 2026 15:00 - 16:00 
 - [Data Analysis and Visualisation in Python]({{ page.url }}#data-analysis-and-visualisation-in-python), Online, 23 - 24 February 2026 09:30 - 16:30 
 - [GPU programming with kernels]({{ page.url }}#gpu-programming-with-kernels), Online, 25 - 27 February 2026 10:00 - 16:00 
@@ -50,7 +50,7 @@ We are pleased to let you know the Championing Green Digital Research Workshop w
 
 The majority of people involved in research using digital research infrastructure (DRI) want to understand and reduce the emissions associated with their research activities to have a positive impact on the path to net zero emissions from research. The term DRI includes a very broad range of infrastructure from personal devices (smartphones, laptops, etc.), through high end servers (HPC and HTC systems) to commercial cloud computing resources. Although most people want to take action, they are hampered by a lack of understanding of the scale and source of DRI emissions, uncertain on what they can do in their day-to-day work, and find it difficult when challenged by colleagues or acquaintances who may be sceptical about taking action. This workshop will provide insight into and expand on recent efforts to understand what skills are needed to empower researchers and other digital research technical professionals to make and advocate for positive impact in using DRI for research.
 
-Registration is open now. Travel support application is due by 5 February 2026. 
+Registration is open now. **Travel support application is extended to 19 February 2026.**
 
 [Further details](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0 )
 
@@ -58,7 +58,7 @@ Registration is open now. Travel support application is due by 5 February 2026.
 
 ## ARCHER2 Celebration of Science 2026
 
-**Poster abstract submission due 5 Feb 2026**
+**Poster abstract submission extended to 11 Feb 2026**
 
 We are pleased to announce that [ARCHER2 Celebration of Science 2026](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/) will take place on the 19th - 20th March 2026 in Edinburgh at South Hall, The University of Edinburgh.
 
@@ -78,7 +78,7 @@ The two-day programme of ARCHER2 Celebration of Science 2026 will include:
 -    **ARCHER2 User Forum**: learn about the latest service updates and engage directly with the ARCHER2 team. 
 -    **Diversity Session**: an interactive session to discuss the equality, diversity and inclusion challenges related to the delivery of HPC services. 
 
-[Registration](https://forms.office.com/e/bYHMcP8KLc), and [Call for posters]({{ base-url }}/community/events/celebration-of-science-2026#call-for-posters)  is now open and poster abstract submission will be due by 5 February 2026.  [Full details here ](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/)
+[Registration](https://forms.office.com/e/bYHMcP8KLc), and [Call for posters]({{ base-url }}/community/events/celebration-of-science-2026#call-for-posters)  is now open and poster abstract submission extended to 11 February 2026.  [Full details here ](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/)
 
 
 ## Getting Started with ReFrame on ARCHER2
