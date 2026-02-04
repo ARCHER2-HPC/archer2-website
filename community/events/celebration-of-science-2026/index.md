@@ -107,7 +107,7 @@ The registration deadline is **26th February 2026.**
 
 ## Call for Posters 
 
-We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2026. The poster session and associated lightning talks have been highlights of previous Celebration of Science events, demonstrating the breadth of high-quality research from ARCHER2. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Thursday 5th February 2026.**
+We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2026. The poster session and associated lightning talks have been highlights of previous Celebration of Science events, demonstrating the breadth of high-quality research from ARCHER2. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) extended to **Thursday 12th February 2026.**
 
  
 
@@ -118,9 +118,9 @@ Posters should demonstrate your work on ARCHER2, showcasing the science outcomes
 
 ###    Submission Process and Key Dates 
 
--    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Thursday 5th February 2026**.  
+-    Please complete the [Poster Abstract Submission Form](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and send it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) extended to **Thursday 12th February 2026**.  
 -    All submissions received will be reviewed and the abstracts for the accepted posters will be published on the ARCHER2 website.  
--    Notifications of acceptance will be sent out by **Thursday 12th February 2026**.  
+-    Notifications of acceptance will be sent out by **Thursday 19th February 2026**.  
 -    An electronic version of your poster (PDF file) should be submitted to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) by **Wednesday 18th March 2026**.  
 -    Posters will be uploaded to the ARCHER2 repository on [Zenodo ](https://zenodo.org/communities/archer2). DOIs can be arranged as requested in your [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx).  
 
