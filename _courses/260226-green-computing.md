@@ -49,7 +49,20 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 #### Timetable:
 
-To follow
+| Time  | Episode            |
+|-------|--------------------|
+| 10:05 | Introduction       |
+| 10:15 | Carbon efficiency  |
+| 10:35 | Energy efficiency  |
+| 11:05 | Carbon awareness   |
+| 11:35 | Hardware efficiency |
+| 12:00 | Lunch (1 hour)     |
+| 13:00 | Measurement        |
+| 14:00 | Coffee break       |
+| 14:20 | Reducing emissions |
+| 15:00 | Next steps         |
+| 15:30 | End                |
+
 
 <section id="service">
 
@@ -64,7 +77,7 @@ To follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://github.com/EPCCed/2026-02-26_GreenHPC_Turing">
+          href="https://epcced.github.io/2026-02-26_GreenHPC_Turing/">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -78,10 +91,11 @@ To follow
         </a>
       </div>
 		
+-->
 
  	</div>
 					
--->
+
 
 <!-- 		
 <h2><a name="videos">Videos</a></h2>
