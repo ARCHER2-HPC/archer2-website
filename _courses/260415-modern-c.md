@@ -2,9 +2,9 @@
 layout: course
 title: Modern C++ for Computational Scientists
 banner: web_banners_05.jpg 
-human_dates: 15 - 16 April 2026 09:30 - 16:30  
+human_dates: 15 - 17 April 2026 09:30 - 16:30  
 start_date: 2026-04-15 09:30:00
-end_date: 2026-04-16 16:30:00
+end_date: 2026-04-17 16:30:00
 trainers: Nathan Mannall EPCC
 course_type: course
 registration_status: open
