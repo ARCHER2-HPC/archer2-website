@@ -208,9 +208,9 @@ If you are from a commercial organisation and wish to attend a particular course
 
 ## ARCHER2 year five planned courses
 
- |  November 2025 - January 2026  |   February - April 2026  |
+ |   February - April 2026  |
  | ---  |
- |                Using ARCHER2 efficiently    |  Reproducible research using containers  <br>     Intermediate Modern Fortran  <br>        |
+ | Using ARCHER2 efficiently<br>       Intermediate Modern Fortran  <br>        |
 
 
 
