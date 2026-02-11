@@ -26,7 +26,7 @@ Fortran (a contraction of Formula Translation) was the first programming languag
 
 This course provides an introduction to the basics of writing Fortran. It will cover basic syntax, variables, expressions and assignments, flow of control, and introductions to i/o and user-defined types. Common Fortran idioms are introduced and contrasted with those available in C-like languages; the course will try to focus on real usage rather than formal descriptions.
 
-At the end of the course you should be able to understand many Fortran programs and be confident to start to write well-structured and portable Fortran. Fortran is a rather "large" language, so it is not possible to cover all its features in a two day course. Further elements of Fortran are discussed in the "Intermediate Modern Fortran" course.
+At the end of the course you should be able to understand many Fortran programs and be confident to start to write well-structured and portable Fortran. Fortran is a rather "large" language, so it is not possible to cover all its features in a two or three day course. Further elements of Fortran are discussed in the "Intermediate Modern Fortran" course.
 
 
 #### Prerequisites:
