@@ -186,7 +186,7 @@ No recent issues
 - [Discrete element method simulations on national HPC facilities](https://www.archer2.ac.uk/training/courses/260415-dem-vt/), free webinar, Wednesday 15th April 2026 15:00 - 16:00 	More details and join link
 - [Modern C++ for Computational Scientists](https://www.archer2.ac.uk/training/courses/260415-modern-c/), Online, 	15 - 17 April 2026 09:30 - 16:30 
 - [Intermediate Research Software Development](https://www.archer2.ac.uk/training/courses/260420-int-sw-dev/), University of Manchester, 20 April 2026 13.30-17.00, 21 - 23 April 2026  09:30 - 17:00
-- [Learning (from) protein dynamics](https://www.archer2.ac.uk/training/courses/260422-protein-dynamics-vt/), free webinar, Wednesday 22nd April 2026 15:00 - 16:00 
+- [Learning (from) protein dynamics](https://www.archer2.ac.uk/training/courses/260429-protein-dynamics-vt/), free webinar, Wednesday 29th April 2026 15:00 - 16:00 
 
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
