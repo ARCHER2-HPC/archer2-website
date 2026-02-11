@@ -2,9 +2,9 @@
 layout: course
 title: Learning (from) protein dynamics
 banner: web_banners_05.jpg
-human_dates: Wednesday 22nd April 2026 15:00 - 16:00
-start_date: 2026-04-22 15:00:00
-end_date: 2026-04-22 16:00:00
+human_dates: Wednesday 29th April 2026 15:00 - 16:00
+start_date: 2026-04-29 15:00:00
+end_date: 2026-04-29 16:00:00
 trainers: Matteo Degiacomi, University of Edinburgh
 course_type: vt
 registration_status:
