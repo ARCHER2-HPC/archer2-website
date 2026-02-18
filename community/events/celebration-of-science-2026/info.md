@@ -79,7 +79,7 @@ banner: web_banners_07.jpg
 |Nick Brown (EPCC)| [MONC: Gaining greater insights into clouds and turbulent processes via GPUs](abstracts#10)|
 |James Panton (University of Cologne) - Remote|  [Blobs at the base of the mantle: Using HPC to uncover the evolutionary history of great geophysical structures](abstracts#11)|
 |Gabriele C. Sosso (University of Warwick)| [First Steps Toward Understanding Ice Formation in Plants](abstracts#12)|
-|Niamh O’Neill (Max Planck Institute for Polymer Research)| [To Pair or not to Pair? Machine-Learned Explicitly-Correlated Electronic Structure for NaCl in Water](abstracts#13)|
+|Niamh O’Neill (Max Planck Institute for Polymer Research)| [From Accurate Quantum Mechanics to Converged Thermodynamics for Ions in Solution with Machine Learning Potentials](abstracts#13)|
 
 
 
