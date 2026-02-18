@@ -17,9 +17,12 @@ banner: web_banners_07.jpg
 <a name="1"></a>
 ## Alexander Morozov (University of Edinburgh) 
 
-### TBC 
+### Narwhals and their blessings on ARCHER2 
 
-TBC 
+Solutions of long, flexible polymer molecules are complex fluids that simultaneously exhibit fluid-like and solid-like behaviour. When subjected to external flows, dilute polymer solutions develop elastic turbulence – a unique chaotic flow state absent in Newtonian fluids such as water. Unlike turbulence in Newtonian fluids, elastic turbulence arises from polymer stretching and alignment in the flow, and can occur even at vanishing inertia. While experimental realisations of elastic turbulence are well documented, its underlying mechanism remains poorly understood.
+
+Here, we present a perspective on the transition to elastic turbulence in pressure-driven channel flows, drawing on recent large-scale direct numerical simulations performed by our group. We outline our current understanding of the transition centred on two key building blocks: (i) narwhals, exact coherent states of the flow, and (ii) blessings, spatio-temporal intermittent states made up of several localised narwhal solutions. We will discuss the implications of these findings for the transition scenario.
+ 
 
  
 <a name="2"></a>
