@@ -123,9 +123,9 @@ Obtaining accurate predictions of thermodynamic properties, especially free ener
 
 I will begin by using NaCl in water as a prototypical example, highlighting short-comings with the work-horse method - density functional theory (DFT) - for ion pairing and transport properties, and approaches to go towards accurate correlated wavefunction descriptions [1]. I will then demonstrate a data-efficient approach to perform finite temperature simulations at the ’gold-standard’ CCSD(T) level. This approach has been applied to constant pressure simulations of liquid water, combined with nuclear quantum effects to enable agreement with experiments for structural and transport properties [2]. I further extend this framework to ions in solution, achieving excellent experimental agreement for the ion pair association free energy of CaCO3 in water - a challenging property for both classical force fields and DFT. This framework sets the stage for routine CCSD(T)-quality predictions for complex aqueous systems. 
 
-[1] O’Neill, N.; Shi, B. X.; Fong, K.; Michaelides, A.; Schran, C. To Pair or Not to Pair? Machine-Learned Explicitly-Correlated Electronic Structure for NaCl in Water. J. Phys. Chem. Lett. 2024, 15 (23), 6081–6091. https://doi.org/10.1021/acs.jpclett.4c01030. 
+[1] O’Neill, N.; Shi, B. X.; Fong, K.; Michaelides, A.; Schran, C. To Pair or Not to Pair? Machine-Learned Explicitly-Correlated Electronic Structure for NaCl in Water. J. Phys. Chem. Lett. 2024, 15 (23), 6081–6091. [https://doi.org/10.1021/acs.jpclett.4c01030](https://doi.org/10.1021/acs.jpclett.4c01030). 
 
-[2] O’Neill, N.; Shi, B. X.; Baldwin, W. J.; Witt, W. C.; Csányi, G.; Gale, J. D.; Michaelides, A.; Schran, C. Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water. J. Chem. Theory Comput. 2025, 21 (22), 11710–11720. https://doi.org/10.1021/acs.jctc.5c01377 
+[2] O’Neill, N.; Shi, B. X.; Baldwin, W. J.; Witt, W. C.; Csányi, G.; Gale, J. D.; Michaelides, A.; Schran, C. Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water. J. Chem. Theory Comput. 2025, 21 (22), 11710–11720. [https://doi.org/10.1021/acs.jctc.5c01377](https://doi.org/10.1021/acs.jctc.5c01377) 
 
  
 
