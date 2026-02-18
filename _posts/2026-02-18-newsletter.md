@@ -7,7 +7,7 @@ tags: [newsletters]
 categories: [news]
 ---
 
-- [Certificate renewal maintenance]({{ page.url }}#certificate-renewal-maintenace) - Tuesday March 10th from 0800 to midnight
+- [Certificate renewal maintenance]({{ page.url }}#certificate-renewal-maintenance) - Tuesday March 10th from 0800 to midnight
 - [ARCHER2 Capability Days: 3-5 March 2026]({{ page.url }}#archer2-capability-days-3-5-march-2026)
 - [Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026]({{ page.url }}#championing-green-digital-research-workshop---day-0-of-archer2-celebration-of-science-2026)
 - [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026) - Registration due by 26 February 2026
