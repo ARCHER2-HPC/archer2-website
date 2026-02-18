@@ -67,19 +67,22 @@ banner: web_banners_07.jpg
 
 | Speaker | Title  |
 | --- | --- |
-| Alexander Morozov (University of Edinburgh)| Purely elastic turbulence in pressure-driven channel flows |
-| Xin Zhou (University of Leeds) | Antarctic Vortex Dehydration in 2023 as a Substantial Removal Pathway for Hunga Tonga-Hunga Ha'apai Water Vapor |
-| Caitlin McAuley (EPSRC-UKRI) | ARCHER2 |
-|Marc A. Little (Heriot-Watt University) | Computationally guided synthesis of a hierarchical [4[2+3]+6] porous organic ‘cage of cages’ |
-|Nunzio Palumbo (Rolls-Royce) |  Towards Exascale Multiphysics Simulation of Sustainable Jet Engines Using Archer2 |
-| Paul Bartholomew (EPCC) | Implementing a portable GPU backend for x3d2 using OpenMP offloading |
-|TBC (University of Manchester) | Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL |
-| Paddy Roddy (UCL)| Porting GLASS to the Python Array API |
-|Ian Bush (STFC)| GCRYSTAL - A GPU enabled CRYSTAL|
-|Nick Brown (EPCC)| MONC: Gaining greater insights into clouds and turbulent processes via GPUs|
-|James Panton (University of Cologne) - Remote|  Blobs at the base of the mantle: Using HPC to uncover the evolutionary history of great geophysical structures|
-|Gabriele C. Sosso (University of Warwick)| First Steps Toward Understanding Ice Formation in Plants|
-|Niamh O’Neill (Max Planck Institute for Polymer Research)| To Pair or not to Pair? Machine-Learned Explicitly-Correlated Electronic Structure for NaCl in Water|
+| Alexander Morozov (University of Edinburgh)| [tbc](abstracts#1) |
+| Xin Zhou (University of Leeds) | [tbc](abstracts#2) |
+| Caitlin McAuley (EPSRC-UKRI) | [ARCHER2](abstracts#3) |
+|Marc A. Little (Heriot-Watt University) | [tbc](abstracts#4) |
+|Nunzio Palumbo (Rolls-Royce) |  [Towards Exascale Multiphysics Simulation of Sustainable Jet Engines Using Archer2](abstracts#5) |
+| Paul Bartholomew (EPCC) | [Implementing a portable GPU backend for x3d2 using OpenMP offloading](abstracts#6) |
+|TBC (University of Manchester) | [Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL](abstracts#7) |
+| Paddy Roddy (UCL)| [Porting GLASS to the Python Array API](abstracts#8) |
+|Ian Bush (STFC)| [GCRYSTAL - A GPU enabled CRYSTAL](abstracts#9)|
+|Nick Brown (EPCC)| [MONC: Gaining greater insights into clouds and turbulent processes via GPUs](abstracts#10)|
+|James Panton (University of Cologne) - Remote|  [Blobs at the base of the mantle: Using HPC to uncover the evolutionary history of great geophysical structures](abstracts#11)|
+|Gabriele C. Sosso (University of Warwick)| [First Steps Toward Understanding Ice Formation in Plants](abstracts#12)|
+|Niamh O’Neill (Max Planck Institute for Polymer Research)| [To Pair or not to Pair? Machine-Learned Explicitly-Correlated Electronic Structure for NaCl in Water](abstracts#13)|
+
+
+
 
 
 
