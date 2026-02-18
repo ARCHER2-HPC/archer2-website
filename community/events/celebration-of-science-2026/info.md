@@ -67,7 +67,7 @@ banner: web_banners_07.jpg
 
 | Speaker | Title  |
 | --- | --- |
-| Alexander Morozov (University of Edinburgh)| [tbc](abstracts#1) |
+| Alexander Morozov (University of Edinburgh)| [Narwhals and their blessings on ARCHER2](abstracts#1) |
 | Xin Zhou (University of Leeds) | [tbc](abstracts#2) |
 | Caitlin McAuley (EPSRC-UKRI) | [ARCHER2](abstracts#3) |
 |Marc A. Little (Heriot-Watt University) | [tbc](abstracts#4) |

@@ -162,5 +162,5 @@ If you have any questions about the ARCHER2 Celebration of Science, and/or for t
 
 ##  Agenda and event details
 
-To be available soon.
+[Draft Agenda](info)
 
