@@ -33,5 +33,6 @@ All feedback provided using the routes listed above is scored from 1 – 5 with 
 
 ## Escalations
 
-If you do not feel that your feedback has been satisfactorily addressed, please let us know by sending an email to either the Service Director, [Alan Simpson](mailto: a.simpson@epcc.ed.ac.uk)  or to his deputy [Lorna Smith](mailto: l.smith@epcc.ed.ac.uk).
+
+If you do not feel that your feedback has been satisfactorily addressed, please let us know by sending an email to the Director of HPC Services Director, [Josephine Beech-Brandt](mailto:j.beech-brandt@epcc.ed.ac.uk) 
 

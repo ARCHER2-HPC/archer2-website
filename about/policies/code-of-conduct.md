@@ -23,10 +23,7 @@ ARCHER2 values the involvement of everyone who engages and interacts with the se
 
 To make clear what is expected, everyone involved with and interacting with the ARCHER2 service is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by ARCHER2 including, but not limited to, workshops, email lists, and online forums such as GitHub and course chat pages. Event hosts and platform administrators are expected to assist with the enforcement of the Code of Conduct.
 
-The ARCHER2 management team is responsible for enforcing the Code of Conduct. They can be contacted by emailing either:
-
-- [Alan Simpson (ARCHER2 Service Director)](mailto:a.simpson@epcc.ed.ac.uk); or
-- [Lorna Smith (ARCHER2 Deputy Service Director)](mailto:l.smith@epcc.ed.ac.uk).
+The ARCHER2 management team is responsible for enforcing the Code of Conduct. They can be contacted by emailing: [Josephine Beech-Brandt  (Director of HPC Services)](mailto:j.beech-brandt@epcc.ed.ac.uk)
  
 All reports will be reviewed by managers and will be kept confidential.
 
