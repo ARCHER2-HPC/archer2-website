@@ -22,18 +22,18 @@ banner: web_banners_07.jpg
 
 - 09:30 - 10:00 Day 1 Register and Welcome Coffee
 - 10:00 - 10:10 Welcome from EPCC
-- 10:10 - 11:25 Talk Session 1 
+- 10:10 - 11:25 [Talk Session 1](#confirmed-speakers-and-talk-titles) 
     - 10:10 - 10:35 Alexander Morozov (University of Edinburgh)
     - 10:35 - 11:00 Xin Zhou (University of Leeds)
     - 11:00 - 11:25 Caitlin McAuley (EPSRC-UKRI) 
 - 11:25 - 11:45 Coffee Break 
-- 11:45 - 12:35 Talk Session 2
+- 11:45 - 12:35 [Talk Session 2](#confirmed-speakers-and-talk-titles)
     - 11:45 - 12:10 Marc A. Little (Heriot-Watt University)
     - 12:10 - 12:35 Nunzio Palumbo (Rolls-Royce)
 - 12:35 - 13:30 Lunch
 - 13:30 - 14:45 Interactive session
 - 14:45 - 15:00 Coffee break
-- 15:00 - 16:15 Talk Session 3 (GPU-eCSE talks)
+- 15:00 - 16:15 [Talk Session 3 (GPU-eCSE talks)](#confirmed-speakers-and-talk-titles)
     - 15:00 - 15:15 Paul Bartholomew (EPCC, University of Edinburgh)
     - 15:15 - 15:30 TBC (University of Manchester) 
     - 15:30 - 15:45 Paddys Roddy (UCL) 
@@ -51,7 +51,7 @@ banner: web_banners_07.jpg
 - 08:30 - 09:00 Day 2 Arrival Coffee
 - 09:00 - 10:00 User Forum (Hybrid Session)
 - 10:00 - 10:10 Mini Break
-- 10:10 - 11:25 Talk Session 4
+- 10:10 - 11:25 [Talk Session 4](#confirmed-speakers-and-talk-titles)
     - 10:10 - 10:35 James Panton (University of Cologne) - Remote
     - 10:35 - 11:00 Gabriele C. Sosso (University of Warwick)
     - 11:00 - 11:25 Niamh O’Neill (Max Planck Institute for Polymer Research)
@@ -63,7 +63,7 @@ banner: web_banners_07.jpg
 - 15:45 - 16:00 ARCHER2 Celebration of Science 2026 wrap-up
 - 16:00 Day 2 Finish
 
-## Confirmed  speakers and talk titles
+## Confirmed speakers and talk titles
 
 | Speaker | [Title (click on title to read abstract)](abstracts#talk-abstracts)  |
 | --- | --- |
