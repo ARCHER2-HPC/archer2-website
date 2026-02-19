@@ -6,7 +6,7 @@ banner: web_banners_07.jpg
 ---
 
 <p align="center">
-<img src="./img/260319-celebration-of-science-with-date.jpg"  alt="Celebration of Science" style="width: 80%">
+<a href="./"><img src="./img/260319-celebration-of-science-with-date.jpg"  alt="Celebration of Science" style="width: 80%"></a>
 </p>
 <br>
 
@@ -28,10 +28,25 @@ Here, we present a perspective on the transition to elastic turbulence in pressu
 <a name="2"></a>
 ## Xin Zhou (University of Leeds) 
 
-### TBC 
+### Quantifying the long-term decay of Hunga stratospheric water vapour using chemistry transport modelling on ARCHER2 
 
-TBC 
+High-performance computing on ARCHER2 (and predecessor machines) has played a central role in advancing global atmospheric chemistry modelling that is essential for understanding changes in air quality and climate. It has underpinned a wide range of studies in our group using in the TOMCAT 3-D chemical transport model (CTM) (tomcat.leeds.ac.uk/tomcat), including quantification of greenhouse gases emissions, the impact of ozone-depleting substances and recent work on the global impacts of the 2022 Hunga volcanic eruption. 
 
+The eruption of Hunga (20°S) injected an unprecedented amount (150 Tg) of water vapour into the stratosphere. Using global 3-D TOMCAT simulations on ARCHER2 and satellite observations, we have quantified the removal pathways, long-term decay, and ozone impacts of the additional H2O. We showed (Zhou et al., GRL, 2024) that Antarctic polar stratospheric cloud (PSC) dehydration during winter 2023 caused the first substantial (~20 Tg) removal of Hunga H2O from the stratosphere. Additional springtime ozone depletion due to H2O-related chemistry was small and maximised at the vortex edge (10 DU in column). Efficient ice cloud dehydration in the core of the vortex limited the impact of the additional H2O. With extended observations we further demonstrated (Zhou et al., Communications Earth & Environment, 2026) a pronounced decline from 2024 to early 2025, the largest drop since the eruption, indicating that the perturbation has entered a new decay phase in which stratosphere–troposphere exchange increasingly dominates over PSC dehydration. We constrained the effective e-folding residence time of the perturbation at approximately 9 years. 
+
+We will also show other high-profile examples of TOMCAT modelling enabled by Archer which has addressed major global pollution issues. We used model simulations of the ozone-layer-depleting chlorofluorocarbon CFC-11 to quantify regional contributions to the mid-2010s reversal in the global declining trend (Montzka et al., Nature, 2021). We have also used model simulations in conjunction with satellite observations to quantify the release of methane from the sabotaged Nord Stream pipeline in 2022 (Harris et al., Nature, 2025). 
+
+Together, these studies illustrate how national HPC infrastructure such as ARCHER2 is critical for addressing major challenges in atmospheric composition, climate, and environmental change. 
+
+References 
+
+Harris, S.J., et al., Methane emissions from the Nord Stream subsea pipeline leaks, Nature, 637, 1124-1130, [doi:10.1038/s41586-024-08396-8](https://www.nature.com/articles/s41586-024-08396-8), 2025. 
+
+Montzka, S.A., G.S. Dutton, R.W. Portmann, M.P. Chipperfield, et al., A decline in global CFC-11 emissions during 2018−2019, Nature, 590, 428-432, [doi:10.1038/s41586-021-03260-5](https://www.nature.com/articles/s41586-021-03260-5), 2021. 
+
+Zhou, X. S.S. Dhomse, W. Feng, G. Mann, S. Heddell, H. Pumphrey, et al., Antarctic vortex dehydration in 2023 as a substantial removal pathway for Hunga Tonga-Hunga Ha’apai water vapor, Geophysical Research Letters, 51, [e2023GL107630, doi:10.1029/2023GL107630](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107630), 2024. 
+
+Zhou, X., Q. Chen, W. Feng, S. Heddell, S.S. Dhomse, G. Mann, H.C. Pumphrey, et al., Residence time of Hunga stratospheric water vapour perturbation quantified at 9 years. Communications Earth & Environment, [doi:10.1038/s43247-026-03216-5](https://www.nature.com/articles/s43247-026-03216-5), 2026. 
  
 <a name="3"></a>
 ## Caitlin McAuley (EPSRC-UKRI) 
