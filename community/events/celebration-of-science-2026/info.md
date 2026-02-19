@@ -40,7 +40,7 @@ banner: web_banners_07.jpg
     - 15:45 - 16:00 Ian Bush (STFC) 
     - 16:00 - 16:15 Nick Brown (EPCC, University of Edinburgh) 
 - 16:15 - 16:30 Coffee break
-- 16:30 - 18:00 Lightning Talk Session 
+- 16:30 - 18:00 [Lightning Talk Session](#lightning-talks) 
 - 18:00 - 19:30 Poster Session / Drink Reception
 - 19:30 Day 1 Finish
 
