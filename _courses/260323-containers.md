@@ -2,7 +2,7 @@
 layout: course
 title: Reproducible computational environments using containers&colon; introduction to Docker and Singularity
 banner: web_banners_05.jpg 
-human_dates: 23 - 24 March 2026 
+human_dates: 23 - 24 March 2026 10:00 - 16:00
 start_date: 2026-03-23 10:00:00
 end_date: 2026-03-24 16:00:00
 trainers: Juan Herrera EPCC
