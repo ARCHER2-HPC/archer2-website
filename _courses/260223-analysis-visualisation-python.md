@@ -7,7 +7,7 @@ start_date: 2026-02-23 09:30:00
 end_date: 2026-02-24 16:30:00
 trainers: Juan Herrera, Arno Proeme (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260223-analysis-visualisation-py
 location: Online
 location_url:
@@ -140,7 +140,7 @@ Tuesday 24th February
 
 -->
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -161,7 +161,7 @@ Tuesday 24th February
       </div>
     </div>
 		
--->
+
  
 </section>
 
