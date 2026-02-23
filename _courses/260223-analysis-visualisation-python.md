@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 23 - 24 February 2026  09:30 - 16:30  
 start_date: 2026-02-23 09:30:00
 end_date: 2026-02-24 16:30:00
-trainers: Arno Proeme (EPCC)
+trainers: Juan Herrera, Arno Proeme (EPCC)
 course_type: course
 registration_status: open
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260223-analysis-visualisation-py
