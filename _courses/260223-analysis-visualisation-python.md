@@ -122,23 +122,27 @@ Tuesday 24th February
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/ITKYqV0Sf1U  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--
+
 <h3>Session 3</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/JbnbeQhlndg  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 
 
 <h3>Session 4</h3>
 
+Unfortunately, Session 4 was not recorded.  <br>
+Here is a recording from a previous run of the course
+<br><br>
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/g0azi9MHbEs " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
--->
+
 
 
 
