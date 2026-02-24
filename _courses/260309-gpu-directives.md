@@ -1,6 +1,6 @@
 ---
 layout: course
-title: GPU programming using directives
+title: GPU programming using OpenMP
 banner: web_banners_05.jpg 
 human_dates: 9, 11,13,16 and 18 March 2026  10:00 - 12:00  
 start_date: 2026-03-09 10:00:00
