@@ -7,7 +7,7 @@ start_date: 2026-02-26 10:00:00
 end_date: 2026-02-26 15:30:00
 trainers: Andy Turner (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260226-green-computing
 location: The Alan Turing Institute, British Library, London, 
 location_url: https://www.archer2.ac.uk/training/locations/ati.html
