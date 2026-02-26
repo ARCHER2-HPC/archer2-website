@@ -7,7 +7,7 @@ start_date: 2026-02-25 10:00:00
 end_date: 2026-02-27 16:00:00
 trainers: Juan Herrera EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260225-gpu-kernels
 location: Online
 location_url:
@@ -127,7 +127,6 @@ The first two days will be theory + hands-on. The third day will be more hands-o
 
 
 
-<!--
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -148,7 +147,7 @@ The first two days will be theory + hands-on. The third day will be more hands-o
     </div>
 		
 
--->
+
  
 </section>
 
