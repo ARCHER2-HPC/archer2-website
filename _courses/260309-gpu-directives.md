@@ -38,16 +38,13 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
 
-<!--
+-	GPU Programming APIs, GPU Architecture (David). Mon, 9 March.
+-	Introduction to OpenMP, Data Movement (Luca). Wed, 11 March.
+-	Advanced Topics, Performance Optimisation (Michael). Fri, 13 March.
+-	OpenACC, Practical Support/Demos (Mark). Mon, 16 March.
+-	Exercises/Drop-in Session (Luca, Mark). Wed, 18 March.
 
--     Tue 22nd April: GPU programming APIs, GPU Architecture (David)
--     Thu 24th April:  Introduction to OpenMP, Data movement (William)
--     Mon 28th April: Advanced Topics, Performance (Michael, Luca)
--     Wed 30th April:  OpenACC, Practical support/demos (Mark, Luca) 
-
--->
 
 <section id="service">
 
