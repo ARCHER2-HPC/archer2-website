@@ -96,16 +96,16 @@ The first two days will be theory + hands-on. The third day will be more hands-o
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/bLFMe0_SOww  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!--
+
 
 <h3>Day 2 </h3>
 
 <h3>Session 3</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/FzQoyAjuaEg  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<!--
 <h3>Session 4</h3>
 
 <div>
