@@ -59,9 +59,16 @@ TBC
 <a name="4"></a>
 ## Marc A. Little (Heriot-Watt University) 
 
-### TBC 
+### Designing Functional Crystals with Optimal Pore Structures  
 
-TBC 
+This presentation will focus on the computational design and experimental discovery of porous organic molecular materials,[1]including selectively porous organic crystals.[2] I will demonstrate how we have developed organic cages and macrocycles as building blocks for the assembly of porous materials, including covalent organic frameworks,[3] hydrogen-bonded organic frameworks,[4] porous organic cages,[5] and metal-organic polyhedra.[6] In one of these studies, I will show how computational design enabled us to predict the structure and properties of a hierarchical ‘cage‑of‑cages’ assembly (see Scheme), which can be crystallised into a porous solid.[5] Furthermore, I will demonstrate how the combination of computational design with digital tools that can screen material properties, including porosity[7] and powder X-ray diffraction patterns[8], can accelerate materials discovery. 
+
+<p align="center">
+<a href="./"><img src="./img/talk4.jpg"  alt="Celebration of Science" style="width: 60%"></a>
+</p>
+
+
+References.  [1] Ad. Funct. Mater. 2020, 30, 1909842. [2] Science, 2019, 366, 613. [3] J. Am. Chem. Soc. 2020, 142, 16842. [4] J. Am. Chem. Soc. 2023, 145, 23352. [5] Nat. Synth. 2024, 3, 825. [6] J. Am. Chem. Soc. 2024, 146, 17438. [7] Angew. Chem. Int. Ed.2025, 137, e202510400. [8] Nat. Comput. Sci. 2021, 1, 290.  
 
  
 <a name="5"></a>
@@ -81,7 +88,7 @@ TBC
 
  
 <a name="7"></a>
-## TBC (University of Manchester) 
+## Benedict D. Rogers/Chunze Cen (University of Manchester) 
 
 ### Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL  
 

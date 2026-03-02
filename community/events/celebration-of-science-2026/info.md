@@ -35,7 +35,7 @@ banner: web_banners_07.jpg
 - 14:45 - 15:00 Coffee break
 - 15:00 - 16:15 [Talk Session 3 (GPU-eCSE talks)](#confirmed-speakers-and-talk-titles)
     - 15:00 - 15:15 Paul Bartholomew (EPCC, University of Edinburgh)
-    - 15:15 - 15:30 TBC (University of Manchester) 
+    - 15:15 - 15:30 Benedict D. Rogers/Chunze Cen (University of Manchester) 
     - 15:30 - 15:45 Paddys Roddy (UCL) 
     - 15:45 - 16:00 Ian Bush (STFC) 
     - 16:00 - 16:15 Nick Brown (EPCC, University of Edinburgh) 
@@ -70,7 +70,7 @@ banner: web_banners_07.jpg
 | Alexander Morozov (University of Edinburgh)| [Narwhals and their blessings on ARCHER2](abstracts#1) |
 | Xin Zhou (University of Leeds) | [Quantifying the long-term decay of Hunga stratospheric water vapour using chemistry transport modelling on ARCHER2](abstracts#2) |
 | Caitlin McAuley (EPSRC-UKRI) | [ARCHER2](abstracts#3) |
-|Marc A. Little (Heriot-Watt University) | [tbc](abstracts#4) |
+|Marc A. Little (Heriot-Watt University) | [Designing Functional Crystals with Optimal Pore Structures](abstracts#4) |
 |Nunzio Palumbo (Rolls-Royce) |  [Towards Exascale Multiphysics Simulation of Sustainable Jet Engines Using Archer2](abstracts#5) |
 | Paul Bartholomew (EPCC) | [Implementing a portable GPU backend for x3d2 using OpenMP offloading](abstracts#6) |
 |Benedict D. Rogers/Chunze Cen (University of Manchester) | [Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL](abstracts#7) |
@@ -97,14 +97,14 @@ banner: web_banners_07.jpg
 | 4 |	Dylan Green, University of Oxford |	[Wake Dynamics of Floating Offshore Wind Turbines](#p4) |
 | 5 |	Timothy Rafferty, University of Oxford |	[Wind farms, understanding the gravity of their atmospheric interactions ](#p5)|
 | 6 |	Valeria Mascolo, NCAS, Department of Meteorology, University of Reading |	[Sampling a North Atlantic Tipping Point: Rare-Event Algorithms in UKESM on ARCHER2](#p6) |
-| 7 |	Nick Brown, EPCC, University of Edinburgh |	[CAKE: Better connecting and coordinating global Digital Research Infrastructure](#p7) |
+| 7 |	James Richings, EPCC, University of Edinburgh |	[Reframe: Test on a postcard ](#p7) |
 | 8 |	Amy Davis, Queen’s University Belfast |	[Investigating electron dynamics in the transition from the weak laser-field to the strong laser-field regime](#p8) |
 | 9 |	Jundi He, Department of Mechanical and Aerospace Engineering, The University of Manchester |	[Development of a turbulence generator based on improved synthetic eddy method (iSEM) and volumetric source term](#p9) |
 | 10 |	Evgenij Belikov, EPCC, University of Edinburgh |	[Understanding weather and climate dynamics using high-resolution global cloud resolving models](#p10) |
 | 11 |	Rong Wei, University of Edinburgh |	[The structural dynamics and barocaloric response of organic ionic plastic crystals](#p11) |
 | 12 |	Martin Plummer, STFC Scientific Computing |	[Controlling multi-region multi-layered parallelisation for R-matrix with time-dependence, double ionisation](#p12) |
 | 13 |	Chi Cheng (Cecilia) Hong, University of Edinburgh |	[Conformational Isomerism Tunes Refrigeration Potential in Metal Organic Frameworks](#p13) |
-| 14 |	Laura Moran, EPCC, University of Edinburgh |	[DRI-focussed training for research facilitators and teams (DRIFT)](#p14) |
+| 14 |	Laura Moran/Anna Roubickova, EPCC, University of Edinburgh |	[DRI-focussed training for research facilitators and teams (DRIFT)](#p14) |
 | 15 |	Benjamin Speake, UKRI Science and Technology Facilities Council |	[Highly coarse-grained polarisable water models for mesoscopic simulations](#p15) |
 | 16 |	Diego Renner, Imperial College |	[From Kernels to Solvers: Performance-Portable High-Order PDE Simulation in Nektar++](#p16) |
 | 17 |	Kevin Stratford, EPCC, University of Edinburgh |	[An investigation of Powersched on ARCHER2](#p17) |
@@ -112,13 +112,15 @@ banner: web_banners_07.jpg
 | 19 |	Holly Lavery, Queen’s University Belfast |	[Computational modelling of Neon High-Harmonic Generation](#p19) |
 | 20 |	Amir Miresmaeili, University of Edinburgh |	[Scalable Pipeline for Analysis of Resting-State EEG Spectral Biomarkers in Aging and Neurodegeneration](#p20) |
 | 21 |	Ashutosh Shankarrao Londhe, Queen’s University Belfast |	[Re-engineering FLAMENCO, a Low-Mach Fully Compressible Steady Turbulent Flow Solver, with OPS-DSL for Performance Portability across Diverse HPC Architectures](#p21) |
-| 22 |	Dan Hodson, NCAS, University of Reading |	[The Atlantic Meridional Overturning Circulation: Exploring sensitivity to model resolution using ARCHER2](#p22) |
+| 22 |	Annette Osprey, NCAS, University of Reading |	[The Atlantic Meridional Overturning Circulation: Exploring sensitivity to model resolution using ARCHER2](#p22) |
 | 23 |	Alexandra Munro, University of St Andrews |	[Bayesian Fitting of Quasiparticle Interference](#p23) |
 | 24 |	David Henty, EPCC, University of Edinburgh |	[The Art of the Exercise: Development of Parallel Programming Exercises for EPCC Courses](#p24) |
 | 25 |	Yiyun Raynold Tan, STFC Hartree |	[Cross-platform GPU Implementation of OpenFOAM Using Only ISO C++ standard parallelism](#p25) |
 | 26 |	Juan Carlos Juan Carlos, NCAS |	[Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN](#p26) |
-
-
+| 27 | Lorna Smith, EPCC, University of Edinburgh | [The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe](#p27) |
+| 28 | Lorna Smith, EPCC, University of Edinburgh |  [Environmental Sustainability at the Advanced Computing Facility](#p28) |
+| 29 |	Nick Brown, EPCC, University of Edinburgh |	[CAKE: Better connecting and coordinating global Digital Research Infrastructure](#p29) |
+| 30 | Francisco Duran del Fierro, University College London  | [Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures](#p30) |
 
 
 ## Lightning Talk Abstracts
@@ -250,11 +252,10 @@ report initial implementation and performance
 tests.
 
 <a name="p7"></a>
-### 7		CAKE: Better connecting and coordinating global Digital Research Infrastructure
-Nick Brown, EPCC, University of Edinburgh
+### 7		Reframe: Test on a postcard 
+James Richings, EPCC, University of Edinburgh 
 
-CAKE aims to better connect the UK’s Digital Research Infrastructure (DRI). Based on the observation that there is a lot happening in the UK, but it is not always well coordinated, this network aims to act as a conduit to help ensure that teams can more effectively work together, share results, and showcase their expertise both nationally and globally. 
-This poster at the ARCHER2 celebration of science will enable us to share with the ARCHER2 community the existence of CAKE and how we can help them undertake knowledge exchange, highlight some of the wider activities in the UK DRI programme that they could leverage, some of the on-going CAKE initiatives such as the EDI working group, and lastly to share some of our current opportunities for funding including knowledge exchange fellowships and support for undertaking placements.
+One of the ways we try to ensure the health of our HPC services is to perform automated testing via Reframe. These tests help us to verify systems perform effectively for users throughout their lifetime through the periodic running of applications and benchmarks.  While we have a good breadth of tests it's difficult to track if these are representative of the user community. The idea of this poster is to get users to write a test that they think is valuable for their work on a postcard so we can see if our test cover the type of work our users run on the system.
 
 
 <a name="p8"></a>
@@ -340,7 +341,7 @@ My research use ab initio molecular dynamics to further understand the effects o
 
 <a name="p14"></a>
 ### 14		DRI-focussed training for research facilitators and teams (DRIFT)
-Laura Moran, EPCC, University of Edinburgh
+Laura Moran/Anna Roubickova, EPCC, University of Edinburgh
 
 
 Digital Research Infrastructure (DRI) is now ubiquitous in research. It has revolutionised the way that we conduct research, pervading all aspects of the research lifecycle. From the use of large-scale computing for machine-learning and big data, to the management of experiments for record keeping and reproducibility, research is powered by the software and hardware that have become vital for modern researchers. This requires new skills and forms of research collaboration, as research supported by DRI aims at larger scales and interdisciplinary collaboration.
@@ -442,7 +443,7 @@ reacting flows.
 
 <a name="p22"></a>
 ### 22		The Atlantic Meridional Overturning Circulation: Exploring sensitivity to model resolution using ARCHER2
-Dan Hodson, NCAS, University of Reading
+Annette Osprey, NCAS, University of Reading
 
 The Atlantic Meridional Overturning Circulation (AMOC) is an important ocean current that transports warm water poleward, maintaining the temperate climate of the North Atlantic. However, as rising greenhouse gas concentrations warm the climate, the AMOC is projected to weaken. This reduction in heat transport may have profound consequences, including colder winters and disrupted global rainfall patterns.
 Despite this, the exact mechanism and magnitude of this weakening remain poorly understood. Additionally, standard climate models have a comparatively coarse spatial resolution that fails to capture the observed structure of  ocean currents of the northern Atlantic. Modelling studies suggest that the AMOC’s sensitivity is highly dependent on how well these features are resolved. To accurately simulate these processes and bridge the gap between models and reality, high-performance computing (HPC) platforms like ARCHER2 are necessary for the high-resolution, long-term simulations required
@@ -531,3 +532,43 @@ data management practices for Tier-1
 supercomputing environments and provides a
 practical approach for handling the increasing data
 demands of contemporary simulation workloads.
+
+<a name="p27"></a>
+### 27		The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe
+Lorna Smith, EPCC, University of Edinburgh
+
+The €10m (£8.6m) UK AI Factory Antenna (UKAIFA) is one of thirteen Antenna projects funded across Europe to expand the development of their national Artificial Intelligence (AI) ecosystems. These projects are designed to complement and enhance the existing European AI Factories, which provide large AI specific supercomputers and associated services across Europe. 
+ 
+Led by the European High Performance Computing Joint Undertaking (EuroHPC JU), EPCC’s UKAIFA is collaborating with the HammerHAI AI Factory, based at and coordinated by the High-Performance Computing Center Stuttgart (HLRS), Germany’s first National Supercomputing Centre, in partnership with a consortium of leading German academic research centres.
+ 
+UKAIFA is funded to support the UK’s growing demand for Artificial Intelligence adoption. The project will expand the use of AI across a wide range of organisations and stakeholders in the UK, focussing on start-ups, SMEs, larger industrial companies and the public sector (with a particular focus on AI for health). HLRS and HammerHAI will aim to work with its local manufacturing, engineering, and research sectors on better harnessing the power of AI. 
+ 
+The Antenna will offer a range of services, including Expertise and support on efficient use of AI-technologies, training and knowledge exchange, resource access and hosting, sharing, and curation of relevant datasets. 
+
+<a name="p28"></a>
+### 28		Environmental Sustainability at the Advanced Computing Facility
+Lorna Smith, EPCC, University of Edinburgh
+
+The Advanced Computing Facility is the High Performance Computing data centre of EPCC. It is one of Europe’s largest research computing data centres and is acknowledged by the AI and HPC community as a global leading supercomputing site.
+ 
+EPCC is committed to ensuring that this global leading data centre is also a global leader in environmental sustainability. EPCC is committed to ensuring the ACF reduces it’s carbon footprint and contributes to the University of Edinburgh being zero carbon by 2040. 
+ 
+This poster will present a range of initiatives being carried out at the ACF to improved environment sustainability including cooling infrastructure improvements; energy efficiency of systems; monitoring and biodiversity.  
+
+
+
+<a name="p29"></a>
+### 29		CAKE: Better connecting and coordinating global Digital Research Infrastructure
+Nick Brown, EPCC, University of Edinburgh
+
+CAKE aims to better connect the UK’s Digital Research Infrastructure (DRI). Based on the observation that there is a lot happening in the UK, but it is not always well coordinated, this network aims to act as a conduit to help ensure that teams can more effectively work together, share results, and showcase their expertise both nationally and globally. 
+This poster at the ARCHER2 celebration of science will enable us to share with the ARCHER2 community the existence of CAKE and how we can help them undertake knowledge exchange, highlight some of the wider activities in the UK DRI programme that they could leverage, some of the on-going CAKE initiatives such as the EDI working group, and lastly to share some of our current opportunities for funding including knowledge exchange fellowships and support for undertaking placements.
+
+
+<a name="p30"></a>
+### 30		Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures
+Francisco Duran del Fierro, University College London 
+
+The national coordination of Digital Research Infrastructures (DRIs) has become essential for supporting investments in large-scale computing, both at the exascale level and in AI. However, this work is inherently interdisciplinary and cross-sectoral. A critical challenge lies in bridging communities with distinctive epistemic cultures – i.e., diverse ways of knowing, reasoning, and doing.
+
+Drawing on a sociological-cultural and future-thinking approach, this paper presents initial findings on the social and cultural challenges shaping the national federation of DRIs. It first reports results from a national survey that mapped the emergence of competing values in relation to the present and future of the national federation of DRIs. It then presents six tensions along two axes that emerged from interviews with active, inactive, and potential DRI users across academia, industry and public sector. The power axis includes tensions between centralization and decentralization, invisibility and visibility, and privacy and surveillance. The epistemic axis includes tensions between uncertainty and certainty, empowerment and disempowerment, and unity and disunity. Building on these tensions through a futures-thinking methodology, the paper introduces a set of future scenarios that can be used to inform policy discussions and recommendations.
