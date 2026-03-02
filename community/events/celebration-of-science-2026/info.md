@@ -121,6 +121,7 @@ banner: web_banners_07.jpg
 | 28 | Lorna Smith, EPCC, University of Edinburgh |  [Environmental Sustainability at the Advanced Computing Facility](#p28) |
 | 29 |	Nick Brown, EPCC, University of Edinburgh |	[CAKE: Better connecting and coordinating global Digital Research Infrastructure](#p29) |
 | 30 | Francisco Duran del Fierro, University College London  | [Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures](#p30) |
+| 31 | Kieran Leach, EPCC, University of Edinburgh | [UKRI Research Data Landscape Survey](#p31)
 
 
 ## Lightning Talk Abstracts
@@ -572,3 +573,11 @@ Francisco Duran del Fierro, University College London
 The national coordination of Digital Research Infrastructures (DRIs) has become essential for supporting investments in large-scale computing, both at the exascale level and in AI. However, this work is inherently interdisciplinary and cross-sectoral. A critical challenge lies in bridging communities with distinctive epistemic cultures – i.e., diverse ways of knowing, reasoning, and doing.
 
 Drawing on a sociological-cultural and future-thinking approach, this paper presents initial findings on the social and cultural challenges shaping the national federation of DRIs. It first reports results from a national survey that mapped the emergence of competing values in relation to the present and future of the national federation of DRIs. It then presents six tensions along two axes that emerged from interviews with active, inactive, and potential DRI users across academia, industry and public sector. The power axis includes tensions between centralization and decentralization, invisibility and visibility, and privacy and surveillance. The epistemic axis includes tensions between uncertainty and certainty, empowerment and disempowerment, and unity and disunity. Building on these tensions through a futures-thinking methodology, the paper introduces a set of future scenarios that can be used to inform policy discussions and recommendations.
+
+
+<a name="p31"></a>
+### 31		UKRI Research Data Landscape Survey
+Kieran Leach, EPCC, University of Edinburgh
+
+Using desk research, a survey, and follow up interviews, we aim to generate a preliminary UK research data landscape. This includes what data is being generated, how and where this data is stored, who can access that data and the experiences, barriers and challenges faced by the data creators and those that provide services to store and distribute this data. The outputs from this project will go on to inform the National Federated Compute Services (NFCS) to help them develop a road map as to how UKRI funded compute services might be federated, including data sources and sinks, to best benefit the research community.
+
