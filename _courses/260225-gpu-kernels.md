@@ -14,7 +14,7 @@ location_url:
 prace_course: false
 audience: [  developer]
 level: [ advanced ]
-video: 
+video: true
 ---
 
 
@@ -77,7 +77,7 @@ The first two days will be theory + hands-on. The third day will be more hands-o
 		
 		
 				
-<!--
+
 
  		
 <h2><a name="videos">Videos</a></h2>
@@ -87,16 +87,16 @@ The first two days will be theory + hands-on. The third day will be more hands-o
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/q-DVNVRYBoA  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h3>Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/bLFMe0_SOww  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+<!--
 
 <h3>Day 2 </h3>
 
