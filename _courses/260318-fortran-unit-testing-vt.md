@@ -16,7 +16,9 @@ video:
 ecse:
 ---
 
-In this webinar we will cover Fortran Unit Testing Tools: PFunit and Fortuno
+This webinar will describe two unit testing frameworks that target Fortran applications. 
+
+The longstanding pFUnit and more recent Fortuno frameworks.
 
 
 This online session is open to all. It will use the Blackboard Collaborate platform.
