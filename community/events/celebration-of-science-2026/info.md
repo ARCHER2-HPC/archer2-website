@@ -117,11 +117,12 @@ banner: web_banners_07.jpg
 | 24 |	David Henty, EPCC, University of Edinburgh |	[The Art of the Exercise: Development of Parallel Programming Exercises for EPCC Courses](#p24) |
 | 25 |	Yiyun Raynold Tan, STFC Hartree |	[Cross-platform GPU Implementation of OpenFOAM Using Only ISO C++ standard parallelism](#p25) |
 | 26 |	Juan Carlos Juan Carlos, NCAS |	[Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN](#p26) |
-| 27 | Lorna Smith, EPCC, University of Edinburgh | [The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe](#p27) |
-| 28 | Lorna Smith, EPCC, University of Edinburgh |  [Environmental Sustainability at the Advanced Computing Facility](#p28) |
-| 29 |	Nick Brown, EPCC, University of Edinburgh |	[CAKE: Better connecting and coordinating global Digital Research Infrastructure](#p29) |
-| 30 | Francisco Duran del Fierro, University College London  | [Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures](#p30) |
-| 31 | Kieran Leach, EPCC, University of Edinburgh | [UKRI Research Data Landscape Survey](#p31)
+| 27 | Anirvinya Samanyu Tirumala, UKAEA / University of Oxford | [Modelling the effects of Irradiation Damage on Materials for Fusion](#p27)  | 
+| 28 | Lorna Smith, EPCC, University of Edinburgh | [The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe](#p28) |
+| 29 | Lorna Smith, EPCC, University of Edinburgh |  [Environmental Sustainability at the Advanced Computing Facility](#p29) |
+| 30 |	Nick Brown, EPCC, University of Edinburgh |	[CAKE: Better connecting and coordinating global Digital Research Infrastructure](#p30) |
+| 31 | Francisco Duran del Fierro, University College London  | [Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures](#p31) |
+| 32 | Kieran Leach, EPCC, University of Edinburgh | [UKRI Research Data Landscape Survey](#p32)
 
 
 ## Lightning Talk Abstracts
@@ -534,8 +535,19 @@ supercomputing environments and provides a
 practical approach for handling the increasing data
 demands of contemporary simulation workloads.
 
+
 <a name="p27"></a>
-### 27		The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe
+### 27   Modelling the effects of Irradiation Damage on Materials for Fusion
+Anirvinya Samanyu Tirumala, UKAEA / University of Oxford
+
+We are currently facing a dilemma: our energy demands are continually increasing, while the urgency to reduce emissions due to climate concerns is more pressing than ever. Nuclear fusion presents a promising solution to this challenge, with the potential to provide clean electricity and minimal radioactive waste. However, one of the greatest obstacles in developing large-scale nuclear fusion reactors is designing materials capable of withstanding the extreme conditions within the reactor core. 
+
+This study employs high-fidelity molecular dynamics (MD) simulations to model the microstructural evolution of materials under a wide range of irradiation conditions. While MD simulations generate high-dimensional datasets, the macroscopic properties relevant to engineering applications reside in a much lower-dimensional space. Although these simulations can be mapped to engineering-scale properties using characterisation algorithms, understanding how these properties evolve with simulation conditions remains a significant challenge. 
+
+We present both a physics-informed and a data-driven approach to begin addressing this challenge. In the physics-informed framework, we parameterise a simplified model based on physical intuition, focusing on a single parameter: void content. The simplicity of this model facilitates straightforward upscaling to higher-level frameworks, such as finite element models (FEM), enabling practical engineering applications. However, extending this type of physics-based modelling to capture all macroscopic properties of interest is not feasible. Therefore, we adopt a data-driven approach, employing dimensionality reduction techniques and a vector autoregressive (VAR) model to investigate and characterise the evolution of the macroscopic properties. 
+
+<a name="p28"></a>
+### 28		The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe
 Lorna Smith, EPCC, University of Edinburgh
 
 The €10m (£8.6m) UK AI Factory Antenna (UKAIFA) is one of thirteen Antenna projects funded across Europe to expand the development of their national Artificial Intelligence (AI) ecosystems. These projects are designed to complement and enhance the existing European AI Factories, which provide large AI specific supercomputers and associated services across Europe. 
@@ -546,8 +558,8 @@ UKAIFA is funded to support the UK’s growing demand for Artificial Intelligenc
  
 The Antenna will offer a range of services, including Expertise and support on efficient use of AI-technologies, training and knowledge exchange, resource access and hosting, sharing, and curation of relevant datasets. 
 
-<a name="p28"></a>
-### 28		Environmental Sustainability at the Advanced Computing Facility
+<a name="p289></a>
+### 29		Environmental Sustainability at the Advanced Computing Facility
 Lorna Smith, EPCC, University of Edinburgh
 
 The Advanced Computing Facility is the High Performance Computing data centre of EPCC. It is one of Europe’s largest research computing data centres and is acknowledged by the AI and HPC community as a global leading supercomputing site.
@@ -558,16 +570,16 @@ This poster will present a range of initiatives being carried out at the ACF to 
 
 
 
-<a name="p29"></a>
-### 29		CAKE: Better connecting and coordinating global Digital Research Infrastructure
+<a name="p30"></a>
+### 30		CAKE: Better connecting and coordinating global Digital Research Infrastructure
 Nick Brown, EPCC, University of Edinburgh
 
 CAKE aims to better connect the UK’s Digital Research Infrastructure (DRI). Based on the observation that there is a lot happening in the UK, but it is not always well coordinated, this network aims to act as a conduit to help ensure that teams can more effectively work together, share results, and showcase their expertise both nationally and globally. 
 This poster at the ARCHER2 celebration of science will enable us to share with the ARCHER2 community the existence of CAKE and how we can help them undertake knowledge exchange, highlight some of the wider activities in the UK DRI programme that they could leverage, some of the on-going CAKE initiatives such as the EDI working group, and lastly to share some of our current opportunities for funding including knowledge exchange fellowships and support for undertaking placements.
 
 
-<a name="p30"></a>
-### 30		Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures
+<a name="p31"></a>
+### 31		Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures
 Francisco Duran del Fierro, University College London 
 
 The national coordination of Digital Research Infrastructures (DRIs) has become essential for supporting investments in large-scale computing, both at the exascale level and in AI. However, this work is inherently interdisciplinary and cross-sectoral. A critical challenge lies in bridging communities with distinctive epistemic cultures – i.e., diverse ways of knowing, reasoning, and doing.
@@ -575,8 +587,8 @@ The national coordination of Digital Research Infrastructures (DRIs) has become 
 Drawing on a sociological-cultural and future-thinking approach, this paper presents initial findings on the social and cultural challenges shaping the national federation of DRIs. It first reports results from a national survey that mapped the emergence of competing values in relation to the present and future of the national federation of DRIs. It then presents six tensions along two axes that emerged from interviews with active, inactive, and potential DRI users across academia, industry and public sector. The power axis includes tensions between centralization and decentralization, invisibility and visibility, and privacy and surveillance. The epistemic axis includes tensions between uncertainty and certainty, empowerment and disempowerment, and unity and disunity. Building on these tensions through a futures-thinking methodology, the paper introduces a set of future scenarios that can be used to inform policy discussions and recommendations.
 
 
-<a name="p31"></a>
-### 31		UKRI Research Data Landscape Survey
+<a name="p32"></a>
+### 32		UKRI Research Data Landscape Survey
 Kieran Leach, EPCC, University of Edinburgh
 
 Using desk research, a survey, and follow up interviews, we aim to generate a preliminary UK research data landscape. This includes what data is being generated, how and where this data is stored, who can access that data and the experiences, barriers and challenges faced by the data creators and those that provide services to store and distribute this data. The outputs from this project will go on to inform the National Federated Compute Services (NFCS) to help them develop a road map as to how UKRI funded compute services might be federated, including data sources and sinks, to best benefit the research community.
