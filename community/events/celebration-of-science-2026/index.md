@@ -31,7 +31,9 @@ We are pleased to announce ARCHER2 Celebration of Science 2026 will take place o
 
 There will also be a <a href="https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0">Day 0 workshop: <b>Championing Green Digital Research</b></a> which will take place at Sydney Smith - Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG, on Wednesday 18 March 2026, as the Day 0 of the ARCHER2 Celebration of Science 2026.
 
+Registration is now closed.
 
+<!--
 <section id="service">
 
     <div class="row ">	
@@ -46,6 +48,7 @@ There will also be a <a href="https://www.archer2.ac.uk/community/events/celebra
  	</div>
 
 </section>
+-->
 
 The event is in-person and there is no registration fee. 
 
@@ -91,6 +94,7 @@ The two-day programme of ARCHER2 Celebration of Science 2026 will include:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8938.63510169289!2d-3.1696381!3d55.9379531!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b880c677627b%3A0x35e0a7189a01b57c!2sSouth%20Hall%20Complex%2C%20Pollock%20Halls%2C%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1699281768140!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+<!--
 <section id="service">
 
     <div class="row ">	
@@ -106,13 +110,20 @@ The two-day programme of ARCHER2 Celebration of Science 2026 will include:
 
 </section>
 
-The registration deadline is **26th February 2026.** 
 
+The registration deadline is **26th February 2026.** 
+-->
+
+Registration is now closed.
 
 ## Call for Posters 
 
-We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2026. The poster session and associated lightning talks have been highlights of previous Celebration of Science events, demonstrating the breadth of high-quality research from ARCHER2. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) extended to **Thursday 12th February 2026.**
+The Call for Posters has now closed
 
+<!--
+
+We would like to invite the ARCHER2 community to submit posters for presentation at the ARCHER2 Celebration of Science 2026. The poster session and associated lightning talks have been highlights of previous Celebration of Science events, demonstrating the breadth of high-quality research from ARCHER2. Please complete the [Poster Abstract Submission Form ](ARCHER2_Celebration_of_Science_Poster_2026_Abstract_Submission_Form.docx) and email it to [events@archer2.ac.uk](mailto:events@archer2.ac.uk) extended to **Thursday 12th February 2026.**
+-->
  
 
 ###   Poster Contents 
@@ -162,7 +173,7 @@ If you have any questions about the ARCHER2 Celebration of Science, and/or for t
 
 ## Previous events
 
-[Previous events can be found here.](https://www.archer2.ac.uk/community/events/#previous-events).
+[Previous events can be found here](https://www.archer2.ac.uk/community/events/#previous-events).
 
 ##  Agenda and event details
 
