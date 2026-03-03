@@ -7,7 +7,7 @@ start_date: 2026-03-24 10:00:00
 end_date: 2026-03-25 16:00:00
 trainers: William Lucas EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260302-modern-fortran
 location: Online
 location_url: 
@@ -130,7 +130,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -141,7 +141,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=260302-modern-fortran"
+		   href="../../feedback/?course=260302-modern-fortran"
 
 
 		>
@@ -152,7 +152,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
 		
--->
+
  
 </section>
 
