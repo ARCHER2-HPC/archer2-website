@@ -116,7 +116,7 @@ banner: web_banners_07.jpg
 | 23 |	Alexandra Munro, University of St Andrews |	[Bayesian Fitting of Quasiparticle Interference](#p23) |
 | 24 |	David Henty, EPCC, University of Edinburgh |	[The Art of the Exercise: Development of Parallel Programming Exercises for EPCC Courses](#p24) |
 | 25 |	Yiyun Raynold Tan, STFC Hartree |	[Cross-platform GPU Implementation of OpenFOAM Using Only ISO C++ standard parallelism](#p25) |
-| 26 |	Juan Carlos Juan Carlos, NCAS |	[Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN](#p26) |
+| 26 |	Juan Carlos  Bilbao-Ludena, National Centre for Atmospheric Science |	[Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN](#p26) |
 | 27 | Anirvinya Samanyu Tirumala, UKAEA / University of Oxford | [Modelling the effects of Irradiation Damage on Materials for Fusion](#p27)  | 
 | 28 | Lorna Smith, EPCC, University of Edinburgh | [The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe](#p28) |
 | 29 | Lorna Smith, EPCC, University of Edinburgh |  [Environmental Sustainability at the Advanced Computing Facility](#p29) |
@@ -497,7 +497,7 @@ We demonstrate performance using the icoFoam and simpleFoam solvers across four 
 
 <a name="p26"></a>
 ### 26		Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN
-Juan Carlos Juan Carlos, NCAS
+Juan Carlos Bilbao-Ludena, National Centre for Atmospheric Science
 
 Large-scale simulations executed on ARCHER2
 produce substantial data volumes that must be
