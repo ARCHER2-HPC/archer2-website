@@ -3,8 +3,8 @@ layout: course
 title: Introduction to Modern Fortran
 banner: web_banners_05.jpg 
 human_dates: 2 - 4 March 2026  10:00 - 16:00  GMT
-start_date: 2026-03-24 10:00:00
-end_date: 2026-03-25 16:00:00
+start_date: 2026-03-02 10:00:00
+end_date: 2026-03-04 16:00:00
 trainers: William Lucas EPCC
 course_type: course
 registration_status: closed
