@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Championing Green Digital Research
-summary:  Wednesday 18th March 2026, 10:30am - 5pm
+summary:  Wednesday 18th March 2026, 10:30am - 4.45pm
 banner: web_banners_07.jpg
 ---
 
