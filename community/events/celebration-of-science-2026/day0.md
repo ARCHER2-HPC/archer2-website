@@ -94,13 +94,15 @@ All applications will be reviewed after the given deadline and we aim to inform 
 
 ## Draft Agenda
 
--    10:30 - 11:00 Registration / Welcome coffee
--    11:00 - 12:30 Session 1  
--    12:30 - 13:30 Lunch
--    13:30 - 15:00 Session 2
--    15:00 - 15:30 Coffee break
--    15:30 - 17:00 Session 3
--    17:00 Finish
+- 10:30 - 11:00 Registration / Welcome coffee
+- 11:00 - 12:30 Session 1
+- 12:30 - 13:20 Lunch
+- 13:20 - 14:20 Session 2
+- 14:20 - 14:45 Coffee break
+- 14:45 - 16:00 Session 3
+- 16:00 - 16:45 Discussion
+- 16:45 Finish
+
 
 
 ## About the Organisers
