@@ -11,11 +11,24 @@ banner: web_banners_07.jpg
 <br>
 
 
- 
-[Map to venue, and event information](./index#registration)
+
+<section id="service">
+
+    <div class="row ">	
+ 		
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="./index#registration">
+          Map to venue, <br>and event information     
+        </a>
+      </div>
+
+ 	</div>
+
+</section>
 
 
-# Draft Agenda
+# Agenda
 
 ## Day 1: Thursday 19th March 2026
 
@@ -36,7 +49,7 @@ banner: web_banners_07.jpg
 - 15:00 - 16:15 [Talk Session 3 (GPU-eCSE talks)](#confirmed-speakers-and-talk-titles)
     - 15:00 - 15:15 Paul Bartholomew (EPCC, University of Edinburgh)
     - 15:15 - 15:30 Benedict D. Rogers/Chunze Cen (University of Manchester) 
-    - 15:30 - 15:45 Paddys Roddy (UCL) 
+    - 15:30 - 15:45 Paddy Roddy (UCL) 
     - 15:45 - 16:00 Ian Bush (STFC) 
     - 16:00 - 16:15 Nick Brown (EPCC, University of Edinburgh) 
 - 16:15 - 16:30 Coffee break
