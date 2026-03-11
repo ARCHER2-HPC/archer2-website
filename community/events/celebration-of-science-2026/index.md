@@ -54,7 +54,20 @@ The event is in-person and there is no registration fee.
 
 ##  Agenda and event details
 
-[Draft Agenda](info)
+<section id="service">
+
+    <div class="row ">	
+ 		
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-green" 
+          href="info">
+          Agenda     
+        </a>
+      </div>
+
+ 	</div>
+
+</section>
 
 ## What to expect at ARCHER2 Celebration of Science 
 
@@ -177,5 +190,5 @@ If you have any questions about the ARCHER2 Celebration of Science, and/or for t
 
 ##  Agenda and event details
 
-[Draft Agenda](info)
+[Agenda](info)
 
