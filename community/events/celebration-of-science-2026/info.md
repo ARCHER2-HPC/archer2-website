@@ -59,7 +59,7 @@ banner: web_banners_07.jpg
 - 11:40 - 12:10 Prof. Mark Parsons (EPCC, University of Edinburgh) - Keynote
 - 12:10 - 13:00 Panel Session
 - 13:00 - 14:00 Lunch
-- 14:00 - 15:45 NetworkPlus Session
+- 14:00 - 15:45 Digital Research Landscape - Projects, Skills and Resources Session
 - 15:45 - 16:00 ARCHER2 Celebration of Science 2026 wrap-up
 - 16:00 Day 2 Finish
 
