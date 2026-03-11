@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20250410T142247Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1765372739418-64107@ical.marudot.com
+DTSTART;TZID=Europe/London:20260226T100000
+DTEND;TZID=Europe/London:20260226T153000
+SUMMARY:ARCHER2 Training:  Green Software use on HPC
+DESCRIPTION:Event page:  https://www.archer2.ac.uk/training/courses/260226-green-computing/\n\nLocation: https://www.archer2.ac.uk/training/locations/ati.html
+LOCATION:The Alan Turing Institute\, 2QR\, 96 Euston Rd\, London NW1 2DB
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Training:  Green Software use on HPC
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1769078168550-56008@ical.marudot.com
+DTSTART;TZID=Europe/London:20260302T100000
+RRULE:FREQ=DAILY;COUNT=3
+DTEND;TZID=Europe/London:20260302T160000
+SUMMARY:ARCHER2 Introduction to Modern Fortran
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/b9d2c004f0514c6a886619858516212e\n\nEvent page: https://www.archer2.ac.uk/training/courses/260302-modern-fortran
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Introduction to Modern Fortran
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1770728991817-46065@ical.marudot.com
+DTSTART;TZID=Europe/London:20260311T150000
+DTEND;TZID=Europe/London:20260311T160000
+SUMMARY:ARCHER2 Revealing hidden nanobubble behaviour with Molecular Dynamics simulations
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260311-nanobubbles-vt/\n\nJoin link: https://eu.bbcollab.com/guest/73ba319ea47b412590ecb7f3c1e5f909
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Revealing hidden nanobubble behaviour with Molecular Dynamics simulations
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1772552243962-17619@ical.marudot.com
+DTSTART;TZID=Europe/London:20260318T150000
+DTEND;TZID=Europe/London:20260318T160000
+SUMMARY:ARCHER2 Fortran Unit Testing Tools webinar
+DESCRIPTION:Join link: https://eu.bbcollab.com/guest/d9f1b81df22a416fb69bf56059cf951e\n\nEvent page: https://www.archer2.ac.uk/training/courses/260318-fortran-unit-testing-vt
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Fortran Unit Testing Tools webinar
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1760519014201-21156@ical.marudot.com
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260321
+SUMMARY:ARCHER2 Celebration of Science 2026
+URL:https://www.archer2.ac.uk/community/events/celebration-of-science-2026/
+DESCRIPTION:ARCHER2 Celebration of Science
+LOCATION:South Hall\, Pollock Halls\, The University of Edinburgh\, 18 Holyrood Park Road\, Edinburgh EH16 5AY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Celebration of Science 2026
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1773236748262-44388@ical.marudot.com
+DTSTART;TZID=Europe/London:20260320T090000
+DTEND;TZID=Europe/London:20260320T100000
+SUMMARY:ARCHER2 User Forum - part of Celebration of Science 2026
+DESCRIPTION:Join link for remote participants: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU3YmIxMGQtYjI2ZC00YzY0LWI3MWYtNTVlOWM0NjgyMDJk%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2247e2af98-d1d1-41a6-8645-33d33795c9e5%22%7d\n\nEvent page: https://www.archer2.ac.uk/training/courses/260320-user-forum/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 User Forum - part of Celebration of Science 2026
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1770741836525-42662@ical.marudot.com
+DTSTART;TZID=Europe/London:20260323T100000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20260323T160000
+SUMMARY:ARCHER2 Reproducible computational environments using containers: introduction to Docker and Singularity
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260323-containers/ \n\nJoin link:    https://eu.bbcollab.com/guest/ae7f6944a4dd47b88c876af8f7101999 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Reproducible computational environments using containers: introduction to Docker and Singularity
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1770395900043-51913@ical.marudot.com
+DTSTART;TZID=Europe/London:20260415T093000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20260415T163000
+SUMMARY:ARCHER2: Modern C++ for Computational Scientists
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260415-modern-c/\n\nJoin link: https://eu.bbcollab.com/guest/22dfda0b9c244e19a220bd884a189578
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Modern C++ for Computational Scientists
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1770729146014-84514@ical.marudot.com
+DTSTART;TZID=Europe/London:20260415T150000
+DTEND;TZID=Europe/London:20260415T160000
+SUMMARY:ARCHER2 Discrete element method simulations on national HPC facilities
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260415-dem-vt/\n\nJoin link: https://eu.bbcollab.com/guest/8c520d8e386c416e828946375e81636d
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Discrete element method simulations on national HPC facilities
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1771516982774-14044@ical.marudot.com
+DTSTART;TZID=Europe/London:20260422T100000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20260422T170000
+SUMMARY:ARCHER2 Message Passing Programming with MPI
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260422-mpi\n\nLocation: https://www.archer2.ac.uk/training/locations/imperial
+LOCATION:Lecture Theatre 414\, Roderic Hill Building\, South Kensington Campus\, London\, SW7 2AZ
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Message Passing Programming with MPI
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1770829081259-82601@ical.marudot.com
+DTSTART;TZID=Europe/London:20260422T150000
+DTEND;TZID=Europe/London:20260422T160000
+SUMMARY:ARCHER2 HEC-WSI: From GPU-Accelerated OpenFOAM to High-Fidelity Modelling of Offshore Floating Wind Turbines
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260422-wsi-vt/\n\nJoin link: https://eu.bbcollab.com/guest/311c582a6d50444d89d78d7122f83556
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 HEC-WSI: From GPU-Accelerated OpenFOAM to High-Fidelity Modelling of Offshore Floating Wind Turbines
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1770818478127-75304@ical.marudot.com
+DTSTART;TZID=Europe/London:20260427T100000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=Europe/London:20260427T120000
+SUMMARY:ARCHER2: Workflows
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260427-workflows\n\nJoin link: https://eu.bbcollab.com/guest/e3cadb20379c4bb69ec214350b48ad10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2: Workflows
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1770729356935-53055@ical.marudot.com
+DTSTART;TZID=Europe/London:20260429T150000
+DTEND;TZID=Europe/London:20260429T160000
+SUMMARY:ARCHER2 Learning (from) protein dynamics
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260429-protein-dynamics-vt/\n\nJoin link: https://eu.bbcollab.com/guest/0c98d84dbc5044028afc496d21a487b8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Learning (from) protein dynamics
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1771516998028-29879@ical.marudot.com
+DTSTART;TZID=Europe/London:20260501T100000
+DTEND;TZID=Europe/London:20260501T123000
+SUMMARY:ARCHER2 Message Passing Programming with MPI - follow up session
+DESCRIPTION:Event page: https://www.archer2.ac.uk/training/courses/260422-mpi\n\nJoin link: https://eu.bbcollab.com/guest/b9c2a405913f4a179a930e2b2c4bccb7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Message Passing Programming with MPI - follow up session
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T134604Z
+UID:1771512533046-33870@ical.marudot.com
+DTSTART;TZID=Europe/London:20260513T150000
+DTEND;TZID=Europe/London:20260513T160000
+SUMMARY:ARCHER2 Webinar : Shaken\, not stirred! Influence of external vibration on phase change
+DESCRIPTION:Event page: http://archer2.ac.uk/training/courses/260513-shaken-vt/\n\nJoin link: https://eu.bbcollab.com/guest/57c261a877484049834e237118cfe0f6
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARCHER2 Webinar : Shaken, not stirred! Influence of external vibration on phase change
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

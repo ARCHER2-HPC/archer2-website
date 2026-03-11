@@ -62,7 +62,7 @@ banner: web_banners_07.jpg
 ## Day 2: Friday 20th March 2026
 
 - 08:30 - 09:00 Day 2 Arrival Coffee
-- 09:00 - 10:00 User Forum ([Hybrid Session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU3YmIxMGQtYjI2ZC00YzY0LWI3MWYtNTVlOWM0NjgyMDJk%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2247e2af98-d1d1-41a6-8645-33d33795c9e5%22%7d "Link to join Remote session"))
+- 09:00 - 10:00 [User Forum](https://www.archer2.ac.uk/training/courses/260320-user-forum/) - ([Hybrid Session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU3YmIxMGQtYjI2ZC00YzY0LWI3MWYtNTVlOWM0NjgyMDJk%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2247e2af98-d1d1-41a6-8645-33d33795c9e5%22%7d "Link to join Remote session"))
 - 10:00 - 10:10 Mini Break
 - 10:10 - 11:25 [Talk Session 4](#confirmed-speakers-and-talk-titles)
     - 10:10 - 10:35 James Panton (University of Cologne) - Remote
