@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
+video: true
 ecse:
 ---
 
@@ -29,7 +29,7 @@ Beyond cavitation, we have been using ARCHER2 to critically investigate the lead
 
 
 
-
+<!--
 
 <section id="service">
 
@@ -58,17 +58,17 @@ Beyond cavitation, we have been using ARCHER2 to critically investigate the lead
 
 </section>
 
+-->
 
-<!--
+
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/GY5cPun7cR8     " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/36y0aqiQrG8       " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
--->
 
 
 
