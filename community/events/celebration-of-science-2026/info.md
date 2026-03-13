@@ -104,7 +104,7 @@ banner: web_banners_07.jpg
 ## Lightning Talks
 
 | ID | Poster presenter | Poster title 
-| 1 |	Arun Srikanth Sridhar, Heriot Watt University |	[Molecular Dynamics Investigation of Crosslink Density Effects in Poly (vinyl alcohol) Hydrogel](#p1) | 
+| 1 |	*withdrawn* | 
 | 2 |	David Lewis, University of Liverpool |	[New, high-performance algorithms for the computation of the Hardy Function](#p2) |
 | 3 |	Ivan Tolkachev, University of Oxford |	[Irradiation tolerance of nanocrystalline Fe and FeCr: Large scale atomistic simulations and matched experiments](#p3) |
 | 4 |	Dylan Green, University of Oxford |	[Wake Dynamics of Floating Offshore Wind Turbines](#p4) |
@@ -126,7 +126,7 @@ banner: web_banners_07.jpg
 | 20 |	Amir Miresmaeili, University of Edinburgh |	[Scalable Pipeline for Analysis of Resting-State EEG Spectral Biomarkers in Aging and Neurodegeneration](#p20) |
 | 21 |	Ashutosh Shankarrao Londhe, Queen’s University Belfast |	[Re-engineering FLAMENCO, a Low-Mach Fully Compressible Steady Turbulent Flow Solver, with OPS-DSL for Performance Portability across Diverse HPC Architectures](#p21) |
 | 22 |	Annette Osprey, NCAS, University of Reading |	[The Atlantic Meridional Overturning Circulation: Exploring sensitivity to model resolution using ARCHER2](#p22) |
-| 23 |	Alexandra Munro, University of St Andrews |	[Bayesian Fitting of Quasiparticle Interference](#p23) |
+| 23 |	*withdrawn* |
 | 24 |	David Henty, EPCC, University of Edinburgh |	[The Art of the Exercise: Development of Parallel Programming Exercises for EPCC Courses](#p24) |
 | 25 |	Yiyun Raynold Tan, STFC Hartree |	[Cross-platform GPU Implementation of OpenFOAM Using Only ISO C++ standard parallelism](#p25) |
 | 26 |	Juan Carlos  Bilbao-Ludena, National Centre for Atmospheric Science |	[Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN](#p26) |
@@ -143,16 +143,10 @@ banner: web_banners_07.jpg
   
 
 <a name="p1"></a>
-### 1		Molecular Dynamics Investigation of Crosslink Density Effects in Poly (vinyl alcohol) Hydrogel
-Arun Srikanth Sridhar, Heriot Watt University
+### 1		
 
-Crosslink density is a key structural parameter governing the physical behavior of polymer hydrogels, yet its molecular-level influence on network structure and dynamics remains incompletely understood. In this ongoing study, atomistic molecular dynamics simulations are employed to investigate the effects of crosslink density in poly(vinyl alcohol) (PVA) hydrogels.
+*withdrawn*
 
-Network models are constructed across a controlled range of crosslink densities while preserving chemical composition and stoichiometry. Simulations are performed in the anhydrous state to isolate intrinsic network behavior independent of solvent-mediated effects. The objective is to systematically quantify how increasing constraint density alters local packing, segmental mobility, free volume characteristics, and thermophysical response.
-
-Structural analysis will include radial distribution functions and hydrogen-bond characterization to assess changes in intermolecular organization with increasing crosslink concentration. Dynamic properties will be evaluated using mean-squared displacement and time-correlation functions to examine the suppression of segmental relaxation as network constraints increase. Temperature-dependent simulations are being conducted to assess trends in glass transition behavior, and equilibrium Green–Kubo methods are planned to explore potential changes in thermal conductivity associated with enhanced connectivity.
-
-By establishing a consistent computational framework for varying crosslink density, this work aims to provide molecular-level insight into structure–dynamics relationships in PVA hydrogels and to clarify how network constraint density governs polymer relaxation and thermophysical behavior.
 
 
 <a name="p2"></a>
@@ -467,28 +461,9 @@ We present two sets of experiments using both standard and high resolution versi
 
 
 <a name="p23"></a>
-### 23		Bayesian Fitting of Quasiparticle Interference
-Alexandra Munro, University of St Andrews
+### 23		
+*withdrawn*
 
-Quasiparticle interference (QPI) imaging via scanning
-tunnelling microscopy (STM) is a powerful
-technique to probe the low-energy electronic structure of
-quantum materials. QPI can probe both occupied and
-unoccupied states and operate at temperatures well below
-1K, making it invaluable for studying low-energy electronic
-excitations in quantum materials and allowing
-determination of the superconducting order parameter.
-However, interpretation of QPI data is non-trivial.
-Extracting physically meaningful parameters, such as
-hopping amplitudes in tight- binding models or spin-orbit
-coupling strengths, requires fitting theoretical models to
-experimental QPI patterns. This fitting is typically
-performed manually, a process that is both time-consuming
-and prone to subjectivity. Bayesian inference would provide
-an assumption free method to fit QPI data. Specifically,
-using a Markov Chain Monte Carlo (MCMC) framework to
-estimate model parameters directly from experimental QPI
-datasets.
 
 <a name="p24"></a>
 ### 24		The Art of the Exercise: Development of Parallel Programming Exercises for EPCC Courses
