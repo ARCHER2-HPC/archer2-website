@@ -14,6 +14,7 @@ banner: web_banners_05.jpg
 * [University of Cambridge](cambridge)
 * [Cardiff University](cardiff)
 * [Culham Science Centre](culham)
+* [STFC Daresbury Laboratory](daresbury)
 * [Durham University](durham)
 * [Edinburgh Napier University](napier-merchiston)
 * [University of Edinburgh, Charteris Land](edinburgh-charteris-land)
