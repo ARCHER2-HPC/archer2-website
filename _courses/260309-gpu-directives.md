@@ -7,7 +7,7 @@ start_date: 2026-03-09 10:00:00
 end_date: 2026-03-18 12:00:00
 trainers: David Henty, William Lucas, Michael Bareford, Mark Bull, Luca Parisi
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260309-gpu-directives
 location: Online
 location_url:
@@ -110,7 +110,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 -->
 
-<!--
+
  
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -130,7 +130,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
 		
--->
+
  
 </section>
 
