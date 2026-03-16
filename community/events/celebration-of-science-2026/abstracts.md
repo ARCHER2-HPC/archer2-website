@@ -76,7 +76,7 @@ References.  [1] Ad. Funct. Mater. 2020, 30, 1909842. [2] Science, 2019, 366, 61
 
 ### Towards Exascale Multiphysics Simulation of Sustainable Jet Engines Using Archer2 
 
-TBC 
+This presentation explores large multiphysics simulation for virtual certification of complete sustainable jet engines toward exascale computing. It concentrates on a few large scale test cases demonstrating the integration of complex physical processes for high-fidelity modelling of next generation propulsion systems. These developments are supported through the UK EPSCRC Strategic partnership in computational science for Advanced Simulation and Modelling of Virtual Systems (ASIMOV) and more recently the Virtual Exascale Calculations to Transform Aviation Prosperity Partnership (VECTA), which advance simulation capabilities for future aerospace propulsion. The technologies are enabled by the computational power of UK National Supercomputer, ARCHER2 operated by EPCC for UK Research and Innovation at the Advanced Computing Facility in Edinburgh, providing the large scale HPC infrastructure underpinning this work.  
 
  
 <a name="6"></a>
