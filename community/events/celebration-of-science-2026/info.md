@@ -131,7 +131,7 @@ banner: web_banners_07.jpg
 | 25 |	Yiyun Raynold Tan, STFC Hartree |	[Cross-platform GPU Implementation of OpenFOAM Using Only ISO C++ standard parallelism](#p25) |
 | 26 |	Juan Carlos  Bilbao-Ludena, National Centre for Atmospheric Science |	[Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN](#p26) |
 | 27 | Anirvinya Samanyu Tirumala, UKAEA / University of Oxford | [Modelling the effects of Irradiation Damage on Materials for Fusion](#p27)  | 
-| 28 | Lorna Smith, EPCC, University of Edinburgh | [The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe](#p28) |
+| 28 | Ritchie Somerville, EPCC, University of Edinburgh | [The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe](#p28) |
 | 29 | Lorna Smith, EPCC, University of Edinburgh |  [Environmental Sustainability at the Advanced Computing Facility](#p29) |
 | 30 |	Nick Brown, EPCC, University of Edinburgh |	[CAKE: Better connecting and coordinating global Digital Research Infrastructure](#p30) |
 | 31 | Francisco Duran del Fierro, University College London  | [Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures](#p31) |
@@ -536,7 +536,7 @@ We present both a physics-informed and a data-driven approach to begin addressin
 
 <a name="p28"></a>
 ### 28		The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe
-Lorna Smith, EPCC, University of Edinburgh
+Ritchie Somerville, EPCC, University of Edinburgh
 
 The €10m (£8.6m) UK AI Factory Antenna (UKAIFA) is one of thirteen Antenna projects funded across Europe to expand the development of their national Artificial Intelligence (AI) ecosystems. These projects are designed to complement and enhance the existing European AI Factories, which provide large AI specific supercomputers and associated services across Europe. 
  
