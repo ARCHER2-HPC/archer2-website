@@ -108,7 +108,7 @@ GLASS is a Python-based code used in Cosmology to generate full-universe simulat
 
 ###  GCRYSTAL - A GPU enabled CRYSTAL 
 
-TBC 
+In this talk I shall describe the work by RSEs at STFC to port CRYSTAL, an ab initio electronic structure code, to multiple GPUs. I shall discuss the design decisions we made, in particular how different parts of the code require different approaches and how we decided to address portability, and describe the current state of the project. Through this I shall cover the issues we have encountered, especially the vectorisation of operations on sparse data structures, the status and interoperability of multi-gpu enabled linear algebra libraries and issues with the software stacks. 
 
  
 <a name="10"></a>
