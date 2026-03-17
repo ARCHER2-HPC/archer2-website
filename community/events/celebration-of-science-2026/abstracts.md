@@ -88,7 +88,7 @@ TBC
 
  
 <a name="7"></a>
-## Benedict D. Rogers/Chunze Cen (University of Manchester) 
+## Benedict D. Rogers (University of Manchester) 
 
 ### Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL  
 

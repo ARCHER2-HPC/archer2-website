@@ -48,7 +48,7 @@ banner: web_banners_07.jpg
 - 14:45 - 15:00 Coffee break
 - 15:00 - 16:15 [Talk Session 3 (GPU-eCSE talks)](#confirmed-speakers-and-talk-titles)
     - 15:00 - 15:15 Paul Bartholomew (EPCC, University of Edinburgh)
-    - 15:15 - 15:30 Benedict D. Rogers/Chunze Cen (University of Manchester) 
+    - 15:15 - 15:30 Benedict D. Rogers (University of Manchester) 
     - 15:30 - 15:45 Paddy Roddy (UCL) 
     - 15:45 - 16:00 Ian Bush (STFC) 
     - 16:00 - 16:15 Nick Brown (EPCC, University of Edinburgh) 
@@ -86,7 +86,7 @@ banner: web_banners_07.jpg
 |Marc A. Little (Heriot-Watt University) | [Designing Functional Crystals with Optimal Pore Structures](abstracts#4) |
 |Nunzio Palumbo (Rolls-Royce) |  [Towards Exascale Multiphysics Simulation of Sustainable Jet Engines Using Archer2](abstracts#5) |
 | Paul Bartholomew (EPCC) | [Implementing a portable GPU backend for x3d2 using OpenMP offloading](abstracts#6) |
-|Benedict D. Rogers/Chunze Cen (University of Manchester) | [Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL](abstracts#7) |
+|Benedict D. Rogers (University of Manchester) | [Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL](abstracts#7) |
 | Paddy Roddy (UCL)| [Porting GLASS to the Python Array API](abstracts#8) |
 |Ian Bush (STFC)| [GCRYSTAL - A GPU enabled CRYSTAL](abstracts#9)|
 |Nick Brown (EPCC)| [MONC: Gaining greater insights into clouds and turbulent processes via GPUs](abstracts#10)|
