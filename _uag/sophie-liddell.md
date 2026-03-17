@@ -1,8 +1,8 @@
 ---
-forename: Christian
-surname: Oganbule
+forename: Sophie
+surname: Liddell
 title: .
-role: ARCHER2 portfolio manager
+role: 
 uag_sort: 80
 org: UKRI - EPSRC *
 image_src: null.jpg
