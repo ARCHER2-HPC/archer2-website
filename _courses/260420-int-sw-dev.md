@@ -2,9 +2,9 @@
 layout: course
 title: Intermediate Research Software Development
 banner: web_banners_05.jpg 
-human_dates: 20 April 2026 13.30-17.00, 21 - 23 April 2026  09:30 - 17:00  
-start_date: 2026-04-20 13:30:00
-end_date: 2026-04-23 17:00:00
+human_dates: 13 April 2026 13.30-17.00, 14 - 16 April 2026  09:30 - 17:00  
+start_date: 2026-04-13 13:30:00
+end_date: 2026-04-16 17:00:00
 trainers: Chris Wood, Evgenij Belikov (EPCC)
 course_type: course
 registration_status: open
@@ -16,6 +16,8 @@ audience: [ developer ]
 level: [ intermediate ]
 video: false
 ---
+
+Please note that the dates for this course have been updated since first published.
 
 #### Location:
 
