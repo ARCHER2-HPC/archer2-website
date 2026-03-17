@@ -2,8 +2,8 @@
 forename: Sophie
 surname: Liddell
 title: .
-role: 
-uag_sort: 80
+role: EPSRC-UKRI Representative
+uag_sort: 70
 org: UKRI - EPSRC *
 image_src: null.jpg
 bio: 
