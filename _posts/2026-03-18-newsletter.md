@@ -13,7 +13,6 @@ categories: [news]
 - [Intermediate Research Software Development]({{ page.url }}#intermediate-research-software-development), University of Manchester, 13 April 2026 13.30-17.00, 14 - 16 April 2026 09:30 - 17:00 (Rescheduled)
 - [Profiling and Optimisation Workshop]({{ page.url }}#profiling-and-optimisation-workshop), Online, 14th - 15th April 2026 09:00 - 17:00 
 - [Modern C++ for Computational Scientists]({{ page.url }}#modern-c-for-computational-scientists), Online, 15 - 17 April 2026 09:30 - 16:30 
- 
 - [Message Passing programming with MPI]({{ page.url }}#message-passing-programming-with-mpi), Imperial College London, Wednesday 22nd - Thursday 23rd Apil 10:00 - 17:00 (In Person); Friday 1st May 10:00 - 12:30 (online)
 - [Workflows]({{ page.url }}#workflows),  Online, 	27 - 28 April 2026 10:00 - 12:00 
 - [Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026]({{ page.url }}#championing-green-digital-research-workshop---day-0-of-archer2-celebration-of-science-2026)
