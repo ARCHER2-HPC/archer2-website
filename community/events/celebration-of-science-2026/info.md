@@ -120,8 +120,8 @@ banner: web_banners_07.jpg
 | 14 |	Laura Moran/Anna Roubickova, EPCC, University of Edinburgh |	[DRI-focussed training for research facilitators and teams (DRIFT)](#p14) |
 | 15 |	Benjamin Speake, UKRI Science and Technology Facilities Council |	[Highly coarse-grained polarisable water models for mesoscopic simulations](#p15) |
 | 16 |	Diego Renner, Imperial College |	[From Kernels to Solvers: Performance-Portable High-Order PDE Simulation in Nektar++](#p16) |
-| 17 |	Alexei Borrisov, EPCC, University of Edinburgh |	[An investigation of Powersched on ARCHER2](#p17) |
-| 18 |	Kevin Stratford, EPCC, University of Edinburgh |	[Hybrid scaling of particle suspension simulations](#p18) |
+| 17 |	Kevin Stratford, EPCC, University of Edinburgh |	[An investigation of Powersched on ARCHER2](#p17) |
+| 18 |	Alexei Borrisov, EPCC, University of Edinburgh |	[Hybrid scaling of particle suspension simulations](#p18) |
 | 19 |	Holly Lavery, Queen’s University Belfast |	[Computational modelling of Neon High-Harmonic Generation](#p19) |
 | 20 |	Amir Miresmaeili, University of Edinburgh |	[Scalable Pipeline for Analysis of Resting-State EEG Spectral Biomarkers in Aging and Neurodegeneration](#p20) |
 | 21 |	Ashutosh Shankarrao Londhe, Queen’s University Belfast |	[Re-engineering FLAMENCO, a Low-Mach Fully Compressible Steady Turbulent Flow Solver, with OPS-DSL for Performance Portability across Diverse HPC Architectures](#p21) |
@@ -376,13 +376,13 @@ Building on results previously presented for elemental kernels, this work report
 
 <a name="p17"></a>
 ### 17		An investigation of Powersched on ARCHER2
-Alexei Borrisov, EPCC, University of Edinburgh
+Kevin Stratford, EPCC, University of Edinburgh
 
 Powersched is a tool developed by HPE which aims to reduce the energy usage on compute nodes by dynamically balancing the energy consumed against application performance. We present some initial investigations of using Powersched, and how it changes application performance and energy usage compared with the standard operational configuration on ARCHER2.
 
 <a name="p18"></a>
 ### 18		Hybrid scaling of particle suspension simulations
-Kevin Stratford, EPCC, University of Edinburgh
+Alexei Borrisov, EPCC, University of Edinburgh
 
 The aim of this ARCHER2 ESCE project is to provide an effective GPU implementation of the particle suspension functionality of Ludwig, a code for complex fluids. In the context of ARCHER2, the use of an thread abstraction means that hybrid MPI/OpenMP performance is also of interest. We describe the approach and present some recent results.
 
