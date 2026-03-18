@@ -15,7 +15,6 @@ categories: [news]
 - [Modern C++ for Computational Scientists]({{ page.url }}#modern-c-for-computational-scientists), Online, 15 - 17 April 2026 09:30 - 16:30 
 - [Message Passing programming with MPI]({{ page.url }}#message-passing-programming-with-mpi), Imperial College London, Wednesday 22nd - Thursday 23rd Apil 10:00 - 17:00 (In Person); Friday 1st May 10:00 - 12:30 (online)
 - [Workflows]({{ page.url }}#workflows),  Online, 	27 - 28 April 2026 10:00 - 12:00 
-- [Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026]({{ page.url }}#championing-green-digital-research-workshop---day-0-of-archer2-celebration-of-science-2026)
 - [ARCHER2 Celebration of Science 2026]({{ page.url }}#archer2-celebration-of-science-2026) 
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
 - [Upcoming ARCHER2 training]({{ page.url }}#upcoming-archer2-training)  
@@ -147,15 +146,6 @@ Attendees should be comfortable with basic Python programming concepts and famil
 By the end of the course attendees will be able to describe workflow concepts and systems, write and run basic CWL workflows in a notebook environment, and develop and test simple dispel4py workflows for streaming data processing.
 
 [Full details and registration]( https://www.archer2.ac.uk/training/courses/260427-workflows/ )
-
-
-## Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026
-
-We are pleased to let you know the Championing Green Digital Research Workshop will take place at Sydney Smith - Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG, on Wednesday 18 March 2026, as the Day 0 of the [ARCHER2 Celebration of Science 2026.]({{ page.url }}#archer2-celebration-of-science-2026)
-
-The majority of people involved in research using digital research infrastructure (DRI) want to understand and reduce the emissions associated with their research activities to have a positive impact on the path to net zero emissions from research. The term DRI includes a very broad range of infrastructure from personal devices (smartphones, laptops, etc.), through high end servers (HPC and HTC systems) to commercial cloud computing resources. Although most people want to take action, they are hampered by a lack of understanding of the scale and source of DRI emissions, uncertain on what they can do in their day-to-day work, and find it difficult when challenged by colleagues or acquaintances who may be sceptical about taking action. This workshop will provide insight into and expand on recent efforts to understand what skills are needed to empower researchers and other digital research technical professionals to make and advocate for positive impact in using DRI for research.
-
-[Further details](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0 )
 
 
 ## ARCHER2 Celebration of Science 2026
