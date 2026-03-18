@@ -38,7 +38,7 @@ code’s compute capabilities using GPUs. Participant teams will work with exper
 ARCHER2 team and have access to AMD and NVIDIA hardware for the duration of the
 hackathon.
 
-Call for Applications deadline: **27th March AoE**.
+Call for Applications deadline: **31st March AoE**.
 
 The number of participants is limited: Applications will be reviewed as received, so early
 submission increases your chances.
