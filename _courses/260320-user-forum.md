@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
+video: true
 ecse:
 ---
 
@@ -23,14 +23,6 @@ EPCC Staff will present information about the ARCHER2 service.
 It will also give you an opportunity to ask any questions to EPCC staff.
 
 <!--
-The format is: 
--  **Welcome** 
-- 01:12 - **ARCHER2 GPU Update** – James Richings
-- 09:00 - **ARCHER2 Capability Days** – Kevin Stratford
-- 22:41 - **ARCHER2 Scratch and purge policy** – Kieran Leach  
-- 27:30 - **ARCHER2 Training** – Juan Rodriguez Herrera
-- **Questions/Discussion** 
--->
 
 This online session is open to all. It will use Teams (no Microsoft account required - you can join in your browser if you do not have Teams installed).
 
@@ -62,17 +54,19 @@ This online session is open to all. It will use Teams (no Microsoft account requ
 										
     </div>
 
+-->
 
 
-<!--
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/ueoDgRSXExg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/ofEiNgrf-go " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<!--
 
 The discussion following the presentations was not recorded.
 
