@@ -43,18 +43,13 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Timetable to follow
+[Schedule](https://epcced.github.io/2026-03-23_containers_online/#schedule)
 
-<!--
-
-[Schedule](https://epcced.github.io/2025-02-17_containers_cambridge/#schedule)
-
--->
 
 <section id="service">
 
 
-<!-- 
+
 <h2><a name="materials">Course materials</a></h2>
 
 
@@ -64,7 +59,7 @@ Timetable to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="   ">
+          href="https://epcced.github.io/2026-03-23_containers_online/">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -81,7 +76,7 @@ Timetable to follow
 
  	</div>
 		
- -->		
+ 
 					
 
 
