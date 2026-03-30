@@ -12,7 +12,7 @@ Whilst much of our training is delivered face-to-face, we also offer some course
 
 Online training is presented as live online interactive sessions conducted using Blackboard Collaborate. 
 
-Chrome or Firefox are recommended for connecting to BlackBoard Collaborate but most other modern browsers will work to attend a session.
+Chrome, Edge or Safari are recommended for connecting to BlackBoard Collaborate.   **From 9th April 2026, Calloaborate no longer supports Firefox**
 
 There are also apps available for BlackBoard Collaborate but these have reduced functionality and we recommend using the browser where this is an option.
 
