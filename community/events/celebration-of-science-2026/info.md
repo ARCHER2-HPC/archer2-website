@@ -72,7 +72,7 @@ banner: web_banners_07.jpg
 - 11:40 - 12:10 Prof. Mark Parsons (EPCC, University of Edinburgh) - Keynote
 - 12:10 - 13:00 Panel Session
 - 13:00 - 14:00 Lunch
-- 14:00 - 15:45 Digital Research Landscape - Projects, Skills and Resources Session
+- 14:00 - 15:45 [Digital Research Landscape](slides/CoS session + intro & talks.pdf "PDF of slides") - Projects, Skills and Resources Session
 - 15:45 - 16:00 ARCHER2 Celebration of Science 2026 wrap-up
 - 16:00 Day 2 Finish
 
@@ -80,18 +80,18 @@ banner: web_banners_07.jpg
 
 | Speaker | [Title (click on title to read abstract)](abstracts#talk-abstracts)  |
 | --- | --- |
-| Alexander Morozov (University of Edinburgh)| [Narwhals and their blessings on ARCHER2](abstracts#1) |
-| Xin Zhou (University of Leeds) | [Quantifying the long-term decay of Hunga stratospheric water vapour using chemistry transport modelling on ARCHER2](abstracts#2) |
+| Alexander Morozov (University of Edinburgh)| [Narwhals and their blessings on ARCHER2](slides/ARCHER2conferenceMarch2026_AlexanderMorozov.pdf "PDF of slides") [(abstract)](abstracts#1) |
+| Xin Zhou (University of Leeds) | [Quantifying the long-term decay of Hunga stratospheric water vapour using chemistry transport modelling on ARCHER2](slides/XinZhou-Hunga-19Mar2026-ARCHER2.pdf "PDF of slides") [(abstract)](abstracts#2) |
 | Caitlin McAuley (EPSRC-UKRI) | [ARCHER2](abstracts#3) |
 |Marc A. Little (Heriot-Watt University) | [Designing Functional Crystals with Optimal Pore Structures](abstracts#4) |
 |Nunzio Palumbo (Rolls-Royce) |  [Towards Exascale Multiphysics Simulation of Sustainable Jet Engines Using Archer2](abstracts#5) |
-| Paul Bartholomew (EPCC) | [Implementing a portable GPU backend for x3d2 using OpenMP offloading](abstracts#6) |
+| Paul Bartholomew (EPCC) | [Implementing a portable GPU backend for x3d2 using OpenMP offloading](slides/Implementing a portable GPU backend for x3d2 using.pdf "PDF of slides") [(abstract)](abstracts#6) |
 |Benedict D. Rogers (University of Manchester) | [Porting and Optimizing DualSPHysics for Heterogeneous Architectures Using Kokkos and SYCL](abstracts#7) |
-| Paddy Roddy (UCL)| [Porting GLASS to the Python Array API](abstracts#8) |
+| Paddy Roddy (UCL)| [Porting GLASS to the Python Array API](slides/Patrick J. Roddy - Porting GLASS to the Python Array API.pdf "PDF of slides") [(abstract)](abstracts#8) |
 |Ian Bush (STFC)| [GCRYSTAL - A GPU enabled CRYSTAL](abstracts#9)|
-|Nick Brown (EPCC)| [MONC: Gaining greater insights into clouds and turbulent processes via GPUs](abstracts#10)|
-|James Panton (University of Cologne) - Remote|  [Blobs at the base of the mantle: Using HPC to uncover the evolutionary history of great geophysical structures](abstracts#11)|
-|Gabriele C. Sosso (University of Warwick)| [First Steps Toward Understanding Ice Formation in Plants](abstracts#12)|
+|Nick Brown (EPCC)| [MONC: Gaining greater insights into clouds and turbulent processes via GPUs](slides/ARCHER2-science-MONC.pdf "PDF of slides") [(abstract)](abstracts#10)|
+|James Panton (University of Cologne) - Remote|  [Blobs at the base of the mantle: Using HPC to uncover the evolutionary history of great geophysical structures](slides/Panton_blobs_mantle.pdf "PDF of slides") [(abstract)](abstracts#11)|
+|Gabriele C. Sosso (University of Warwick)| [First Steps Toward Understanding Ice Formation in Plants](slides/ARCHER_CoS_2026_GabrieleSosso.pdf "PDF of slides")  [(abstract)](abstracts#12)|
 |Niamh O’Neill (Max Planck Institute for Polymer Research)| [From Accurate Quantum Mechanics to Converged Thermodynamics for Ions in Solution with Machine Learning Potentials](abstracts#13)|
 
 
