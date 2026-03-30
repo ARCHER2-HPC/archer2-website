@@ -157,6 +157,7 @@ The Riemann zeta-function &zeta;(<i>s</i>)  for <i>s</i> ∈ &#8450;, is a compl
          
 Until recently, the most efficient means of computing <i>Z</i>(<i>t</i>) employed the Riemann-Siegel (RS) formula, an <i>O</i>(√<i>t</i>) operational method. In 2011, this was superseded by an algorithm devised by G. A. Hiary, requiring just <i>O</i>(<i>t</i><sup>1/3</sup>){<i>log</i>(<i>t</i>)}<sup>κ</sup> ) operations. The methodology involved the sub-division of the RS formula into sequences of quadratic Gauss sums of length 𝑁. Such sums are amenable to rapid computation, in 𝑂(𝑙𝑜𝑔(𝑁)) operations, using a recursive scheme. This poster will present an advancement on these ideas. Central to this work is a new asymptotic formula for 𝑍(𝑡), with some interesting analytical properties. Computationally, this new formulation allows one to improve on the quadratic sum expansion and express 𝑍(𝑡) in terms of sub-sequences of <i>m<sup>th</sup></i>-order Gauss sums. In the cubic <i>m</i>=3 case, these sums can be computed rapidly, utilising a similar scheme to that used for the quadratics. The result is a more efficient algorithm, requiring only <i>O</i>((<i>t</i> ⁄ ε<sub><i>t</i></sub> )<sup>1/4</sup> {<i>log</i>(<i>t</i>)}<sup>3</sup> ) operations. Sample computations, using the open-source code developed for this [eCSE Project](https://www.archer2.ac.uk/ecse/reports/eCSE11-07/) and available on GitHub repository, support these findings.
 
+[https://doi.org/10.5281/zenodo.19187460](https://doi.org/10.5281/zenodo.19187460)
 
 <a name="p3"></a>
 ### 3		Irradiation tolerance of nanocrystalline Fe and FeCr: Large scale atomistic simulations and matched experiments
@@ -198,6 +199,8 @@ nanocrystalline material evolution under
 irradiation, providing guidance for developing
 next-generation radiation-resistant steels.
 
+[https://doi.org/10.5281/zenodo.19189229](https://doi.org/10.5281/zenodo.19189229)
+
 <a name="p4"></a>
 ### 4		Wake Dynamics of Floating Offshore Wind Turbines
 Dylan Green, University of Oxford
@@ -206,6 +209,7 @@ The platform motions of floating wind turbines can elicit large-scale unsteady r
 In this study, we investigate the relationship between floating turbine motion-induced wake dynamics and offshore wind conditions using high-fidelity numerical simulations. A precursor simulation is used to develop a representative sheared turbulent flow. Subsequently, the flow is injected into a successor simulation wherein an actuator line model provides a virtual representation of the turbine. This methodology enables a high-resolution view of the unsteady fluid mechanics, such as discrete blade effects and the subsequent wake dynamics, while maintaining computational feasibility. Addressing this multi-scale problem demands significant computational resources and highlights the role of high-performance computing in advancing technologies critical to net-zero energy goals. 
 This submission is aimed at ARCHER2 users engaged in large-scale computational fluid dynamics, turbulence modelling, and those interested in and working on renewable energy solutions. The study highlights the use of high-fidelity, computationally intensive simulations to address multi-scale problems, showcasing the capabilities that are relevant across computational science and engineering.
 
+[https://doi.org/10.5281/zenodo.19189622](https://doi.org/10.5281/zenodo.19189622)
 
 <a name="p5"></a>
 ### 5		Wind farms, understanding the gravity of their atmospheric interactions
@@ -215,6 +219,7 @@ With the growth of offshore wind farm capacity in the North Sea, the challenges 
 
 To evaluate the impact of AGWs on turbine wake dynamics and blade loading, Large Eddy Simulations (LES) of turbine rows were carried out using an actuator line method for turbine representation. Through comparisons to cases without AGWs, it was found the waves could change the turbine wake recovery profile. Simulations also showed turbine spacing within a farm is correlated to the wave strength. To accurately model the North Sea conditions for AGWs required simulations with domains spanning 10s of kms and solvers which could capture turbulent shear layer dynamics, thermal profiles, Coriolis forces and unsteady flow dynamics. Therefore, with the findings in this work also demonstrating the need for a more complete understanding of AGW impacts, it also shows the necessity of the ARCHER2 computational resources for reaching the government’s net zero energy goals.
 
+[https://doi.org/10.5281/zenodo.19183529](https://doi.org/10.5281/zenodo.19183529)
 
 <a name="p6"></a>
 ### 6		Sampling a North Atlantic Tipping Point: Rare-Event Algorithms in UKESM on ARCHER2
@@ -260,12 +265,15 @@ will describe the proposed simulation plan and
 report initial implementation and performance
 tests.
 
+[https://doi.org/10.5281/zenodo.19190897](https://doi.org/10.5281/zenodo.19190897)
+
 <a name="p7"></a>
 ### 7		Reframe: Test on a postcard 
 James Richings, EPCC, University of Edinburgh 
 
 One of the ways we try to ensure the health of our HPC services is to perform automated testing via Reframe. These tests help us to verify systems perform effectively for users throughout their lifetime through the periodic running of applications and benchmarks.  While we have a good breadth of tests it's difficult to track if these are representative of the user community. The idea of this poster is to get users to write a test that they think is valuable for their work on a postcard so we can see if our test cover the type of work our users run on the system.
 
+[https://doi.org/10.5281/zenodo.19191248](https://doi.org/10.5281/zenodo.19191248)
 
 <a name="p8"></a>
 ### 8		Investigating electron dynamics in the transition from the weak laser-field to the strong laser-field regime
@@ -273,6 +281,7 @@ Amy Davis, Queen’s University Belfast
 
 The R-matrix with time-dependence (RMT) code was developed at Queen's and is a leading method for the solution of problems in attosecond science. Laser-driven electron dynamics evolve on the attosecond timescale, where one attosecond is 10^-18s.  We use ARCHER2 to numerically investigate laser-driven electron dynamics. We are interested in how these electron dynamics change when transitioning from the weak laser-field to the strong laser-field regime. To do this we use RMT to investigate how the interaction of a laser-field with helium changes as the laser intensity is increased. We obtain electron spectra which show evidence of new ionization pathways. With RMT we can see how these new pathways are shaped by resonances that are only accessible in strong fields.
 
+[https://doi.org/10.5281/zenodo.19206435](https://doi.org/10.5281/zenodo.19206435)
 
 <a name="p9"></a>
 ### 9		Development of a turbulence generator based on improved synthetic eddy method (iSEM) and volumetric source term
@@ -304,6 +313,7 @@ the new approach is used, the efficiency is greatly improved and
 the laminarisation-regeneration process takes a very short,
 negligible distance.
 
+[https://doi.org/10.5281/zenodo.19206560](https://doi.org/10.5281/zenodo.19206560)
 
 <a name="p10"></a>
 ### 10		Understanding weather and climate dynamics using high-resolution global cloud resolving models
@@ -313,7 +323,7 @@ We introduce the 'Understanding weather and climate dynamics using high-resoluti
 We present the results from the physics scheme sensitivity studies at three diverse Mexican locations: La Rumorosa, Merida, and Oaxaca. MPAS-Atmosphere model is used with a publicly available non-uniform mesh configuration with coarsest resolution of 60 km and finest resolution of 3 km over the area of interest. The vertical grid employs 20 m spacing within the first 200 m above ground level, facilitating detailed comparisons of wind speed, temperature, and relative humidity between model output and meteorological station data collected at heights ranging from 20 to 80 m above ground.
 This work lays the foundation for further collaboration moving to finer mesh resolutions and investigating performance of GPU-enabled MPAS to leverage next generation computing infrastructure, along with MPAS-LES and 3DPBL schemes for analysing the wake effects and atmospheric interactions of wind farm clusters.
 
-
+[https://doi.org/10.5281/zenodo.19206733](https://doi.org/10.5281/zenodo.19206733)
 
 <a name="p11"></a>
 ### 11		The structural dynamics and barocaloric response of organic ionic plastic crystals
@@ -325,6 +335,7 @@ Organic ionic plastic crystals (OIPCs) exhibit multiple solid-solid phase transi
 (Cyanomethyl)trimethylammonium hexafluorophosphate ([N111CN][PF6]) undergoes a four-step disorder-order transition with notable thermal hysteresis. Understanding the nature of the disorder in its high-temperature phase is crucial for optimising its barocaloric performance.
 This research compares ordered models of the disordered phase to explore its structural flexibility. Ab initio molecular dynamics simulations are employed to explore how the dynamic changes during the phase transition. Phase I is more disordered than other three phases, and the disordered events are likely result from the rotation of the anions [PF]6-. These insights will advance the understanding of OIPCs as next-generation solid-state refrigerants. Furthermore, once a reliable metric has been established to quantify such disorders, large scale parallel simulations will be conducted to generate data to train a machine learning model.
 
+[https://doi.org/10.5281/zenodo.19207658](https://doi.org/10.5281/zenodo.19207658)
 
 <a name="p12"></a>
 ### 12		Controlling multi-region multi-layered parallelisation for R-matrix with time-dependence, double ionisation
@@ -338,6 +349,7 @@ Each region adopts numerical schemes requiring distinct multi-layered MPI/OpenMP
 
 A complex additional nested MPI layer in the new region was introduced in an eCSE project to improve performance and match sophistication in the other regions. We present progress on reliable ‘recipes’ for systematic distribution of tasks and threads between regions to achieve (near) optimal load-balancing and performance strategies, crucial for large-scale ARCHER2 calculations.
 
+[https://doi.org/10.5281/zenodo.19218480](https://doi.org/10.5281/zenodo.19218480)
 
 <a name="p13"></a>
 ### 13		Conformational Isomerism Tunes Refrigeration Potential in Metal Organic Frameworks
@@ -347,6 +359,7 @@ As the effects of climate change become more apparent in the form of rising glob
 Metal-organic frameworks (MOFs) are porous, crystalline materials that are highly modular due to the many metal and linker combinations possible. Notably, certain MOFs exhibit the breathing effect wherein the adsorption and desorption of guest molecules are accompanied by a large reversible volume change. From this, they have been recognised as potential barocaloric materials. Moreover, we have found orientational disorder in the linkers which result in conformational isomers that can tune the barocaloric performance of the frameworks. 
 My research use ab initio molecular dynamics to further understand the effects of the conformational isomerism on the properties of the MIL-53-fum framework series. Grand canonical Monte Carlo simulations allow us to isolate, for the first time, the entropic contributions of guest adsorption from the volumetric or conformational aspects. This reveals the role of breathing MOFs in refrigeration applications and inform the design of functional materials.  
 
+[https://doi.org/10.5281/zenodo.19218633](https://doi.org/10.5281/zenodo.19218633)
 
 <a name="p14"></a>
 ### 14		DRI-focussed training for research facilitators and teams (DRIFT)
@@ -356,13 +369,15 @@ Laura Moran/Anna Roubickova, EPCC, University of Edinburgh
 Digital Research Infrastructure (DRI) is now ubiquitous in research. It has revolutionised the way that we conduct research, pervading all aspects of the research lifecycle. From the use of large-scale computing for machine-learning and big data, to the management of experiments for record keeping and reproducibility, research is powered by the software and hardware that have become vital for modern researchers. This requires new skills and forms of research collaboration, as research supported by DRI aims at larger scales and interdisciplinary collaboration.
 This poster covers our work on our three main objectives: supporting research facilitators working within communities that could benefit from DRI offerings so that they can efficiently assist researchers understand its advantages; training research teams in skills that benefit collaboration, team science, and inter- or multi-disciplinary working; and community engagement with a wider range of research institutions and disciplines focussing on those without existing direct access to institutional HPC services. These objectives are being achieved through development of courses and other content for both research facilitators and research teams, community engagement through DRI awareness roadshows (including small demonstration HPC clusters), and the extension and improvement of the open-source Gutenberg training platform. This will improve the way that the expertise required to efficiently and effectively use DRI is developed within the research community. 
 
-
+[https://doi.org/10.5281/zenodo.19218981](https://doi.org/10.5281/zenodo.19218981)
 
 <a name="p15"></a>
 ### 15	 Council	Highly coarse-grained polarisable water models for mesoscopic simulations
 Benjamin Speake, UKRI Science and Technology Facilities
 
 Modelling micro- and mesoscale thermodynamic and transport properties of soft condensed matter hinges upon its representation.  This is especially relevant for polar solvents such as water, since these require effective representation of their dielectric nature as driven by molecular charge distributions and molecular network structuring.  The dielectric nature of a medium leads to complex phenomena such as local polarisability response and restructuring near interfaces in reaction to changes in local charge distributions.  Inclusion of such phenomena when using larger-than-atomistic techniques such as coarse-grained molecular dynamics (CG-MD) and dissipative particle dynamics (DPD) is still an open question, to which we provide a novel way to consider and justify the necessary and suitable coarse-graining level, enabling us to measure new polar CG models' performance against that of an underlying atomistic model.  We polarise our previous non-polar nDPD water model to prepare it for use in simulations of liquid electrolytes as well as solvated organic membranes and measure its fitness to serve as a dielectric medium by comparing its properties to those of the TIP3P water model, while simultaneously observing changes to properties already represented well by the non-polar model.
+
+[https://doi.org/10.5281/zenodo.19238342](https://doi.org/10.5281/zenodo.19238342)
 
 <a name="p16"></a>
 ### 16		From Kernels to Solvers: Performance-Portable High-Order PDE Simulation in Nektar++
@@ -373,6 +388,7 @@ Nektar++ is an open-source spectral/hp element framework for the numerical solut
 The new code enables efficient execution on NVIDIA, AMD, and Intel GPUs, while retaining high-performance CPU implementations single instruction, multiple data (SIMD) vectorisation. This is achieved via a unified backend architecture supporting CUDA, HIP, SYCL, and SIMD operations, enabling device-independent implementation of high-level solver logic while allowing hardware-specific optimisation of performance-critical building blocks such as elemental operators.
 Building on results previously presented for elemental kernels, this work reports recent progress on optimised global operators, including linear system solvers, evaluated using industry-standard Center for Efficient Exascale Discretizations (CEED) Bake-off Problems (BPs). We additionally demonstrate emerging multi-GPU capabilities and apply the operator-based design to the solver level by refactoring the unsteady advection and compressible Euler solvers around a unified operator interface within the redesigned framework. The resulting solver architecture cleanly separates numerical formulation from execution backends, enabling a single code path to target serial, vectorised, and GPU platforms. These developments represent an important step towards enabling scalable, portable, and production-ready high-order simulations on current and future heterogeneous HPC systems.
 
+[https://doi.org/10.5281/zenodo.19254088](https://doi.org/10.5281/zenodo.19254088)
 
 <a name="p17"></a>
 ### 17		An investigation of Powersched on ARCHER2
@@ -380,11 +396,15 @@ Evgenij Belikov, EPCC, University of Edinburgh
 
 Powersched is a tool developed by HPE which aims to reduce the energy usage on compute nodes by dynamically balancing the energy consumed against application performance. We present some initial investigations of using Powersched, and how it changes application performance and energy usage compared with the standard operational configuration on ARCHER2.
 
+[https://doi.org/10.5281/zenodo.19254766](https://doi.org/10.5281/zenodo.19254766)
+
 <a name="p18"></a>
 ### 18		Hybrid scaling of particle suspension simulations
 Alexei Borrisov, EPCC, University of Edinburgh
 
 The aim of this ARCHER2 ESCE project is to provide an effective GPU implementation of the particle suspension functionality of Ludwig, a code for complex fluids. In the context of ARCHER2, the use of an thread abstraction means that hybrid MPI/OpenMP performance is also of interest. We describe the approach and present some recent results.
+
+[https://doi.org/10.5281/zenodo.19254883](https://doi.org/10.5281/zenodo.19254883)
 
 <a name="p19"></a>
 ### 19		Computational modelling of Neon High-Harmonic Generation
@@ -396,6 +416,7 @@ We make use of the R-Matrix Theory with Time Dependence (RMT) approach to model 
 
 Full study on HHG requires a detailed description of the atomic structure, making these calculations computationally expensive. We therefore require the use of High-Performance Computing Facilities such as ARCHER2 for this work.
 
+[https://doi.org/10.5281/zenodo.19254968](https://doi.org/10.5281/zenodo.19254968)
 
 <a name="p20"></a>
 ### 20		Scalable Pipeline for Analysis of Resting-State EEG Spectral Biomarkers in Aging and Neurodegeneration
@@ -404,6 +425,7 @@ Amir Miresmaeili, University of Edinburgh
 Resting-state EEG offers a powerful tool for studying the aging brain and can help identify neurodegenerative changes. The resting-state signal consists of periodic components (alpha-band power) and aperiodic activity (1/f slope). Decomposing these two elements provides features that can act as markers of cortical health. Prior research has shown that healthy older adults typically have a flatter aperiodic slope (a sign of increased neural noise) along with slowing of individual alpha frequencies. Parkinson's Disease patients show similar spectral alterations, although the specific patterns may differ between groups. Moving these laboratory findings into clinical practice requires computational resources capable of processing large datasets with complete reproducibility.
 We applied our analysis pipeline to the ds002778 OpenNeuro dataset, which contains 93 EEG sessions from healthy older adults and Parkinson's patients recorded across multiple visits. By using ARCHER2, we developed a standardised workflow that extracts physiologically meaningful biomarkers through Welch Power Spectral Density estimation and SpecParam (FOOOF) parameterisation. Deploying on ARCHER2 established a reproducible, scalable framework ready to extend to large-scale population studies, where parallel processing of thousands of subjects becomes essential.
 
+[https://doi.org/10.5281/zenodo.19255261](https://doi.org/10.5281/zenodo.19255261)
 
 <a name="p21"></a>
 ### 21		Re-engineering FLAMENCO, a Low-Mach Fully Compressible Steady Turbulent Flow Solver, with OPS-DSL for Performance Portability across Diverse HPC Architectures
@@ -450,6 +472,8 @@ simulations of complex combustion phenomena
 such as flame–wall interactions, jets, and stratified
 reacting flows.
 
+[https://doi.org/10.5281/zenodo.19257114](https://doi.org/10.5281/zenodo.19257114)
+
 <a name="p22"></a>
 ### 22		The Atlantic Meridional Overturning Circulation: Exploring sensitivity to model resolution using ARCHER2
 Annette Osprey, NCAS, University of Reading
@@ -458,7 +482,7 @@ The Atlantic Meridional Overturning Circulation (AMOC) is an important ocean cur
 Despite this, the exact mechanism and magnitude of this weakening remain poorly understood. Additionally, standard climate models have a comparatively coarse spatial resolution that fails to capture the observed structure of  ocean currents of the northern Atlantic. Modelling studies suggest that the AMOC’s sensitivity is highly dependent on how well these features are resolved. To accurately simulate these processes and bridge the gap between models and reality, high-performance computing (HPC) platforms like ARCHER2 are necessary for the high-resolution, long-term simulations required
 We present two sets of experiments using both standard and high resolution versions of  the HadGEM3-GC3.1 climate model to explore how the AMOC responds to a changing climate: i)  CO2 Quadrupling simulations to examine the potential for a rapid AMOC collapse and  ii) simulations examining how the atmosphere variability (the North Atlantic Oscillation - NAO) on drives long-term variations in the AMOC.
 
-
+[https://doi.org/10.5281/zenodo.19257250](https://doi.org/10.5281/zenodo.19257250)
 
 <a name="p23"></a>
 ### 23		
@@ -473,6 +497,7 @@ Many HPC training courses have associated practical examples, either distributed
 Over the years we have used examples from a wide range of areas including cellular automata, image processing, pollution transport via convection-diffusion, predator-prey simulation, percolation of oil through rock, fluid dynamics and sandpile modelling. Despite the wide range of application areas these have all shared the same core characteristic of using a 2D regular grid with nearest-neigbour interactions, e.g. “up, down, left, right minus four times the middle”.
 In this poster we will explain why this is such a good core computational pattern to use for training exercises, and give the various pros and cons of each particular example. I will also explain why I think the recently developed sandpile simulation is my best example so far, and show the winner from a recent student competition to develop the best sandpile visualisation.
 
+[https://doi.org/10.5281/zenodo.19257426](https://doi.org/10.5281/zenodo.19257426)
 
 <a name="p25"></a>
 ### 25		Cross-platform GPU Implementation of OpenFOAM Using Only ISO C++ standard parallelism
@@ -481,7 +506,7 @@ Yiyun Raynold Tan, STFC Hartree
 In this work, we present our port of OpenFOAM to GPUs using the C++ standard parallel execution model (stdpar) introduced in ISO C++17. With a minimally intrusive strategy—primarily replacing serial loops with stdpar constructs—we offload the full computational workload of typical CFD simulations to multicore and manycore architectures. This approach is vendor agnostic, maintains a single unified codebase, and can be integrated easily into the main OpenFOAM release.
 We demonstrate performance using the icoFoam and simpleFoam solvers across four test cases: the 3D lid driven cavity, 3D conical diffuser, HPC motorbike, and drivAer automotive geometry. Experiments were conducted on a range of NVIDIA and AMD systems, including CPU only, hybrid CPU–GPU, and unified memory CPU–GPU configurations. Measured speedups relative to a fully populated 32 core CPU socket range from 0.4× to 7.7×, depending on boundary condition complexity, turbulence modelling, and solver type. Details of the porting methodology and performance results are provided.
 
-
+[https://doi.org/10.5281/zenodo.19257543](https://doi.org/10.5281/zenodo.19257543)
 
 <a name="p26"></a>
 ### 26		Workflow Automation for Reliable Data Transfer and Storage Between ARCHER2 and JASMIN
@@ -523,6 +548,7 @@ supercomputing environments and provides a
 practical approach for handling the increasing data
 demands of contemporary simulation workloads.
 
+[https://doi.org/10.5281/zenodo.19257648](https://doi.org/10.5281/zenodo.19257648)
 
 <a name="p27"></a>
 ### 27   Modelling the effects of Irradiation Damage on Materials for Fusion
@@ -533,6 +559,8 @@ We are currently facing a dilemma: our energy demands are continually increasing
 This study employs high-fidelity molecular dynamics (MD) simulations to model the microstructural evolution of materials under a wide range of irradiation conditions. While MD simulations generate high-dimensional datasets, the macroscopic properties relevant to engineering applications reside in a much lower-dimensional space. Although these simulations can be mapped to engineering-scale properties using characterisation algorithms, understanding how these properties evolve with simulation conditions remains a significant challenge. 
 
 We present both a physics-informed and a data-driven approach to begin addressing this challenge. In the physics-informed framework, we parameterise a simplified model based on physical intuition, focusing on a single parameter: void content. The simplicity of this model facilitates straightforward upscaling to higher-level frameworks, such as finite element models (FEM), enabling practical engineering applications. However, extending this type of physics-based modelling to capture all macroscopic properties of interest is not feasible. Therefore, we adopt a data-driven approach, employing dimensionality reduction techniques and a vector autoregressive (VAR) model to investigate and characterise the evolution of the macroscopic properties. 
+
+[https://doi.org/10.5281/zenodo.19258071](https://doi.org/10.5281/zenodo.19258071)
 
 <a name="p28"></a>
 ### 28		The UK AI Factory Antenna (UKAIFA) – supporting Artificial Intelligence adoption across the UK and Europe
@@ -546,6 +574,8 @@ UKAIFA is funded to support the UK’s growing demand for Artificial Intelligenc
  
 The Antenna will offer a range of services, including Expertise and support on efficient use of AI-technologies, training and knowledge exchange, resource access and hosting, sharing, and curation of relevant datasets. 
 
+[https://doi.org/10.5281/zenodo.19258291](https://doi.org/10.5281/zenodo.19258291)
+
 <a name="p29"></a>
 ### 29		Environmental Sustainability at the Advanced Computing Facility
 Lorna Smith, EPCC, University of Edinburgh
@@ -556,7 +586,7 @@ EPCC is committed to ensuring that this global leading data centre is also a glo
  
 This poster will present a range of initiatives being carried out at the ACF to improved environment sustainability including cooling infrastructure improvements; energy efficiency of systems; monitoring and biodiversity.  
 
-
+[https://doi.org/10.5281/zenodo.19258640](https://doi.org/10.5281/zenodo.19258640)
 
 <a name="p30"></a>
 ### 30		CAKE: Better connecting and coordinating global Digital Research Infrastructure
@@ -565,6 +595,7 @@ Nick Brown, EPCC, University of Edinburgh
 CAKE aims to better connect the UK’s Digital Research Infrastructure (DRI). Based on the observation that there is a lot happening in the UK, but it is not always well coordinated, this network aims to act as a conduit to help ensure that teams can more effectively work together, share results, and showcase their expertise both nationally and globally. 
 This poster at the ARCHER2 celebration of science will enable us to share with the ARCHER2 community the existence of CAKE and how we can help them undertake knowledge exchange, highlight some of the wider activities in the UK DRI programme that they could leverage, some of the on-going CAKE initiatives such as the EDI working group, and lastly to share some of our current opportunities for funding including knowledge exchange fellowships and support for undertaking placements.
 
+[https://doi.org/10.5281/zenodo.19258710](https://doi.org/10.5281/zenodo.19258710)
 
 <a name="p31"></a>
 ### 31		Inclusive Futures for the National Federation of Digital Research Infrastructures (DRIs): Power Relations and Epistemic Cultures
@@ -574,6 +605,7 @@ The national coordination of Digital Research Infrastructures (DRIs) has become 
 
 Drawing on a sociological-cultural and future-thinking approach, this paper presents initial findings on the social and cultural challenges shaping the national federation of DRIs. It first reports results from a national survey that mapped the emergence of competing values in relation to the present and future of the national federation of DRIs. It then presents six tensions along two axes that emerged from interviews with active, inactive, and potential DRI users across academia, industry and public sector. The power axis includes tensions between centralization and decentralization, invisibility and visibility, and privacy and surveillance. The epistemic axis includes tensions between uncertainty and certainty, empowerment and disempowerment, and unity and disunity. Building on these tensions through a futures-thinking methodology, the paper introduces a set of future scenarios that can be used to inform policy discussions and recommendations.
 
+[https://doi.org/10.5281/zenodo.18786285](https://doi.org/10.5281/zenodo.18786285)
 
 <a name="p32"></a>
 ### 32		UKRI Research Data Landscape Survey
@@ -581,3 +613,4 @@ Kieran Leach, EPCC, University of Edinburgh
 
 Using desk research, a survey, and follow up interviews, we aim to generate a preliminary UK research data landscape. This includes what data is being generated, how and where this data is stored, who can access that data and the experiences, barriers and challenges faced by the data creators and those that provide services to store and distribute this data. The outputs from this project will go on to inform the National Federated Compute Services (NFCS) to help them develop a road map as to how UKRI funded compute services might be federated, including data sources and sinks, to best benefit the research community.
 
+[https://doi.org/10.5281/zenodo.19258926](https://doi.org/10.5281/zenodo.19258926)
