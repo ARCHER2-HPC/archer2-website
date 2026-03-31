@@ -39,7 +39,7 @@ In this talk, I will introduce how molecular simulations are used to study prote
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://eu.bbcollab.com/guest/0c98d84dbc5044028afc496d21a487b8 ">
           <strong>Join Session</strong><br/>
-          Join this online session in your browser
+          Join this online session in your browser          <br><i>Chrome, Edge or Safari<br/>  (Firefox no longer supported)</i>
         </a>
       </div>
 

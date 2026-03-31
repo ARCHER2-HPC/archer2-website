@@ -1,11 +1,11 @@
 ---
 layout: course
-title: Shaken, not stirred! Influence of external vibration on phase change
+title: An ARCHER2 User's Spack Primer
 banner: web_banners_05.jpg
-human_dates: Wednesday 13th May 2026  15:00 - 16:00 
-start_date: 2026-05-13 15:00:00
-end_date: 2026-05-13 16:00:00
-trainers: Saikat Datta (Swansea)
+human_dates: Wednesday 22nd April 2026  15:00 - 16:00 
+start_date: 2026-04-22 15:00:00
+end_date: 2026-04-22 16:00:00
+trainers: William Lucas, Luca Parisi  (EPCC)
 course_type: vt
 registration_status:
 registration_url:
@@ -16,9 +16,12 @@ video:
 ecse:
 ---
 
-Phase change, water turning to vapour or ice, often begins with a rare “first event”: the birth of a tiny bubble or an ice embryo. In real technologies (from ultrasonic cleaning to cryopreservation and ice mitigation), we try to trigger or suppress these first events on demand, yet the decisive physics typically happens in a nanometre-thin layer next to a surface, where experiments struggle to see clearly. By combining nanoscale physical modelling with large-scale simulations performed on HPC like ARCHER2, it becomes possible to resolve these transient events with statistical reliability and to interrogate how external forcing reshapes interfacial phase behaviour.
 
-The talk will demonstrate how high-frequency surface vibrations can serve as a practical “knob” for controlling phase change by reshaping the local pressure–temperature landscape at the solid–liquid interface. It will also present our emerging research on acoustothermal de-icing and anti-icing, where the same vibration-controlled interfacial physics may be harnessed not only to manage when ice forms, but also to influence how strongly it adheres, opening routes to active, on-demand ice mitigation on engineered surfaces
+Spack is an HPC-focused package manager enabling automated software installation and resolution of dependencies. Through its spec syntax a user can easily describe in its entirety how a piece of software is to be compiled. 
+
+An experimental Spack configuration is available now on ARCHER2. 
+
+In this webinar, we will provide an introduction to Spack for completely new users, as well as a hands-on demonstration using it to set up a full software stack on ARCHER2.
 
 
 
@@ -34,7 +37,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://eu.bbcollab.com/guest/57c261a877484049834e237118cfe0f6  ">
+          href="https://eu.bbcollab.com/guest/7748c545854d479da7b0329cc781c9e5">
           <strong>Join Session</strong><br/>
           Join this online session in your browser
           <br><i>Chrome, Edge or Safari<br/>  (Firefox no longer supported)</i>
