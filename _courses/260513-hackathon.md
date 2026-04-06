@@ -7,8 +7,8 @@ start_date: 2026-05-13 12:00:00
 end_date: 2026-05-15 12:00:00
 trainers: Ben Durham (Durham University), Patrick William (Durham University), Manuel dos Santos Dias (STFC), Juan Herrera (EPCC), Phil Hasnip (University of York)
 course_type: course
-registration_status: open
-registration_url:  https://forms.gle/redYZ7buk1GZXcE48
+registration_status: closed
+registration_url: 
 location: STFC Daresbury Laboratory
 location_url: https://www.archer2.ac.uk/training/locations/daresbury
 prace_course: 
@@ -43,9 +43,11 @@ Call for Applications deadline: **31st March AoE**.
 The number of participants is limited: Applications will be reviewed as received, so early
 submission increases your chances.
 
+<!--
 **Team leads** should apply via the Registration link to the Google form below.
+-->
 
-Any further questions can be directed to [Manuel dos Santos Dias (STFC)](mailto:manuel.dos-santos-dias@stfc.ac.uk) or the ARCHER2 service desk.
+Any further questions can be directed to the ARCHER2 service desk.
 
 
 ### Requirements:
