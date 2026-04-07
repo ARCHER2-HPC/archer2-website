@@ -8,7 +8,7 @@ end_date: 2026-05-15 12:00:00
 trainers: Ben Durham (Durham University), Patrick William (Durham University), Manuel dos Santos Dias (STFC), Juan Herrera (EPCC), Phil Hasnip (University of York)
 course_type: course
 registration_status: closed
-registration_url: 
+registration_url: https://forms.gle/redYZ7buk1GZXcE48
 location: STFC Daresbury Laboratory
 location_url: https://www.archer2.ac.uk/training/locations/daresbury
 prace_course: 
