@@ -14,11 +14,6 @@ banner: web_banners_03.jpg
 - [Usage statistics](#usage-statistics)
 
 
-## Service Desk - Easter closure
-
-The ARCHER2 Service desk will be closed on Friday 3rd April and Monday 7th April 2026.
-
-It will reopen as normal on Tuesday 7th April at 08:00.
 
 ## Current System Load - CPU
 
