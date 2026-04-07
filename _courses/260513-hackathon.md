@@ -43,11 +43,7 @@ Call for Applications deadline: **31st March AoE**.
 The number of participants is limited: Applications will be reviewed as received, so early
 submission increases your chances.
 
-<!--
-**Team leads** should apply via the Registration link to the Google form below.
--->
-
-Any further questions can be directed to the ARCHER2 service desk.
+Any further questions can be directed to [Manuel dos Santos Dias (STFC).](mailto:manuel.dos-santos-dias@stfc.ac.uk)
 
 
 ### Requirements:
