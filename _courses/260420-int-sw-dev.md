@@ -7,7 +7,7 @@ start_date: 2026-04-13 13:30:00
 end_date: 2026-04-16 17:00:00
 trainers: Chris Wood, Evgenij Belikov (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260420-int-sw-dev
 location: University of Manchester
 location_url: https://www.archer2.ac.uk/training/locations/manchester
@@ -154,7 +154,7 @@ Details to follow
 
 
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -175,7 +175,7 @@ Details to follow
     </div>
 		
 	
--->
+
  
 </section>
 
