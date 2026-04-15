@@ -7,7 +7,7 @@ start_date: 2026-04-15 09:30:00
 end_date: 2026-04-17 16:30:00
 trainers: Nathan Mannall EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260415-modern-c
 location: Online
 location_url: 
@@ -90,17 +90,17 @@ Details to follow
 		
 	
 			 
-<!--
+
  		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/2q8fBRK_IPY " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+<!--
 <h3>Session 2</h3>
 
 <div>
@@ -124,10 +124,25 @@ Details to follow
 </div>
 
 
+<h3>Session 5</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<h3>Session 6</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
 -->
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -138,7 +153,7 @@ Details to follow
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=250423-modern-c"
+		   href="../../feedback/?course=260415-modern-c"
 
 		>
           <strong>Feedback</strong><br/>
@@ -151,4 +166,4 @@ Details to follow
 
 </section>
 
--->
+
