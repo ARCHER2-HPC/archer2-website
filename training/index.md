@@ -206,11 +206,11 @@ If you are from a commercial organisation and wish to attend a particular course
  
 
 
-## ARCHER2 year five planned courses
+## ARCHER2 year six planned courses
 
- |   February - April 2026  |
- | ---  |
- | Using ARCHER2 efficiently<br>       Intermediate Modern Fortran  <br>        |
+ |    May - July 2026  |  August - October 2026 |
+ |  --- | --- |
+ |               HPC Carpentry   <br> Intermediate Modern Fortran    <br>  Efficient Parallel IO    <br>  Containers: Podman    <br>   Containers: Apptainer     <br>  GPU programming with kernels (HIP)     <br>   |   Data Carpentry   <br>  Modern C++ for Computational Scientists   <br>  Data Analysis and Visulaisation with Python   <br>  Message passing programming with MPI   <br>  GPU programming using directives   <br>  Green software use on HPC   <br>  |
 
 
 
