@@ -40,7 +40,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
           href="https://eu.bbcollab.com/guest/7748c545854d479da7b0329cc781c9e5">
           <strong>Join Session</strong><br/>
           Join this online session in your browser
-          <br><i>Chrome, Edge or Safari<br/>  (Firefox no longer supported)</i>
+          <br><i>Chrome, Edge or Safari<br/>   (Collaborate no longer allow Firefox *)</i>
         </a>
       </div>
 
@@ -55,7 +55,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
-
+*Firefox works fine in collaborate if you install <a href="https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/">uaswitcher addon</a> and tell it to identify the browser as Google Chrome for urls starting https://eu.bbcollab.com/
 
 
 <!--

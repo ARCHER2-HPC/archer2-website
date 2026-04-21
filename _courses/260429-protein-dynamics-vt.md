@@ -39,7 +39,8 @@ In this talk, I will introduce how molecular simulations are used to study prote
         <a class="ar2_linkbox ar2_linkbox-teal" 
           href="https://eu.bbcollab.com/guest/0c98d84dbc5044028afc496d21a487b8 ">
           <strong>Join Session</strong><br/>
-          Join this online session in your browser          <br><i>Chrome, Edge or Safari<br/>  (Firefox no longer supported)</i>
+          Join this online session in your browser 
+		  <br><i>Chrome, Edge or Safari<br/>   (Collaborate no longer allow Firefox *)</i>
         </a>
       </div>
 
@@ -53,6 +54,8 @@ In this talk, I will introduce how molecular simulations are used to study prote
 
 											
     </div>
+
+*Firefox works fine in collaborate if you install <a href="https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/">uaswitcher addon</a> and tell it to identify the browser as Google Chrome for urls starting https://eu.bbcollab.com/
 
 
 </section>
