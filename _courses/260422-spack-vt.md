@@ -55,7 +55,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 											
     </div>
 
-*Firefox works fine in collaborate if you install <a href="https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/">uaswitcher addon</a> and tell it to identify the browser as Google Chrome for urls starting https://eu.bbcollab.com/
+*Firefox works fine for collaborate if you install <a href="https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/">uaswitcher addon</a> and tell it to identify the browser as Google Chrome for urls starting https://eu.bbcollab.com/  when we have tried it.
 
 
 <!--
