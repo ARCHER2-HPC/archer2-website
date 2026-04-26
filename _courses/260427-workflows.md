@@ -47,7 +47,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-Details to follow
+[Outline agenda](https://github.com/StreamingFlow/Workflow_Seminar_ARCHER/blob/main/README.md)
 
 <section id="service">
 
@@ -59,16 +59,16 @@ Details to follow
 
 
     <div class="row ">	
-<!--
+
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="  https://carpentries-incubator.github.io/python-intermediate-development/ ">
+          href=" https://github.com/StreamingFlow/Workflow_Seminar_ARCHER       ">
           <strong>Course materials</strong>         
         </a>
       </div>
  
--->	
+	
  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
