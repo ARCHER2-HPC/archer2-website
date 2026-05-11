@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ARCHER2 Capapbility Days - a user report
+title: ARCHER2 Capability Days - a user report
 date: 2026-05-11 15:30:00
 author: Dr D. M. Lewis (University of Liverpool)
 tags: [blog] 
