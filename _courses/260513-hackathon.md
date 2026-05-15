@@ -2,9 +2,9 @@
 layout: course
 title: CCP9/ARCHER2 hackathon on directive-based GPU acceleration of Fortran codes
 banner: web_banners_05.jpg 
-human_dates: 12:00 on 13th May till 12:00 on 15th May 2026
+human_dates: 12:00 on 13th May till 14:00 on 15th May 2026
 start_date: 2026-05-13 12:00:00
-end_date: 2026-05-15 12:00:00
+end_date: 2026-05-15 14:00:00
 trainers: Ben Durham (Durham University), Patrick William (Durham University), Manuel dos Santos Dias (STFC), Juan Herrera (EPCC), Phil Hasnip (University of York)
 course_type: course
 registration_status: closed
@@ -59,13 +59,9 @@ Details to follow
 
 <section id="service">
 
-<!-- 
-
 <h2><a name="materials">Course materials</a></h2>
- -->
 
-
-    <div class="row ">	
+    <div class="row">	
 
 <!-- 		
       <div class="col-xs-6 col-sm-4">
@@ -76,15 +72,13 @@ Details to follow
       </div>
  -->
 
-<!--  
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://pad.archer2.ac.uk/p/NNNNNN-xxxxxxx">
+          href="https://pad.archer2.ac.uk/p/260513-hackathon">
           <strong>Course Chat</strong>       
         </a>
       </div>
 		
- -->
  	</div>
 		
 		
