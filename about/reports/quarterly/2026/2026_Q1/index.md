@@ -14,17 +14,17 @@ software.  This includes:
     * Disk usage, broken down by project;
 
 
-<!--
+
 
 ### ARCHER SP Service
 
 
-* [SP Service Report: Q1 2026](SP_Report_1Q26.pdf)
+* [SP Service Report: Q1 2026](SP_Report_26Q1.pdf)
 
 
 ### ARCHER CSE Service
 
-* [CSE Performance Report: Q1 2026](CSE_Report_1Q26.pdf)
+* [CSE Performance Report: Q1 2026](CSE_Report_26Q1.pdf)
 
 
--->
+
