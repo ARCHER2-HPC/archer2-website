@@ -2,9 +2,9 @@
 layout: course
 title: SEAVEA toolkit&colon; An introduction to verification, validation and uncertainty quantification for computational applications
 banner: web_banners_05.jpg
-human_dates: Wednesday 24th June 2026  15:00 - 16:00 
+human_dates: Wednesday 24th June 2026  15:00 - 17:00 - note this is a longer than usual session
 start_date: 2026-06-24 15:00:00
-end_date: 2026-06-24 16:00:00
+end_date: 2026-06-24 17:00:00
 trainers: Derek Groen, Diana Suleimenova, Laura Harbach and Maziar Ghorbani
 course_type: vt
 registration_status:
