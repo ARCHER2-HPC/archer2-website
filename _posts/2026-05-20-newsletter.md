@@ -82,7 +82,7 @@ No recent issues
 - [GPU programming with kernels](https://www.archer2.ac.uk/training/courses/260527-gpu-kernels/), online, Date: 27 - 29 May 2026 10:00 - 16:00
 - [Digital Oceans: Mapping and Predicting Ireland's Ocean](https://www.archer2.ac.uk/training/courses/260610-digital-oceans-vt/), free webinar, Wednesday 10th June 2026 15:00 - 16:00
 - [Containers for Reproducible Research: Introduction to Podman and Singularity](https://www.archer2.ac.uk/training/courses/260622-containers/), online, 22 and 24 June 2026 10:00 - 16:00
-- [SEAVEA toolkit: An introduction to verification, validation and uncertainty quantification for computational applications](https://www.archer2.ac.uk/training/courses/260624-seaveatk-vt/), free webinar, Wednesday 24th June 2026 15:00 - 17:00
+- [SEAVEA toolkit: An introduction to verification, validation and uncertainty quantification for computational applications](https://www.archer2.ac.uk/training/courses/260624-seaveatk-vt/), free webinar, Wednesday 24th June 2026 14:00 - 16:00
 - [HEC-WSI: From GPU-Accelerated OpenFOAM to High-Fidelity Modelling of Offshore Floating Wind Turbines](https://www.archer2.ac.uk/training/courses/260422-wsi-vt/), free webinar, Wednesday 8th July 2026 15:00 - 16:00 
 
 [Further details of upcoming training](https://www.archer2.ac.uk/training/#upcoming-training)
