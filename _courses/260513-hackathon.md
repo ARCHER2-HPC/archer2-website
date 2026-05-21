@@ -43,8 +43,9 @@ Call for Applications deadline: **31st March AoE**.
 The number of participants is limited: Applications will be reviewed as received, so early
 submission increases your chances.
 
-Any further questions can be directed to [Manuel dos Santos Dias (STFC).](mailto:manuel.dos-santos-dias@stfc.ac.uk)
+Any further questions can be directed to Manuel dos Santos Dias (STFC).
 
+Registration is being handled by our STFC hosts.
 
 ### Requirements:
 
@@ -52,10 +53,6 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 
 They are also required to abide by the [ARCHER2  Code of Conduct](../../../about/policies/code-of-conduct.html). 
 
-
-#### Timetable:
-
-Details to follow
 
 <section id="service">
 
@@ -122,6 +119,3 @@ Details to follow
 
  
 </section>
-
-
-Registration is being handled by our STFC hosts.
