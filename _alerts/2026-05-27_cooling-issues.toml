@@ -4,6 +4,6 @@ type: Service Alert
 start_date: 2026-05-27 11:00 BST
 end_date: 2026-05-29 10:00 BST
 scope: Compute nodes
-impact: Reduced capacity for longer jobs to start.
+impact: Reduced capacity with some compute nodes unavailable for jobs.
 reason: Precautionary node reservations in place for 28 May 2026 to manage capacity in period where cooling infrastructure may have issues.
 ---
