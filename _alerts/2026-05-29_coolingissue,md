@@ -1,9 +1,9 @@
 ---
-status: Ongoing
+status: Resolved
 type: Service Alert
 start_date: 2026-05-29 11:12 BST
-end_date: 
+end_date: 2026-05-29 11:49 BST
 scope: Compute nodes
-impact: Reduced ARCHER2 capacity due to cooling issue.  No new work starting.
+impact: Cooling issue resolved.  New work has been restarted.
 reason: Issues with cooling infrastructure.
 ---
