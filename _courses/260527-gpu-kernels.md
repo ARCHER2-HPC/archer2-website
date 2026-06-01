@@ -78,13 +78,11 @@ The first two days will be theory + hands-on. The third day will be more hands-o
 		
 				
 
-
+<!--
  		
 <h2><a name="videos">Videos</a></h2>
 
-Videos will be availble within the next week.
 
-<!--
 <h3>Day 1 </h3>
 
 <h3>Session 1</h3>
