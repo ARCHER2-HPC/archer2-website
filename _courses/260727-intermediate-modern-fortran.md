@@ -2,7 +2,7 @@
 layout: course
 title: Intermediate Modern Fortran
 banner: web_banners_05.jpg 
-human_dates: 27, 29, 31 July from 10:00 to 16:00  BST
+human_dates: 27, 29 and 31 July 2026 10:00 - 16:00  BST
 start_date: 2026-07-27 10:00:00
 end_date: 2026-07-31 16:00:00
 trainers: William Lucas EPCC
