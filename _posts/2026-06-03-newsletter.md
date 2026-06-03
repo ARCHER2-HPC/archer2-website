@@ -8,7 +8,7 @@ categories: [news]
 ---
 
 - [Digital Oceans: Mapping and Predicting Ireland's Ocean]({{ page.url }}#digital-oceans-mapping-and-predicting-irelands-ocean), free webinar, Wednesday 10th June 2026 15:00 - 16:00
-- [Containers for Reproducible Research: Introduction to Podman and Singularity]({{ page.url }}#containers-for-reproducibile-research-introduction-to-podman-and-singularity), online, 22 and 24 June 2026 10:00 - 16:00
+- [Containers for Reproducible Research: Introduction to Podman and Singularity]({{ page.url }}#containers-for-reproducible-research-introduction-to-podman-and-singularity), online, 22 and 24 June 2026 10:00 - 16:00
 - [Intermediate Modern Fortran]({{ page.url }}#intermediate-modern-fortran), Online, 27, 29 and 31 July 2026 10:00 - 16:00 BST
 - [ARCHER2 User Survey 2026]({{ page.url }}#archer2-user-survey-2026)
 - [Recently added known issues]({{ page.url }}#recently-added-known-issues)
