@@ -20,9 +20,10 @@ In addition, emails and other information communicated to our service desk may b
 If you have any questions, please contact The [ARCHER2 Service Desk]({{ site.baseurl }}/support-access/servicedesk).
 
 
-This Privacy Statement is continued at [edin.ac/privacy](http://edin.ac/privacy)
+This Privacy Statement is continued at [University of Edinburgh Data Protection page](https://data-protection.ed.ac.uk/data-protection-policy)
 
 
 Update Logs
 * 2020-05-05 Updated Policy
 * 2020-03-13 Copied from ARCHER and Updated for ARCHER2
+* 2024-06-03 Updated link to UoE Data Protection page 
