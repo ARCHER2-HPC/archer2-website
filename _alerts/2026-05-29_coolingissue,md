@@ -4,6 +4,6 @@ type: Service Alert
 start_date: 2026-05-29 11:12 BST
 end_date: 2026-05-29 11:49 BST
 scope: Compute nodes
-impact: Cooling issue resolved.  New work has been restarted.
+impact: New jobs will not be able to start.
 reason: Issues with cooling infrastructure.
 ---
