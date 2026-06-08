@@ -22,7 +22,7 @@ This talk will explore how ocean modelling helps us understand and predict ocean
 We’ll also look at how modelling contributes to biodiversity restoration efforts by identifying suitable habitats. Finally, we’ll touch on how climate projections are being integrated into these tools to help communities and stakeholders prepare for future conditions and make better informed decisions.
 
 
-This online session is open to all. It will use the Blackboard Collaborate platform.
+This online session is open to all. It will use Teams - you can join in your browser.
 
 {% if page.ecse.size > 1 %}
 <a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
@@ -34,10 +34,10 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
-          href="https://eu.bbcollab.com/guest/c87129027f58465a96dda05da6972d69">
+          href="https://teams.microsoft.com/meet/332426473725568?p=R9GhocT6BZLuVEL8x9">
           <strong>Join Session</strong><br/>
           Join this online session in your browser
-          <br><i>Chrome, Edge or Safari<br/>  (Collaborate no longer allow Firefox *)</i>
+          <br><i>No teams account is required</i>
         </a>
       </div>
 
@@ -53,7 +53,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
     </div>
 
 
-*Firefox works fine for collaborate if you install <a href="https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/">uaswitcher addon</a> and tell it to identify the browser as Google Chrome for urls starting https://eu.bbcollab.com/  when we have tried it.
+
 
 <!--
 <h2><a name="video">Video</a></h2>
