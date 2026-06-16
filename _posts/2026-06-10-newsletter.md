@@ -112,7 +112,7 @@ No recent issues
 - [Digital Oceans: Mapping and Predicting Ireland's Ocean](https://www.archer2.ac.uk/training/courses/260610-digital-oceans-vt/), free webinar, Wednesday 10th June 2026 15:00 - 16:00
 - [Containers for Reproducible Research: Introduction to Podman and Singularity](https://www.archer2.ac.uk/training/courses/260622-containers/), online, 22 and 24 June 2026 10:00 - 16:00
 - [SEAVEA toolkit: An introduction to verification, validation and uncertainty quantification for computational applications](https://www.archer2.ac.uk/training/courses/260624-seaveatk-vt/), free webinar, Wednesday 24th June 2026 14:00 - 16:00
-- [HEC-WSI: From GPU-Accelerated OpenFOAM to High-Fidelity Modelling of Offshore Floating Wind Turbines](https://www.archer2.ac.uk/training/courses/260422-wsi-vt/), free webinar, Wednesday 8th July 2026 15:00 - 16:00 
+- [HEC-WSI: From GPU-Accelerated OpenFOAM to High-Fidelity Modelling of Offshore Floating Wind Turbines](https://www.archer2.ac.uk/training/courses/260708-wsi-vt/), free webinar, Wednesday 8th July 2026 15:00 - 16:00 
 - [HPC-CONEXS: Towards advancing the analysis of X-ray Spectroscopic Data using High Performance Computing](https://www.archer2.ac.uk/training/courses/260722-hpc-conexs-vt/), free webinar, Wednesday 22nd July 2026 15:00 - 16:00
 - [Intermediate Modern Fortran](https://www.archer2.ac.uk/training/courses/260727-intermediate-modern-fortran/), Online, 27, 29 and 31 July 2026 10:00 - 16:00 BST
 
