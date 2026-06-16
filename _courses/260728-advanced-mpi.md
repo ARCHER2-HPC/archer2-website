@@ -39,17 +39,17 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
- *   10:00 - 10:15 <a href="https://github.com/davidhenty/archer2-AMPP-2026-07-28/blob/main/slides/L00-ARCHER2-Intro.pdf">ARCHER2 training</a>
- *   10:15 - 11:00 <a href="https://github.com/davidhenty/archer2-AMPP-2026-07-28/blob/main/slides/MPI-Internals.pdf">MPI Internals</a>
+ *   10:00 - 10:15 ARCHER2 training
+ *   10:15 - 11:00 MPI Internals
  *   11:00 - 11:15 Practical: Point-to-point performance
  *   11:15 - 11:30 Coffee Break
  *   11:30 - 11:45 Practical: Point-to-point performance (continued)
- *   11:45 - 12:30 <a href="https://github.com/davidhenty/archer2-AMPP-2026-07-28/blob/main/slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
+ *   11:45 - 12:30 MPI Optimisations
  *   12:30 - 13:00 Practical: Halo Swapping / Eager Limits
  *   13:00 - 14:00 Lunch
- *   14:00 - 14:30  <a href="https://github.com/davidhenty/archer2-AMPP-2026-07-28/blob/main/slides/AMPP-Advanced-Collectives.pdf">Advanced Collectives<a>
+ *   14:00 - 14:30 Advanced Collectives
  *   14:30 - 15:00 Worked Example: Advanced Collectives
- *   15:00 - 15:30 <a href="https://github.com/davidhenty/archer2-AMPP-2026-07-28/blob/main/slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
+ *   15:00 - 15:30 New MPI shared-memory model
  *   15:30 - 16:00 Worked Example: Shared Memory in MPI
  *   16:00 CLOSE
 
