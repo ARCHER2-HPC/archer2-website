@@ -52,9 +52,9 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 
 #### Timetable:
 
-10:00 - 12:00 - Course
-12:00 - 13:00 - Lunch break
-13:00 - 16:00 - Course
+- 10:00 - 12:00 - Course
+- 12:00 - 13:00 - Lunch break
+- 13:00 - 16:00 - Course
 
 
 <section id="service">
@@ -70,7 +70,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="[https://epcced.github.io/2026-03-23_containers_online/](https://carpentries-incubator.github.io/docker-introduction/)">
+          href="https://carpentries-incubator.github.io/docker-introduction/">
           <strong>Course materials: Introduction to Podman</strong>         
         </a>
       </div>
