@@ -32,7 +32,7 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 {% endif %}
 
 
-
+<!--
 <section id="service">
 
   <div class="row ">	
@@ -59,45 +59,69 @@ This online session is open to all. It will use the Blackboard Collaborate platf
 
 *Firefox works fine for collaborate if you install <a href="https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/">uaswitcher addon</a> and tell it to identify the browser as Google Chrome for urls starting https://eu.bbcollab.com/  when we have tried it.
 
+-->
 
-<!--
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/c_fP288W9Cw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/_L_h48zV1SA " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
 
-<!--
+
+
 
 <section id="service">
 
     <div class="row ">	
 
-
-
-      <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
-        </a>
-      </div>
-
-
-
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="ARCHER2_Training_VT.pdf">
+           href="SEAVEA Slides ARCHER2 Webinar.pdf">
           <strong>Slides</strong><br/>
           Download pdf of the presentation.
         </a>
       </div>
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="SEAVEA toolkit component links.pdf  ">
+          <strong>SEAVEA toolkit component links</strong><br/>
+          Download a pdf
+        </a>
+      </div>
+
+
+
+
+										
+    </div>
+
+
+    <div class="row ">	
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="https://www.seaveatk.org/">
+          <strong>SEAVEA website</strong><br/>
+        
+        </a>
+      </div>
+
+
+      <div class="col-xs-6 col-sm-4">
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+           href="https://www.seaveatk.org/contact-us">
+          <strong>SEAVEA contact page</strong><br/>
+        
+        </a>
+      </div>
+
 										
     </div>
 
 </section>
--->
+
