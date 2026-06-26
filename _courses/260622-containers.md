@@ -7,7 +7,7 @@ start_date: 2026-06-22 10:00:00
 end_date: 2026-06-24 16:00:00
 trainers: Juan Rodriguez Herrera EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260622-containers
 location: Online
 location_url:  
@@ -89,7 +89,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 		
  
 					
-<!--
+
 
 		
 <h2><a name="videos">Videos</a></h2>
@@ -97,31 +97,25 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/Ynt8N7uxli8  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 <h3>Session 2</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/f6pqJ819zSQ  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 <h3>Session 3</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/AZW8OrZrzcg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<h3>Session 4</h3>
 
-<div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/XXXX " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
- -->
 
 
 
