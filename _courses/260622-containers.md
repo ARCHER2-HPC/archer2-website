@@ -14,7 +14,7 @@ location_url:
 prace_course: 
 audience: [ researcher, data-scientist, developer ]
 level: [ introductory ]
-video: 
+video: true
 ---
 
 
