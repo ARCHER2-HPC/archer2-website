@@ -163,8 +163,8 @@ Newly Opening Funds:
 - [Fund 3](https://drtp-skills.ac.uk/funds-tools/):  Tools and Frameworks (first deadline 30th September 2026) 
 
 Ongoing Funds:
-- [Fund 2](https://drtp-skills.ac.uk/funds-community/):  Community Activities (rolling deadline 15th of each month)
-- [Fund 4](https://drtp-skills.ac.uk/funds-prof-dev/):  Professional Development (rolling deadline 15th of alternate months)
+- [Fund 2](https://drtp-skills.ac.uk/funds-community/):  Community Activities (rolling deadline 15th of alternate months)
+- [Fund 4](https://drtp-skills.ac.uk/funds-prof-dev/):  Professional Development (rolling deadline 15th of each month)
 
 We are offering a webinar on Thursday 23rd July 2026 at 15:00 BST during which we will provide more information about the project and the funds. Interested applicants will also have an opportunity to ask questions.  [Please Register Here](https://imperial-ac-uk.zoom.us/meeting/register/CUYlk--DRciHdrfrceuyKg?_x_zm_rtaid=KBEGE6rQTC2jn0KYGXsl-A.1783349040494.89dfbbce7be3d25083ec632a40c62762&_x_zm_rhtaid=762#/registration)
 
