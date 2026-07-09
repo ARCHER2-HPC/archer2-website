@@ -1,0 +1,7 @@
+status: Planned
+type: Service Alert
+start_date: 2026-07-14 07:00
+end_date: 2026-07-14 08:00
+scope: Connectivity to service
+impact: Unable to remotely access the service for ~1hr. Scheduled work will continue to run throughout, though there may be issues with workflows that require access external to the service.
+reason: Essential upgrade work to main router at the ACF
