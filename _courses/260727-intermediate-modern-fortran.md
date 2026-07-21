@@ -81,7 +81,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 Details to follow
 
 
-<!--
+
 
 <section id="service">
 
@@ -96,7 +96,7 @@ Details to follow
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://epcced.github.io/   ">
+          href=" https://epcced.github.io/2026-07-27-Fortran-inter/   ">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -114,7 +114,7 @@ Details to follow
  	</div>
 		
 		
--->
+
 
 <!--			
 
