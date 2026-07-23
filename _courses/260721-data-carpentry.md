@@ -7,7 +7,7 @@ start_date: 2026-07-21 13:00:00
 end_date: 2026-07-24 16:30:00
 trainers: Evgenij Belikov EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260721-Data-Carpentry
 location: Online
 location_url: 
@@ -103,7 +103,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  -->
 
 
-<!--
+
 
 
 
@@ -130,4 +130,4 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 </section>
 
 
--->
+
