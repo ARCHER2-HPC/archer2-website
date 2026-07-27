@@ -53,7 +53,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 #### Timetable:
 
 
-[Schedule](https://www.archer2.ac.uk/training/courses/260721-data-carpentry/)
+[Schedule](https://epcced.github.io/2026-07-21-dc-online/#schedule)
 
 
 <section id="service">
