@@ -21,9 +21,7 @@ video: false
 
 This course will take place face-to-face at  [{{ page.location }}]({{ page.location_url }})
 
-Room CL_4.04
-Charteris Land
-The University of Edinburgh
+Room JA 326, John Anderson building, University of Strathclyde
 
 
 This course will not be streamed online and a recording will not be made.
