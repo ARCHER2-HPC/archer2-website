@@ -35,6 +35,7 @@ banner: web_banners_05.jpg
 * [Oxford Brookes University](brookes)
 * [Oxford University Doctoral Training Centre](oxford-dtc)
 * [Queen's University, Belfast](qub)
-* [University College London](ucl)
 * [University of Southampton](southampton)
+* [University of Strathclyde](strathclyde)
+* [University College London](ucl)
 * [University of York](york)
