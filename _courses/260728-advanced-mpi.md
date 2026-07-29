@@ -7,13 +7,13 @@ start_date: 2026-07-28 10:00:00
 end_date: 2026-07-28 16:00:00
 trainers: David Henty (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260728-advanced-mpi
 location: Online
 location_url:
 audience: [  developer ]
 level: [  advanced ]
-video: 
+video: true
 ---
 
 This course is aimed at programmers seeking to deepen their understanding of MPI and explore some of its more recent and advanced features. We cover functionality including exploiting shared-memory access from MPI programs and advanced use of collectives. We also look at performance aspects such as MPI internal implementation issues and which MPI point-to-point routines to use for scalability.
@@ -88,22 +88,27 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 					
 
 
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/2FPa3OBr3Hc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
+
+<h3>Session 2</h3>
+
+<div>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/V2YWj-J1nPM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
 
 
-<!-- 
+ 
 <h2><a name="feedback">Feedback</a></h2>
 
 
@@ -122,7 +127,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       </div>
     </div>
 		
- -->		
+		
 
  
 </section>
