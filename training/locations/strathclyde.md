@@ -19,7 +19,6 @@ Learning & Teaching Building
 16 Richmond Street
 Glasgow G1 1XQ
 
-Access level three to the Dame Jocelyn Bell-Burnell Wing via 48 North Portland Street
 
 [University of Strathclyde website and map
 ](https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/learningteachingbuilding/)
