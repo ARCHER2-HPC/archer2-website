@@ -7,7 +7,7 @@ start_date: 2026-08-17 10:00:00
 end_date: 2026-08-18 16:00:00
 trainers: Evgenij Belikov EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260817-hpc-carpentry
 location: John Anderson building, University of Strathclyde
 location_url: https://www.archer2.ac.uk/training/locations/strathclyde
@@ -121,7 +121,7 @@ Details to follow
 
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -140,7 +140,7 @@ Details to follow
       </div>
     </div>
 		
--->
+
 
 </section>
 
