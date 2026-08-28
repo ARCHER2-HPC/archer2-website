@@ -76,9 +76,11 @@ These include:
 -    lambdas
 -    standard algorithms
 
+We will also briefly cover some important libraries for numerical computing.
+
 [Full details and registration ]( https://www.archer2.ac.uk/training/courses/261014-modern-c/ )
 
-We will also briefly cover some important libraries for numerical computing.
+
 
 
 ## CHARTED - All funds open for application 

@@ -13,7 +13,7 @@ The winning image or video, along with a selection of other entries, will also b
 ### Key Details 
 
 - Competition Opens: 28 July 2026
-- Submission Deadline:  4th September 2026
+- Submission Deadline:  **Extended to 20th September 2026**
 - Judging: September/October 2026
 - Prizes:
     - Best image : £150
@@ -63,7 +63,7 @@ The submission form is a PDF form which is editable in ADOBE Acrobat Reader and 
 
 ### Deadline
 
-Submission deadline:  4th September 2026
+Submission deadline:  **Extended to 20th September 2026**
 
 Any queries should be directed to [image@archer.ac.uk](mailto: image@archer.ac.uk)
 
