@@ -13,7 +13,7 @@ location: Online
 location_url:
 prace_course: false
 video: 
-ecse:
+ecse: eCSE10-02
 ---
 
 GeoChemFoam is an open-source OpenFOAM-based computational platform for simulating flow and reactive transport in porous media, with particular applications to pore-scale modelling and digital rock physics. This webinar will provide a practical introduction to running GeoChemFoam on High Performance Computing (HPC) facilities.
