@@ -6,6 +6,29 @@ banner: web_banners_05.jpg
 ---
 
 
+## Address
+
+
+
+
+Room 0.R089, <br>
+Heart and Lung Research Institute,<br>
+University of Cambridge<br>
+
+[Location info](https://maps.app.goo.gl/hicdCq8pZZ9sdwCt7 )
+
+(Cambridge South railway station is right next to the building)
+
+
+### Find on Google Maps
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2446.873515219645!2d0.1316653!3d52.1729931!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d87b34a1ce7c93%3A0x1b7b7fa98ec792ff!2sHeart%20%26%20Lung%20Research%20Institute!5e0!3m2!1sen!2suk!4v1788777365933!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+
+<!--
 
 ## Address
 
@@ -29,3 +52,5 @@ CB3 0US
 ### Directions
 
 [Directions](https://www.westcambridgehub.uk/visit)
+
+-->
