@@ -17,7 +17,11 @@ level: [ introductory ]
 video: 
 ---
 
+### Collaboration
 
+This course is presented in collaboration with [STEP-UP](https://step-up.ac.uk/)
+
+### Overview
 
 This course aims to introduce the use of containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs and for simplifying the setup of complex software dependencies across different systems. The course will introduce the use of Podman and Apptainer containers but the material will be of use for whatever container technology you plan to, or end up, using. On completion of this course attendees should:
 
