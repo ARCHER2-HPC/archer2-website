@@ -23,6 +23,10 @@ This course will take place face-to-face at  [{{ page.location }}]({{ page.locat
 
 This course will not be streamed online and a recording will not be made.
 
+### Collaboration
+
+This course is presented in collaboration with the [Cambridge Sustainable Computing Lab](https://www.phpc.cam.ac.uk/research/departmental-research-units/ceu/cambridge-sustainable-computing-lab) at the University of Cambridge
+
 ### Overview
 
 This lesson introduces environmental sustainability principles in the context of high performance computing (HPC) systems. Understanding the scale of emissions from different sources is critical to being able to make changes to work in a more environmentally sustainable way. This lesson will give you the ability to understand emissions arising from use of HPC system and how to quantify them. We will use practical examples and real data from an existing HPC facility to illustrate the concepts. By the end of this lesson you should:
