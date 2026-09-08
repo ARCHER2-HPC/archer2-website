@@ -9,7 +9,7 @@ trainers: Andy Turner EPCC
 course_type: course
 registration_status: open
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/261007-containers
-location: Sherfield Building, Imperial College London
+location: SALC 10, Level 5, Sherfield Building, Imperial College London
 location_url:  https://www.archer2.ac.uk/training/locations/imperial.html
 prace_course: 
 audience: [ researcher, data-scientist, developer ]
