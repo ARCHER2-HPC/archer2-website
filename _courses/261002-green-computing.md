@@ -2,9 +2,9 @@
 layout: course
 title: Green software use on HPC
 banner: web_banners_05.jpg 
-human_dates: 2 October 2026  10:00 - 15:30  
+human_dates: 2 October 2026  10:00 - 16:00  
 start_date: 2026-10-02 10:00:00
-end_date: 2026-10-02 15:30:00
+end_date: 2026-10-02 16:00:00
 trainers: Andy Turner (EPCC)
 course_type: course
 registration_status: open
@@ -53,19 +53,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 #### Timetable:
 
-| Time  | Episode            |
-|-------|--------------------|
-| 10:05 | Introduction       |
-| 10:15 | Carbon efficiency  |
-| 10:35 | Energy efficiency  |
-| 11:05 | Carbon awareness   |
-| 11:35 | Hardware efficiency |
-| 12:00 | Lunch (1 hour)     |
-| 13:00 | Measurement        |
-| 14:00 | Coffee break       |
-| 14:20 | Reducing emissions |
-| 15:00 | Next steps         |
-| 15:30 | End                |
+TBC
 
 
 <section id="service">
