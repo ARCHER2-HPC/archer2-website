@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: 7 October  2026 09:30 - 16:00
 start_date: 2026-10-07 09:30:00
 end_date: 2026-10-07 16:00:00
-trainers: Andy Turner EPCC
+trainers: Andy Turner (EPCC), Jeremy Cohen (Imperial College)
 course_type: course
 registration_status: open
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/261007-containers
