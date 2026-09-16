@@ -86,7 +86,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
         </a>
       </div>
 
-<!--
+
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
@@ -99,7 +99,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
  	</div>
 					
--->
+
 
 <!-- 		
 <h2><a name="videos">Videos</a></h2>
