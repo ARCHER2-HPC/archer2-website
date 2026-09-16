@@ -57,7 +57,11 @@ The webinar will start with a brief introduction to the UKRI NCRs; cover the tra
 
 Free webinar, Wednesday 7th October 2026 15:00 - 16:00 
 
-This webinar will provide advice for all current ARCHER2 users on transferring their data off of ARCHER2, prior to the end of the ARCHER2 service on Friday 20th November 2026.
+The ARCHER2 service will end on Friday 20 November. 
+
+Prior to this date, all users must ensure that any data they wish to keep have been moved off the /home, /work and solid state scratch file systems. 
+
+There are several approaches to data transfer, depending on how much data you have and how it is organised. This webinar will provide advice and examples to users on how they might do so, using scp and rsync for direct site-to-site copying, rclone to copy data to the cloud or other HPC sites, as well as Globus for especially large transfers. 
 
 [Full details and join link]( https://www.archer2.ac.uk/training/courses/261007-archer2-data-transfer-vt/ )
 
