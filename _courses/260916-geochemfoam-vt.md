@@ -31,6 +31,8 @@ Although the demonstrations will be carried out on ARCHER2, the workflow and pri
 {% endif %}
 
 
+<!--
+
 <section id="service">
 
   <div class="row ">	
@@ -57,42 +59,40 @@ Although the demonstrations will be carried out on ARCHER2, the workflow and pri
 
 
 This online session is open to all. It will use Teams - no account required, you can join in your browser
+-->
 
-
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/tM0tim0udfE " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/fthoetpVsIg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
 
--->
 
-<!--
+
+
 
 <section id="service">
 
     <div class="row ">	
 
 
-
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
+        <a class="ar2_linkbox ar2_linkbox-teal" href=" https://github.com/geochemfoam ">
+          <strong>GeoChemFoam on github</strong><br/>
+          https://github.com/geochemfoam
         </a>
       </div>
 
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="PASC26.pdf">
-          <strong>Slides</strong><br/>
-          
+        <a class="ar2_linkbox ar2_linkbox-green" 
+           href="  https://github.com/GeoChemFoam/GeoChemFoam/wiki/GeoChemFoam-on-ARCHER2 ">
+          <strong>GeoChemFoam on ARCHER2</strong><br/>
+          Wiki including install instructions and tutorials
         </a>
       </div>
 										
@@ -101,4 +101,4 @@ This online session is open to all. It will use Teams - no account required, you
 
 
 </section>
--->
+
