@@ -22,8 +22,6 @@ In this webinar we provide an overview of the transition process from ARCHER2 to
 
 The webinar will start with a brief introduction to the UKRI NCRs; cover the transition process for ARCHER2 users and projects moving to Cirrus; provide advice on data transfer from ARCHER2 to Cirrus; and highlight key differences between ARCHER2 and Cirrus that users switching between services should be aware of. 
 
-There will be plenty of time for questions during the webinar.
-
 
 
 
@@ -32,6 +30,8 @@ There will be plenty of time for questions during the webinar.
 <a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
 {% endif %}
 
+
+<!--
 
 <section id="service">
 
@@ -60,20 +60,22 @@ There will be plenty of time for questions during the webinar.
 
 This online session is open to all. It will use Teams - no account required, you can join in your browser
 
+-->
 
-<!--
+
+
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/tM0tim0udfE " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/C-J14Ct1pGE " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
 
--->
 
-<!--
+
+
 
 <section id="service">
 
@@ -82,19 +84,20 @@ This online session is open to all. It will use Teams - no account required, you
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
-          <strong>Transcript</strong><br/>
-          Download a transcript of the video audio
+        <a class="ar2_linkbox ar2_linkbox-teal" href="courses/"
+			href="2026-09-23_CirrusTransitionWebinar.pdf" >
+          <strong>Slides</strong><br/>
+          Download pdf
         </a>
       </div>
 
 
 
       <div class="col-xs-6 col-sm-4">
-        <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="PASC26.pdf">
-          <strong>Slides</strong><br/>
-          
+        <a class="ar2_linkbox ar2_linkbox-green" href=""
+           href="https://docs.cirrus.ac.uk/archer2-migration-2026/">
+          <strong>ARCHER2 -> Cirrus </strong><br/>
+           Project migration 2026 documentation
         </a>
       </div>
 										
@@ -103,4 +106,4 @@ This online session is open to all. It will use Teams - no account required, you
 
 
 </section>
--->
+
