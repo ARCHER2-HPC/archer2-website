@@ -28,7 +28,7 @@ This course aims to introduce the use of containers with the goal of using them 
 - Have an understanding of what Podman/Apptainer containers are, why they are useful and the common terminology used
 - Have a working Podman installation on your local system to allow you to use containers
 - Understand how to use existing container images for common tasks
-- Be able to build your own Podman/Apptainer container images by understanding both the role of a Contianerfile recipe in building container images, and the syntax used in Contianerfiles
+- Be able to build your own Podman/Apptainer container images by understanding both the role of a Dockerfile/Containerfile recipe in building container images, and the syntax used in Dockerfile/Containerfile
 - Understand how to manage Podman/Apptainer containers on your local system
 - Appreciate decisions that need to be made around containerising research workflows
 - Understand the differences between Podman and Apptainer containers and why Apptainer is often more suitable for multi-user systems (e.g. HPC)
