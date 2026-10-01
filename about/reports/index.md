@@ -43,8 +43,8 @@ Quarterly reports cover the Service Provision (SP) and Computational Science and
 
 <!--
 * [Quarter 4 2026](quarterly/2026/2026_Q4/)
-* [Quarter 3 2026](quarterly/2026/2026_Q3/)
 -->
+* [Quarter 3 2026](quarterly/2026/2026_Q3/)
 * [Quarter 2 2026](quarterly/2026/2026_Q2/)
 * [Quarter 1 2026](quarterly/2026/2026_Q1/)
 
@@ -107,6 +107,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2026
 
+* [September 2026](monthly/2026/sep26_safe.pdf)
 * [August 2026](monthly/2026/aug26_safe.pdf)
 * [July 2026](monthly/2026/jul26_safe.pdf)
 * [June 2026](monthly/2026/jun26_safe.pdf)
