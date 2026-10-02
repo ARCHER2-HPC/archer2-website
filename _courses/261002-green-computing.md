@@ -115,7 +115,7 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
 
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -139,4 +139,4 @@ Participants are required to abide by the [ARCHER2  Code of Conduct](../../../ab
  
 </section>
 
--->
+
