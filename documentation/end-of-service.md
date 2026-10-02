@@ -5,7 +5,7 @@ summary: Information about how we are preparting for the end of the ARCHER2 serv
 banner: web_banners_09.jpg
 ---
 
-The ARCHER2 service is scheduled to end on 21st November 2026.
+Access to the ARCHER2 service is scheduled to end at 17:00 GMT on Friday 20 November 2026. After this date, you will no longer be able to connect to the ARCHER2 login nodes or access any data that was stored on the ARCHER2 home, work and solid state scratch file systems
 
 We are preparing information about what will be involved in the preparation for the end of the ARCHER2 service.
 
