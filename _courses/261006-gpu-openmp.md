@@ -49,7 +49,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 <section id="service">
 
 
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
  
@@ -59,7 +59,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href=" https://github.com/EPCCed/archer2-GPU-directives/tree/2026-10-06  ">
+          href=" https://github.com/EPCCed/archer2-GPU-directives/tree/2026-10-06 ">
           <strong>Course materials</strong>         
         </a>
       </div>
@@ -77,7 +77,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  	</div>
 		
 	
--->
+
 
 <!--				
 
