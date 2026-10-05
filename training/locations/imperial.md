@@ -8,7 +8,7 @@ banner: web_banners_05.jpg
 ## Address
  
 
-Seminar and Learning Centre (SALC), room 10,
+Seminar and Learning Centre (SALC), room 10,  <br>
 Sherfield Building <br>
 Imperial College Union,  <br>
 Prince Consort Rd,  <br>
