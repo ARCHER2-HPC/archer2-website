@@ -34,16 +34,19 @@ This course aims to introduce the use of containers with the goal of using them 
 - Understand the differences between Podman and Apptainer containers and why Apptainer is often more suitable for multi-user systems (e.g. HPC)
 - Appreciate issues around reproducibility in software, understand how containers can address some of these issues and what the limits to reproducibility using containers are
 
-<!--
+
 
 ### Schedule
 
-The course is delivered over two days; however, participants may attend a single day if preferred, provided this is indicated during registration. The second day is particularly relevant for users interested in Singularity/Apptainer in HPC contexts.
+- 09:30 - 11:30  Session 1
+- 11:30 - 11:45  Morning break
+- 11:45 - 13:00 Session 2
+- 13:00 - 14:00 Lunch break
+- 14:00 - 15:00 Session 3
+- 15:00 - 15:15 Afternoon break
+- 15:15 - 16:00 Session 4
 
--     Day 1: **Introduction to Podman**
--     Day 2: **Introduction to Singularity/Apptainer**
 
--->
 
 ### Requirements:
 
