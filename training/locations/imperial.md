@@ -6,14 +6,19 @@ banner: web_banners_05.jpg
 ---
 
 ## Address
+ 
 
+Seminar and Learning Centre (SALC), room 10,
 Sherfield Building <br>
-Room to be confirmed <br>
 Imperial College Union,  <br>
 Prince Consort Rd,  <br>
 South Kensington,  <br>
 London  <br>
-SW7 2BB
+SW7 2AZ
+
+
+To access the SALC rooms, take the lift/stairs from the main lobby of the Sherfield Building (where all the Great Hall works are taking place) up to Level 5 and then when you exit the lift/stairs, go through the door diagonally across to your left that goes into the Blyth Gallery area. Walk through the gallery and out the door at the other side which takes you into SALC. 
+
 
 [Venue information](https://www.imperialvenues.co.uk/events/central-london/sherfield/)
 
