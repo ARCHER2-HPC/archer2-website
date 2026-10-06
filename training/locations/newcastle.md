@@ -12,7 +12,7 @@ Newcastle upon Tyne <br/>
 NE1 8HW <br/>
 
 
-https://what3words.com/small.mild.maple
+[what3words:small.mild.maple](https://what3words.com/small.mild.maple)
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.6024003870502!2d-1.6123326234102453!3d54.98007145124318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70cf1b16f889%3A0x3c94a2c7973256ee!2sMarjorie%20Robinson%20Library%20Rooms!5e0!3m2!1sen!2suk!4v1791282656544!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
