@@ -57,7 +57,7 @@ To follow
 
 <section id="service">
 
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -68,7 +68,7 @@ To follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://carpentries-incubator.github.io/docker-introduction/">
+          href=" https://epcced.github.io/2026-11-12_podman-apptainer_newcastle/ ">
           <strong>Course materials: Introduction to Podman</strong>         
         </a>
       </div>
@@ -86,7 +86,7 @@ To follow
  	</div>
 		
  
--->				
+			
 
 <!--
 		
