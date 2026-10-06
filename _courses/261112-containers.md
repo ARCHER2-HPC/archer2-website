@@ -9,7 +9,7 @@ trainers:  Andy Turner (EPCC)
 course_type: course
 registration_status: open
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/261112-containers
-location: Newcastle University - details to follow
+location: Newcastle University - Marjorie Robinson Library Academic Skills Room
 location_url:  https://www.archer2.ac.uk/training/locations/newcastle.html
 prace_course: 
 audience: [ researcher, data-scientist, developer ]
