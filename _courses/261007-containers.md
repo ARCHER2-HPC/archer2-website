@@ -7,7 +7,7 @@ start_date: 2026-10-07 09:30:00
 end_date: 2026-10-07 16:00:00
 trainers: Jeremy Cohen (Imperial College), Andy Turner (EPCC) 
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/261007-containers
 location: SALC 10, Level 5, Sherfield Building, Imperial College London
 location_url:  https://www.archer2.ac.uk/training/locations/imperial.html
@@ -123,7 +123,7 @@ To follow
 -->
 
 
-<!--
+
 
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -147,4 +147,4 @@ To follow
  
 </section>
 
--->
+
