@@ -3,8 +3,8 @@ layout: course
 title: Containers for Reproducible Research&colon; Introduction to Podman and Apptainer
 banner: web_banners_05.jpg 
 human_dates: 12 November  2026 09:30 - 16:00
-start_date: 2026-10-07 09:30:00
-end_date: 2026-10-07 16:00:00
+start_date: 2026-11-12 09:30:00
+end_date: 2026-11-12 16:00:00
 trainers:  Andy Turner (EPCC) 
 course_type: course
 registration_status: open
