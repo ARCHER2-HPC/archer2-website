@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
+video: true
 ecse: 
 ---
 
@@ -32,7 +32,7 @@ There will be plenty of time for questions during the webinar.
 <a href="{{ site.baseurl }}/ecse/reports/{{ page.ecse }}">eCSE project {{ page.ecse }}</a>
 {% endif %}
 
-
+<!--
 <section id="service">
 
   <div class="row ">	
@@ -60,26 +60,26 @@ There will be plenty of time for questions during the webinar.
 
 This online session is open to all. It will use Teams - no account required, you can join in your browser
 
+-->
 
-<!--
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/tM0tim0udfE " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/zqvgeAXJqNU " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
 
--->
 
-<!--
+
+
 
 <section id="service">
 
     <div class="row ">	
 
-
+<!--
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="  ">
@@ -88,12 +88,12 @@ This online session is open to all. It will use Teams - no account required, you
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="PASC26.pdf">
-          <strong>Slides</strong><br/>
+           href=" Data-Transfer-2026.pdf  ">
+          <strong>Slides</strong> (pdf)<br/>
           
         </a>
       </div>
@@ -103,4 +103,4 @@ This online session is open to all. It will use Teams - no account required, you
 
 
 </section>
--->
+
