@@ -36,6 +36,18 @@ banner: web_banners_02.jpg
 
                 <ul id="portfolio-contant-active">	
 
+				  <li class="mix 2026">
+                    <a href="{{ base-url }}/about/gallery/2026-image-comp/" target="_blank">
+                      <img src="img/2026.jpg" alt="2026 Winner">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>2026 Gallery</h2>
+                          <p></p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>	
+
 				  <li class="mix 2025">
                     <a href="{{ base-url }}/about/gallery/2025-image-comp/" target="_blank">
                       <img src="img/2025.jpg" alt="2025 Winner">
