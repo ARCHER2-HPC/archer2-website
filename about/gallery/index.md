@@ -22,7 +22,7 @@ banner: web_banners_02.jpg
   </div>
 </div>
 
-## Galleries from the ARCHER Image Competitions
+## Galleries from the ARCHER Image and Video Competitions
 
 
 <!-- Portfolio Start -->
