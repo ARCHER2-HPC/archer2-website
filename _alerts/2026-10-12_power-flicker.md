@@ -1,6 +1,6 @@
 ---
-status: Ongoing
-type: Resolved
+status: Resolved
+type: Service Alert
 start_date: 2026-10-12 10:24
 end_date: 2026-10-12 12:26
 scope: ARCHER2 compute nodes
