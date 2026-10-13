@@ -60,7 +60,7 @@ Details to follow
 <section id="service">
 
  
-<!--
+
 
 <h2><a name="materials">Course materials</a></h2>
 
@@ -71,7 +71,7 @@ Details to follow
 		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" 
-          href="https://epcced.github.io/archer2-cpp/ ">
+          href=" https://epcced.github.io/archer2-cpp/ ">
           <strong>Course materials</strong> 
         </a>
       </div>
@@ -88,7 +88,7 @@ Details to follow
 
  	</div>
 		
--->
+
 	
 <!--			 
 
