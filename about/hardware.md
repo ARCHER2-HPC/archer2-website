@@ -34,6 +34,7 @@ The full ARCHER2 system has been available to users since 22 November 2021.
 
 ### Login and data analysis nodes
 
+| Nodes | 4 login nodes, 4 data analysis nodes |
 | Processor | 2&times; AMD EPYC<sup>TM</sup> 7742, 2.25 GHz, 64-core |
 | Cores per node | 128 (2&times; 64-core processors) |
 | NUMA structure | 8 NUMA regions per node (16 cores per NUMA region) |
