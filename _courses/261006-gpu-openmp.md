@@ -7,7 +7,7 @@ start_date: 2026-10-06 10:00:00
 end_date: 2026-10-20 12:00:00
 trainers: David Henty, Luca Parisi, Mark Bull, Michael Bareford, William Lucas,
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/261006-gpu-openmp
 location: Online
 location_url:
@@ -103,13 +103,13 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 <div>
 	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/cjek5QkHGBw  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<!--
+
 <h3>Session 4</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/--ia2dL12tM  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<!--
 <h3>Session 5</h3>
 
 <div>
@@ -117,7 +117,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 </div>
 -->
 
-<!--
+
  
 <h2><a name="feedback">Feedback</a></h2>
 
@@ -141,4 +141,4 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
  
 </section>
 
--->
+
