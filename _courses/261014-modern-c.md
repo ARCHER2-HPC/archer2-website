@@ -7,7 +7,7 @@ start_date: 2026-10-14 09:30:00
 end_date: 2026-10-16 16:30:00
 trainers: Nathan Mannall, James Richings EPCC
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url: https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/261014-modern-c
 location: Online
 location_url: 
@@ -108,15 +108,15 @@ Details to follow
 </div>
 
 
-<!--	
+	
 
 <h3>Session 3</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxx  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/B2wdWUbKS6k  " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+<!--
 
 <h3>Session 4</h3>
 
@@ -142,7 +142,7 @@ Details to follow
 
 -->
 
-<!--
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -154,7 +154,7 @@ Details to follow
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="../../feedback/?course=260415-modern-c"
+		   href="../../feedback/?course=261014-modern-c"
 
 		>
           <strong>Feedback</strong><br/>
@@ -167,4 +167,4 @@ Details to follow
 
 </section>
 
--->
+
