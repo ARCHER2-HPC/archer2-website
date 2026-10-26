@@ -5,7 +5,7 @@ banner: web_banners_05.jpg
 human_dates: Wednesday 4th November 2026  15:00 - 16:00
 start_date: 2026-11-04 15:00:00
 end_date: 2026-11-04 16:00:00
-trainers: Harvey Richardson HPC CoE
+trainers: Harvey Richardson HPE CoE
 course_type: vt
 registration_status:
 registration_url:
