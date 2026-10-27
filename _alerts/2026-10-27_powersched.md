@@ -1,5 +1,5 @@
 ---
-status: Planned
+status: Ongoing
 type: Service Alert
 start_date: 2026-10-27 10:00 BST
 end_date: 2026-11-03 16:00 BST
