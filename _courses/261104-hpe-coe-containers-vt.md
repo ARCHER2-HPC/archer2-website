@@ -31,7 +31,7 @@ The steps outlined can be accomplished by a non-privileged user and are applicab
 
 
 <section id="service">
-
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -57,17 +57,19 @@ The steps outlined can be accomplished by a non-privileged user and are applicab
 
 This online session is open to all. It will use Teams - no account required, you can join in your browser
 
-<!--
+-->
+
+
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/xxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/VUTOV7wyvuE " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 
 <!--
