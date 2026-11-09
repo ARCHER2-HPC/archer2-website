@@ -107,6 +107,7 @@ The monthly statistical reports are generated automatically from the SAFE. Pleas
 
 ### 2026
 
+* [October 2026](monthly/2026/oct26_safe.pdf)
 * [September 2026](monthly/2026/sep26_safe.pdf)
 * [August 2026](monthly/2026/aug26_safe.pdf)
 * [July 2026](monthly/2026/jul26_safe.pdf)
