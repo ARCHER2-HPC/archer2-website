@@ -4,7 +4,7 @@ title: Building Hybrid HPC/AI workflows using RHAPSODY, radex, and DragonHPC
 banner: web_banners_05.jpg
 human_dates: Wednesday 11th November 2026  15:00 - 16:00
 start_date: 2026-11-11 15:00:00
-end_date: 2026-11-04 11:00:00
+end_date: 2026-11-11 16:00:00
 trainers: Andrew Shao HPE
 course_type: vt
 registration_status:
