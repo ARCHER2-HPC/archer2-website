@@ -7,7 +7,7 @@ start_date: 2026-11-12 09:30:00
 end_date: 2026-11-12 16:00:00
 trainers:  Andy Turner (EPCC) 
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/261112-containers
 location: Newcastle University - Marjorie Robinson Library Academic Skills Room
 location_url:  https://www.archer2.ac.uk/training/locations/newcastle.html
