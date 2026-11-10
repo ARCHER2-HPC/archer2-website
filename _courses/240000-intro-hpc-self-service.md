@@ -2,9 +2,9 @@
 layout: course
 title: Hands-on Introduction to HPC
 banner: web_banners_05.jpg 
-human_dates: Always open - self-service 
+human_dates: Closes 12th November 2026 - self-service 
 start_date: 2021-12-31 10:00:00
-end_date: 2026-11-13 16:00:00
+end_date: 2026-11-12 16:00:00
 trainers: James Richings (EPCC)
 course_type: course
 registration_status: open
