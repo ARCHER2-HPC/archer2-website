@@ -5,6 +5,7 @@ summary: ARCHER2 Driving Test
 banner: web_banners_05.jpg
 ---
 
+## The ARCHER2 Driving Test will close on Thursday 12th November 2026
 
 The ARCHER2 Driving Test is an online assessment tool which allows those new to ARCHER2 to demonstrate that they are sufficiently familiar with ARCHER2 and HPC to start making use of it.  
 
@@ -28,6 +29,7 @@ Recent course runs with videos and materials available which will provide approp
 
 ## Take the ARCHER2 Driving Test
 
+## The ARCHER2 Driving Test will close on Thursday 12th November 2026
 
 Two versions of the ARCHER2 Driving Test are available - they are of equal difficulty but have some different questions appropriate to each type of user.  Please attempt whichever test best matches your use.
 
