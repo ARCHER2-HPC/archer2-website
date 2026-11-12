@@ -34,7 +34,7 @@ To address the challenges of defining and executing workflows and in-memory data
 
 
 <section id="service">
-
+<!--
   <div class="row ">	
 
       <div class="col-xs-6 col-sm-4">
@@ -60,17 +60,17 @@ To address the challenges of defining and executing workflows and in-memory data
 
 This online session is open to all. It will use Teams - no account required, you can join in your browser
 
-<!--
+-->
 
 <h2><a name="video">Video</a></h2>
 
 <div>
 
-<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/xxx " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Video"  width="560" height="315" src="https://www.youtube.com/embed/pTZXZHB0qOM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
--->
+
 
 
 <!--
