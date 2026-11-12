@@ -33,15 +33,15 @@ Recent course runs with videos and materials available which will provide approp
 
 Two versions of the ARCHER2 Driving Test are available - they are of equal difficulty but have some different questions appropriate to each type of user.  Please attempt whichever test best matches your use.
 
-- [ARCHER2 Driving Test for Package Users](https://www.quia.com/quiz/8151816.html)
-- [ARCHER2 Driving Test for Software Developers](https://www.quia.com/quiz/8151812.html)
+- ARCHER2 Driving Test for Package Users - no longer available
+- ARCHER2 Driving Test for Software Developers - no longer available
 
 ## GPU Driving Test
 
 The GPU Driving test includes questions relating to the use of the [ARCHER2 AMD GPU Development Platform
 ](https://docs.archer2.ac.uk/user-guide/gpu/) 
 
-- [Take the ARCHER2 GPU Driving Test](https://www.quia.com/quiz/8519232.html)
+- Take the ARCHER2 GPU Driving Test - no longer available
 
 On successful completion of the GPU Driving Test, eligible users will be invited to apply for an account on ARCHER2 and awarded a minimal allocation (10 CUs) which will allow the running of uncharged jobs on the GPU nodes over a period of up to 12 months.
 
