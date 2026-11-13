@@ -2,9 +2,9 @@
 layout: course
 title: Porting HPC applications to GPUs&colon; choosing a programming model
 banner: web_banners_05.jpg
-human_dates: Wednesday 18th November 2026  14:00 - 15:00  (Note earlier than usual start time)
+human_dates: Wednesday 18th November 2026  14:00 - 15:30  (Note earlier than usual start time)
 start_date: 2026-11-18 14:00:00
-end_date: 2026-11-18 15:00:00
+end_date: 2026-11-18 15:30:00
 trainers: Harvey Richardson, Alfio Lazzaro, Keith Evans, Douglas Shanks, Ian Cockshott, all HPE
 course_type: vt
 registration_status:
