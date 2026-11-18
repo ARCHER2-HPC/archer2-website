@@ -56,7 +56,7 @@ permalink: /
         <div class="service-item-tall">
           <h4><a href="about/news/">News &amp; Announcements</a></h4>
           <ul>
-            {% for post in site.categories.news limit:5 %}
+            {% for post in site.categories.news limit:3 %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a><br/>{{ post.date | date_to_string }} {{ post.excerpt }} 
               </li>
@@ -100,7 +100,7 @@ permalink: /
 
 
 		<div class="block">	
-			<br /><br />
+			<br/>
 			<h4>ARCHER2 Training Archive</h4>	
 			<a href="{{ site.url }}/training/materials/"><img style="width: 100%" src="{{ site.url }}/img/splash/261120-training-archive.jpg" alt="Training archive" /></a> 				
 			<br /><br />	
