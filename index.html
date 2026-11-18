@@ -68,7 +68,12 @@ permalink: /
 
       <div class="ar2-front-col col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="service-item-tall">
-          <h4><a href="training/#upcoming-training">Upcoming Training</a></h4>
+
+			
+          <h4><a href="training/materials">Service Archives</a></h4>
+
+<!--
+
             <ul>
             {% assign filtered_courses = site.courses | where_exp: "course", "course.end_date >= site.time" %}
 						{% assign nothidden_courses = filtered_courses | where_exp: "course", "course.registration_status != 'hidden' " %}					
@@ -79,7 +84,7 @@ permalink: /
             {% endfor %}
             </ul>
 
-<!--
+
 			<ul>
                 <li><p class="more"><a href="training/">More Training&hellip;</a></p></li>
 			</ul>
@@ -133,14 +138,7 @@ permalink: /
         </div>
 
 
-		
 
-		<div class="block">	
-			<h4>ARCHER2 Training </h4>	
-			<a href="{{ site.url }}/training/courses/261118-hpe-coe-porting-to-gpus-vt/"><img style="width: 100%" src="{{ site.url }}/img/splash/261118-porting-models-vt.jpg" alt="Porting models webinar+2ocpl2" /></a> 				
-			<br /><br />	
-	
-		</div>
 
 
 
