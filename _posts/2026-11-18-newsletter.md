@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARCHER2 Weekly Newsletter
-date: 2026-11-17 11:00:00
+date: 2026-11-18 11:00:00
 author: ARCHER2 Service
 tags: [newsletters] 
 categories: [news]
