@@ -64,23 +64,14 @@
   side: left
   sublinks:
   - title: "Training"
-    url: "/training/"
-  - title: "Upcoming Training"
-    url: "/training/#upcoming-training"
+    url: "/training/" 
   - title: "Course Descriptions"
     url: "/training/courses/"    
   - title: "Past Course Materials"
     url: "/training/materials/"  
   - title: "Webinars"
-    url: "/training/materials/webinars"
-  - title: "Feedback"
-    url: "/training/feedback/"
-  - title: "Training Locations"
-    url: "/training/locations/"   
-  - title: "Online Learning"
-    url: "/training/online/"
-  - title: "Driving Test"
-    url: "/training/driving-test.html"
+    url: "/training/materials/webinars"   
+
 
 - title: "eCSE"
   url: "/ecse/"
