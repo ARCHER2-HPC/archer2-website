@@ -58,9 +58,10 @@ banner: web_banners_05.jpg
 
 ## Other Training
 
+* [ Pilot-UKAIFA Training  (UK AI Factory Antenna)   ](https://pilot-ukaifa.ai/#training)
 *  [Training offered by other UK HPC centres](https://www.hpc-uk.ac.uk/training/)
 *   [EPCC MSc in High Performance Computing](https://www.epcc.ed.ac.uk/education-training/masters-programmes)
-*   [ Software Sustainability Institute - Training hub](https://www.software.ac.uk/training/training-hub)
-*   [Software Sustainability Institute - Resource hub](https://www.software.ac.uk/resources/resource-hub)
+*   [Institute for Research Software - Training hub](https://www.software.ac.uk/training/training-hub)
+*   [Institute for Research Software - Resource hub](https://www.software.ac.uk/resources/resource-hub)
 
 
