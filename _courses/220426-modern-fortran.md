@@ -65,7 +65,7 @@ the place to start.
 
 The course requires a Fortran compiler, for which a local machine or
 laptop may be appropriate [1]. If you do not have access to a Fortran
-compiler, course training accounts on ARCHER2 will be available which
+compiler, course training accounts on ARCHER2 were provided which
 provide access to various compilers. Use of a text editor will be
 required (some may prefer an IDE, but we do not intend to consider or
 support IDEs).

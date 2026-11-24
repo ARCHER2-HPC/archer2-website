@@ -37,7 +37,7 @@ At the end of the course you should be able to understand many Fortran programs 
 
 Attendees must be familiar with the basic concepts of programming: variables, logic, flow of control, loops, functions and so on. No knowledge of Fortran is assumed. Previous programming experience might typically be in the context C/C++ or python. If you know no programming, we suggest this course on Fortran is not the place to start.
 
-The course requires a Fortran compiler, for which a local machine or laptop may be appropriate [1]. If you do not have access to a Fortran compiler, course training accounts on ARCHER2 will be available which provide access to various compilers. Use of a text editor will be required (some may prefer an IDE, but we do not intend to consider or support IDEs).
+The course requires a Fortran compiler, for which a local machine or laptop may be appropriate [1]. If you do not have access to a Fortran compiler, course training accounts on ARCHER2 were provided which provided access to various compilers. Use of a text editor will be required (some may prefer an IDE, but we do not intend to consider or support IDEs).
 
 [1] This may typically be gfortran, freely available as part of Gnu Compiler Collection (GCC). See e.g., [https://gcc.gnu.org/wiki/GFortranBinaries](https://gcc.gnu.org/wiki/GFortranBinaries)
 

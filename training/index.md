@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Training
-summary: Details of all the face-to-face and online training courses and resources provided by EPCC as part of the ARCHER2 service.
+summary: Details of the face-to-face and online training courses and resources that were provided by EPCC as part of the ARCHER2 service.
 banner: web_banners_05.jpg
 ---
 <section id="service">

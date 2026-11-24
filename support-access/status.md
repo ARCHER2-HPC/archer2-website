@@ -15,9 +15,9 @@ banner: web_banners_03.jpg
 
 
 
-## Current System Load - CPU
+## Historical System Load - CPU
 
-The plot below shows the status of nodes on the current ARCHER2 Full System service. A description of each
+The plot below showed the status of nodes on the ARCHER2 Full System service. A description of each
 of the status types is provided below the plot.
 
 ![image](https://safe.epcc.ed.ac.uk/Graphs/archer2.png)
@@ -28,15 +28,15 @@ title="ARCHER2 CPU Node Status over time"}
 - *alloc*: Nodes running user jobs
 - *idle*: Nodes available for user jobs
 - *resv*: Nodes in reservation and not available for standard user jobs
-- *plnd*: Nodes are planned to be used for a future jobs. If pending jobs can fit in the space before the future job is due to start they can run on these nodes (often referred to as *backfilling*).
+- *plnd*: Nodes were planned to be used for future jobs. If pending jobs could fit in the space before the future job was due to start they could run on these nodes (often referred to as *backfilling*).
 - *down*, *drain*, *maint*, *drng*, *comp*, *boot*: Nodes unavailable for user jobs
 - *mix*: Nodes in multiple states 
 
-Note: the long running reservation visible in the plot corresponds to the *short* QoS which
-is used to support small, short jobs with fast turnaround time.
+Note: the long running reservation visible in the plot corresponded to the *short* QoS which
+was used to support small, short jobs with fast turnaround time.
 
 
-## Current System Load - GPU
+## Historical System Load - GPU
 
 
 ![image](https://safe.epcc.ed.ac.uk/Graphs/archer2_gpu.png)
@@ -47,7 +47,7 @@ title="ARCHER2 GPU Node Status over time"}
 - *alloc*: Nodes running user jobs
 - *idle*: Nodes available for user jobs
 - *resv*: Nodes in reservation and not available for standard user jobs
-- *plnd*: Nodes are planned to be used for a future jobs. If pending jobs can fit in the space before the future job is due to start they can run on these nodes (often referred to as *backfilling*).
+- *plnd*: Nodes were planned to be used for future jobs. If pending jobs could fit in the space before the future job was due to start they could run on these nodes (often referred to as *backfilling*).
 - *down*, *drain*, *maint*, *drng*, *comp*, *boot*: Nodes unavailable for user jobs
 - *mix*: Nodes in multiple states 
 
@@ -57,7 +57,7 @@ title="ARCHER2 GPU Node Status over time"}
 
 ## Service Alerts
 
-The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users may encounter when using the system.
+The ARCHER2 documentation also covered some [Known Issues](https://docs.archer2.ac.uk/known-issues/) which users could encounter when using the system.
 
 {% assign current_alerts = site.alerts | where_exp: "alert", "alert.status != 'Resolved'" %}
 {% assign count = 0 %}
@@ -118,7 +118,7 @@ The ARCHER2 documentation also covers some [Known Issues](https://docs.archer2.a
 
 ## Maintenance Sessions 
 
-This section lists recent and upcoming maintenance sessions. 
+This section lists recent maintenance sessions. 
 [A full list of past maintenance sessions is available](history/maintenance).
 
 {% assign date_now = "now" | date: "%s" %}
@@ -253,7 +253,7 @@ If you would like to receive email notifications about system issues and outages
 
 {% assign period = site.usage.last %}
 
-This section contains data on ARCHER2 usage for {{ period.date | date: "%b %Y"  }}. Access to historical usage data
+This section contains historical data on ARCHER2 usage for {{ period.date | date: "%b %Y"  }}. Access to historical usage data
 is available at the end of the section.
 
 - [Usage by job size and length](#usage-by-job-size-and-length)
