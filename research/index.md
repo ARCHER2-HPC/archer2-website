@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Research
-summary: Information on how ARCHER2 enables world-class research.
+summary: Information on research enabled by the ARCHER2 service.
 banner: web_banners_08.jpg
 ---
 <section id="service">

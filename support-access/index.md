@@ -12,31 +12,31 @@ banner: web_banners_03.jpg
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="status.html">
-          <strong>Service Status</strong><br/>
-          Information current system load and any service and maintenance alerts
+          <strong>Service Status Archive</strong><br/>
+          Historical system load and service and maintenance alerts
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="servicedesk.html">
           <strong>ARCHER2 Service Desk</strong><br/>
-          The first point of contact when you have questions about the service.
+          The first point of contact for questions about the service was the ARCHER2 Service Desk.
         </a>
       </div>	
 
 	
-				
+		
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="access.html">
-          <strong>Get Access</strong><br/>
-          Information on how to get access to ARCHER2 for your work.
+          <strong>Access Information</strong><br/>
+          Information on how access to ARCHER2 was provided for research work.
         </a>
       </div>
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="cu-calc">
           <strong>CU Calculator</strong><br/>
-          Handy online tool to calculate the values you need to fill in the ARCHER2 Technical Assessment Form.
+          Online tool to calculate the values needed for the ARCHER2 Technical Assessment Form.
         </a>
       </div>
 
@@ -49,8 +49,8 @@ banner: web_banners_03.jpg
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" href="../training/">
-          <strong>Training</strong><br/>
-          Training to improve your advanced computing and software skills.
+          <strong>Training Archive</strong><br/>
+          Archive of training materials to improve advanced computing and software skills.
         </a>
       </div>
 																				

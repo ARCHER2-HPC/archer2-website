@@ -32,7 +32,7 @@ Note that although the course will use AMD GPUs for practical exercises, it is a
 #### Pre-requisite Programming Languages:
 Attendees must be able to program in Fortran, C or C++ (course examples and exercises will limit themselves to Fortran and C). A familiarity with threaded programming models (especially OpenMP for CPUs) would be useful, but no previous knowledge of GPU programming is required.
 
-Course attendees do not need GPU hardware, as access to ARCHER2 will be provided.
+Course attendees do not need GPU hardware, as access to ARCHER2 was provided for the duration of the course.
 
 
 

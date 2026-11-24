@@ -31,9 +31,9 @@ The tool has been specifically designed for use on large-scale systems, but is a
 
 Scalasca/Score-P targets scientific and engineering applications based on the programming interfaces MPI, CUDA, HIP and OpenMP/OpenACC, including hybrid applications combining both with kernel offload to GPU accelerators. **Note that for the AMD GPUs on ARCHER2, only instrumentation of HIP is currently supported**
 
-This in-person course will cover how to use the tools in practice, delivered by members of the development team.  Scalasca/Score-P is portable across HPC systems, but for this course practical exercises will be conducted on the UK National HPC Service ARCHER2 (an HPE/Cray EX system) including access to the AMD GPU nodes for profiling of codes using HIP; all attendees will be given accounts on ARCHER2 for the duration of the course.  Although example parallel programs will be provided, attendees are encouraged to analyse the performance of their own applications.
+This in-person course will cover how to use the tools in practice, delivered by members of the development team.  Scalasca/Score-P is portable across HPC systems, but for this course practical exercises will be conducted on the UK National HPC Service ARCHER2 (an HPE/Cray EX system) including access to the AMD GPU nodes for profiling of codes using HIP; all attendees were given accounts on ARCHER2 for the duration of the course.  Although example parallel programs will be provided, attendees are encouraged to analyse the performance of their own applications.
 
-Access to ARCHER2 will be available before the course starts to port and build applications; those who are unfamiliar with ARCHER2-GPU programming are encouraged to attend or view the recordings of recent
+Access to ARCHER2 was provided before the course started to port and build applications; those who are unfamiliar with ARCHER2-GPU programming are encouraged to attend or view the recordings of recent
 ARCHER2 GPU online training courses including "[Introduction to GPU programming with HIP](https://www.archer2.ac.uk/training/courses/240418-gpu-hip/)".
 
 

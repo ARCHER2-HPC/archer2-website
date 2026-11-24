@@ -1,8 +1,8 @@
 # ARCHER2 Website
 
-ARCHER2 is the next generation UK supercomputing service, hosted at [EPCC](https://www.epcc.ed.ac.uk)
+ARCHER2 was the UK National Supercomputing Service, hosted at [EPCC](https://www.epcc.ed.ac.uk). The service ended on 20 November 2026.
 
-This repository contains the website for the service available at:
+This repository contains the archived website for the service available at:
 <https://www.archer2.ac.uk>
 
 ## How to Contribute
