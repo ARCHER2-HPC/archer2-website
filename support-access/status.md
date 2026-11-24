@@ -15,6 +15,9 @@ banner: web_banners_03.jpg
 
 
 
+<!--
+
+
 ## Historical System Load - CPU
 
 The plot below showed the status of nodes on the ARCHER2 Full System service. A description of each
@@ -52,7 +55,7 @@ title="ARCHER2 GPU Node Status over time"}
 - *mix*: Nodes in multiple states 
 
 
-
+-->
 
 
 ## Service Alerts

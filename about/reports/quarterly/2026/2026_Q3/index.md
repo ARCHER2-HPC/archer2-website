@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ARCHER2 Reports Quarter 2 2026
+title: ARCHER2 Reports Quarter 3 2026
 summary: 
 banner: web_banners_02.jpg
 ---
